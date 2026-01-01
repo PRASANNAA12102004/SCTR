@@ -1,4 +1,4 @@
-# WDR93_CFAP46
+# SCTR
 This GitHub repository contains the data for paper **"Concurrent loss of ciliary genes _WDR93_ and _CFAP46_ in phylogenetically distant birds".**
 
 Buddhabhushan Girish Salve, Amia Miriam Kurian, Nagarjun Vijay
