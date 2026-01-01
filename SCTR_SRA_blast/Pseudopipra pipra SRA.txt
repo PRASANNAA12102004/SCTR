@@ -1,0 +1,129 @@
+RID: N7EPBR29016	
+Job Title:XM_064661498.1:1-1533 PREDICTED: Pseudopipra...				
+Program: BLASTN 
+Database: SRA 
+Query #1: XM_064661498.1:1-1533 PREDICTED: Pseudopipra pipra secretin receptor (SCTR), mRNA Query ID: lcl|Query_2436247 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+21792062                                                                                          0          181    181   7%    2e-42 100.00 100        SRA:SRR180567... 
+1841122                                                                                           0          181    181   7%    2e-42 100.00 100        SRA:SRR180567... 
+1841122                                                                                           0          181    181   7%    2e-42 100.00 100        SRA:SRR180567... 
+21792062                                                                                          0          173    173   6%    1e-39 98.98  98         SRA:SRR180567... 
+6989605                                                                                           0          74.3   74.3  5%    8e-10 82.19  99         SRA:SRR180567... 
+6844535                                                                                           0          53.6   53.6  3%    7e-04 86.36  99         SRA:SRR180567... 
+
+
+Alignments:
+
+>21792062
+Sequence ID: SRA:SRR18056708.21792062.1 Length: 100
+Range 1: 1 to 100
+
+Score:181 bits(200), Expect:2e-42, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  459  AAAAGGTTTTGTCTACAGAAATTGTACAAGTGAGGGCTGGTCAGACCCATATCCGAGACC  518
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  AAAAGGTTTTGTCTACAGAAATTGTACAAGTGAGGGCTGGTCAGACCCATATCCGAGACC  41
+
+Query  519  TGATATTGCTTGCGGCTACAATGTCAATGACACGACCAAC  558
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  40   TGATATTGCTTGCGGCTACAATGTCAATGACACGACCAAC  1
+
+
+
+
+>1841122
+Sequence ID: SRA:SRR18056708.1841122.2 Length: 100
+Range 1: 1 to 100
+
+Score:181 bits(200), Expect:2e-42, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  664  AGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    AGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  60
+
+Query  724  CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTT  763
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTT  100
+
+
+
+
+>1841122
+Sequence ID: SRA:SRR18056708.1841122.1 Length: 100
+Range 1: 1 to 100
+
+Score:181 bits(200), Expect:2e-42, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  673  CGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCA  732
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  CGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCA  41
+
+Query  733  TCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCCGAAG  772
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  40   TCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCCGAAG  1
+
+
+
+
+>21792062
+Sequence ID: SRA:SRR18056708.21792062.2 Length: 98
+Range 1: 1 to 98
+
+Score:173 bits(191), Expect:1e-39, 
+Identities:97/98(99%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  133  GGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTCATTGACTATGTGGACAATC  192
+            |||||||||||||||||||| |||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GGTGACCTCTGATGCACAAGATATGAAGAAAACAGACTGTCATTGACTATGTGGACAATC  60
+
+Query  193  TGGGTGATAATCTTCTGGATTTCAACTGTCCCGATCAA  230
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  61   TGGGTGATAATCTTCTGGATTTCAACTGTCCCGATCAA  98
+
+
+
+
+>6989605
+Sequence ID: SRA:SRR18056708.6989605.1 Length: 99
+Range 1: 1 to 73
+
+Score:74.3 bits(81), Expect:8e-10, 
+Identities:60/73(82%),  Gaps:0/73(0%), Strand: Plus/Minus
+
+Query  1176  GAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGCGTCCACTACATCATCTT  1235
+             ||| || || ||||| ||  | || || ||||||||||||||| | ||||||||||| ||
+Sbjct  73    GAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCATGTT  14
+
+Query  1236  TGCTTTTTTCCCT  1248
+             |||||| ||||||
+Sbjct  13    TGCTTTCTTCCCT  1
+
+
+
+
+>6844535
+Sequence ID: SRA:SRR18056707.6844535.1 Length: 99
+Range 1: 3 to 46
+
+Score:53.6 bits(58), Expect:7e-04, 
+Identities:38/44(86%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  676  TGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+            ||||||||||| ||||| ||| || |||||||||| || |||||
+Sbjct  46   TGCACAAGGAATTACATTCACCTGAATCTCTTCACCTCTTTCAT  3
+
+
+
+
+
+
+
+		
+
+

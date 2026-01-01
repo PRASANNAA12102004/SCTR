@@ -1,0 +1,511 @@
+RID: N2EWFT4T014	
+Job Title:XM_071434261.1 PREDICTED: Agelaius tricolor...				
+Program: BLASTN 
+Database: Genome (bAgeTri1.0.p) Agelaius tricolor bAgeTri1.0.p [GCF_023055355.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_023055355.1-RS_2025_02)
+Query #1: XM_071434261.1 PREDICTED: Agelaius tricolor secretin receptor (SCTR), mRNA Query ID: lcl|Query_4634113 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       387    2811  100%  5e-105 98.67  36502631   NW_027269270.1   
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       114    427   22%   4e-23  76.47  55655608   NW_027269266.1   
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       85.1   133   11%   8e-14  75.63  7200297    NW_027269292.1   
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       62.6   117   11%   2e-07  74.47  7304305    NW_027269291.1   
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       61.7   61.7  6%    9e-07  75.58  113901592  NW_027269261.1   
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       56.3   103   10%   4e-05  75.86  2172997    NW_027269318.1   
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       55.4   55.4  4%    4e-05  78.46  6699501    NW_027269295.1   
+Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold... Agelaius tri... tricolored b... 9191       47.3   47.3  4%    0.019  77.59  17359876   NW_027269279.1   
+
+
+Alignments:
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_10
+Sequence ID: NW_027269270.1 Length: 36502631
+Range 1: 27114611 to 27114835
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27114611  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  27114670
+
+Query  61        AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27114671  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  27114730
+
+Query  120       GCATA--AACAGCATGCTGACTTCTGATGCATGAGGCATGAAGGAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27114731  GCATACAAACAGCATGCTGACTTCTGATGCATGAGGCATGAAGGAAACAGACTGTGATTG  27114790
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27114791  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  27114835
+
+
+
+
+Range 2: 27134176 to 27134354
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27134176  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  27134235
+
+Query  1412      AGCACCTCAGCACTTCAGCGAGTAATGGAGGGAGTGGCTTGACCCAAGAGATGCAGATGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27134236  AGCACCTCAGCACTTCAGCGAGTAATGGAGGGAGTGGCTTGACCCAAGAGATGCAGATGG  27134295
+
+Query  1472      TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27134296  TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  27134354
+
+
+
+
+Range 3: 27129052 to 27129208
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27129052  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  27129111
+
+Query  855       GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27129112  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  27129171
+
+Query  915       AAAGTTCCTCTTGTGGTTCATCGCCCTCGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  27129172  AAAGTTCCTCTTGTGGTTCATCGCCCTCGGATGGGGT  27129208
+
+
+
+
+Range 4: 27132790 to 27132932
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27132790  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  27132849
+
+Query  1230      CTTTGCTTTTTTCCCTGAGGATGCAAACAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  1289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27132850  CTTTGCTTTTTTCCCTGAGGATGCAAACAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  27132909
+
+Query  1290      ATTGGCTCTTGGATCATTCCAGG  1312
+                 |||||||||||||||||||||||
+Sbjct  27132910  ATTGGCTCTTGGATCATTCCAGG  27132932
+
+
+
+
+Range 5: 27128084 to 27128219
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  661       AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27128084  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  27128143
+
+Query  721       CGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  780
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27128144  CGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  27128203
+
+Query  781       TGTGGGGCATACACGG  796
+                 ||||||||||||||||
+Sbjct  27128204  TGTGGGGCATACACGG  27128219
+
+
+
+
+Range 6: 27118327 to 27118455
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27118327  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  27118386
+
+Query  282       GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACCACTGAAAATGATCTGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27118387  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACCACTGAAAATGATCTGCTCCT  27118446
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  27118447  GAGCTCAGG  27118455
+
+
+
+
+Range 7: 27122651 to 27122766
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27122651  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  27122710
+
+Query  407       AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27122711  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  27122766
+
+
+
+
+Range 8: 27126605 to 27126710
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27126605  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  27126664
+
+Query  519       CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27126665  CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  27126710
+
+
+
+
+Range 9: 27127005 to 27127102
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27127005  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  27127064
+
+Query  625       ACGTTGATGATAGCTTTGGTGGTCCTGGCCTCCTTTAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  27127065  ACGTTGATGATAGCTTTGGTGGTCCTGGCCTCCTTTAG  27127102
+
+
+
+
+Range 10: 27132603 to 27132695
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATCCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27132603  ATTAATTTCATCCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  27132662
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  27132663  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  27132695
+
+
+
+
+Range 11: 27129892 to 27129962
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTATAGTTG  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27129892  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTATAGTTG  27129951
+
+Query  1070      TGTCTATATTT  1080
+                 |||||||||||
+Sbjct  27129952  TGTCTATATTT  27129962
+
+
+
+
+Range 12: 27129294 to 27129357
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGACCGCTCGGCAGCTCCATGAAAATATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27129294  GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGACCGCTCGGCAGCTCCATGAAAATATT  27129353
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  27129354  GGGT  27129357
+
+
+
+
+Range 13: 27133122 to 27133167
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1310      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1355
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27133122  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  27133167
+
+
+
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_6
+Sequence ID: NW_027269266.1 Length: 55655608
+Range 1: 462198 to 462350
+
+Score:114 bits(126), Expect:4e-23, 
+Identities:117/153(76%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  799     GGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+               ||||| |||  ||  ||||| ||||| ||||| ||  ||||| | |||| |  |||||| 
+Sbjct  462350  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  462291
+
+Query  859     CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGAAAG  918
+               |||||||| ||  ||||||| ||||| || ||||| || |||||||||||||| || || 
+Sbjct  462290  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  462231
+
+Query  919     TTCCTCTTGTGGTTCATCGCCCTCGGATGGGGT  951
+               | | ||| ||||| ||||    |||| ||||||
+Sbjct  462230  TACTTCTGGTGGTACATCCTGATCGGCTGGGGT  462198
+
+
+
+
+Range 2: 801742 to 801820
+
+Score:80.6 bits(88), Expect:9e-13, 
+Identities:65/79(82%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1170    CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+               || ||||||||||||||| ||  | ||  | ||||| ||||||||||| ||||| ||| |
+Sbjct  801742  CAGGAGACTTGCAAAGTCCACGTTACTGTTGATCCCCCTCTTTGGGGTGCACTACATCGT  801801
+
+Query  1230    CTTTGCTTTTTTCCCTGAG  1248
+                ||||| ||||||||||||
+Sbjct  801802  GTTTGCATTTTTCCCTGAG  801820
+
+
+
+
+Range 3: 446803 to 446881
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169    ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1228
+               ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  446881  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  446822
+
+Query  1229    TCTTTGCTTTTTTCCCTGA  1247
+               | |||||||| ||||||||
+Sbjct  446821  TGTTTGCTTTCTTCCCTGA  446803
+
+
+
+
+Range 4: 475240 to 475338
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:74/101(73%),  Gaps:4/101(3%), Strand: Plus/Minus
+
+Query  661     AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+               ||||  || | ||| ||  | || ||||| |||||||| |||||||  || |||||  ||
+Sbjct  475338  AGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCATG  475279
+
+Query  721     CGAGCCTCATCCAA--CTTCATCAAGGATGCAGTCTTGTTT  759
+                |||||  |||  |  ||||||||||||||   || |||||
+Sbjct  475278  AGAGCC--ATCGCAGTCTTCATCAAGGATGTCATCCTGTTT  475240
+
+
+
+
+Range 5: 7654925 to 7655002
+
+Score:51.8 bits(56), Expect:4e-04, 
+Identities:58/78(74%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                || ||||||||||||||| ||  | || || || ||| | ||||| || ||||| |   |
+Sbjct  7655002  CAGGAGACTTGCAAAGTCCACCTTGCTGCTGATTCCTTTATTTGGTGTTCACTACACGGT  7654943
+
+Query  1230     CTTTGCTTTTTTCCCTGA  1247
+                 |||||| | || |||||
+Sbjct  7654942  GTTTGCTCTGTTTCCTGA  7654925
+
+
+
+
+Range 6: 796823 to 796910
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:63/88(72%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  672     CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCATC  731
+               ||||||| |||| |||||||||||||| || ||    || || || ||| ||||     |
+Sbjct  796823  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTGAGAGCAGTTGC  796882
+
+Query  732     CAACTTCATCAAGGATGCAGTCTTGTTT  759
+                   |||| ||| ||||| || ||||||
+Sbjct  796883  TGTTTTCACCAAAGATGCTGTTTTGTTT  796910
+
+
+
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_32
+Sequence ID: NW_027269292.1 Length: 7200297
+Range 1: 6841152 to 6841270
+
+Score:85.1 bits(93), Expect:8e-14, 
+Identities:90/119(76%),  Gaps:0/119(0%), Strand: Plus/Plus
+
+Query  796      GCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGG  855
+                || ||||||| |    ||| ||||||| | |||||  ||||| || | |||||| |||||
+Sbjct  6841152  GCAGGCTGTAGGGCAGCCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGG  6841211
+
+Query  856      CTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  914
+                || |||||||||||  | ||||| ||||  || |||||| |  || ||||||| || ||
+Sbjct  6841212  CTGCTGGTGGAAGGCATCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCTGAGAG  6841270
+
+
+
+
+Range 2: 6840881 to 6840931
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:41/51(80%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  666      GCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  716
+                ||| | |||||  |||||||||||||||||| | || ||| | || |||||
+Sbjct  6840881  GCTGCACTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCAT  6840931
+
+
+
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_31
+Sequence ID: NW_027269291.1 Length: 7304305
+Range 1: 5432423 to 5432516
+
+Score:62.6 bits(68), Expect:2e-07, 
+Identities:70/94(74%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  653      CCTCCTTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGT  712
+                ||||||  || | ||| | |||||| ||||| | ||||||||| ||  ||||||| || |
+Sbjct  5432516  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  5432457
+
+Query  713      TCATTTTGCGAGCCTCATCCAACTTCATCAAGGA  746
+                ||||  |||| | | |  ||   |||||||||||
+Sbjct  5432456  TCATCCTGCGGGGCACGGCCGTGTTCATCAAGGA  5432423
+
+
+
+
+Range 2: 5430208 to 5430287
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:60/80(75%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1228
+                ||| ||| ||  | ||||| || || || |||||||| ||||||||||| |||||  |  
+Sbjct  5430287  ACAGGAGGCTGACCAAGTCCACGCTGCTGCTCATCCCCCTCTTTGGGGTGCACTACGTGG  5430228
+
+Query  1229     TCTTTGCTTTTTTCCCTGAG  1248
+                | |||||  | ||||| |||
+Sbjct  5430227  TGTTTGCGCTCTTCCCCGAG  5430208
+
+
+
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_1
+Sequence ID: NW_027269261.1 Length: 113901592
+Range 1: 30415953 to 30416038
+
+Score:61.7 bits(67), Expect:9e-07, 
+Identities:65/86(76%),  Gaps:0/86(0%), Strand: Plus/Minus
+
+Query  826       CAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACT  885
+                 ||||||||| |     | ||||||  |||||| |||||||||||  |||||||  |||| 
+Sbjct  30416038  CAGTATTGCGTGGCTGCAAACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACA  30415979
+
+Query  886       CTCCTGGTGATTTCCTTCTTCTCGGA  911
+                 || |||||| | ||  ||||||| ||
+Sbjct  30415978  CTGCTGGTGCTCTCTGTCTTCTCTGA  30415953
+
+
+
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_58
+Sequence ID: NW_027269318.1 Length: 2172997
+Range 1: 891582 to 891667
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:66/87(76%),  Gaps:2/87(2%), Strand: Plus/Plus
+
+Query  672     CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCC-TCAT  730
+               |||||| |||||||||||||||||||| || ||    || |||||  || | ||| ||| 
+Sbjct  891582  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTCA-  891640
+
+Query  731     CCAACTTCATCAAGGATGCAGTCTTGT  757
+                || |||| | ||||| || ||| |||
+Sbjct  891641  GCATCTTCGTGAAGGACGCGGTCCTGT  891667
+
+
+
+
+Range 2: 895159 to 895233
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:56/75(75%),  Gaps:1/75(1%), Strand: Plus/Plus
+
+Query  844     AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTC  903
+               || |||  |||| ||||||||||||| || || |||||||  ||| |  | ||  | || 
+Sbjct  895159  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTT  895218
+
+Query  904     TTCTCGGA-AAGAAA  917
+               ||||| || ||||||
+Sbjct  895219  TTCTCAGAGAAGAAA  895233
+
+
+
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_35
+Sequence ID: NW_027269295.1 Length: 6699501
+Range 1: 2292319 to 2292383
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:51/65(78%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                ||||  |||| ||||||||| ||||||||||| ||| || | ||  |||| || || |||
+Sbjct  2292383  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCCTTTATCTTG  2292324
+
+Query  721      CGAGC  725
+                || ||
+Sbjct  2292323  CGTGC  2292319
+
+
+
+
+>Agelaius tricolor isolate 1412-34295 unplaced genomic scaffold, bAgeTri1.0.p SCAF_19
+Sequence ID: NW_027269279.1 Length: 17359876
+Range 1: 14510406 to 14510463
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:45/58(78%),  Gaps:0/58(0%), Strand: Plus/Plus
+
+Query  826       CAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACA  883
+                 ||||| |||||| || | ||| ||  |||| ||||||||||||   | |||||| |||
+Sbjct  14510406  CAGTACTGCATCCTGGCCAACCACTACTGGTTCCTGGTGGAAGCTGTCTACCTCTACA  14510463
+
+
+
+
+
+
+
+		
+
+

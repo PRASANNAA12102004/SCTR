@@ -1,0 +1,591 @@
+RID: N2R12MWE014	
+Job Title:XM_059475916.1:1-1530 PREDICTED: Ammospiza...				
+Program: BLASTN 
+Database: Genome (bAmmNel1.pri) Ammospiza nelsoni bAmmNel1.pri [GCF_027579445.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_027579445.1-RS_2023_09)
+Query #1: XM_059475916.1:1-1530 PREDICTED: Ammospiza nelsoni secretin receptor (SCTR), mRNA Query ID: lcl|Query_3320547 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Ammospiza nelsoni isolate bAmmNel1 chromosome 7, bAmmNel1.pri     Ammospiza ne... NA              2857394    387    2811  100%  5e-105 98.67  40159020   NC_080639.1      
+Ammospiza nelsoni isolate bAmmNel1 chromosome 1, bAmmNel1.pri     Ammospiza ne... NA              2857394    132    618   22%   6e-28  78.71  155447619  NC_080633.1      
+Ammospiza nelsoni isolate bAmmNel1 chromosome 19, bAmmNel1.pri    Ammospiza ne... NA              2857394    84.2   141   12%   8e-14  75.21  12555122   NC_080651.1      
+Ammospiza nelsoni isolate bAmmNel1 chromosome 26, bAmmNel1.pri    Ammospiza ne... NA              2857394    67.1   237   16%   2e-08  75.53  7190956    NC_080658.1      
+Ammospiza nelsoni isolate bAmmNel1 chromosome 3, bAmmNel1.pri     Ammospiza ne... NA              2857394    65.3   115   8%    7e-08  80.88  115508148  NC_080635.1      
+Ammospiza nelsoni isolate bAmmNel1 chromosome 17, bAmmNel1.pri    Ammospiza ne... NA              2857394    47.3   47.3  4%    0.020  77.59  18006652   NC_080649.1      
+Ammospiza nelsoni isolate bAmmNel1 chromosome 24, bAmmNel1.pri    Ammospiza ne... NA              2857394    46.4   46.4  3%    0.020  85.71  8296844    NC_080656.1      
+Ammospiza nelsoni isolate bAmmNel1 chromosome 25, bAmmNel1.pri    Ammospiza ne... NA              2857394    46.4   92.7  3%    0.020  85.71  7670679    NC_080657.1      
+
+
+Alignments:
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 7, bAmmNel1.pri
+Sequence ID: NC_080639.1 Length: 40159020
+Range 1: 30993299 to 30993523
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGAGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30993299  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGAGA  30993358
+
+Query  61        AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30993359  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  30993418
+
+Query  120       GCATA--AACAGCCTGATGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30993419  GCATACAAACAGCCTGATGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  30993478
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30993479  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  30993523
+
+
+
+
+Range 2: 31012848 to 31013026
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31012848  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  31012907
+
+Query  1412      AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31012908  AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  31012967
+
+Query  1472      TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31012968  TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  31013026
+
+
+
+
+Range 3: 31007735 to 31007891
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31007735  GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  31007794
+
+Query  855       GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31007795  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  31007854
+
+Query  915       GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  31007855  GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  31007891
+
+
+
+
+Range 4: 31011461 to 31011603
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31011461  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  31011520
+
+Query  1230      CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGA  1289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31011521  CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGA  31011580
+
+Query  1290      ATTGGCTCTTGGATCATTCCAGG  1312
+                 |||||||||||||||||||||||
+Sbjct  31011581  ATTGGCTCTTGGATCATTCCAGG  31011603
+
+
+
+
+Range 5: 31006781 to 31006916
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  661       AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31006781  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  31006840
+
+Query  721       AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  780
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31006841  AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  31006900
+
+Query  781       TGTGGGGCATACACGG  796
+                 ||||||||||||||||
+Sbjct  31006901  TGTGGGGCATACACGG  31006916
+
+
+
+
+Range 6: 30997008 to 30997136
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30997008  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  30997067
+
+Query  282       GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30997068  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  30997127
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  30997128  GAGCTCAGG  30997136
+
+
+
+
+Range 7: 31001322 to 31001437
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31001322  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  31001381
+
+Query  407       AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31001382  AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  31001437
+
+
+
+
+Range 8: 31005308 to 31005413
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31005308  AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  31005367
+
+Query  519       CATTGCCTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31005368  CATTGCCTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  31005413
+
+
+
+
+Range 9: 31005708 to 31005805
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31005708  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  31005767
+
+Query  625       ACATTGATGATAGCCTTGGCGGTCCTGGCCTCCTTTAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  31005768  ACATTGATGATAGCCTTGGCGGTCCTGGCCTCCTTTAG  31005805
+
+
+
+
+Range 10: 31011279 to 31011371
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31011279  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  31011338
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  31011339  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  31011371
+
+
+
+
+Range 11: 31008564 to 31008634
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31008564  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  31008623
+
+Query  1070      TGTCTATATTT  1080
+                 |||||||||||
+Sbjct  31008624  TGTCTATATTT  31008634
+
+
+
+
+Range 12: 31007977 to 31008040
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAACATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31007977  GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAACATT  31008036
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  31008037  GGGT  31008040
+
+
+
+
+Range 13: 31011778 to 31011823
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1310      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31011778  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  31011823
+
+
+
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 1, bAmmNel1.pri
+Sequence ID: NC_080633.1 Length: 155447619
+Range 1: 3237195 to 3237349
+
+Score:132 bits(145), Expect:6e-28, 
+Identities:122/155(79%),  Gaps:0/155(0%), Strand: Plus/Minus
+
+Query  799      GGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                |||||||||  ||  ||||| ||||||||||| ||  ||||| | |||| |  |||||| 
+Sbjct  3237349  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3237290
+
+Query  859      CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGAAG  918
+                |||||||| ||  ||||||| ||||| || ||||| ||||||||||||||||| ||||| 
+Sbjct  3237289  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3237230
+
+Query  919      TTCCTCTTGTGGTTCATCGCCCTTGGATGGGGTGC  953
+                | | ||| ||||| ||||    | || ||||||||
+Sbjct  3237229  TACTTCTGGTGGTACATCCTGATCGGCTGGGGTGC  3237195
+
+
+
+
+Range 2: 3220974 to 3221052
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  3221052  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3220993
+
+Query  1229     TCTTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  3220992  TGTTTGCTTTCTTCCCTGA  3220974
+
+
+
+
+Range 3: 3588594 to 3588672
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                || ||||||||||||||| ||  | ||  | ||||| |||||||| || ||||| ||  |
+Sbjct  3588594  CAGGAGACTTGCAAAGTCCACGTTGCTGTTGATCCCCCTCTTTGGGGTGCACTACATTGT  3588653
+
+Query  1230     CTTTGCTTTTTTCCCTGAG  1248
+                 ||||| ||||||||||||
+Sbjct  3588654  GTTTGCATTTTTCCCTGAG  3588672
+
+
+
+
+Range 4: 1441312 to 1441397
+
+Score:65.3 bits(71), Expect:7e-08, 
+Identities:68/87(78%),  Gaps:2/87(2%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCC-TCAT  730
+                |||||| |||||||||||||||||||| || ||    || ||||| ||||| ||| ||| 
+Sbjct  1441397  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTCA-  1441339
+
+Query  731      CCAACTTCATCAAGGATGCAGTCTTGT  757
+                 || |||| | ||||| || ||| |||
+Sbjct  1441338  GCATCTTCGTGAAGGACGCGGTCCTGT  1441312
+
+
+
+
+Range 5: 3252367 to 3252465
+
+Score:60.8 bits(66), Expect:9e-07, 
+Identities:75/101(74%),  Gaps:4/101(3%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                ||||  || | ||| ||  | || ||||| |||||||| |||||||  || |||||  ||
+Sbjct  3252465  AGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCATG  3252406
+
+Query  721      AGAGCCTCATCCAA--CTTCATCAAGGATGCAGTCTTGTTT  759
+                ||||||  |||  |  ||||||||||||||   || |||||
+Sbjct  3252405  AGAGCC--ATCGCAGTCTTCATCAAGGATGTCATCCTGTTT  3252367
+
+
+
+
+Range 6: 3583548 to 3583635
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:65/88(74%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCCTCATC  731
+                ||||||| |||| |||||||||||||| || ||   ||| || ||  |||||||     |
+Sbjct  3583548  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTGAGAGCAGTTGC  3583607
+
+Query  732      CAACTTCATCAAGGATGCAGTCTTGTTT  759
+                    |||| ||||||||| || ||||||
+Sbjct  3583608  TGTTTTCACCAAGGATGCTGTTTTGTTT  3583635
+
+
+
+
+Range 7: 10493442 to 10493519
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:59/78(76%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                 || ||||||||||||||| ||  | || || || ||| | |||||||| ||||| |   |
+Sbjct  10493519  CAGGAGACTTGCAAAGTCCACCTTGCTGCTGATTCCTTTATTTGGAGTTCACTACACAGT  10493460
+
+Query  1230      CTTTGCTTTTTTCCCTGA  1247
+                  |||||| | || |||||
+Sbjct  10493459  GTTTGCTCTGTTTCCTGA  10493442
+
+
+
+
+Range 8: 10505468 to 10505535
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:52/68(76%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  658       TTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATT  717
+                 |||||||  ||||  || ||  |||||||||||||  || | || |||  ||| ||||||
+Sbjct  10505535  TTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCTTTCATT  10505476
+
+Query  718       CTGAGAGC  725
+                 || |||||
+Sbjct  10505475  CTAAGAGC  10505468
+
+
+
+
+Range 9: 1437707 to 1437797
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:65/91(71%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                || |||  |||| ||||||||||||| || || |||||||  ||| |  | ||  | || 
+Sbjct  1437797  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTT  1437738
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTTGTGGTTCA  934
+                ||||| || | ||| |  |||| | | ||||
+Sbjct  1437737  TTCTCAGAGAAGAAATATCTCTGGGGATTCA  1437707
+
+
+
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 19, bAmmNel1.pri
+Sequence ID: NC_080651.1 Length: 12555122
+Range 1: 12167644 to 12167764
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:91/121(75%),  Gaps:0/121(0%), Strand: Plus/Plus
+
+Query  796       GCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGG  855
+                 || ||||||| |    ||| ||||||| | |||||  ||||  || | |||||| |||||
+Sbjct  12167644  GCAGGCTGCAGGGCAGCCACGGTCTTCATGCAGTACGGCATTGTGGCCAACTACTGCTGG  12167703
+
+Query  856       CTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGG  915
+                 || |||||||||||  | ||||| ||||  || |||||| |  || ||||||| || |||
+Sbjct  12167704  CTGCTGGTGGAAGGCATCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGG  12167763
+
+Query  916       A  916
+                 |
+Sbjct  12167764  A  12167764
+
+
+
+
+Range 2: 12167346 to 12167401
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:46/56(82%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  666       GCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGA  721
+                 ||| | |||||  |||||||||||||||||| | || ||| |||| ||||| ||||
+Sbjct  12167346  GCTGCACTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCATCCTGA  12167401
+
+
+
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 26, bAmmNel1.pri
+Sequence ID: NC_080658.1 Length: 7190956
+Range 1: 5293171 to 5293264
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:71/94(76%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  653      CCTCCTTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                ||||||  || | ||| | |||||| ||||| | ||||||||| ||  |||||||||| |
+Sbjct  5293264  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  5293205
+
+Query  713      TCATTCTGAGAGCCTCATCCAACTTCATCAAGGA  746
+                |||| ||| | | | |  ||   |||||||||||
+Sbjct  5293204  TCATCCTGCGGGGCACGGCCGTGTTCATCAAGGA  5293171
+
+
+
+
+Range 2: 5292413 to 5292528
+
+Score:61.7 bits(67), Expect:9e-07, 
+Identities:83/116(72%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  801      CTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTCCT  860
+                |||||||    ||||   |||||||||||| |   |  || | |||| |  |||||| ||
+Sbjct  5292528  CTGCAAGGCAGCCATCACCTTCTTCCAGTACTCAGTGCTGGCCAACTTCTACTGGCTGCT  5292469
+
+Query  861      GGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGA  916
+                |||||| || |||||||| || || || ||| || || |||||  ||  || ||||
+Sbjct  5292468  GGTGGAGGGGCTGTACCTGCAGACGCTGCTGCTGCTCACCTTCACCTGCGACAGGA  5292413
+
+
+
+
+Range 3: 1582426 to 1582470
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:40/45(89%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCAT  716
+                ||||||| |||| ||||||||| |||| ||||||||||| |||||
+Sbjct  1582426  CTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCAT  1582470
+
+
+
+
+Range 4: 1582979 to 1583087
+
+Score:49.1 bits(53), Expect:0.006, 
+Identities:76/109(70%),  Gaps:0/109(0%), Strand: Plus/Plus
+
+Query  844      AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                ||| ||  |||| ||||||||||||| || ||||| ||||  ||  |  | ||  |||||
+Sbjct  1582979  AACCACTACTGGATCCTGGTGGAAGGTCTCTACCTGCACAGCCTGATCTTCATGGCCTTC  1583038
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGTG  952
+                 ||||  | | ||| | ||| | |    |||||  | |||| |||||||
+Sbjct  1583039  CTCTCCAACAAGAACTACCTGTGGGTCCTCATCATCATTGGCTGGGGTG  1583087
+
+
+
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 3, bAmmNel1.pri
+Sequence ID: NC_080635.1 Length: 115508148
+Range 1: 30877588 to 30877655
+
+Score:65.3 bits(71), Expect:7e-08, 
+Identities:55/68(81%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                 ||||||  |||||| |||||||||||  |||||||  |||| || |||||| ||||  ||
+Sbjct  30877655  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACACTGCTGGTGCTCTCTGTC  30877596
+
+Query  904       TTCTCGGA  911
+                 ||||| ||
+Sbjct  30877595  TTCTCTGA  30877588
+
+
+
+
+Range 2: 30879237 to 30879283
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:39/47(83%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  673       TGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  719
+                 ||||| ||||| ||||| ||| || | ||||||||||| ||||| ||
+Sbjct  30879283  TGCACGAGGAATTACATTCACCTGAACCTCTTCACCTCTTTCATCCT  30879237
+
+
+
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 17, bAmmNel1.pri
+Sequence ID: NC_080649.1 Length: 18006652
+Range 1: 14316689 to 14316746
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:45/58(78%),  Gaps:0/58(0%), Strand: Plus/Plus
+
+Query  826       CAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACA  883
+                 ||||| |||||| || | ||| ||  |||| ||||||||||||   | |||||| |||
+Sbjct  14316689  CAGTACTGCATCCTGGCCAACCACTACTGGTTCCTGGTGGAAGCTGTCTACCTCTACA  14316746
+
+
+
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 24, bAmmNel1.pri
+Sequence ID: NC_080656.1 Length: 8296844
+Range 1: 6099560 to 6099600
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:36/42(86%),  Gaps:1/42(2%), Strand: Plus/Minus
+
+Query  57       GAGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                ||||||||||||||  || ||||||||||  |||| ||||||
+Sbjct  6099600  GAGAAGGGAAAAGG-GAGAAGGGAAAAGGGAGAAGGGAAAAG  6099560
+
+
+
+
+>Ammospiza nelsoni isolate bAmmNel1 chromosome 25, bAmmNel1.pri
+Sequence ID: NC_080657.1 Length: 7670679
+Range 1: 2038990 to 2039030
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:36/42(86%),  Gaps:1/42(2%), Strand: Plus/Plus
+
+Query  57       GAGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                ||||||||||||||  || ||||||||||  |||| ||||||
+Sbjct  2038990  GAGAAGGGAAAAGG-GAGAAGGGAAAAGGGAGAAGGGAAAAG  2039030
+
+
+
+
+Range 2: 2039018 to 2039058
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:36/42(86%),  Gaps:1/42(2%), Strand: Plus/Plus
+
+Query  57       GAGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                ||||||||||||||  || ||||||||||  |||| ||||||
+Sbjct  2039018  GAGAAGGGAAAAGG-GAGAAGGGAAAAGGGAGAAGGGAAAAG  2039058
+
+
+
+
+
+
+
+		
+
+

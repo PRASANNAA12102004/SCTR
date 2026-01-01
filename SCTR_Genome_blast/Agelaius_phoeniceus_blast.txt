@@ -1,0 +1,518 @@
+RID: N25SHMAK014	
+Job Title:XM_054636447.2 PREDICTED: Agelaius phoeniceus...				
+Program: BLASTN 
+Database: Genome (bAgePho1.hap1) Agelaius phoeniceus bAgePho1.hap1 [GCF_051311805.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_051311805.1-RS_2025_09)
+Query #1: XM_054636447.2 PREDICTED: Agelaius phoeniceus secretin receptor (SCTR), mRNA Query ID: lcl|Query_16621 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Agelaius phoeniceus isolate bAgePho1 chromosome 7, bAgePho1.hap1  Agelaius pho... red-winged b... 39638      387    2814  100%  5e-105 98.67  51155215   NC_135271.1      
+Agelaius phoeniceus isolate bAgePho1 chromosome 1, bAgePho1.hap1  Agelaius pho... red-winged b... 39638      114    594   22%   5e-23  76.47  156558396  NC_135265.1      
+Agelaius phoeniceus isolate bAgePho1 chromosome 19, bAgePho1.hap1 Agelaius pho... red-winged b... 39638      83.3   186   11%   3e-13  77.67  13768176   NC_135283.1      
+Agelaius phoeniceus isolate bAgePho1 chromosome 26, bAgePho1.hap1 Agelaius pho... red-winged b... 39638      62.6   160   13%   3e-07  74.47  7665585    NC_135290.1      
+Agelaius phoeniceus isolate bAgePho1 chromosome 3, bAgePho1.hap1  Agelaius pho... red-winged b... 39638      60.8   60.8  4%    9e-07  79.41  116760858  NC_135267.1      
+
+
+Alignments:
+
+>Agelaius phoeniceus isolate bAgePho1 chromosome 7, bAgePho1.hap1
+Sequence ID: NC_135271.1 Length: 51155215
+Range 1: 41857411 to 41857635
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41857411  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  41857470
+
+Query  61        AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41857471  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  41857530
+
+Query  120       GCATA--AACAGCATGCTGACTTCTGATGCATGAGGCATGAAGGAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41857531  GCATACAAACAGCATGCTGACTTCTGATGCATGAGGCATGAAGGAAACAGACTGTGATTG  41857590
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41857591  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  41857635
+
+
+
+
+Range 2: 41876978 to 41877156
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41876978  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  41877037
+
+Query  1412      AGCACCTCAGCACTTCAGCGAGTAATGGAGGGAGTGGCTTGACCCAAGAGATGCAGATGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41877038  AGCACCTCAGCACTTCAGCGAGTAATGGAGGGAGTGGCTTGACCCAAGAGATGCAGATGG  41877097
+
+Query  1472      TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41877098  TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  41877156
+
+
+
+
+Range 3: 41871863 to 41872019
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41871863  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  41871922
+
+Query  855       GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41871923  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  41871982
+
+Query  915       AAAGTTCCTCTTGTGGTTCATCGCCCTCGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  41871983  AAAGTTCCTCTTGTGGTTCATCGCCCTCGGATGGGGT  41872019
+
+
+
+
+Range 4: 41875595 to 41875737
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41875595  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  41875654
+
+Query  1230      CTTTGCTTTTTTCCCTGAGGATGCAAACAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  1289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41875655  CTTTGCTTTTTTCCCTGAGGATGCAAACAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  41875714
+
+Query  1290      ATTGGCTCTTGGATCATTCCAGG  1312
+                 |||||||||||||||||||||||
+Sbjct  41875715  ATTGGCTCTTGGATCATTCCAGG  41875737
+
+
+
+
+Range 5: 41870894 to 41871029
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  661       AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41870894  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  41870953
+
+Query  721       CGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  780
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41870954  CGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  41871013
+
+Query  781       TGTGGGGCATACACGG  796
+                 ||||||||||||||||
+Sbjct  41871014  TGTGGGGCATACACGG  41871029
+
+
+
+
+Range 6: 41861126 to 41861254
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41861126  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  41861185
+
+Query  282       GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41861186  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  41861245
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  41861246  GAGCTCAGG  41861254
+
+
+
+
+Range 7: 41865444 to 41865559
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41865444  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  41865503
+
+Query  407       AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41865504  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  41865559
+
+
+
+
+Range 8: 41869398 to 41869503
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGGCCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41869398  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGGCCTGA  41869457
+
+Query  519       CATTGCTTGTGGCTACAATGTCAATGACACCACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41869458  CATTGCTTGTGGCTACAATGTCAATGACACCACCAACGAGGCCAGA  41869503
+
+
+
+
+Range 9: 41869798 to 41869895
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41869798  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  41869857
+
+Query  625       ACGTTGATGATAGCTTTGGTGGTCCTGGCCTCCTTTAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  41869858  ACGTTGATGATAGCTTTGGTGGTCCTGGCCTCCTTTAG  41869895
+
+
+
+
+Range 10: 41875408 to 41875500
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATCCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41875408  ATTAATTTCATCCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  41875467
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  41875468  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  41875500
+
+
+
+
+Range 11: 41872704 to 41872774
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTATAGTTG  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41872704  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTATAGTTG  41872763
+
+Query  1070      TGTCTATATTT  1080
+                 |||||||||||
+Sbjct  41872764  TGTCTATATTT  41872774
+
+
+
+
+Range 12: 41872106 to 41872169
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGACCGCTCGGCAGCTCCATGAAAATATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41872106  GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGACCGCTCGGCAGCTCCATGAAAATATT  41872165
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  41872166  GGGT  41872169
+
+
+
+
+Range 13: 41875899 to 41875962
+
+Score:87.8 bits(96), Expect:7e-15, 
+Identities:59/65(91%),  Gaps:1/65(1%), Strand: Plus/Plus
+
+Query  1291      TTGGCTCTTGGATCATTCCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGT  1350
+                 |||| ||||  ||| ||  |||||||||||||||||||||||||||||||||||||||||
+Sbjct  41875899  TTGGTTCTTTTATCTTTT-AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGT  41875957
+
+Query  1351      GAGGT  1355
+                 |||||
+Sbjct  41875958  GAGGT  41875962
+
+
+
+
+>Agelaius phoeniceus isolate bAgePho1 chromosome 1, bAgePho1.hap1
+Sequence ID: NC_135265.1 Length: 156558396
+Range 1: 3090489 to 3090641
+
+Score:114 bits(126), Expect:5e-23, 
+Identities:117/153(76%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  799      GGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                ||||| |||  ||  ||||| ||||| ||||| ||  ||||| | |||| |  |||||| 
+Sbjct  3090641  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3090582
+
+Query  859      CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGAAAG  918
+                |||||||| ||  ||||||| ||||| || ||||| || |||||||||||||| || || 
+Sbjct  3090581  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3090522
+
+Query  919      TTCCTCTTGTGGTTCATCGCCCTCGGATGGGGT  951
+                | | ||| ||||| ||||    |||| ||||||
+Sbjct  3090521  TACTTCTGGTGGTACATCCTGATCGGCTGGGGT  3090489
+
+
+
+
+Range 2: 3430625 to 3430703
+
+Score:80.6 bits(88), Expect:1e-12, 
+Identities:65/79(82%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                || ||||||||||||||| ||  | ||  | ||||| ||||||||||| ||||| ||| |
+Sbjct  3430625  CAGGAGACTTGCAAAGTCCACGTTACTGTTGATCCCCCTCTTTGGGGTGCACTACATCGT  3430684
+
+Query  1230     CTTTGCTTTTTTCCCTGAG  1248
+                 ||||| ||||||||||||
+Sbjct  3430685  GTTTGCGTTTTTCCCTGAG  3430703
+
+
+
+
+Range 3: 3075061 to 3075139
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  3075139  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3075080
+
+Query  1229     TCTTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  3075079  TGTTTGCTTTCTTCCCTGA  3075061
+
+
+
+
+Range 4: 10270404 to 10270483
+
+Score:64.4 bits(70), Expect:8e-08, 
+Identities:62/80(78%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  815       TGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGT  874
+                 |||| |||||||||||| |  | ||| | ||||    ||||||| | || |||||||| |
+Sbjct  10270483  TGGTGTTCTTTCAGTATGGTGTTATGGCAAACTTTTACTGGCTCTTAGTAGAAGGACTTT  10270424
+
+Query  875       ACCTCCACACTCTCCTGGTG  894
+                 |||||||||  ||||| |||
+Sbjct  10270423  ACCTCCACATCCTCCTTGTG  10270404
+
+
+
+
+Range 5: 1306456 to 1306541
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:66/87(76%),  Gaps:2/87(2%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCC-TCAT  730
+                |||||| |||||||||||||||||||| || ||    || |||||  || | ||| ||| 
+Sbjct  1306541  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTCA-  1306483
+
+Query  731      CCAACTTCATCAAGGATGCAGTCTTGT  757
+                 || |||| | ||||| || ||| |||
+Sbjct  1306482  GCATCTTCGTGAAGGACGCGGTCCTGT  1306456
+
+
+
+
+Range 6: 3103648 to 3103746
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:74/101(73%),  Gaps:4/101(3%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                ||||  || | ||| ||  | || ||||| |||||||| |||||||  || |||||  ||
+Sbjct  3103746  AGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCATG  3103687
+
+Query  721      CGAGCCTCATCCAA--CTTCATCAAGGATGCAGTCTTGTTT  759
+                 |||||  |||  |  ||||||||||||||   || |||||
+Sbjct  3103686  AGAGCC--ATCGCAGTCTTCATCAAGGATGTCATCCTGTTT  3103648
+
+
+
+
+Range 7: 10261083 to 10261160
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:58/78(74%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                 || ||||||||||||||| ||  | || || || ||| | ||||| || ||||| |   |
+Sbjct  10261160  CAGGAGACTTGCAAAGTCCACCTTGCTGCTGATTCCTTTATTTGGCGTTCACTACACGGT  10261101
+
+Query  1230      CTTTGCTTTTTTCCCTGA  1247
+                  |||||| | || |||||
+Sbjct  10261100  GTTTGCTCTGTTTCCTGA  10261083
+
+
+
+
+Range 8: 1302893 to 1302967
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:56/75(75%),  Gaps:1/75(1%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTC  903
+                || |||  |||| ||||||||||||| || || |||||||  ||| |  | ||  | || 
+Sbjct  1302967  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTT  1302908
+
+Query  904      TTCTCGGA-AAGAAA  917
+                ||||| || ||||||
+Sbjct  1302907  TTCTCAGAGAAGAAA  1302893
+
+
+
+
+Range 9: 3425713 to 3425800
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:63/88(72%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCATC  731
+                ||||||| |||| |||||||||||||| || ||    || || || ||| ||||     |
+Sbjct  3425713  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTGAGAGCAGTTGC  3425772
+
+Query  732      CAACTTCATCAAGGATGCAGTCTTGTTT  759
+                    |||| ||| ||||| || ||||||
+Sbjct  3425773  TGTTTTCACCAAAGATGCTGTTTTGTTT  3425800
+
+
+
+
+>Agelaius phoeniceus isolate bAgePho1 chromosome 19, bAgePho1.hap1
+Sequence ID: NC_135283.1 Length: 13768176
+Range 1: 13423161 to 13423263
+
+Score:83.3 bits(91), Expect:3e-13, 
+Identities:80/103(78%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  812       CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGAC  871
+                 ||| ||||||| | |||||  ||||| || | |||||| ||||||| |||||||||||  
+Sbjct  13423161  CCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAAGGCA  13423220
+
+Query  872       TGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  914
+                 | ||||| ||||  || |||||| |  || ||||||| || ||
+Sbjct  13423221  TCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAG  13423263
+
+
+
+
+Range 2: 2331592 to 2331656
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:51/65(78%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                ||||  |||| ||||||||| ||||||||||| ||| || | ||  |||| || || |||
+Sbjct  2331656  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCCTTTATCTTG  2331597
+
+Query  721      CGAGC  725
+                || ||
+Sbjct  2331596  CGTGC  2331592
+
+
+
+
+Range 3: 13422861 to 13422911
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:41/51(80%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  666       GCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  716
+                 ||| | |||||  |||||||||||||||||| | || ||| | || |||||
+Sbjct  13422861  GCTGCACTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCAT  13422911
+
+
+
+
+>Agelaius phoeniceus isolate bAgePho1 chromosome 26, bAgePho1.hap1
+Sequence ID: NC_135290.1 Length: 7665585
+Range 1: 5514119 to 5514212
+
+Score:62.6 bits(68), Expect:3e-07, 
+Identities:70/94(74%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  653      CCTCCTTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGT  712
+                ||||||  || | ||| | |||||| ||||| | ||||||||| ||  ||||||| || |
+Sbjct  5514212  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  5514153
+
+Query  713      TCATTTTGCGAGCCTCATCCAACTTCATCAAGGA  746
+                ||||  |||| | | |  ||   |||||||||||
+Sbjct  5514152  TCATCCTGCGGGGCACGGCCGTGTTCATCAAGGA  5514119
+
+
+
+
+Range 2: 5511965 to 5512019
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:44/55(80%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTA  1223
+                ||| ||| ||  | ||||| || || || |||||||| ||||||||||| |||||
+Sbjct  5512019  ACAGGAGGCTGACCAAGTCCACGCTGCTGCTCATCCCCCTCTTTGGGGTGCACTA  5511965
+
+
+
+
+Range 3: 5521619 to 5521661
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:36/43(84%),  Gaps:0/43(0%), Strand: Plus/Minus
+
+Query  57       GGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGA  99
+                ||||| |||||||| ||  |||||||||||  |||||||| ||
+Sbjct  5521661  GGGAAAGGAAAAGGGAAAAAGGGAAAAGGAAAAAGTGAAAGGA  5521619
+
+
+
+
+>Agelaius phoeniceus isolate bAgePho1 chromosome 3, bAgePho1.hap1
+Sequence ID: NC_135267.1 Length: 116760858
+Range 1: 86432315 to 86432382
+
+Score:60.8 bits(66), Expect:9e-07, 
+Identities:54/68(79%),  Gaps:0/68(0%), Strand: Plus/Plus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTC  903
+                 ||||||  |||||| |||||||||||  |||||||  |||| || |||||| | ||  ||
+Sbjct  86432315  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACACTGCTGGTGCTCTCTGTC  86432374
+
+Query  904       TTCTCGGA  911
+                 ||||| ||
+Sbjct  86432375  TTCTCTGA  86432382
+
+
+
+
+
+
+
+		
+
+

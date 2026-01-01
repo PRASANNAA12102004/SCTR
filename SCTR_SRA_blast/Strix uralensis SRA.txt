@@ -1,0 +1,155 @@
+RID: N9MBA4EW016	
+Job Title:XM_074872328.1 PREDICTED: Strix uralensis...				
+Program: BLASTN 
+Database: SRA 
+Query #1: XM_074872328.1 PREDICTED: Strix uralensis secretin receptor (SCTR), mRNA Query ID: lcl|Query_5603717 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+48857                                                                                             0          217    217   8%    2e-54 100.00 150        SRA:ERR408369... 
+706881                                                                                            0          159    159   6%    1e-36 98.89  150        SRA:ERR408369... 
+706826                                                                                            0          159    159   6%    1e-36 98.89  150        SRA:ERR408369... 
+1624176                                                                                           0          112    112   4%    2e-22 98.44  150        SRA:ERR408369... 
+289555                                                                                            0          109    109   4%    7e-22 100.00 150        SRA:ERR408369... 
+289555                                                                                            0          109    109   4%    7e-22 100.00 150        SRA:ERR408369... 
+372326                                                                                            0          87.8   87.8  4%    2e-15 93.33  150        SRA:ERR408369... 
+1022252                                                                                           0          45.5   45.5  3%    0.023 82.61  150        SRA:ERR408369... 
+
+
+Alignments:
+
+>48857
+Sequence ID: SRA:ERR4083696.48857.1 Length: 150
+Range 1: 31 to 150
+
+Score:217 bits(240), Expect:2e-54, 
+Identities:120/120(100%),  Gaps:0/120(0%), Strand: Plus/Minus
+
+Query  234  TGTCCCGCCTGTCTGTGACCTCCTGAGCGTCCTGAAAAAGGAGGAAGAAAACTGTGCCAA  293
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  150  TGTCCCGCCTGTCTGTGACCTCCTGAGCGTCCTGAAAAAGGAGGAAGAAAACTGTGCCAA  91
+
+Query  294  GACTCTGTCCCTGGAGGAGAAGAACAGAACGCCCGAAAACGATCTGCTCCTGAGCTCGGG  353
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  90   GACTCTGTCCCTGGAGGAGAAGAACAGAACGCCCGAAAACGATCTGCTCCTGAGCTCGGG  31
+
+
+
+
+>706881
+Sequence ID: SRA:ERR4083696.706881.1 Length: 150
+Range 1: 1 to 90
+
+Score:159 bits(175), Expect:1e-36, 
+Identities:89/90(99%),  Gaps:0/90(0%), Strand: Plus/Plus
+
+Query  710  CATCATTCATTTTGCGAGCCTCGTCCAACTTCATCAAGGATGCCATTTTGTTTTCCTCTG  769
+            ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CATCATTCATTTTACGAGCCTCGTCCAACTTCATCAAGGATGCCATTTTGTTTTCCTCTG  60
+
+Query  770  AAGACATAAATTACTGTGGGGCATACACGG  799
+            ||||||||||||||||||||||||||||||
+Sbjct  61   AAGACATAAATTACTGTGGGGCATACACGG  90
+
+
+
+
+>706826
+Sequence ID: SRA:ERR4083696.706826.1 Length: 150
+Range 1: 1 to 90
+
+Score:159 bits(175), Expect:1e-36, 
+Identities:89/90(99%),  Gaps:0/90(0%), Strand: Plus/Plus
+
+Query  710  CATCATTCATTTTGCGAGCCTCGTCCAACTTCATCAAGGATGCCATTTTGTTTTCCTCTG  769
+            ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CATCATTCATTTTACGAGCCTCGTCCAACTTCATCAAGGATGCCATTTTGTTTTCCTCTG  60
+
+Query  770  AAGACATAAATTACTGTGGGGCATACACGG  799
+            ||||||||||||||||||||||||||||||
+Sbjct  61   AAGACATAAATTACTGTGGGGCATACACGG  90
+
+
+
+
+>1624176
+Sequence ID: SRA:ERR4083696.1624176.1 Length: 150
+Range 1: 37 to 100
+
+Score:112 bits(123), Expect:2e-22, 
+Identities:63/64(98%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952   GGTGCCCCAACTGTCTTTGTGGTTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  1011
+             |||||||||||||||||||||| |||||||||||||||||||||||||||||||||||||
+Sbjct  37    GGTGCCCCAACTGTCTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  96
+
+Query  1012  GGGT  1015
+             ||||
+Sbjct  97    GGGT  100
+
+
+
+
+>289555
+Sequence ID: SRA:ERR4083696.289555.2 Length: 150
+Range 1: 1 to 60
+
+Score:109 bits(120), Expect:7e-22, 
+Identities:60/60(100%),  Gaps:0/60(0%), Strand: Plus/Plus
+
+Query  1117  ATCTTGATGAGGAAGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1     ATCTTGATGAGGAAGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  60
+
+
+
+
+>289555
+Sequence ID: SRA:ERR4083696.289555.1 Length: 150
+Range 1: 67 to 126
+
+Score:109 bits(120), Expect:7e-22, 
+Identities:60/60(100%),  Gaps:0/60(0%), Strand: Plus/Minus
+
+Query  1117  ATCTTGATGAGGAAGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  126   ATCTTGATGAGGAAGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  67
+
+
+
+
+>372326
+Sequence ID: SRA:ERR4083696.372326.2 Length: 150
+Range 1: 19 to 77
+
+Score:87.8 bits(96), Expect:2e-15, 
+Identities:56/60(93%),  Gaps:1/60(1%), Strand: Plus/Minus
+
+Query  1299  TCTTGGATCATTCCAGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+             ||||  ||| ||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  77    TCTTTTATCTTTC-AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  19
+
+
+
+
+>1022252
+Sequence ID: SRA:ERR4083696.1022252.1 Length: 150
+Range 1: 20 to 65
+
+Score:45.5 bits(49), Expect:0.023, 
+Identities:38/46(83%),  Gaps:2/46(4%), Strand: Plus/Minus
+
+Query  57  GGGAAGGAAAAAAGCAA--GGAGGGAAAGGGATGAAGTGAAAGGAG  100
+           ||||||||  |||  ||  |||||| |||||| |||||||||||||
+Sbjct  65  GGGAAGGAGGAAATAAAAGGGAGGGGAAGGGAGGAAGTGAAAGGAG  20
+
+
+
+
+
+
+
+		
+
+

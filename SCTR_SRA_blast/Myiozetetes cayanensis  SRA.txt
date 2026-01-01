@@ -1,0 +1,68 @@
+RID: N6AY98MS016	
+Job Title:ATGCTCTCTAGAGCTCAGCGGTTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA...				
+Program: BLASTN 
+Database: SRA 
+Query #1: ATGCTCTCTAGAGCTCAGCGGTTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA Query ID: lcl|Query_4776737 Length: 120
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+SRX15888954                                                                                       0          166    166   80%   4e-38 97.96  150        SRA:SRR198452... 
+SRX15888954                                                                                       0          109    109   50%   3e-21 100.00 150        SRA:SRR198452... 
+SRX15888954                                                                                       0          102    102   47%   4e-19 100.00 150        SRA:SRR198452... 
+
+
+Alignments:
+
+>SRX15888954
+Sequence ID: SRA:SRR19845258.76709745.2 Length: 150
+Range 1: 1 to 98
+
+Score:166 bits(183), Expect:4e-38, 
+Identities:96/98(98%),  Gaps:2/98(2%), Strand: Plus/Plus
+
+Query  25   GATGAAGTGAAAAGAGCTAGGAGCCACACTGGAGAGCACA--AACATTCTGGTGACCTCT  82
+            ||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||
+Sbjct  1    GATGAAGTGAAAAGAGCTAGGAGCCACACTGGAGAGCACACAAACATTCTGGTGACCTCT  60
+
+Query  83   GATGCACAAGGTATGAAGAAAACAGACTGTTATTGACT  120
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GATGCACAAGGTATGAAGAAAACAGACTGTTATTGACT  98
+
+
+
+
+>SRX15888954
+Sequence ID: SRA:SRR19845258.110238137.2 Length: 150
+Range 1: 1 to 60
+
+Score:109 bits(120), Expect:3e-21, 
+Identities:60/60(100%),  Gaps:0/60(0%), Strand: Plus/Plus
+
+Query  61   CACAAACATTCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTTATTGACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CACAAACATTCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTTATTGACT  60
+
+
+
+
+>SRX15888954
+Sequence ID: SRA:SRR19845258.110238137.1 Length: 150
+Range 1: 95 to 150
+
+Score:102 bits(112), Expect:4e-19, 
+Identities:56/56(100%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  65   AACATTCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTTATTGACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  150  AACATTCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTTATTGACT  95
+
+
+
+
+
+
+
+		
+
+
