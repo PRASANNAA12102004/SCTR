@@ -1,0 +1,438 @@
+RID: NCBV9WTR014	
+Job Title:XM_009913216.2 PREDICTED: Haliaeetus albicilla...				
+Program: BLASTN 
+Database: Genome (bHalAlb1.1) Haliaeetus albicilla bHalAlb1.1 [GCF_947461875.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_947461875.1-RS_2024_11)
+Query #1: XM_009913216.2 PREDICTED: Haliaeetus albicilla secretin receptor (SCTR), mRNA Query ID: lcl|Query_3114479 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Haliaeetus albicilla chromosome 4, bHalAlb1.1                     Haliaeetus a... white-tailed... 8969       392    2816  100%  1e-106 98.68  55048279   NC_091486.1      
+Haliaeetus albicilla chromosome 2, bHalAlb1.1                     Haliaeetus a... white-tailed... 8969       71.6   388   15%   5e-10  79.75  81103017   NC_091484.1      
+Haliaeetus albicilla chromosome 7, bHalAlb1.1                     Haliaeetus a... white-tailed... 8969       60.8   107   6%    1e-06  75.82  46857032   NC_091489.1      
+Haliaeetus albicilla chromosome 12, bHalAlb1.1                    Haliaeetus a... white-tailed... 8969       57.2   113   4%    1e-05  78.79  43564609   NC_091494.1      
+Haliaeetus albicilla chromosome 22, bHalAlb1.1                    Haliaeetus a... white-tailed... 8969       46.4   46.4  3%    0.022  87.18  26546284   NC_091504.1      
+
+
+Alignments:
+
+>Haliaeetus albicilla chromosome 4, bHalAlb1.1
+Sequence ID: NC_091486.1 Length: 55048279
+Range 1: 11297038 to 11297265
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Minus
+
+Query  1         ATGCTCTCTAGAGGTCAGCAGCTGGAGAGAAACGTTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11297265  ATGCTCTCTAGAGGTCAGCAGCTGGAGAGAAACGTTGGCTAAGGATGGTCAAAGCTGGGA  11297206
+
+Query  61        AGGaaaaaaaGT-AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11297205  AGGAAAAAAAGTGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGAGA  11297146
+
+Query  120       GCATA--GACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11297145  GCATACAGACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  11297086
+
+Query  178       AATATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11297085  AATATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  11297038
+
+
+
+
+Range 2: 11276037 to 11276215
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11276215  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACTTGCGTC  11276156
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11276155  AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  11276096
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11276095  TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  11276037
+
+
+
+
+Range 3: 11281316 to 11281472
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11281472  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  11281413
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11281412  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  11281353
+
+Query  918       GAAGTTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  11281352  GAAGTTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  11281316
+
+
+
+
+Range 4: 11277458 to 11277600
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11277600  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  11277541
+
+Query  1233      CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11277540  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  11277481
+
+Query  1293      ATTAGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  11277480  ATTAGCTCTTGGATCATTCCAGG  11277458
+
+
+
+
+Range 5: 11282663 to 11282798
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Minus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCGCATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11282798  AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCGCATCGTTCATTTTG  11282739
+
+Query  724       CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACGAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11282738  CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACGAATTAC  11282679
+
+Query  784       TGTGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  11282678  TGTGGGGCATACACGG  11282663
+
+
+
+
+Range 6: 11292974 to 11293102
+
+Score:233 bits(258), Expect:8e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11293102  GATCAGAGCTGTCCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAAGGAGGAAGAAAA  11293043
+
+Query  285       CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACAGAACGGCCGAAAACGACCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11293042  CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACAGAACGGCCGAAAACGACCTGCTCCT  11292983
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  11292982  GAGCTCAGG  11292974
+
+
+
+
+Range 7: 11288185 to 11288300
+
+Score:210 bits(232), Expect:9e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11288300  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAC  11288241
+
+Query  410       AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11288240  AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  11288185
+
+
+
+
+Range 8: 11284177 to 11284282
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11284282  AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCGAGACCTGA  11284223
+
+Query  522       TATCGCTTGTGGCTACAATGTCAATGACACGACAAACGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11284222  TATCGCTTGTGGCTACAATGTCAATGACACGACAAACGAGGCGAGA  11284177
+
+
+
+
+Range 9: 11283778 to 11283875
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11283875  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTCGTG  11283816
+
+Query  628       ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  11283815  ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  11283778
+
+
+
+
+Range 10: 11277690 to 11277782
+
+Score:168 bits(186), Expect:3e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1084      ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11277782  ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  11277723
+
+Query  1144      GAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  11277722  GAAGGACGGAGCAGTGATTTCAACCAATACAAG  11277690
+
+
+
+
+Range 11: 11280546 to 11280616
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTC  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11280616  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTC  11280557
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  11280556  TGTCTATTTTT  11280546
+
+
+
+
+Range 12: 11281164 to 11281227
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  952       GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATGTC  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11281227  GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATGTC  11281168
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  11281167  GGGT  11281164
+
+
+
+
+Range 13: 11277232 to 11277277
+
+Score:84.2 bits(92), Expect:9e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11277277  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  11277232
+
+
+
+
+>Haliaeetus albicilla chromosome 2, bHalAlb1.1
+Sequence ID: NC_091484.1 Length: 81103017
+Range 1: 77176526 to 77176604
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172      ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCA  1231
+                 ||| ||| || || ||||| ||  | || || |||||||| |||||  | ||||||||||
+Sbjct  77176526  ACAGGAGGCTGGCCAAGTCTACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  77176585
+
+Query  1232      TCTTTGCTTTTTTCCCTGA  1250
+                 | |||||||| ||||||||
+Sbjct  77176586  TGTTTGCTTTCTTCCCTGA  77176604
+
+
+
+
+Range 2: 69678694 to 69678767
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:58/74(78%),  Gaps:1/74(1%), Strand: Plus/Plus
+
+Query  656       TCTCTT-TTAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCGCATCG  714
+                 |||||| |||||| |||||  |||||  |||||||||||||  || |||| |||   |||
+Sbjct  69678694  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCG  69678753
+
+Query  715       TTCATTTTGCGAGC  728
+                 |||||| |  ||||
+Sbjct  69678754  TTCATTCTAAGAGC  69678767
+
+
+
+
+Range 3: 77178058 to 77178103
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:40/46(87%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 |||| ||||| |||||||| || || |||||||| |||||||||||
+Sbjct  77178058  AGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAATGGGGAGGT  77178103
+
+
+
+
+Range 4: 77146934 to 77147032
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:73/100(73%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCGCATCGTTCATTTTG  723
+                 |||| ||| | ||||||  | || ||||| || ||||||||||||   || |||||  ||
+Sbjct  77146934  AGAAAACTACACTGTACTCGAAATTACATTCATATGCACCTCTTCATGTCCTTCATAATG  77146993
+
+Query  724       CGAGC-CTCGTCCAACTTCATCAAGGATGCCATCTTGTTT  762
+                  ||||  ||| |   |||||| || |||| |||| | |||
+Sbjct  77146994  AGAGCTATCG-CAGTCTTCATAAAAGATGTCATCCTATTT  77147032
+
+
+
+
+Range 5: 79255238 to 79255323
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:63/86(73%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  675       CTGTACAAGGAACTACATCCACATGCACCTCTTCGCATCGTTCATTTTGCGAGCCTCGTC  734
+                 ||| || || || ||||||||||||||||| || |  || |||||  || ||||   |  
+Sbjct  79255238  CTGCACTAGAAATTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCTGTGAG  79255297
+
+Query  735       CAACTTCATCAAGGATGCCATCTTGT  760
+                 || |||| | ||||| ||  ||||||
+Sbjct  79255298  CATCTTCGTGAAGGACGCAGTCTTGT  79255323
+
+
+
+
+Range 6: 76763806 to 76763851
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 |||| ||||| || ||||| || ||||||||  | |||||||||||
+Sbjct  76763806  AGGGTTTTGTTGTTGCTGTTCTCTATTGTTTCTTGAATGGGGAGGT  76763851
+
+
+
+
+Range 7: 69693018 to 69693095
+
+Score:47.3 bits(51), Expect:0.022, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||| || ||| |  | || || || || ||||| || ||||| |   |
+Sbjct  69693018  CAGGAGACTTGCAAAATCCACATTGTTGCTTATTCCACTATTTGGAGTTCACTATACAGT  69693077
+
+Query  1233      CTTTGCTTTTTTCCCTGA  1250
+                  |||||| | || |||||
+Sbjct  69693078  GTTTGCTCTCTTTCCTGA  69693095
+
+
+
+
+>Haliaeetus albicilla chromosome 7, bHalAlb1.1
+Sequence ID: NC_091489.1 Length: 46857032
+Range 1: 5484422 to 5484510
+
+Score:60.8 bits(66), Expect:1e-06, 
+Identities:69/91(76%),  Gaps:4/91(4%), Strand: Plus/Plus
+
+Query  676      TGTACAAGGAACTACATCCACATGCACCTCTTCGCATCGTTCAT--TTTGCGAGCCTCGT  733
+                || || ||||||| ||||||||| ||| ||||| |||| |||||  || ||| | ||   
+Sbjct  5484422  TGCACCAGGAACTCCATCCACATCCACTTCTTCACATCCTTCATACTTCGCGGGGCTG--  5484479
+
+Query  734      CCAACTTCATCAAGGATGCCATCTTGTTTTC  764
+                ||   ||||||||||||||| || | || ||
+Sbjct  5484480  CCGTGTTCATCAAGGATGCCGTCCTCTTCTC  5484510
+
+
+
+
+Range 2: 3971071 to 3971115
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:37/45(82%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  675      CTGTACAAGGAACTACATCCACATGCACCTCTTCGCATCGTTCAT  719
+                ||| ||| | |||||||||||| | ||||||||| | || |||||
+Sbjct  3971071  CTGCACACGCAACTACATCCACGTCCACCTCTTCACCTCCTTCAT  3971115
+
+
+
+
+>Haliaeetus albicilla chromosome 12, bHalAlb1.1
+Sequence ID: NC_091494.1 Length: 43564609
+Range 1: 29294376 to 29294441
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:52/66(79%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCGCATCGTTCATTTTG  723
+                 |||| ||||| ||| ||||| ||||||||||| ||| |  | || ||||| || || |||
+Sbjct  29294376  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  29294435
+
+Query  724       CGAGCC  729
+                 || |||
+Sbjct  29294436  CGCGCC  29294441
+
+
+
+
+Range 2: 43145102 to 43145139
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:35/38(92%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  682       AGGAACTACATCCACATGCACCTCTTCGCATCGTTCAT  719
+                 |||||||||||||||||| |||||||||| || |||||
+Sbjct  43145102  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  43145139
+
+
+
+
+>Haliaeetus albicilla chromosome 22, bHalAlb1.1
+Sequence ID: NC_091504.1 Length: 26546284
+Range 1: 6894277 to 6894313
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:34/39(87%),  Gaps:2/39(5%), Strand: Plus/Plus
+
+Query  53       AGCTGGGAAGGaaaaaaaGTAGGAGGGAAAGGGATGAAG  91
+                |||||||||||| ||||||||  ||||||| || |||||
+Sbjct  6894277  AGCTGGGAAGGAGAAAAAGTA--AGGGAAATGGTTGAAG  6894313
+
+
+
+
+
+
+
+		
+
+

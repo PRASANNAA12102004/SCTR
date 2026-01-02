@@ -1,0 +1,367 @@
+RID: NDDXF29U014	
+Job Title:XM_072874453.1 PREDICTED: Ciconia boyciana...				
+Program: BLASTN 
+Database: Genome (ASM3463844v1) Ciconia boyciana ASM3463844v1 [GCF_034638445.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_034638445.1-RS_2025_04)
+Query #1: XM_072874453.1 PREDICTED: Ciconia boyciana secretin receptor (SCTR), mRNA Query ID: lcl|Query_4622125 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Ciconia boyciana chromosome 10, ASM3463844v1                      Ciconia boyc... Oriental stork  52775      392    2823  100%  1e-106 98.68  44820500   NC_132943.1      
+Ciconia boyciana chromosome 2, ASM3463844v1                       Ciconia boyc... Oriental stork  52775      67.1   170   15%   2e-08  78.48  169410058  NC_132935.1      
+Ciconia boyciana chromosome 22, ASM3463844v1                      Ciconia boyc... Oriental stork  52775      56.3   102   8%    4e-05  75.64  7958500    NC_132955.1      
+Ciconia boyciana chromosome 16, ASM3463844v1                      Ciconia boyc... Oriental stork  52775      53.6   100   5%    1e-04  76.81  15575500   NC_132949.1      
+
+
+Alignments:
+
+>Ciconia boyciana chromosome 10, ASM3463844v1
+Sequence ID: NC_132943.1 Length: 44820500
+Range 1: 11257993 to 11258220
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Minus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCCAGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11258220  ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCCAGGA  11258161
+
+Query  61        AGGAAAAAA-GCGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACACTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11258160  AGGAAAAAAAGCGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACACTGGAGA  11258101
+
+Query  120       GCATA--GACAGCCTGGTGACCTCTGGTGCGCGAGGGATGAAGGAAACAGCCTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11258100  GCATACAGACAGCCTGGTGACCTCTGGTGCGCGAGGGATGAAGGAAACAGCCTGTGATTG  11258041
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCATCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11258040  ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCATCCTG  11257993
+
+
+
+
+Range 2: 11236841 to 11237019
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11237019  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  11236960
+
+Query  1415      AGCATCTCAGCACCTCAGCAAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11236959  AGCATCTCAGCACCTCAGCAAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  11236900
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACTGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11236899  TGAGGTCGAGCCCACCAGAGCACTGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  11236841
+
+
+
+
+Range 3: 11242142 to 11242298
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798       GGCTGGGTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11242298  GGCTGGGTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  11242239
+
+Query  858       GCTCCTTGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11242238  GCTCCTTGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  11242179
+
+Query  918       GAAGTTCCTCTGGCGGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  11242178  GAAGTTCCTCTGGCGGTTCATCGCCCTCGGATGGGGT  11242142
+
+
+
+
+Range 4: 11238303 to 11238445
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11238445  CAGGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  11238386
+
+Query  1233      CTTCGCTTTTTTCCCTGAAGACGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTCGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11238385  CTTCGCTTTTTTCCCTGAAGACGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTCGA  11238326
+
+Query  1293      GTTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  11238325  GTTGGCTCTTGGATCATTCCAGG  11238303
+
+
+
+
+Range 5: 11243509 to 11243644
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Minus
+
+Query  664       AGAAGACTCCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11243644  AGAAGACTCCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  11243585
+
+Query  724       CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACATGAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11243584  CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACATGAATTAC  11243525
+
+Query  784       TGCGGAGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  11243524  TGCGGAGCATACACGG  11243509
+
+
+
+
+Range 6: 11253902 to 11254030
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCTTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11254030  GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCTTGAAAAAGGAGGAAGAAAA  11253971
+
+Query  285       CTGTGCTGAGACTCTCTCCCTGGAGGCGAAGAACAGAACGGCCAAAAACAATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11253970  CTGTGCTGAGACTCTCTCCCTGGAGGCGAAGAACAGAACGGCCAAAAACAATCTGCTCCT  11253911
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  11253910  GAGCTCAGG  11253902
+
+
+
+
+Range 7: 11249082 to 11249197
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCAGTGGGAG  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11249197  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCAGTGGGAG  11249138
+
+Query  410       AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11249137  AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  11249082
+
+
+
+
+Range 8: 11245013 to 11245118
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACGAGCGAGGGTTGGTCAGACCCATATCCAAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11245118  AGGTTTTGTCTACCGAAACTGTACGAGCGAGGGTTGGTCAGACCCATATCCAAGACCTGA  11245059
+
+Query  522       TATCGCTTGTGGCTACAATGTCAATGACACAACAAATGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11245058  TATCGCTTGTGGCTACAATGTCAATGACACAACAAATGAGGCGAGA  11245013
+
+
+
+
+Range 9: 11244619 to 11244716
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11244716  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  11244657
+
+Query  628       ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  11244656  ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  11244619
+
+
+
+
+Range 10: 11238537 to 11238644
+
+Score:173 bits(191), Expect:2e-40, 
+Identities:105/109(96%),  Gaps:3/109(2%), Strand: Plus/Minus
+
+Query  1070      TTTTGTCTATTTTCA--TTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAG  1127
+                 |||||| | ||||||  |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11238644  TTTTGTTT-TTTTCAGATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAG  11238586
+
+Query  1128      GAAGCTCAGGTCACCTGAAGGACAGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11238585  GAAGCTCAGGTCACCTGAAGGACAGAGCAGTGATTTCAACCAATACAAG  11238537
+
+
+
+
+Range 11: 11241366 to 11241436
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1013      GGTGTTGGGACGTTAACAGTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11241436  GGTGTTGGGACGTTAACAGTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  11241377
+
+Query  1073      TGTCTATTTTC  1083
+                 |||||||||||
+Sbjct  11241376  TGTCTATTTTC  11241366
+
+
+
+
+Range 12: 11241990 to 11242053
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  952       GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATC  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11242053  GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATC  11241994
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  11241993  GGGT  11241990
+
+
+
+
+Range 13: 11238077 to 11238126
+
+Score:86.9 bits(95), Expect:2e-14, 
+Identities:49/50(98%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  1309      TTCCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAACAGTGAGGT  1358
+                 || |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11238126  TTTCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAACAGTGAGGT  11238077
+
+
+
+
+>Ciconia boyciana chromosome 2, ASM3463844v1
+Sequence ID: NC_132935.1 Length: 169410058
+Range 1: 165330976 to 165331054
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172       ACAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1231
+                  ||| ||| || || ||||| ||  | || || ||||||||||||||  | ||||| ||||
+Sbjct  165330976  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTATATCA  165331035
+
+Query  1232       TCTTCGCTTTTTTCCCTGA  1250
+                  | || ||||| ||||||||
+Sbjct  165331036  TGTTTGCTTTCTTCCCTGA  165331054
+
+
+
+
+Range 2: 157660088 to 157660150
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:52/64(81%),  Gaps:2/64(3%), Strand: Plus/Plus
+
+Query  356        GATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCAG-TGGGAGAGACT  414
+                  |||||| |||||| ||||||||||| | ||| |||| ||| | |  || | |||||||||
+Sbjct  157660088  GATGTGTTGGAATTTGGGATAACATCACCTGTTGGCGTTC-TGCAAAGATTGGAGAGACT  157660146
+
+Query  415        GTCA  418
+                  ||||
+Sbjct  157660147  GTCA  157660150
+
+
+
+
+Range 3: 167508248 to 167508333
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:62/86(72%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  675        CTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCATC  734
+                  ||| || || ||||||||||||||||| || ||    || |||||  || |||||     
+Sbjct  167508248  CTGCACTAGAAACTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCGTGAG  167508307
+
+Query  735        CAACTTCATCAAGGATGCCGTTTTGT  760
+                  || |||| | ||||| || || ||||
+Sbjct  167508308  CATCTTCGTGAAGGACGCAGTCTTGT  167508333
+
+
+
+
+>Ciconia boyciana chromosome 22, ASM3463844v1
+Sequence ID: NC_132955.1 Length: 7958500
+Range 1: 5358889 to 5358966
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:59/78(76%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  1232
+                || ||| ||  | ||||| || || ||||||||||||||||| || || |||||  |  |
+Sbjct  5358889  CAGGAGGCTGACGAAGTCCACGCTGCTCCTCATCCCTCTCTTCGGAGTACACTATGTGGT  5358948
+
+Query  1233     CTTCGCTTTTTTCCCTGA  1250
+                 |||||  | ||||||||
+Sbjct  5358949  GTTCGCGCTCTTCCCTGA  5358966
+
+
+
+
+Range 2: 3829809 to 3829853
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:37/45(82%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  675      CTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                ||| ||| | |||||||||||| | || |||||||| || |||||
+Sbjct  3829809  CTGCACACGCAACTACATCCACGTCCACCTCTTCACCTCCTTCAT  3829853
+
+
+
+
+>Ciconia boyciana chromosome 16, ASM3463844v1
+Sequence ID: NC_132949.1 Length: 15575500
+Range 1: 14387897 to 14387965
+
+Score:53.6 bits(58), Expect:1e-04, 
+Identities:53/69(77%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  664       AGAAGACTCCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                 |||| ||| | ||| ||||| ||||||||||| ||| || | ||  |||| || || |||
+Sbjct  14387965  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  14387906
+
+Query  724       CGAGCCTCA  732
+                 || ||| ||
+Sbjct  14387905  CGTGCCACA  14387897
+
+
+
+
+Range 2: 425603 to 425640
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  682     AGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+               |||||||||||||||||| | |||||| | || |||||
+Sbjct  425640  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  425603
+
+
+
+
+
+
+
+		
+
+

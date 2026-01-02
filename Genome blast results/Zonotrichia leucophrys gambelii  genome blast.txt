@@ -1,0 +1,774 @@
+RID: NDMGRDCB014	
+Job Title:XM_064718732.1:1-1530 PREDICTED: Zonotrichia...				
+Program: BLASTN 
+Database: Genome (RI_Zleu_2.0) Zonotrichia leucophrys gambelii RI_Zleu_2.0 [GCF_028769735.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_028769735.1-RS_2024_04)
+Query #1: XM_064718732.1:1-1530 PREDICTED: Zonotrichia leucophrys gambelii secretin receptor (SCTR), mRNA Query ID: lcl|Query_8513 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     387    2811  100%  5e-105 98.67  38401667   NC_088177.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     123    637   21%   8e-26  79.71  153547327  NC_088171.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     84.2   187   12%   7e-14  75.21  12261182   NC_088187.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     67.1   225   14%   2e-08  75.53  6309133    NC_088196.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     65.3   65.3  4%    7e-08  80.88  114162194  NC_088172.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     56.3   462   4%    4e-05  84.21  62472784   NC_088175.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     50.9   50.9  3%    0.002  86.36  73051372   NC_088170.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     50.0   96.3  3%    0.002  85.71  20270949   NC_088182.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     50.0   50.0  3%    0.002  84.31  8480127    NC_088190.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     48.2   48.2  3%    0.005  83.33  6126336    NC_088197.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     47.3   47.3  3%    0.019  84.78  35708988   NC_088176.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     47.3   47.3  4%    0.019  77.59  16474596   NC_088184.1      
+Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosom... Zonotrichia ... NA              257770     46.4   46.4  3%    0.019  85.71  7504969    NC_088195.1      
+
+
+Alignments:
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 7, RI_Zleu_2.0
+Sequence ID: NC_088177.1 Length: 38401667
+Range 1: 9247248 to 9247472
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Minus
+
+Query  1        ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9247472  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  9247413
+
+Query  61       AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  119
+                |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9247412  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  9247353
+
+Query  120      G--TACAAACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  177
+                |  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9247352  GCGTACAAACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  9247293
+
+Query  178      ACTATGTGGACCATCTGGGTGATCATCTGGATTTCAACTGTCCCG  222
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9247292  ACTATGTGGACCATCTGGGTGATCATCTGGATTTCAACTGTCCCG  9247248
+
+
+
+
+Range 2: 9227720 to 9227898
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1352     AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGGC  1411
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9227898  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGGC  9227839
+
+Query  1412     AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  1471
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9227838  AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  9227779
+
+Query  1472     TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9227778  TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  9227720
+
+
+
+
+Range 3: 9232849 to 9233005
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  795      GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  854
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9233005  GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  9232946
+
+Query  855      GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  914
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9232945  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  9232886
+
+Query  915      GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  951
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  9232885  GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  9232849
+
+
+
+
+Range 4: 9229127 to 9229269
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCCCTCTTTGGGGTCCACTATATCAT  1229
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9229269  CAGGAGACTTGCAAAGTCAACACTTCTCCTCATCCCCCTCTTTGGGGTCCACTATATCAT  9229210
+
+Query  1230     CTTTGCTTTTTTCCCTGAGGATGCAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  1289
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9229209  CTTTGCTTTTTTCCCTGAGGATGCAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  9229150
+
+Query  1290     ATTGGCTCTTGGATCATTCCAGG  1312
+                |||||||||||||||||||||||
+Sbjct  9229149  ATTGGCTCTTGGATCATTCCAGG  9229127
+
+
+
+
+Range 5: 9233829 to 9233964
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9233964  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  9233905
+
+Query  721      AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  780
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9233904  AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  9233845
+
+Query  781      TGTGGGGCATACACGG  796
+                ||||||||||||||||
+Sbjct  9233844  TGTGGGGCATACACGG  9233829
+
+
+
+
+Range 6: 9243632 to 9243760
+
+Score:233 bits(258), Expect:6e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  222      GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  281
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9243760  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  9243701
+
+Query  282      GTGTGTGGAGACTCTTTCTCTGGAGGCAAGGAACAGAACAACTGAGAATGATCTGCTCCT  341
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9243700  GTGTGTGGAGACTCTTTCTCTGGAGGCAAGGAACAGAACAACTGAGAATGATCTGCTCCT  9243641
+
+Query  342      GAGCTCAGG  350
+                |||||||||
+Sbjct  9243640  GAGCTCAGG  9243632
+
+
+
+
+Range 7: 9239321 to 9239436
+
+Score:210 bits(232), Expect:7e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  347      CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9239436  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  9239377
+
+Query  407      AGATTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9239376  AGATTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  9239321
+
+
+
+
+Range 8: 9235330 to 9235435
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  459      AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCAAGACCTGA  518
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9235435  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCAAGACCTGA  9235376
+
+Query  519      CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9235375  CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  9235330
+
+
+
+
+Range 9: 9234938 to 9235035
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  565      CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGTG  624
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9235035  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGTG  9234976
+
+Query  625      ACATTGATGATAGCCTTGGCGGTCCTGGCCTCCTTTAG  662
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  9234975  ACATTGATGATAGCCTTGGCGGTCCTGGCCTCCTTTAG  9234938
+
+
+
+
+Range 10: 9229353 to 9229445
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1081     ATTAATTTCATCCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9229445  ATTAATTTCATCCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  9229386
+
+Query  1141     GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                |||||||||||||||||||||||||||||||||
+Sbjct  9229385  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  9229353
+
+
+
+
+Range 11: 9232099 to 9232169
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1010     GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9232169  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  9232110
+
+Query  1070     TGTCTATATTT  1080
+                |||||||||||
+Sbjct  9232109  TGTCTATATTT  9232099
+
+
+
+
+Range 12: 9232700 to 9232763
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  949      GGTGCCCCAGCAGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAATATT  1008
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9232763  GGTGCCCCAGCAGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAATATT  9232704
+
+Query  1009     GGGT  1012
+                ||||
+Sbjct  9232703  GGGT  9232700
+
+
+
+
+Range 13: 9228907 to 9228952
+
+Score:84.2 bits(92), Expect:7e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1310     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9228952  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  9228907
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 2, RI_Zleu_2.0
+Sequence ID: NC_088171.1 Length: 153547327
+Range 1: 3427097 to 3427234
+
+Score:123 bits(136), Expect:8e-26, 
+Identities:110/138(80%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  799      GGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                |||||||||  ||  ||||| ||||| ||||| ||  ||||| | |||| |  |||||| 
+Sbjct  3427234  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3427175
+
+Query  859      CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGAAG  918
+                |||||||| ||  ||||||| ||||| || ||||| ||||||||||||||||| ||||| 
+Sbjct  3427174  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3427115
+
+Query  919      TTCCTCTTGTGGTTCATC  936
+                | | ||| ||||| ||||
+Sbjct  3427114  TACTTCTGGTGGTACATC  3427097
+
+
+
+
+Range 2: 3776218 to 3776296
+
+Score:80.6 bits(88), Expect:9e-13, 
+Identities:65/79(82%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCCCTCTTTGGGGTCCACTATATCAT  1229
+                || ||||||||||||||| ||  | ||  | ||||||||||||||||| ||||| ||  |
+Sbjct  3776218  CAGGAGACTTGCAAAGTCCACGTTGCTGTTGATCCCCCTCTTTGGGGTGCACTACATTGT  3776277
+
+Query  1230     CTTTGCTTTTTTCCCTGAG  1248
+                 ||||| ||||||||||||
+Sbjct  3776278  GTTTGCATTTTTCCCTGAG  3776296
+
+
+
+
+Range 3: 1395570 to 1395655
+
+Score:65.3 bits(71), Expect:7e-08, 
+Identities:68/87(78%),  Gaps:2/87(2%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCC-TCAT  730
+                |||||| |||||||||||||||||||| || ||    || ||||| ||||| ||| ||| 
+Sbjct  1395655  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTCA-  1395597
+
+Query  731      CCAACTTCATCAAGGATGCAGTCTTGT  757
+                 || |||| | ||||| || ||| |||
+Sbjct  1395596  GCATCTTCGTGAAGGACGCGGTCCTGT  1395570
+
+
+
+
+Range 4: 3442442 to 3442540
+
+Score:60.8 bits(66), Expect:8e-07, 
+Identities:75/101(74%),  Gaps:4/101(3%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                ||||  || | ||| ||  | || ||||| |||||||| |||||||  || |||||  ||
+Sbjct  3442540  AGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCATG  3442481
+
+Query  721      AGAGCCTCATCCAA--CTTCATCAAGGATGCAGTCTTGTTT  759
+                ||||||  |||  |  ||||||||||||||   || |||||
+Sbjct  3442480  AGAGCC--ATCGCAGTCTTCATCAAGGATGTCATCCTGTTT  3442442
+
+
+
+
+Range 5: 1391473 to 1391563
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:67/91(74%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                || |||  |||| ||||||||||||| || || |||||||  ||| |  | ||  | |||
+Sbjct  1391563  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTC  1391504
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTTGTGGTTCA  934
+                |||||||| | ||| |  |||| | | ||||
+Sbjct  1391503  TTCTCGGAGAAGAAATATCTCTGGGGATTCA  1391473
+
+
+
+
+Range 6: 3770824 to 3770911
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:65/88(74%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCCTCATC  731
+                ||||||| |||| |||||||||||||| || ||   ||| || ||  ||||||||    |
+Sbjct  3770824  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTGAGAGCCGTTGC  3770883
+
+Query  732      CAACTTCATCAAGGATGCAGTCTTGTTT  759
+                    |||| ||| ||||| || ||||||
+Sbjct  3770884  TGTTTTCACCAAAGATGCTGTTTTGTTT  3770911
+
+
+
+
+Range 7: 10688556 to 10688623
+
+Score:51.8 bits(56), Expect:4e-04, 
+Identities:52/68(76%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  658       TTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATT  717
+                 |||||||  ||||  || ||  |||||||||||||  || | || |||  ||| ||||||
+Sbjct  10688623  TTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCTTTCATT  10688564
+
+Query  718       CTGAGAGC  725
+                 || |||||
+Sbjct  10688563  CTAAGAGC  10688556
+
+
+
+
+Range 8: 3833773 to 3833853
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:59/81(73%),  Gaps:0/81(0%), Strand: Plus/Minus
+
+Query  666      GCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGC  725
+                ||||| ||||||| |||| | |||||||||| | || ||    |||||||| ||  | ||
+Sbjct  3833853  GCTTCACTGCACACGGAATTTCATCCACATGAACCTTTTTGTTTCGTTCATCCTCCGTGC  3833794
+
+Query  726      CTCATCCAACTTCATCAAGGA  746
+                   |||    |||||||||||
+Sbjct  3833793  AATATCTGTGTTCATCAAGGA  3833773
+
+
+
+
+Range 9: 10676629 to 10676706
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCCCTCTTTGGGGTCCACTATATCAT  1229
+                 || ||||||||||||||| ||  | || || || ||  | ||||| || ||||| |   |
+Sbjct  10676706  CAGGAGACTTGCAAAGTCCACCTTGCTGCTGATTCCTTTATTTGGAGTTCACTACACAGT  10676647
+
+Query  1230      CTTTGCTTTTTTCCCTGA  1247
+                  |||||| | || |||||
+Sbjct  10676646  GTTTGCTCTGTTTCCTGA  10676629
+
+
+
+
+Range 10: 4173207 to 4173299
+
+Score:46.4 bits(50), Expect:0.019, 
+Identities:68/94(72%),  Gaps:2/94(2%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                ||||||||||||||  | ||||| || |||||  | || |||||     | |||| ||| 
+Sbjct  4173299  AGAAGGCTTCGCTGTCCCAGGAATTATATCCATGTACAGCTCTTTTTTACATTCA-TCTT  4173241
+
+Query  721      AGAGCCTCAT-CCAACTTCATCAAGGATGCAGTC  753
+                | || ||  | |||  ||||| |||||||| |||
+Sbjct  4173240  AAAGGCTGTTGCCATTTTCATTAAGGATGCTGTC  4173207
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 18, RI_Zleu_2.0
+Sequence ID: NC_088187.1 Length: 12261182
+Range 1: 11962395 to 11962515
+
+Score:84.2 bits(92), Expect:7e-14, 
+Identities:91/121(75%),  Gaps:0/121(0%), Strand: Plus/Plus
+
+Query  796       GCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGG  855
+                 || ||||||| |    |||  |||||| | |||||  ||||| || | |||||| |||||
+Sbjct  11962395  GCAGGCTGCAGGGCAGCCACAGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGG  11962454
+
+Query  856       CTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGG  915
+                 || |||||||||||  | ||||| ||||  || |||||| |  || ||||||| || |||
+Sbjct  11962455  CTGCTGGTGGAAGGCATCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGG  11962514
+
+Query  916       A  916
+                 |
+Sbjct  11962515  A  11962515
+
+
+
+
+Range 2: 11962105 to 11962160
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:46/56(82%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  666       GCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGA  721
+                 ||| | |||||  |||||||||||||||||| | || ||| |||| ||||| ||||
+Sbjct  11962105  GCTGCACTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCATCCTGA  11962160
+
+
+
+
+Range 3: 5452208 to 5452267
+
+Score:46.4 bits(50), Expect:0.019, 
+Identities:46/60(77%),  Gaps:0/60(0%), Strand: Plus/Plus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                ||||  |||| ||||||||| ||||||||||| ||| || | ||  | || || || |||
+Sbjct  5452208  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCCTTTATCCTG  5452267
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 27, RI_Zleu_2.0
+Sequence ID: NC_088196.1 Length: 6309133
+Range 1: 1029563 to 1029656
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:71/94(76%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  653      CCTCCTTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                ||||||  || | ||| | |||||| ||||| | ||||||||| ||  |||||||||| |
+Sbjct  1029563  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  1029622
+
+Query  713      TCATTCTGAGAGCCTCATCCAACTTCATCAAGGA  746
+                |||| ||| | | | |  ||   |||||||||||
+Sbjct  1029623  TCATCCTGCGGGGCACGGCCGTGTTCATCAAGGA  1029656
+
+
+
+
+Range 2: 1031750 to 1031829
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:60/80(75%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCCCTCTTTGGGGTCCACTATATCA  1228
+                ||| ||| ||  | ||||| || || || |||||||||||||| ||||| |||||  |  
+Sbjct  1031750  ACAGGAGGCTGACCAAGTCCACGCTGCTGCTCATCCCCCTCTTCGGGGTGCACTACGTGG  1031809
+
+Query  1229     TCTTTGCTTTTTTCCCTGAG  1248
+                | || ||  | |||||||||
+Sbjct  1031810  TGTTCGCGCTCTTCCCTGAG  1031829
+
+
+
+
+Range 3: 4818002 to 4818046
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:39/45(87%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCAT  716
+                ||||||| | || ||||||||| |||| ||||||||||| |||||
+Sbjct  4818046  CTGCACACGCAATTACATCCACGTGCACCTCTTCACCTCCTTCAT  4818002
+
+
+
+
+Range 4: 5350919 to 5350963
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:39/47(83%),  Gaps:2/47(4%), Strand: Plus/Minus
+
+Query  51       AAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAA  97
+                ||| ||||||| ||||||  || | ||||||||||| |||| |||||
+Sbjct  5350963  AAAACTGGGAAAGGAAAA--CAGGAAGGGAAAAGGAGGAAGGGAAAA  5350919
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 3, RI_Zleu_2.0
+Sequence ID: NC_088172.1 Length: 114162194
+Range 1: 76526226 to 76526293
+
+Score:65.3 bits(71), Expect:7e-08, 
+Identities:55/68(81%),  Gaps:0/68(0%), Strand: Plus/Plus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                 ||||||  |||||| |||||||||||  |||||||  |||| || |||||| ||||  ||
+Sbjct  76526226  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACACTGCTGGTGCTCTCTGTC  76526285
+
+Query  904       TTCTCGGA  911
+                 ||||| ||
+Sbjct  76526286  TTCTCTGA  76526293
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 5, RI_Zleu_2.0
+Sequence ID: NC_088175.1 Length: 62472784
+Range 1: 61693611 to 61693665
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:48/57(84%),  Gaps:2/57(3%), Strand: Plus/Plus
+
+Query  42        AGGATGGTCAAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||| ||  |||||||| |||||||||| || | ||||||||||| |||| ||||||
+Sbjct  61693611  AGGAAGGGAAAAGCTGG-AAGGGAAAAG-CAGGAAGGGAAAAGGAGGAAGGGAAAAG  61693665
+
+
+
+
+Range 2: 61693793 to 61693847
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:48/57(84%),  Gaps:2/57(3%), Strand: Plus/Plus
+
+Query  42        AGGATGGTCAAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||| ||  |||||||| |||||||||| || | ||||||||||| |||| ||||||
+Sbjct  61693793  AGGAAGGGAAAAGCTGG-AAGGGAAAAG-CAGGAAGGGAAAAGGAGGAAGGGAAAAG  61693847
+
+
+
+
+Range 3: 61693835 to 61693889
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:48/57(84%),  Gaps:2/57(3%), Strand: Plus/Plus
+
+Query  42        AGGATGGTCAAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||| ||  |||||||| ||||||||||| | | ||||||||||| |||| ||||||
+Sbjct  61693835  AGGAAGGGAAAAGCTGG-AAGGGAAAAGG-AGGAAGGGAAAAGGAGGAAGGGAAAAG  61693889
+
+
+
+
+Range 4: 61693891 to 61693945
+
+Score:51.8 bits(56), Expect:4e-04, 
+Identities:47/57(82%),  Gaps:2/57(3%), Strand: Plus/Plus
+
+Query  42        AGGATGGTCAAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||| ||  ||||| || |||||||||| || | ||||||||||| |||| ||||||
+Sbjct  61693891  AGGAAGGGAAAAGCAGG-AAGGGAAAAG-CAGGAAGGGAAAAGGAGGAAGGGAAAAG  61693945
+
+
+
+
+Range 5: 61693199 to 61693254
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:46/58(79%),  Gaps:2/58(3%), Strand: Plus/Plus
+
+Query  41        AAGGATGGTCAAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 ||||| ||  ||||| || |||| |||  ||| | ||||||||||| |||| ||||||
+Sbjct  61693199  AAGGAAGGGAAAAGCAGGAAAGGAAAA--GCAGGAAGGGAAAAGGAGGAAGGGAAAAG  61693254
+
+
+
+
+Range 6: 61693556 to 61693595
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:36/41(88%),  Gaps:1/41(2%), Strand: Plus/Plus
+
+Query  58        GGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||||||||||| || | ||||||||||| |||| ||||||
+Sbjct  61693556  GGAAGGGAAAAG-CAGGAAGGGAAAAGGAGGAAGGGAAAAG  61693595
+
+
+
+
+Range 7: 61693864 to 61693903
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:36/41(88%),  Gaps:1/41(2%), Strand: Plus/Plus
+
+Query  58        GGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 ||||||||||||| | | ||||||||||| |||| ||||||
+Sbjct  61693864  GGAAGGGAAAAGG-AGGAAGGGAAAAGGAGGAAGGGAAAAG  61693903
+
+
+
+
+Range 8: 56188410 to 56188457
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:39/48(81%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  51        AAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 ||||  | ||||||||||||  || ||||||||||  |||| ||||||
+Sbjct  56188457  AAAGGGGAGAAGGGAAAAGGGGAGAAGGGAAAAGGGGGAAGGGAAAAG  56188410
+
+
+
+
+Range 9: 56188616 to 56188663
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:39/48(81%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  51        AAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 ||||  | ||||||||||||  || ||||||||||  |||| ||||||
+Sbjct  56188663  AAAGGGGAGAAGGGAAAAGGGGAGAAGGGAAAAGGGAGAAGGGAAAAG  56188616
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 1A, RI_Zleu_2.0
+Sequence ID: NC_088170.1 Length: 73051372
+Range 1: 72182635 to 72182678
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:38/44(86%),  Gaps:2/44(4%), Strand: Plus/Minus
+
+Query  57        GGGAAGGGAAAAGGCAAG--GAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||||||||||||| |||  |||||||||||  |||| ||||||
+Sbjct  72182678  GGGAAGGGAAAAGGGAAGGAGAGGGAAAAGGGGGAAGGGAAAAG  72182635
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 12, RI_Zleu_2.0
+Sequence ID: NC_088182.1 Length: 20270949
+Range 1: 17236412 to 17236453
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:36/42(86%),  Gaps:0/42(0%), Strand: Plus/Plus
+
+Query  57        GGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||||||||||||| ||| ||||||||||   ||| ||||||
+Sbjct  17236412  GGGAAGGGAAAAGGGAAGAAGGGAAAAGGGAAAAGGGAAAAG  17236453
+
+
+
+
+Range 2: 17236388 to 17236424
+
+Score:46.4 bits(50), Expect:0.019, 
+Identities:34/39(87%),  Gaps:2/39(5%), Strand: Plus/Plus
+
+Query  60        AAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 ||||||||||| ||| ||||||||||  |||| ||||||
+Sbjct  17236388  AAGGGAAAAGGGAAGAAGGGAAAAGG--GAAGGGAAAAG  17236424
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 21, RI_Zleu_2.0
+Sequence ID: NC_088190.1 Length: 8480127
+Range 1: 111565 to 111614
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:43/51(84%),  Gaps:2/51(3%), Strand: Plus/Minus
+
+Query  41      AAGGATGGTCAAAGCTGGGAA-GGGAAAAGGCAAGGAGGGAAAAGGATGAA  90
+               |||| |||  |||| |||||| ||| ||||| ||||||||||||||| |||
+Sbjct  111614  AAGG-TGGGGAAAGGTGGGAATGGGGAAAGGAAAGGAGGGAAAAGGAGGAA  111565
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 28, RI_Zleu_2.0
+Sequence ID: NC_088197.1 Length: 6126336
+Range 1: 2450913 to 2450959
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:40/48(83%),  Gaps:1/48(2%), Strand: Plus/Plus
+
+Query  51       AAAGCTGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                ||||| |||||||||||||| ||  ||||||||||   ||| ||||||
+Sbjct  2450913  AAAGCAGGGAAGGGAAAAGGGAA-AAGGGAAAAGGGAAAAGGGAAAAG  2450959
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 6, RI_Zleu_2.0
+Sequence ID: NC_088176.1 Length: 35708988
+Range 1: 2028766 to 2028811
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:39/46(85%),  Gaps:4/46(8%), Strand: Plus/Plus
+
+Query  57       GGGAAGGGAAAAGGCAAGG--AGGGAAAAGGA--TGAAGTGAAAAG  98
+                |||||||||||||| ||||  |||||||||||   |||| ||||||
+Sbjct  2028766  GGGAAGGGAAAAGGGAAGGGAAGGGAAAAGGAAGGGAAGGGAAAAG  2028811
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 14, RI_Zleu_2.0
+Sequence ID: NC_088184.1 Length: 16474596
+Range 1: 2150228 to 2150285
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:45/58(78%),  Gaps:0/58(0%), Strand: Plus/Minus
+
+Query  826      CAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACA  883
+                ||||| |||||| || | ||| ||  |||| ||||||||||||   | |||||| |||
+Sbjct  2150285  CAGTACTGCATCCTGGCCAACCACTACTGGTTCCTGGTGGAAGCTGTCTACCTCTACA  2150228
+
+
+
+
+>Zonotrichia leucophrys gambelii isolate GWCS_2022_RI chromosome 26, RI_Zleu_2.0
+Sequence ID: NC_088195.1 Length: 7504969
+Range 1: 2184776 to 2184816
+
+Score:46.4 bits(50), Expect:0.019, 
+Identities:36/42(86%),  Gaps:1/42(2%), Strand: Plus/Minus
+
+Query  57       GGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                ||||| |||||||| | |  ||||||||||||||| ||||||
+Sbjct  2184816  GGGAAAGGAAAAGG-ATGAGGGGAAAAGGATGAAGGGAAAAG  2184776
+
+
+
+
+
+
+
+		
+
+

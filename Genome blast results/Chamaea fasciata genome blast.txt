@@ -1,0 +1,505 @@
+RID: NDDE2YZJ014	
+Job Title:XM_066190319.1:1-1530 PREDICTED: Chamaea fasciata...				
+Program: BLASTN 
+Database: Genome (bChaFas1.0.hap1) Chamaea fasciata bChaFas1.0.hap1 [GCF_029207755.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_029207755.1-RS_2024_06)
+Query #1: XM_066190319.1:1-1530 PREDICTED: Chamaea fasciata secretin receptor (SCTR), mRNA Query ID: lcl|Query_4474155 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis...     Chamaea fasc... NA              190680     387    2814  100%  5e-105 98.67  39324209   NW_027094093.1   
+Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis...     Chamaea fasc... NA              190680     67.1   443   29%   2e-08  78.48  153300038  NW_027094086.1   
+Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis...     Chamaea fasc... NA              190680     64.4   182   12%   7e-08  78.67  6151925    NW_027094112.1   
+Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis...     Chamaea fasc... NA              190680     61.7   112   4%    9e-07  80.30  11798465   NW_027094104.1   
+Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis...     Chamaea fasc... NA              190680     60.8   60.8  5%    9e-07  76.74  46402      NW_027094891.1   
+Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis...     Chamaea fasc... NA              190680     47.3   47.3  4%    0.020  77.59  16826796   NW_027094101.1   
+
+
+Alignments:
+
+>Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis unplaced genomic scaffold, bChaFas1.0.hap1 SCAF_8
+Sequence ID: NW_027094093.1 Length: 39324209
+Range 1: 30195323 to 30195547
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30195323  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  30195382
+
+Query  61        AGGGAAAAA-GCAAGGAGGGAAAAGGATGAAGTAAAAGGAGCTAGGAGCCACATTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30195383  AGGGAAAAAAGCAAGGAGGGAAAAGGATGAAGTAAAAGGAGCTAGGAGCCACATTGGAGA  30195442
+
+Query  120       GCATA--AACAGCCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGTTTA  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30195443  GCATACAAACAGCCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGTTTA  30195502
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30195503  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  30195547
+
+
+
+
+Range 2: 30213309 to 30213487
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCGGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTGGCATC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30213309  AGGTTCAGCTGGAAGTTCGGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTGGCATC  30213368
+
+Query  1412      AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCAGGTGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30213369  AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCAGGTGG  30213428
+
+Query  1472      TGCGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAG  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30213429  TGCGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAG  30213487
+
+
+
+
+Range 3: 30208278 to 30208434
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGTTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30208278  GGTTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTG  30208337
+
+Query  855       GCTCCTCGTGGAAGGACTGTACCTCCACACCCTCCTGGTGATTTCTTTCTTCTCCGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30208338  GCTCCTCGTGGAAGGACTGTACCTCCACACCCTCCTGGTGATTTCTTTCTTCTCCGAAAG  30208397
+
+Query  915       GAAGTTCCTCTGGTGGTTCATCGCCCTTGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  30208398  GAAGTTCCTCTGGTGGTTCATCGCCCTTGGATGGGGT  30208434
+
+
+
+
+Range 4: 30211921 to 30212063
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTACACTATATCAT  1229
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30211921  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTACACTATATCAT  30211980
+
+Query  1230      CTTCGCTTTTTTCCCTGAGGATGCAAGCAACGGCACAATGGAAATTCAGCTGTTTTTTGA  1289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30211981  CTTCGCTTTTTTCCCTGAGGATGCAAGCAACGGCACAATGGAAATTCAGCTGTTTTTTGA  30212040
+
+Query  1290      ATTGGCTCTTGGATCGTTCCAGG  1312
+                 |||||||||||||||||||||||
+Sbjct  30212041  ATTGGCTCTTGGATCGTTCCAGG  30212063
+
+
+
+
+Range 5: 30207341 to 30207477
+
+Score:248 bits(274), Expect:3e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  661       AGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30207341  AGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  30207400
+
+Query  721       CGAGCCTCGTCCAACTTCATCAAGGATGCTGTCCTGTTTTCCTCTGACGACATAAATTAC  780
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30207401  CGAGCCTCGTCCAACTTCATCAAGGATGCTGTCCTGTTTTCCTCTGACGACATAAATTAC  30207460
+
+Query  781       TGCGGGGCATACACGGT  797
+                 |||||||||||||||||
+Sbjct  30207461  TGCGGGGCATACACGGT  30207477
+
+
+
+
+Range 6: 30199014 to 30199142
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCTATTCCACCCATCTGTGACCTTTTGAGCGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30199014  GATCAAAGCTATTCCACCCATCTGTGACCTTTTGAGCGTCCTGAAAAGGGAGGAAGAAAA  30199073
+
+Query  282       GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCAGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30199074  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCAGCTCCT  30199133
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  30199134  GAGCTCAGG  30199142
+
+
+
+
+Range 7: 30201930 to 30202045
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCACAGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30201930  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCACAGTGGGAC  30201989
+
+Query  407       AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTTACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30201990  AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTTACTGGGAAAAAAGGT  30202045
+
+
+
+
+Range 8: 30205855 to 30205960
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCGTACCCAAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30205855  AGGTTTTGTGTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCGTACCCAAGACCTGA  30205914
+
+Query  519       CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30205915  CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  30205960
+
+
+
+
+Range 9: 30206253 to 30206350
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCGCTTGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30206253  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCGCTTGTG  30206312
+
+Query  625       ACACTGATGATAGCCTTAGTGGTCCTGGCCTCCTTTAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  30206313  ACACTGATGATAGCCTTAGTGGTCCTGGCCTCCTTTAG  30206350
+
+
+
+
+Range 10: 30211739 to 30211831
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATTATCTTTGTCAACATTTTAAGAATCCTGGTGAGGAAGCTCAGATCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30211739  ATTAATTTCATTATCTTTGTCAACATTTTAAGAATCCTGGTGAGGAAGCTCAGATCCCCT  30211798
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  30211799  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  30211831
+
+
+
+
+Range 11: 30209132 to 30209202
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30209132  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  30209191
+
+Query  1070      TGTCTATTTTT  1080
+                 |||||||||||
+Sbjct  30209192  TGTCTATTTTT  30209202
+
+
+
+
+Range 12: 30208521 to 30208584
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCTATGAAAATATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30208521  GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCTATGAAAATATT  30208580
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  30208581  GGGT  30208584
+
+
+
+
+Range 13: 30212222 to 30212284
+
+Score:86.0 bits(94), Expect:2e-14, 
+Identities:58/64(91%),  Gaps:1/64(1%), Strand: Plus/Plus
+
+Query  1292      TGGCTCTTGGATCGTTCCAGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTG  1351
+                 ||| ||||  ||| ||  ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30212222  TGGTTCTTTTATCTTTT-AGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTG  30212280
+
+Query  1352      AGGT  1355
+                 ||||
+Sbjct  30212281  AGGT  30212284
+
+
+
+
+>Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis unplaced genomic scaffold, bChaFas1.0.hap1 SCAF_1
+Sequence ID: NW_027094086.1 Length: 153300038
+Range 1: 150604039 to 150604117
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1169       ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTACACTATATCA  1228
+                  ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  150604039  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATCCACTACATCA  150604098
+
+Query  1229       TCTTCGCTTTTTTCCCTGA  1247
+                  | || ||||| ||||| ||
+Sbjct  150604099  TGTTTGCTTTCTTCCCCGA  150604117
+
+
+
+
+Range 2: 150278369 to 150278509
+
+Score:61.7 bits(67), Expect:9e-07, 
+Identities:98/141(70%),  Gaps:0/141(0%), Strand: Plus/Minus
+
+Query  795        GGTTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTG  854
+                  ||||| |||||||    |  ||| |||||| || | | ||||  |  | || | |  |||
+Sbjct  150278509  GGTTGCCTGTAAGGCTGCTGTGGCCTTCTTCCAATTCAGCATTTTAGCCAATTTCTTCTG  150278450
+
+Query  855        GCTCCTCGTGGAAGGACTGTACCTCCACACCCTCCTGGTGATTTCTTTCTTCTCCGAAAG  914
+                  ||| ||| | |||||  | |||||||| ||||| ||| || |  | ||  | ||| | | 
+Sbjct  150278449  GCTTCTCATCGAAGGGATCTACCTCCAAACCCTGCTGCTGCTGACCTTTGTTTCCAACAA  150278390
+
+Query  915        GAAGTTCCTCTGGTGGTTCAT  935
+                  ||||||  | |||||||||||
+Sbjct  150278389  GAAGTTTGTGTGGTGGTTCAT  150278369
+
+
+
+
+Range 3: 150273397 to 150273468
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:56/72(78%),  Gaps:0/72(0%), Strand: Plus/Minus
+
+Query  1177       CTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTACACTATATCATCTTCGCT  1236
+                  |||||||| || ||  | ||  | ||||| ||||||||||||||||| ||  | || || 
+Sbjct  150273468  CTTGCAAAATCCACGTTACTTTTGATCCCCCTCTTTGGGGTACACTACATTGTATTTGCA  150273409
+
+Query  1237       TTTTTCCCTGAG  1248
+                  |||||||| |||
+Sbjct  150273408  TTTTTCCCCGAG  150273397
+
+
+
+
+Range 4: 150575768 to 150575866
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:74/100(74%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  661        AGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                  |||| ||| | ||| ||  | || |||||||||||||| || ||||  || |||||  ||
+Sbjct  150575768  AGAAAACTGCACTGTACTCGAAATTACATCCACATGCACCTGTTCATGTCCTTCATCATG  150575827
+
+Query  721        CGAGCC-TCGTCCAACTTCATCAAGGATGCTGTCCTGTTT  759
+                   ||||| ||| |   |||||| |||||||   |||| |||
+Sbjct  150575828  AGAGCCATCG-CAGTCTTCATAAAGGATGTCATCCTCTTT  150575866
+
+
+
+
+Range 5: 150605228 to 150605275
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:41/48(85%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  1308       CCAGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  1355
+                  |||||| ||||| |||||||| || || || ||||||||||| |||||
+Sbjct  150605228  CCAGGGATTTGTGGTGGCTGTTCTGTACTGCTTTCTTAATGGAGAGGT  150605275
+
+
+
+
+Range 6: 143707925 to 143707990
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:50/66(76%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  353        GATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCACAGTGGGACAGACTG  412
+                  |||||| |||| | ||||||||||| | |||||||| | |  | |   | ||| ||||||
+Sbjct  143707925  GATGTGTTGGAGTTTGGGATAACATCACCTGCTGGCGTCCTGCGAAGATTGGAGAGACTG  143707984
+
+Query  413        TCAATG  418
+                  ||| ||
+Sbjct  143707985  TCACTG  143707990
+
+
+
+
+Range 7: 149898199 to 149898296
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:69/98(70%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  661        AGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                  || || ||||||||  | ||||| || |||||  | || |||||  |  | ||||| || 
+Sbjct  149898199  AGGAGGCTTCGCTGTCCCAGGAATTATATCCATGTACAGCTCTTTTCTACATTCATCTTA  149898258
+
+Query  721        CGAGCCTCGTCCAACTTCATCAAGGATGCTGTCCTGTT  758
+                    |||     |||  ||||| |||||||||||||| ||
+Sbjct  149898259  AAAGCTATTGCCATTTTCATTAAGGATGCTGTCCTTTT  149898296
+
+
+
+
+Range 8: 143723594 to 143723698
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:73/105(70%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  658        TTTAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATT  717
+                  ||||||| |||||  || ||  |||||||||||||  || | || |||   || ||||||
+Sbjct  143723594  TTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCTTTCATT  143723653
+
+Query  718        TTGCGAGCCTCGTCCAACTTCATCAAGGATGCTGTCCTGTTTTCC  762
+                   |  ||||    ||    ||  ||||||||| | | |||| ||||
+Sbjct  143723654  CTAAGAGCAATCTCTGTTTTAGTCAAGGATGATATTCTGTATTCC  143723698
+
+
+
+
+>Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis unplaced genomic scaffold, bChaFas1.0.hap1 SCAF_27
+Sequence ID: NW_027094112.1 Length: 6151925
+Range 1: 5697852 to 5697926
+
+Score:64.4 bits(70), Expect:7e-08, 
+Identities:59/75(79%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCGTC  731
+                ||||||| |||||||||||||| |||| |||||||| || ||||| |  || |||     
+Sbjct  5697852  CTGCACACGGAACTACATCCACGTGCACCTCTTCACCTCCTTCATCTGCCGGGCCCTCAG  5697911
+
+Query  732      CAACTTCATCAAGGA  746
+                || |||| |||||||
+Sbjct  5697912  CATCTTCGTCAAGGA  5697926
+
+
+
+
+Range 2: 763657 to 763771
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:84/118(71%),  Gaps:3/118(2%), Strand: Plus/Plus
+
+Query  653     CCTCCTTTAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGT  712
+               ||||||  || |  || | |||||| ||||| | ||||||||| ||  ||||||| || |
+Sbjct  763657  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  763716
+
+Query  713     TCATTTTGCGAGCCTCGTCCAACTTCATCAAGGATGCTGTCCTGTTTTCCTCTGACGA  770
+               ||||  |||| | | |  ||   |||||||||||    ||||| ||   ||| |||||
+Sbjct  763717  TCATCCTGCGGGGCACCGCCGTGTTCATCAAGGACAGCGTCCTCTT---CTCGGACGA  763771
+
+
+
+
+Range 3: 765949 to 766010
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:50/62(81%),  Gaps:0/62(0%), Strand: Plus/Plus
+
+Query  1183    AAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTACACTATATCATCTTCGCTTTTTTC  1242
+               ||||| ||||| ||||||||||| ||||||||||| |||||  |  | |||||  | |||
+Sbjct  765949  AAGTCCACACTGCTCCTCATCCCCCTCTTTGGGGTGCACTACGTGGTGTTCGCGCTCTTC  766008
+
+Query  1243    CC  1244
+               ||
+Sbjct  766009  CC  766010
+
+
+
+
+>Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis unplaced genomic scaffold, bChaFas1.0.hap1 SCAF_19
+Sequence ID: NW_027094104.1 Length: 11798465
+Range 1: 9747615 to 9747680
+
+Score:61.7 bits(67), Expect:9e-07, 
+Identities:53/66(80%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  661      AGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                |||| ||||| ||||||||| ||||||||||| ||| || | ||  |||| || || |||
+Sbjct  9747615  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCCTTTATCTTG  9747674
+
+Query  721      CGAGCC  726
+                || |||
+Sbjct  9747675  CGTGCC  9747680
+
+
+
+
+Range 2: 5781556 to 5781600
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  716
+                |||||  |||||||||||||||||| | |||||| | || |||||
+Sbjct  5781556  CTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  5781600
+
+
+
+
+>Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis unplaced genomic scaffold, bChaFas1.0.hap1 SCAF_806
+Sequence ID: NW_027094891.1 Length: 46402
+Range 1: 28598 to 28681
+
+Score:60.8 bits(66), Expect:9e-07, 
+Identities:66/86(77%),  Gaps:4/86(4%), Strand: Plus/Plus
+
+Query  672    CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCGTC  731
+              |||||| |||||||||||||||||||| || |||   || |||||  || | ||  ||||
+Sbjct  28598  CTGCACTAGGAACTACATCCACATGCACCTGTTCGTGTCCTTCATGCTGAGGGC--CGTC  28655
+
+Query  732    --CAACTTCATCAAGGATGCTGTCCT  755
+                || |||| | ||||| || |||||
+Sbjct  28656  AGCATCTTCGTGAAGGACGCCGTCCT  28681
+
+
+
+
+>Chamaea fasciata isolate MVZ Bird 193981 ecotype frontalis unplaced genomic scaffold, bChaFas1.0.hap1 SCAF_16
+Sequence ID: NW_027094101.1 Length: 16826796
+Range 1: 14480445 to 14480502
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:45/58(78%),  Gaps:0/58(0%), Strand: Plus/Plus
+
+Query  826       CAGTACTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAAGGACTGTACCTCCACA  883
+                 |||||||||||| || | ||| ||  |||| |||| |||||||   | |||||| |||
+Sbjct  14480445  CAGTACTGCATCCTGGCCAACCACTACTGGTTCCTGGTGGAAGCTGTCTACCTCTACA  14480502
+
+
+
+
+
+
+
+		
+
+

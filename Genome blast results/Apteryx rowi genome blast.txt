@@ -1,0 +1,347 @@
+RID: NCR785U2014	
+Job Title:XM_026076465.1 PREDICTED: Apteryx rowi secretin...				
+Program: BLASTN 
+Database: Genome (aptRow1) aptRow1 RefSeq assembly [GCF_003343035.1]
+Query #1: XM_026076465.1 PREDICTED: Apteryx rowi secretin receptor (SCTR), mRNA Query ID: lcl|Query_4424065 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1... Apteryx rowi    Okarito brow... 308060     394    2824  100%  3e-107 99.12  807788     NW_020450685.1   
+Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1... Apteryx rowi    Okarito brow... 308060     109    238   21%   2e-21  77.14  2324050    NW_020447297.1   
+Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1... Apteryx rowi    Okarito brow... 308060     62.6   62.6  5%    3e-07  77.22  200459     NW_020447221.1   
+Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1... Apteryx rowi    Okarito brow... 308060     59.0   59.0  4%    3e-06  79.10  1208505    NW_020449141.1   
+
+
+Alignments:
+
+>Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1 scaffold_431, whole genome shotgun sequence
+Sequence ID: NW_020450685.1 Length: 807788
+Range 1: 140641 to 140867
+
+Score:394 bits(436), Expect:3e-107, 
+Identities:225/227(99%),  Gaps:2/227(0%), Strand: Plus/Plus
+
+Query  1       ATGCTCCTTAGGGCTCTGCAGCTGCAGAGAAACCTTGGCTCAGGATGGTCAAAGCTTGCA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140641  ATGCTCCTTAGGGCTCTGCAGCTGCAGAGAAACCTTGGCTCAGGATGGTCAAAGCTTGCA  140700
+
+Query  61      AGGAAAAAA-GCTAGGAGGGAAAGGGATGGAGTGAGCGAACGGAGAGGTCCTCTGGAGAG  119
+               ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140701  AGGAAAAAACGCTAGGAGGGAAAGGGATGGAGTGAGCGAACGGAGAGGTCCTCTGGAGAG  140760
+
+Query  120     C-TACACACAGCCCGGGGACCTCTGGGGCGCGAGGCATGAAGGAGACGGACTGTGGCTGA  178
+               | ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140761  CGTACACACAGCCCGGGGACCTCTGGGGCGCGAGGCATGAAGGAGACGGACTGTGGCTGA  140820
+
+Query  179     CTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCCTCCTG  225
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140821  CTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCCTCCTG  140867
+
+
+
+
+Range 2: 161125 to 161303
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355    AGGTTCAGCTGGAAGTGCAGCGAAAATGGAGGCAGTGGCATCTGAGCAAACACTTGCGTC  1414
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  161125  AGGTTCAGCTGGAAGTGCAGCGAAAATGGAGGCAGTGGCATCTGAGCAAACACTTGCGTC  161184
+
+Query  1415    AGCATCTGAGCACCTCGGCTAGCAACGGAGGAAGCGGCTTAACTCAAGTGATGCACACGG  1474
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  161185  AGCATCTGAGCACCTCGGCTAGCAACGGAGGAAGCGGCTTAACTCAAGTGATGCACACGG  161244
+
+Query  1475    TGAAGTCCAGCCCGCCAGAGCACAGGAGACCAACCATCCAAAAATCAAGTGTGCTTTAG  1533
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  161245  TGAAGTCCAGCCCGCCAGAGCACAGGAGACCAACCATCCAAAAATCAAGTGTGCTTTAG  161303
+
+
+
+
+Range 3: 156096 to 156254
+
+Score:288 bits(318), Expect:4e-75, 
+Identities:159/159(100%),  Gaps:0/159(0%), Strand: Plus/Plus
+
+Query  798     GGCCGGATGTAAACTCACGATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156096  GGCCGGATGTAAACTCACGATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  156155
+
+Query  858     GCTTCTTGTAGAGGGGCTGTACCTCCACACTCTCCTGGTCATTTCTTTCTTCTCAGAAAG  917
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156156  GCTTCTTGTAGAGGGGCTGTACCTCCACACTCTCCTGGTCATTTCTTTCTTCTCAGAAAG  156215
+
+Query  918     GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGTAC  956
+               |||||||||||||||||||||||||||||||||||||||
+Sbjct  156216  GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGTAC  156254
+
+
+
+
+Range 4: 159731 to 159873
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173    CAAGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  1232
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159731  CAGGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  159790
+
+Query  1233    CTTTGCtttttttCCCGAAGATGCAAGTAGTGGCACAGTGGAAATTCAGCtttttttGGA  1292
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159791  CTTTGCTTTTTTTCCCGAAGATGCAAGTAGTGGCACAGTGGAAATTCAGCTTTTTTTGGA  159850
+
+Query  1293    GTTAGCTCTTGGATCATTCCAGG  1315
+               |||||||||||||||||||||||
+Sbjct  159851  GTTAGCTCTTGGATCATTCCAGG  159873
+
+
+
+
+Range 5: 153945 to 154081
+
+Score:248 bits(274), Expect:3e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  663     CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTGTTCACGTCGTTCATCTT  722
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  153945  CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTGTTCACGTCGTTCATCTT  154004
+
+Query  723     GCGAGCCTCATCAAACTTCATCAAGGATGCCGTTCTGTTTTCCTCCGATGACACAAATTA  782
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  154005  GCGAGCCTCATCAAACTTCATCAAGGATGCCGTTCTGTTTTCCTCCGATGACACAAATTA  154064
+
+Query  783     CTGCGGGGTGTACACGG  799
+               |||||||||||||||||
+Sbjct  154065  CTGCGGGGTGTACACGG  154081
+
+
+
+
+Range 6: 144747 to 144875
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225     GATCAGAGCTGTCCCACCTGTCTGCGACCTTCTGAGCGTCCTGAAGAAGGAAGAAGAAAA  284
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144747  GATCAGAGCTGTCCCACCTGTCTGCGACCTTCTGAGCGTCCTGAAGAAGGAAGAAGAAAA  144806
+
+Query  285     CTGTGCAGAGACTCTTTCCCTGGAGGCAAAGAACAGGACACCTGAAAATGATCTGCTCAG  344
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  144807  CTGTGCAGAGACTCTTTCCCTGGAGGCAAAGAACAGGACACCTGAAAATGATCTGCTCAG  144866
+
+Query  345     GGGTTCAGG  353
+               |||||||||
+Sbjct  144867  GGGTTCAGG  144875
+
+
+
+
+Range 7: 148317 to 148431
+
+Score:208 bits(230), Expect:3e-51, 
+Identities:115/115(100%),  Gaps:0/115(0%), Strand: Plus/Plus
+
+Query  351     AGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCGCGGTGGGACA  410
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148317  AGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCGCGGTGGGACA  148376
+
+Query  411     GACTGTCAATGCTCACTGCCCCAAATTCTTCCAGATGCTGACGGGGAAAAAAGGT  465
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  148377  GACTGTCAATGCTCACTGCCCCAAATTCTTCCAGATGCTGACGGGGAAAAAAGGT  148431
+
+
+
+
+Range 8: 152445 to 152550
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462     AGGTTTTATCTATCGAAACTGTACTAGTGAGGGTTGGTCAGCCCCATATCCAAGACCTGA  521
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152445  AGGTTTTATCTATCGAAACTGTACTAGTGAGGGTTGGTCAGCCCCATATCCAAGACCTGA  152504
+
+Query  522     TATTGCCTGTGGTTACAACGTAGATGACTCTGCGAACGAGGCAAGA  567
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152505  TATTGCCTGTGGTTACAACGTAGATGACTCTGCGAACGAGGCAAGA  152550
+
+
+
+
+Range 9: 152865 to 152962
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568     CGTTCCTATTTCATGACTCTGAAGACCATGTACACGGTTGGATACTGCACCTCCCTCGTG  627
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  152865  CGTTCCTATTTCATGACTCTGAAGACCATGTACACGGTTGGATACTGCACCTCCCTCGTG  152924
+
+Query  628     ACACTGTCAATAGCCTTAGTGATCCTGGCCTCTTTCAG  665
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  152925  ACACTGTCAATAGCCTTAGTGATCCTGGCCTCTTTCAG  152962
+
+
+
+
+Range 10: 159543 to 159635
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084    ATAAACTTCATTCTTTTCGTCAACATTTTAAGAATTTTGATGAGGAAGCTCAGCTCACCT  1143
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159543  ATAAACTTCATTCTTTTCGTCAACATTTTAAGAATTTTGATGAGGAAGCTCAGCTCACCT  159602
+
+Query  1144    GAAGGGAGGAGTGGTGATACCAACCAGTACAAG  1176
+               |||||||||||||||||||||||||||||||||
+Sbjct  159603  GAAGGGAGGAGTGGTGATACCAACCAGTACAAG  159635
+
+
+
+
+Range 11: 156975 to 157049
+
+Score:132 bits(145), Expect:6e-28, 
+Identities:74/75(99%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  1013    GGTGCTGGGACACTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156975  GGTGCTGGGACACTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  157034
+
+Query  1073    TGTCTATTTTTATAA  1087
+               ||||||||||| |||
+Sbjct  157035  TGTCTATTTTTGTAA  157049
+
+
+
+
+Range 12: 156338 to 156401
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952     GGTACCCCAACTGTGTTTGTTGCGGCATGGGCCATAGCTAGGCAACTCCATGAAAATATT  1011
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156338  GGTACCCCAACTGTGTTTGTTGCGGCATGGGCCATAGCTAGGCAACTCCATGAAAATATT  156397
+
+Query  1012    GGGT  1015
+               ||||
+Sbjct  156398  GGGT  156401
+
+
+
+
+Range 13: 160049 to 160094
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313    AGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  160049  AGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  160094
+
+
+
+
+>Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1 scaffold_109, whole genome shotgun sequence
+Sequence ID: NW_020447297.1 Length: 2324050
+Range 1: 1967838 to 1967977
+
+Score:109 bits(120), Expect:2e-21, 
+Identities:108/140(77%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  816      GATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTTCTTGTAGAGGGGCT  875
+                |||||| ||||||||||| ||| ||||| | |||| |  |||||| ||||| || ||  |
+Sbjct  1967838  GATGGTTTTCTTTCAGTACTGCGTCATGGCCAACTTCTTCTGGCTGCTTGTGGAAGGCTT  1967897
+
+Query  876      GTACCTCCACACTCTCCTGGTCATTTCTTTCTTCTCAGAAAGGAAGTTCCTCTGGTGGTT  935
+                ||| || ||||| ||  ||||||| || ||||| ||||| ||||||| | | ||||||| 
+Sbjct  1967898  GTATCTTCACACCCTGTTGGTCATCTCCTTCTTTTCAGAGAGGAAGTACTTTTGGTGGTA  1967957
+
+Query  936      CATCGCCCTCGGATGGGGTA  955
+                ||||    | || |||||||
+Sbjct  1967958  CATCTTGATTGGCTGGGGTA  1967977
+
+
+
+
+Range 2: 1982586 to 1982720
+
+Score:75.2 bits(82), Expect:4e-11, 
+Identities:103/144(72%),  Gaps:9/144(6%), Strand: Plus/Plus
+
+Query  1172     ACAAGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCA  1231
+                ||| |||||| || ||||| ||  | || || ||||| ||||||||  ||||||||||||
+Sbjct  1982586  ACAGGAGACTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  1982645
+
+Query  1232     TCTTTGCtttttttCCCGAAGATGCAAGTAGTGGCACAGTGGAAATTCAGCtttttttGG  1291
+                | |||||||| || || ||     |||    |  || ||  ||| || ||||| | || |
+Sbjct  1982646  TGTTTGCTTTCTTCCCTGA-----CAA----TTTCAAAGCAGAAGTTAAGCTTGTCTTTG  1982696
+
+Query  1292     AGTTAGCTCTTGGATCATTCCAGG  1315
+                || | |   |||| ||||||||||
+Sbjct  1982697  AGCTCGTGGTTGGGTCATTCCAGG  1982720
+
+
+
+
+Range 3: 1561081 to 1561129
+
+Score:53.6 bits(58), Expect:1e-04, 
+Identities:41/49(84%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1310     TCCAGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                ||||||||||||| || ||||| || ||||||||  | ||||| |||||
+Sbjct  1561081  TCCAGGGTTTTGTTGTTGCTGTTCTCTATTGTTTCTTGAATGGGGAGGT  1561129
+
+
+
+
+>Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1 scaffold_1020, whole genome shotgun sequence
+Sequence ID: NW_020447221.1 Length: 200459
+Range 1: 155772 to 155850
+
+Score:62.6 bits(68), Expect:3e-07, 
+Identities:61/79(77%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1173    CAAGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  1232
+               || ||| ||| ||||||| || || ||||||||||| ||||| ||||| |||||| |  |
+Sbjct  155850  CAGGAGGCTCACAAAGTCCACACTGCTCCTCATCCCTCTCTTCGGGGTGCACTACGTGGT  155791
+
+Query  1233    CTTTGCtttttttCCCGAA  1251
+                || ||  | || ||||||
+Sbjct  155790  GTTCGCGCTCTTCCCCGAA  155772
+
+
+
+
+>Apteryx rowi isolate R43461 unplaced genomic scaffold, aptRow1 scaffold_275, whole genome shotgun sequence
+Sequence ID: NW_020449141.1 Length: 1208505
+Range 1: 981628 to 981694
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Plus
+
+Query  663     CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTGTTCACGTCGTTCATCTT  722
+               ||||| ||||| ||| ||||| ||||||||||| ||| || | ||  | || || |||||
+Sbjct  981628  CAGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTT  981687
+
+Query  723     GCGAGCC  729
+               ||| |||
+Sbjct  981688  GCGTGCC  981694
+
+
+
+
+
+
+
+		
+
+

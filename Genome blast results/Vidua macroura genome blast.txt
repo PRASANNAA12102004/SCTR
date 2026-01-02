@@ -1,0 +1,462 @@
+RID: NDMAVBTW016	
+Job Title:XM_053982286.1:1-1533 PREDICTED: Vidua macroura...				
+Program: BLASTN 
+Database: Genome (ASM2450914v1) Vidua macroura ASM2450914v1 [GCF_024509145.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_024509145.1-RS_2023_03)
+Query #1: XM_053982286.1:1-1533 PREDICTED: Vidua macroura secretin receptor (SCTR), mRNA Query ID: lcl|Query_6104399 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Vidua macroura isolate BioBank_ID:100142 chromosome 7,...         Vidua macroura  Pin-tailed w... 187451     400    2824  100%  7e-109 99.56  40987709   NC_071577.1      
+Vidua macroura isolate BioBank_ID:100142 chromosome 1,...         Vidua macroura  Pin-tailed w... 187451     114    557   25%   4e-23  76.47  154586422  NC_071571.1      
+Vidua macroura isolate BioBank_ID:100142 chromosome 27,...        Vidua macroura  Pin-tailed w... 187451     62.6   110   9%    2e-07  74.47  6642421    NC_071597.1      
+Vidua macroura isolate BioBank_ID:100142 chromosome 19,...        Vidua macroura  Pin-tailed w... 187451     59.9   119   4%    3e-06  80.00  13938391   NC_071589.1      
+Vidua macroura isolate BioBank_ID:100142 chromosome 3,...         Vidua macroura  Pin-tailed w... 187451     46.4   46.4  3%    0.019  80.00  106592091  NC_071573.1      
+
+
+Alignments:
+
+>Vidua macroura isolate BioBank_ID:100142 chromosome 7, ASM2450914v1
+Sequence ID: NC_071577.1 Length: 40987709
+Range 1: 31739649 to 31739874
+
+Score:400 bits(443), Expect:7e-109, 
+Identities:225/226(99%),  Gaps:1/226(0%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATAGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31739649  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATAGTCAAAGCTGGGA  31739708
+
+Query  61        AGGGAAAA-AGCAAAGAGGGAAAAGGATGAAGTGAAAAAGAGCTAGGAGCCACGCTGGAG  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31739709  AGGGAAAAAAGCAAAGAGGGAAAAGGATGAAGTGAAAAAGAGCTAGGAGCCACGCTGGAG  31739768
+
+Query  120       AGCATACAAACAGCCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGATT  179
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31739769  AGCATACAAACAGCCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGATT  31739828
+
+Query  180       GACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31739829  GACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  31739874
+
+
+
+
+Range 2: 31759223 to 31759401
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31759223  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  31759282
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAACGGTGGCAGCGGCTTGACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31759283  AGCATCTCAGCACCTCAGCGAGTAACGGTGGCAGCGGCTTGACTCAAGAGATGCAGATGG  31759342
+
+Query  1475      TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31759343  TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  31759401
+
+
+
+
+Range 3: 31754084 to 31754240
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31754084  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  31754143
+
+Query  858       GCTGCTTGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31754144  GCTGCTTGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  31754203
+
+Query  918       GAAGTTCCTCTGGTGGTTCATCACCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  31754204  GAAGTTCCTCTGGTGGTTCATCACCCTCGGATGGGGT  31754240
+
+
+
+
+Range 4: 31757843 to 31757985
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31757843  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  31757902
+
+Query  1233      CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31757903  CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  31757962
+
+Query  1293      ATTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  31757963  ATTGGCTCTTGGATCATTCCAGG  31757985
+
+
+
+
+Range 5: 31753131 to 31753266
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31753131  AGAAGACTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTG  31753190
+
+Query  724       CGAGCCTCATCCAGCTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAAGACACAAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31753191  CGAGCCTCATCCAGCTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAAGACACAAATTAC  31753250
+
+Query  784       TGTGGGGCACACATGG  799
+                 ||||||||||||||||
+Sbjct  31753251  TGTGGGGCACACATGG  31753266
+
+
+
+
+Range 6: 31743372 to 31743500
+
+Score:233 bits(258), Expect:6e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31743372  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  31743431
+
+Query  285       GTGTGTGGAGACTCTTTCTCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31743432  GTGTGTGGAGACTCTTTCTCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  31743491
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  31743492  GAGCTCAGG  31743500
+
+
+
+
+Range 7: 31747714 to 31747829
+
+Score:210 bits(232), Expect:7e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCAGTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31747714  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCAGTGTGGGAC  31747773
+
+Query  410       AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31747774  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  31747829
+
+
+
+
+Range 8: 31751648 to 31751753
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31751648  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  31751707
+
+Query  522       CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31751708  CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  31751753
+
+
+
+
+Range 9: 31752049 to 31752146
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCGTTGGATACTGCACCTCCCTTGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31752049  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCGTTGGATACTGCACCTCCCTTGTG  31752108
+
+Query  628       ACGTTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  31752109  ACGTTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  31752146
+
+
+
+
+Range 10: 31757661 to 31757753
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      ATTAATTTCATTCTCTTTGTCAACATTTTGAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31757661  ATTAATTTCATTCTCTTTGTCAACATTTTGAGAATCCTGATGAGGAAGCTCAGCTCCCCT  31757720
+
+Query  1144      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  31757721  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  31757753
+
+
+
+
+Range 11: 31754920 to 31754990
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31754920  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  31754979
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  31754980  TGTCTATTTTT  31754990
+
+
+
+
+Range 12: 31754326 to 31754389
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCGACTGCTCGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31754326  GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCGACTGCTCGGCAACTCCATGAAAATATT  31754385
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  31754386  GGGT  31754389
+
+
+
+
+Range 13: 31758161 to 31758206
+
+Score:84.2 bits(92), Expect:7e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31758161  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  31758206
+
+
+
+
+>Vidua macroura isolate BioBank_ID:100142 chromosome 1, ASM2450914v1
+Sequence ID: NC_071571.1 Length: 154586422
+Range 1: 3035114 to 3035266
+
+Score:114 bits(126), Expect:4e-23, 
+Identities:117/153(76%),  Gaps:0/153(0%), Strand: Plus/Minus
+
+Query  802      GGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTG  861
+                ||||| |||  ||  ||||| ||||| ||||| ||  ||||| | |||| |  |||||||
+Sbjct  3035266  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3035207
+
+Query  862      CTTGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGAAG  921
+                || ||||| ||  ||||||| ||||| || ||||| || ||||||||||| || ||||| 
+Sbjct  3035206  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCAGAGAGGAAA  3035147
+
+Query  922      TTCCTCTGGTGGTTCATCACCCTCGGATGGGGT  954
+                |   ||||||||| ||||    |||| ||||||
+Sbjct  3035146  TATTTCTGGTGGTACATCCTGATCGGCTGGGGT  3035114
+
+
+
+
+Range 2: 3048684 to 3048782
+
+Score:74.3 bits(81), Expect:1e-10, 
+Identities:79/101(78%),  Gaps:4/101(3%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTG  723
+                |||| ||| ||||| ||  | || ||||| |||||||| ||||||| ||| |||||  ||
+Sbjct  3048782  AGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCATG  3048723
+
+Query  724      CGAGCCTCATC-CAG-CTTCATCAAGGATGCTGTCTTGTTT  762
+                 |||||  ||| ||| ||||||||||||||   || |||||
+Sbjct  3048722  AGAGCC--ATCGCAGTCTTCATCAAGGATGTCATCCTGTTT  3048684
+
+
+
+
+Range 3: 3021666 to 3021744
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1231
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  3021744  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3021685
+
+Query  1232     TCTTTGCTTTTTTCCCTGA  1250
+                | |||||||| ||||| ||
+Sbjct  3021684  TGTTTGCTTTCTTCCCCGA  3021666
+
+
+
+
+Range 4: 3345061 to 3345139
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1232
+                || ||||||||||||||| ||  | ||  | ||||| ||||||||||| ||||| ||  |
+Sbjct  3345061  CAGGAGACTTGCAAAGTCCACGTTACTTTTGATCCCCCTCTTTGGGGTGCACTACATTGT  3345120
+
+Query  1233     CTTTGCTTTTTTCCCTGAG  1251
+                 ||||| |||||||| |||
+Sbjct  3345121  ATTTGCATTTTTCCCAGAG  3345139
+
+
+
+
+Range 5: 1417905 to 1417992
+
+Score:64.4 bits(70), Expect:7e-08, 
+Identities:69/89(78%),  Gaps:2/89(2%), Strand: Plus/Minus
+
+Query  673      CACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTGCGAGCC-TC  731
+                |||||||| |||||||||||||||||||| || ||   ||| |||||  || | ||| ||
+Sbjct  1417992  CACTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTC  1417933
+
+Query  732      ATCCAGCTTCATCAAGGATGCTGTCTTGT  760
+                |  || |||| | ||||| || ||| |||
+Sbjct  1417932  A-GCATCTTCGTGAAGGACGCAGTCCTGT  1417905
+
+
+
+
+Range 6: 115352626 to 115352673
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:43/51(84%),  Gaps:3/51(5%), Strand: Plus/Minus
+
+Query  50         CAAAGCTGGGAAGGGAAAAAGCAAAGAGGGAAAAGGATGAAGTGAAAAAGA  100
+                  ||||| | ||||||||||||   |||||||||||||| |||  ||||||||
+Sbjct  115352673  CAAAGATAGGAAGGGAAAAA---AAGAGGGAAAAGGAAGAAAGGAAAAAGA  115352626
+
+
+
+
+Range 7: 3340505 to 3340603
+
+Score:53.6 bits(58), Expect:1e-04, 
+Identities:71/99(72%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  664      AGAAGACTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTG  723
+                |||| | | ||||||||  |||| |||||||||||||| || ||    || || || |||
+Sbjct  3340505  AGAAAATTCCACTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTG  3340564
+
+Query  724      CGAGCCTCATCCAGCTTCATCAAGGATGCTGTCTTGTTT  762
+                 ||||     |    |||| ||| |||||||| ||||||
+Sbjct  3340565  AGAGCAGTTGCTGTTTTCACCAAAGATGCTGTTTTGTTT  3340603
+
+
+
+
+Range 8: 9876659 to 9876736
+
+Score:51.8 bits(56), Expect:4e-04, 
+Identities:58/78(74%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1232
+                || |||||||||||| || ||  | || || || ||| | ||||| || ||||| |   |
+Sbjct  9876736  CAGGAGACTTGCAAAATCCACGTTGCTGCTTATTCCTTTATTTGGAGTTCACTACACAGT  9876677
+
+Query  1233     CTTTGCTTTTTTCCCTGA  1250
+                 |||||||| || |||||
+Sbjct  9876676  GTTTGCTTTGTTTCCTGA  9876659
+
+
+
+
+>Vidua macroura isolate BioBank_ID:100142 chromosome 27, ASM2450914v1
+Sequence ID: NC_071597.1 Length: 6642421
+Range 1: 5441323 to 5441416
+
+Score:62.6 bits(68), Expect:2e-07, 
+Identities:70/94(74%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  656      CCTCCTTTAGAAGACTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGT  715
+                ||||||  || |  || |||||||| ||||| | ||||||||| ||  ||||||| || |
+Sbjct  5441416  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  5441357
+
+Query  716      TCATTTTGCGAGCCTCATCCAGCTTCATCAAGGA  749
+                ||||  |||| | | |  ||   |||||||||||
+Sbjct  5441356  TCATCCTGCGGGGCACGGCCGTGTTCATCAAGGA  5441323
+
+
+
+
+Range 2: 5439174 to 5439214
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:35/41(85%),  Gaps:0/41(0%), Strand: Plus/Minus
+
+Query  1186     AAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTA  1226
+                ||||| || || || |||||||| ||||||||||| |||||
+Sbjct  5439214  AAGTCCACGCTGCTGCTCATCCCCCTCTTTGGGGTGCACTA  5439174
+
+
+
+
+>Vidua macroura isolate BioBank_ID:100142 chromosome 19, ASM2450914v1
+Sequence ID: NC_071589.1 Length: 13938391
+Range 1: 2431012 to 2431076
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:52/65(80%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTG  723
+                |||| ||||||||||||||| ||||||||||| ||| || | ||  | || || || |||
+Sbjct  2431076  AGAAAACTTCACTGCACGAGAAACTACATCCATATGAATTTATTTGCTTCCTTTATCTTG  2431017
+
+Query  724      CGAGC  728
+                || ||
+Sbjct  2431016  CGTGC  2431012
+
+
+
+
+Range 2: 13497997 to 13498046
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:43/50(86%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  670       CTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCAT  719
+                 || ||||||| ||||||||||||||||||| | |||||| | || |||||
+Sbjct  13497997  CTGCACTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  13498046
+
+
+
+
+>Vidua macroura isolate BioBank_ID:100142 chromosome 3, ASM2450914v1
+Sequence ID: NC_071573.1 Length: 106592091
+Range 1: 19061551 to 19061600
+
+Score:46.4 bits(50), Expect:0.019, 
+Identities:40/50(80%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  670       CTTCACTGCACGAGGAACTACATCCACATGCATCTCTTCACGTCGTTCAT  719
+                 || || ||||||||||| ||||| ||| || | |||||||| || || ||
+Sbjct  19061551  CTGCATTGCACGAGGAATTACATTCACCTGAACCTCTTCACCTCTTTTAT  19061600
+
+
+
+
+
+
+
+		
+
+

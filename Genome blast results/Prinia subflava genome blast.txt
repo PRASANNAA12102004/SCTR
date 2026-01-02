@@ -1,0 +1,421 @@
+RID: NDJA7V96014	
+Job Title:XM_063400925.1:1-1530 PREDICTED: Prinia subflava...				
+Program: BLASTN 
+Database: Genome (Cam_Psub_1.2) Prinia subflava Cam_Psub_1.2 [GCF_021018805.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_021018805.1-RS_2024_02)
+Query #1: XM_063400925.1:1-1530 PREDICTED: Prinia subflava secretin receptor (SCTR), mRNA Query ID: lcl|Query_7661671 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Prinia subflava isolate CZ2003 ecotype Zambia chromosome 6,...    Prinia subflava tawny-flanke... 208062     396    2973  100%  6e-108 98.67  39172160   NC_086252.1      
+Prinia subflava isolate CZ2003 ecotype Zambia chromosome 1,...    Prinia subflava tawny-flanke... 208062     108    305   22%   4e-21  81.97  153903191  NC_086247.1      
+Prinia subflava isolate CZ2003 ecotype Zambia chromosome 12,...   Prinia subflava tawny-flanke... 208062     64.1   110   11%   8e-08  77.14  22940891   NC_086258.1      
+Prinia subflava isolate CZ2003 ecotype Zambia chromosome 2,...    Prinia subflava tawny-flanke... 208062     56.4   56.4  4%    2e-05  81.54  113950090  NC_086248.1      
+Prinia subflava isolate CZ2003 ecotype Zambia chromosome 8,...    Prinia subflava tawny-flanke... 208062     52.6   52.6  3%    2e-04  86.67  37082515   NC_086254.1      
+Prinia subflava isolate CZ2003 ecotype Zambia chromosome 7,...    Prinia subflava tawny-flanke... 208062     46.8   46.8  3%    0.013  87.18  37441762   NC_086253.1      
+
+
+Alignments:
+
+>Prinia subflava isolate CZ2003 ecotype Zambia chromosome 6, Cam_Psub_1.2
+Sequence ID: NC_086252.1 Length: 39172160
+Range 1: 30255534 to 30255758
+
+Score:396 bits(206), Expect:6e-108, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30255534  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  30255593
+
+Query  61        AGGGAAAAA-GCAAGGAGGGAAAAGGATGAAGTAAAAAGAGCTACGAGCCACGCTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30255594  AGGGAAAAAAGCAAGGAGGGAAAAGGATGAAGTAAAAAGAGCTACGAGCCACGCTGGAGA  30255653
+
+Query  120       GCATA--AACAGCCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGTTTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30255654  GCATACAAACAGCCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGTTTG  30255713
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAGCTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30255714  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAGCTGTCCCG  30255758
+
+
+
+
+Range 2: 30273517 to 30273695
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTGGCGTC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30273517  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTGGCGTC  30273576
+
+Query  1412      AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCAGGTGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30273577  AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCAGGTGG  30273636
+
+Query  1472      TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAG  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30273637  TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAG  30273695
+
+
+
+
+Range 3: 30268470 to 30268626
+
+Score:302 bits(157), Expect:1e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30268470  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  30268529
+
+Query  855       GCTCCTGGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCTTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30268530  GCTCCTGGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCTTTCTTCTCGGAAAG  30268589
+
+Query  915       GAAGTTCCTCTGGTGGTTCATTGCCCTTGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  30268590  GAAGTTCCTCTGGTGGTTCATTGCCCTTGGATGGGGT  30268626
+
+
+
+
+Range 4: 30272159 to 30272298
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  1173      GAGACTTGCAAAGTCAACACTCCTCCTCATTCCTCTTTTTGGGGTCCACTATATCATCTT  1232
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30272159  GAGACTTGCAAAGTCAACACTCCTCCTCATTCCTCTTTTTGGGGTCCACTATATCATCTT  30272218
+
+Query  1233      TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGAATT  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30272219  TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGAATT  30272278
+
+Query  1293      AGCTCTTGGATCATTCCAGG  1312
+                 ||||||||||||||||||||
+Sbjct  30272279  AGCTCTTGGATCATTCCAGG  30272298
+
+
+
+
+Range 5: 30267532 to 30267668
+
+Score:264 bits(137), Expect:5e-68, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  660       CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  719
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30267532  CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  30267591
+
+Query  720       GCGAGCCTCCTCCAACTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAAGACACAAATTA  779
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30267592  GCGAGCCTCCTCCAACTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAAGACACAAATTA  30267651
+
+Query  780       CTGTGGGGCATACACGG  796
+                 |||||||||||||||||
+Sbjct  30267652  CTGTGGGGCATACACGG  30267668
+
+
+
+
+Range 6: 30259218 to 30259346
+
+Score:248 bits(129), Expect:2e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GACCAAAGCTGTTCCACCCATCTGTGATCTTCTGAGCGTCCTGAAAAGAGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30259218  GACCAAAGCTGTTCCACCCATCTGTGATCTTCTGAGCGTCCTGAAAAGAGAGGAAGAAAA  30259277
+
+Query  282       GTGTATGGAGATTCTTTCCCTGGAGGCAAGGAACAGAACGACAGAAAATGATCTACTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30259278  GTGTATGGAGATTCTTTCCCTGGAGGCAAGGAACAGAACGACAGAAAATGATCTACTCCT  30259337
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  30259338  GAGCTCAGG  30259346
+
+
+
+
+Range 7: 30262067 to 30262182
+
+Score:223 bits(116), Expect:8e-56, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30262067  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  30262126
+
+Query  407       AGATTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30262127  AGATTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  30262182
+
+
+
+
+Range 8: 30266061 to 30266166
+
+Score:204 bits(106), Expect:5e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGACCCGTACCCAAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30266061  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGACCCGTACCCAAGACCTGA  30266120
+
+Query  519       CATCGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30266121  CATCGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  30266166
+
+
+
+
+Range 9: 30266450 to 30266547
+
+Score:189 bits(98), Expect:2e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30266450  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  30266509
+
+Query  625       ACTCTGATGATAGCATTAGTGGTCCTGGCCTCCTTCAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  30266510  ACTCTGATGATAGCATTAGTGGTCCTGGCCTCCTTCAG  30266547
+
+
+
+
+Range 10: 30271978 to 30272070
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGGTGAGGAAGCTCAGATCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30271978  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGGTGAGGAAGCTCAGATCCCCT  30272037
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  30272038  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  30272070
+
+
+
+
+Range 11: 30269310 to 30269380
+
+Score:137 bits(71), Expect:8e-30, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTCGAGGCCCCATAGTTT  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30269310  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTCGAGGCCCCATAGTTT  30269369
+
+Query  1070      TGTCTATTTTT  1080
+                 |||||||||||
+Sbjct  30269370  TGTCTATTTTT  30269380
+
+
+
+
+Range 12: 30268714 to 30268777
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30268714  GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATT  30268773
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  30268774  GGGT  30268777
+
+
+
+
+Range 13: 30272474 to 30272519
+
+Score:89.1 bits(46), Expect:2e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1310      AGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  1355
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30272474  AGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  30272519
+
+
+
+
+>Prinia subflava isolate CZ2003 ecotype Zambia chromosome 1, Cam_Psub_1.2
+Sequence ID: NC_086247.1 Length: 153903191
+Range 1: 150952250 to 150952371
+
+Score:108 bits(56), Expect:4e-21, 
+Identities:100/122(82%),  Gaps:0/122(0%), Strand: Plus/Minus
+
+Query  814        ATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGGCTG  873
+                  ||||| ||||| ||||| ||  ||||| | |||| |  |||||| |||||||| ||||||
+Sbjct  150952371  ATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTGCTGGTGGAGGGGCTG  150952312
+
+Query  874        TACCTCCACACTCTCCTGGTGATTTCTTTCTTCTCGGAAAGGAAGTTCCTCTGGTGGTTC  933
+                  ||||||||||| || ||||| || || ||||||||||| ||||| | | ||||||||| |
+Sbjct  150952311  TACCTCCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAATACTTCTGGTGGTAC  150952252
+
+Query  934        AT  935
+                  ||
+Sbjct  150952251  AT  150952250
+
+
+
+
+Range 2: 144306833 to 144306912
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:62/80(78%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  815        TGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGGCTGT  874
+                  |||| || ||||||||| |  | ||| | |||| |  ||||||| | ||||||||||| |
+Sbjct  144306833  TGGTGTTTTTTCAGTATGGTGTTATGGCAAACTTCTACTGGCTCTTAGTGGAAGGGCTTT  144306892
+
+Query  875        ACCTCCACACTCTCCTGGTG  894
+                  |||| ||||  ||||| |||
+Sbjct  144306893  ACCTGCACATCCTCCTTGTG  144306912
+
+
+
+
+Range 3: 152681509 to 152681594
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:66/86(77%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  672        CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCCTC  731
+                  |||||| |||||||||||||||||||| || ||    || |||||  || |||||  |  
+Sbjct  152681509  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGAGCCGTCAG  152681568
+
+Query  732        CAACTTCATCAAGGATGCTGTCTTGT  757
+                  || |||| ||||||| || ||| |||
+Sbjct  152681569  CATCTTCGTCAAGGACGCGGTCCTGT  152681594
+
+
+
+
+Range 4: 150938143 to 150938218
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:59/76(78%),  Gaps:0/76(0%), Strand: Plus/Minus
+
+Query  1169       ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATTCCTCTTTTTGGGGTCCACTATATCA  1228
+                  ||| ||| || || ||||| || || || || || ||||| |||||  | ||||| ||||
+Sbjct  150938218  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  150938159
+
+Query  1229       TCTTTGCTTTTTTCCC  1244
+                  | |||||||| |||||
+Sbjct  150938158  TGTTTGCTTTCTTCCC  150938143
+
+
+
+
+Range 5: 150937426 to 150937473
+
+Score:46.8 bits(24), Expect:0.013, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1308       CCAGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  1355
+                  |||||| ||||| |||||||| || || || ||||| ||||| |||||
+Sbjct  150937473  CCAGGGATTTGTGGTGGCTGTTCTGTACTGCTTTCTCAATGGAGAGGT  150937426
+
+
+
+
+>Prinia subflava isolate CZ2003 ecotype Zambia chromosome 12, Cam_Psub_1.2
+Sequence ID: NC_086258.1 Length: 22940891
+Range 1: 11611338 to 11611442
+
+Score:64.1 bits(33), Expect:8e-08, 
+Identities:81/105(77%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  812       CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGGC  871
+                 ||| ||||||| | |||||  ||||| || | |||||| ||||||| |||||||||||  
+Sbjct  11611442  CCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAAGGCA  11611383
+
+Query  872       TGTACCTCCACACTCTCCTGGTGATTTCTTTCTTCTCGGAAAGGA  916
+                 | ||||| ||||  || |||||| |  |  ||||||| || ||||
+Sbjct  11611382  TCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGGA  11611338
+
+
+
+
+Range 2: 16857931 to 16857993
+
+Score:46.8 bits(24), Expect:0.013, 
+Identities:50/63(79%),  Gaps:0/63(0%), Strand: Plus/Minus
+
+Query  660       CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  719
+                 |||||  |||| ||||||||| ||||||||||| ||| || | ||  |||| || || ||
+Sbjct  16857993  CAGAAAGCTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCCTTTATCTT  16857934
+
+Query  720       GCG  722
+                 |||
+Sbjct  16857933  GCG  16857931
+
+
+
+
+>Prinia subflava isolate CZ2003 ecotype Zambia chromosome 2, Cam_Psub_1.2
+Sequence ID: NC_086248.1 Length: 113950090
+Range 1: 86423222 to 86423286
+
+Score:56.4 bits(29), Expect:2e-05, 
+Identities:53/65(82%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCTTTC  903
+                 ||||||  |||||| |||||||||||  |||||||  |||| || |||||| ||||  ||
+Sbjct  86423286  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACGCTGCTGGTGCTTTCGGTC  86423227
+
+Query  904       TTCTC  908
+                 |||||
+Sbjct  86423226  TTCTC  86423222
+
+
+
+
+>Prinia subflava isolate CZ2003 ecotype Zambia chromosome 8, Cam_Psub_1.2
+Sequence ID: NC_086254.1 Length: 37082515
+Range 1: 17580259 to 17580303
+
+Score:52.6 bits(27), Expect:2e-04, 
+Identities:39/45(87%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  672       CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  716
+                 ||||||| |||| ||||||||| |||| |||||||| || |||||
+Sbjct  17580303  CTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCAT  17580259
+
+
+
+
+>Prinia subflava isolate CZ2003 ecotype Zambia chromosome 7, Cam_Psub_1.2
+Sequence ID: NC_086253.1 Length: 37441762
+Range 1: 708202 to 708240
+
+Score:46.8 bits(24), Expect:0.013, 
+Identities:34/39(87%),  Gaps:0/39(0%), Strand: Plus/Minus
+
+Query  60      AAGGGAAAAAGCAAGGAGGGAAAAGGATGAAGTAAAAAG  98
+               ||||||||||| ||| ||| ||||||| |||| ||||||
+Sbjct  708240  AAGGGAAAAAGGAAGCAGGAAAAAGGAAGAAGAAAAAAG  708202
+
+
+
+
+
+
+
+		
+
+

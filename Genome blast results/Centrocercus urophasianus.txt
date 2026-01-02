@@ -1,0 +1,354 @@
+RID: NDC4HDZT014	
+Job Title:XM_042827218.1:1-1494 PREDICTED: Centrocercus...				
+Program: BLASTN 
+Database: genomic/9002/GCF_019232065.1 USGS_Curo_1.0 RefSeq assembly [GCF_019232065.1]
+Query #1: XM_042827218.1:1-1494 PREDICTED: Centrocercus urophasianus secretin receptor (SCTR), mRNA Query ID: lcl|Query_4164915 Length: 1494
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced...    Centrocercus... Greater sage... 9002       389    2758  100%  1e-105 99.10  14601119   NW_024884844.1   
+Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced...    Centrocercus... Greater sage... 9002       85.1   154   5%    6e-14  83.54  47112043   NW_024884711.1   
+Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced...    Centrocercus... Greater sage... 9002       76.1   76.1  5%    3e-11  81.01  82336      NW_024885328.1   
+Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced...    Centrocercus... Greater sage... 9002       59.0   109   6%    3e-06  74.71  5003886    NW_024884989.1   
+Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced...    Centrocercus... Greater sage... 9002       48.2   48.2  4%    0.005  78.57  1139895    NW_024885166.1   
+
+
+Alignments:
+
+>Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced genomic scaffold, USGS_Curo_1.0 seq_28, whole genome shotgun sequence
+Sequence ID: NW_024884844.1 Length: 14601119
+Range 1: 6120740 to 6120959
+
+Score:389 bits(431), Expect:1e-105, 
+Identities:220/222(99%),  Gaps:2/222(0%), Strand: Plus/Plus
+
+Query  1        ATGCTGGCTGGGGTTCTGCAGCTGAAGNNCATTGGCTCAGGATGGTCAAAGCTGGGAAAG  60
+                |||||||||||||||||||||||||||  |||||||||||||||||||||||||||||||
+Sbjct  6120740  ATGCTGGCTGGGGTTCTGCAGCTGAAG--CATTGGCTCAGGATGGTCAAAGCTGGGAAAG  6120797
+
+Query  61       GAAAAAGCGAGGAGGGAAAGGGACAAAGTGAGGGGAGCTGAGAGGCAGGCAGGAGAGCAG  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6120798  GAAAAAGCGAGGAGGGAAAGGGACAAAGTGAGGGGAGCTGAGAGGCAGGCAGGAGAGCAG  6120857
+
+Query  121      AGACAGCCCGGTGATCTCTGGTGCATGAGGGATGCGGGAAGCGGGCTTTGGCTGAACATG  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6120858  AGACAGCCCGGTGATCTCTGGTGCATGAGGGATGCGGGAAGCGGGCTTTGGCTGAACATG  6120917
+
+Query  181      TGGACCATCTCGGTGATCATCTTCGGGATTTCAGCTGTTCTG  222
+                ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6120918  TGGACCATCTCGGTGATCATCTTCGGGATTTCAGCTGTTCTG  6120959
+
+
+
+
+Range 2: 6134764 to 6134942
+
+Score:324 bits(358), Expect:4e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1316     AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGACAGTGGCACTTAAACAAACACCTGCGTC  1375
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6134764  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGACAGTGGCACTTAAACAAACACCTGCGTC  6134823
+
+Query  1376     AGCAGCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCCTAACTCAAGAGATGCAGGTGA  1435
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6134824  AGCAGCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCCTAACTCAAGAGATGCAGGTGA  6134883
+
+Query  1436     CCAAAGTGAGTCCACCAAAGGACAGGAAGGCAACTCCCCAAAGATCAAGCATGCTTTAA  1494
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6134884  CCAAAGTGAGTCCACCAAAGGACAGGAAGGCAACTCCCCAAAGATCAAGCATGCTTTAA  6134942
+
+
+
+
+Range 3: 6133404 to 6133546
+
+Score:254 bits(281), Expect:6e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1134     CAAGAGACTTGCCAAGTCAACACTTCTCCTCATCCCACTCTTTGGGGTTCACTACATCAT  1193
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6133404  CAGGAGACTTGCCAAGTCAACACTTCTCCTCATCCCACTCTTTGGGGTTCACTACATCAT  6133463
+
+Query  1194     CTTTGCTTTCTTCCCCGAAGACGCAAGTAGTGGCACAATGGAAATCCAGCTGTTTTTTGA  1253
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6133464  CTTTGCTTTCTTCCCCGAAGACGCAAGTAGTGGCACAATGGAAATCCAGCTGTTTTTTGA  6133523
+
+Query  1254     GTTGGCTCTTGGATCATTCCAGG  1276
+                |||||||||||||||||||||||
+Sbjct  6133524  GTTGGCTCTTGGATCATTCCAGG  6133546
+
+
+
+
+Range 4: 6129729 to 6129863
+
+Score:244 bits(270), Expect:3e-62, 
+Identities:135/135(100%),  Gaps:0/135(0%), Strand: Plus/Plus
+
+Query  658      AGGAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  717
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6129729  AGGAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  6129788
+
+Query  718      CGAGCCTCATCAAATTTCATCAAAGATAATGTTTTGTTTTCCTCTGAAGACACAAACTAC  777
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6129789  CGAGCCTCATCAAATTTCATCAAAGATAATGTTTTGTTTTCCTCTGAAGACACAAACTAC  6129848
+
+Query  778      TGTGAGGCATACACG  792
+                |||||||||||||||
+Sbjct  6129849  TGTGAGGCATACACG  6129863
+
+
+
+
+Range 5: 6123547 to 6123676
+
+Score:231 bits(255), Expect:7e-58, 
+Identities:129/130(99%),  Gaps:0/130(0%), Strand: Plus/Plus
+
+Query  218      TTCTGATCAGGGCTGTCCCTCCTGTCTGCGACCTCCTGAGTGTCTTGAAAAAGGAGGAAG  277
+                ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6123547  TTCAGATCAGGGCTGTCCCTCCTGTCTGCGACCTCCTGAGTGTCTTGAAAAAGGAGGAAG  6123606
+
+Query  278      AAAACTGTGCTGAGATTTTGTCCCTGGAGGCAAGGAACAGGACGACTGAAAATGATCTCC  337
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6123607  AAAACTGTGCTGAGATTTTGTCCCTGGAGGCAAGGAACAGGACGACTGAAAATGATCTCC  6123666
+
+Query  338      TAAGCTCAGG  347
+                ||||||||||
+Sbjct  6123667  TAAGCTCAGG  6123676
+
+
+
+
+Range 6: 6130588 to 6130711
+
+Score:224 bits(248), Expect:3e-56, 
+Identities:124/124(100%),  Gaps:0/124(0%), Strand: Plus/Plus
+
+Query  792      GTACTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGACTGTACCTCCACTCTCT  851
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6130588  GTACTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGACTGTACCTCCACTCTCT  6130647
+
+Query  852      CCTGGTCATTTCCTTCTTCTCAGAAAAGAAGTTCCTTTGGTGGTTCATCACCCTTGGATG  911
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6130648  CCTGGTCATTTCCTTCTTCTCAGAAAAGAAGTTCCTTTGGTGGTTCATCACCCTTGGATG  6130707
+
+Query  912      GGGT  915
+                ||||
+Sbjct  6130708  GGGT  6130711
+
+
+
+
+Range 7: 6125465 to 6125580
+
+Score:210 bits(232), Expect:6e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  344      CAGGCAGATGTGCTGGGATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAT  403
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6125465  CAGGCAGATGTGCTGGGATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAT  6125524
+
+Query  404      ACACTGTCAGTGCTCACTGCCCCAAATTCTTCCAGATGCTGACTGGGAAACAAGGT  459
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6125525  ACACTGTCAGTGCTCACTGCCCCAAATTCTTCCAGATGCTGACTGGGAAACAAGGT  6125580
+
+
+
+
+Range 8: 6128506 to 6128611
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  456      AGGTTTTGTGTATCGAAACTGCACCAGCGAAGGTTGGTCCCATCCATATCCAAGACCAGA  515
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6128506  AGGTTTTGTGTATCGAAACTGCACCAGCGAAGGTTGGTCCCATCCATATCCAAGACCAGA  6128565
+
+Query  516      TATTGCTTGTGGCTACAATGTCAATGACACAACAAACGAGGCGAGA  561
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6128566  TATTGCTTGTGGCTACAATGTCAATGACACAACAAACGAGGCGAGA  6128611
+
+
+
+
+Range 9: 6128899 to 6129000
+
+Score:180 bits(199), Expect:1e-42, 
+Identities:101/102(99%),  Gaps:0/102(0%), Strand: Plus/Plus
+
+Query  562      CGCTCCTATTTCATGACTCTGAAGACCATGTACACCGTTGGGTACTGCACCTCCCTGGTG  621
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6128899  CGCTCCTATTTCATGACTCTGAAGACCATGTACACCGTTGGGTACTGCACCTCCCTGGTG  6128958
+
+Query  622      ACGCTGACAATTGCCTTGGTGGTCCTGGCCTCTTTAAGGAGA  663
+                ||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  6128959  ACGCTGACAATTGCCTTGGTGGTCCTGGCCTCTTTAAGGTGA  6129000
+
+
+
+
+Range 10: 6133220 to 6133312
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1045     GTTAATTTCATTCTCTTTGTCGACATTTTAAGGATCTTGATGAGGAAGCTCAGCTCACCT  1104
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6133220  GTTAATTTCATTCTCTTTGTCGACATTTTAAGGATCTTGATGAGGAAGCTCAGCTCACCT  6133279
+
+Query  1105     GAAGGACGGAGCAGCGATTTCAACCAGTACAAG  1137
+                |||||||||||||||||||||||||||||||||
+Sbjct  6133280  GAAGGACGGAGCAGCGATTTCAACCAGTACAAG  6133312
+
+
+
+
+Range 11: 6131384 to 6131456
+
+Score:132 bits(146), Expect:1e-28, 
+Identities:73/73(100%),  Gaps:0/73(0%), Strand: Plus/Plus
+
+Query  974      GGTGTTGGGACATTAACACAAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTC  1033
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6131384  GGTGTTGGGACATTAACACAAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTC  6131443
+
+Query  1034     TGTCTATTTTTGT  1046
+                |||||||||||||
+Sbjct  6131444  TGTCTATTTTTGT  6131456
+
+
+
+
+Range 12: 6130800 to 6130863
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  913      GGTGCCCCAACTATCTTTGTTGCTGCTTGGGCAACCGCAAGACAGCTCAGTGAAAATATT  972
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6130800  GGTGCCCCAACTATCTTTGTTGCTGCTTGGGCAACCGCAAGACAGCTCAGTGAAAATATT  6130859
+
+Query  973      GGGT  976
+                ||||
+Sbjct  6130860  GGGT  6130863
+
+
+
+
+Range 13: 6133718 to 6133767
+
+Score:86.9 bits(95), Expect:2e-14, 
+Identities:49/50(98%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  1270     TTCCAGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAACGGTGAGGT  1319
+                || |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6133718  TTTCAGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAACGGTGAGGT  6133767
+
+
+
+
+>Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced genomic scaffold, USGS_Curo_1.0 seq_16, whole genome shotgun sequence
+Sequence ID: NW_024884711.1 Length: 47112043
+Range 1: 46258173 to 46258251
+
+Score:85.1 bits(93), Expect:6e-14, 
+Identities:66/79(84%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1133      ACAAGAGACTTGCCAAGTCAACACTTCTCCTCATCCCACTCTTTGGGGTTCACTACATCA  1192
+                 ||| |||||| |||||||| ||  | || || ||||| ||||||||  ||||||||||||
+Sbjct  46258251  ACAGGAGACTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  46258192
+
+Query  1193      TCTTTGCTTTCTTCCCCGA  1211
+                 | |||||||||||||| ||
+Sbjct  46258191  TGTTTGCTTTCTTCCCTGA  46258173
+
+
+
+
+Range 2: 46594578 to 46594655
+
+Score:69.8 bits(76), Expect:1e-09, 
+Identities:62/78(79%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1134      CAAGAGACTTGCCAAGTCAACACTTCTCCTCATCCCACTCTTTGGGGTTCACTACATCAT  1193
+                 || ||||||||| || || ||  | ||| | |||||||||||||| || ||||||||| |
+Sbjct  46594578  CAGGAGACTTGCTAAATCTACGTTGCTCTTGATCCCACTCTTTGGAGTGCACTACATCGT  46594637
+
+Query  1194      CTTTGCTTTCTTCCCCGA  1211
+                  ||||| || ||||| ||
+Sbjct  46594638  ATTTGCATTTTTCCCAGA  46594655
+
+
+
+
+>Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced genomic scaffold, USGS_Curo_1.0 seq_715, whole genome shotgun sequence
+Sequence ID: NW_024885328.1 Length: 82336
+Range 1: 4875 to 4953
+
+Score:76.1 bits(83), Expect:3e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1133  ACAAGAGACTTGCCAAGTCAACACTTCTCCTCATCCCACTCTTTGGGGTTCACTACATCA  1192
+             ||| ||| ||  ||||||| || || ||||||||||| ||||||||||| |||||| |  
+Sbjct  4875  ACAGGAGGCTGACCAAGTCCACGCTGCTCCTCATCCCCCTCTTTGGGGTGCACTACGTGG  4934
+
+Query  1193  TCTTTGCTTTCTTCCCCGA  1211
+             | |||||| ||||||| ||
+Sbjct  4935  TGTTTGCTCTCTTCCCTGA  4953
+
+
+
+
+>Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced genomic scaffold, USGS_Curo_1.0 seq_41, whole genome shotgun sequence
+Sequence ID: NW_024884989.1 Length: 5003886
+Range 1: 76821 to 76907
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:65/87(75%),  Gaps:0/87(0%), Strand: Plus/Plus
+
+Query  663    ACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGC  722
+              ||||| ||| || || ||||||||||| ||| || | ||  |||| ||||| ||||| ||
+Sbjct  76821  ACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTCATCTTGCGTGC  76880
+
+Query  723    CTCATCAAATTTCATCAAAGATAATGT  749
+              | || | | | | || ||||| | |||
+Sbjct  76881  CACAGCCATTCTTATTAAAGACACTGT  76907
+
+
+
+
+Range 2: 4953948 to 4953992
+
+Score:50.9 bits(55), Expect:0.001, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  669      CTGTACGAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  713
+                ||| | ||||||||||||||||||| | |||||| | || |||||
+Sbjct  4953992  CTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  4953948
+
+
+
+
+>Centrocercus urophasianus isolate 14NV4802_14NV808 unplaced genomic scaffold, USGS_Curo_1.0 seq_57, whole genome shotgun sequence
+Sequence ID: NW_024885166.1 Length: 1139895
+Range 1: 41984 to 42039
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:44/56(79%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  658    AGGAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  713
+              ||| | || | ||| ||  | ||||||||||||||||| |||||| | || |||||
+Sbjct  41984  AGGCGCCTGCACTGCACTCGCAACTACATCCACATGCACCTCTTCGCCTCCTTCAT  42039
+
+
+
+
+
+
+
+		
+
+

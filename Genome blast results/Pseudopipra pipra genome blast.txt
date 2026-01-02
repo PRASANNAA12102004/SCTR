@@ -1,0 +1,411 @@
+RID: NDJH31U8014	
+Job Title:XM_064661498.1:1-1533 PREDICTED: Pseudopipra...				
+Program: BLASTN 
+Database: Genome (bDixPip1.hap1) Pseudopipra pipra bDixPip1.hap1 [GCF_036250125.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_036250125.1-RS_2024_04)
+Query #1: XM_064661498.1:1-1533 PREDICTED: Pseudopipra pipra secretin receptor (SCTR), mRNA Query ID: lcl|Query_7751527 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Pseudopipra pipra isolate bDixPip1 chromosome 7, bDixPip1.hap1    Pseudopipra ... NA              415032     402    2979  100%  1e-109 98.68  40214194   NC_087555.1      
+Pseudopipra pipra isolate bDixPip1 chromosome 1, bDixPip1.hap1    Pseudopipra ... NA              415032     93.0   326   20%   2e-16  78.26  156033950  NC_087549.1      
+Pseudopipra pipra isolate bDixPip1 chromosome 19, bDixPip1.hap1   Pseudopipra ... NA              415032     54.5   101   4%    7e-05  80.60  12855514   NC_087567.1      
+Pseudopipra pipra isolate bDixPip1 chromosome 26, bDixPip1.hap1   Pseudopipra ... NA              415032     52.6   146   15%   3e-04  73.05  6511862    NC_087574.1      
+
+
+Alignments:
+
+>Pseudopipra pipra isolate bDixPip1 chromosome 7, bDixPip1.hap1
+Sequence ID: NC_087555.1 Length: 40214194
+Range 1: 30580904 to 30581131
+
+Score:402 bits(209), Expect:1e-109, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30580904  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  30580963
+
+Query  61        AGGAAAAAA-GCAAGGAGGGAAAAGGACGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30580964  AGGAAAAAAAGCAAGGAGGGAAAAGGACGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  30581023
+
+Query  120       GTATAAA--CATCCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTCATTG  177
+                 |||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30581024  GTATAAAAACATCCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTCATTG  30581083
+
+Query  178       ACTATGTGGACAATCTGGGTGATAATCTTCTGGATTTCAACTGTCCCG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30581084  ACTATGTGGACAATCTGGGTGATAATCTTCTGGATTTCAACTGTCCCG  30581131
+
+
+
+
+Range 2: 30604347 to 30604525
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGTATTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30604347  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGTATTTAAGCAAACACTTGCGTC  30604406
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTGACTCAAGAGATGCACATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30604407  AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTGACTCAAGAGATGCACATGG  30604466
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGGGAAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30604467  TGAGGTCGAGCCCACCAGAGCACAGGAGGGAAACCCTCCAAAGATCAAGCGTGCTTTAA  30604525
+
+
+
+
+Range 3: 30599447 to 30599603
+
+Score:302 bits(157), Expect:1e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30599447  GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  30599506
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30599507  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  30599566
+
+Query  918       GAAGTTCCTCTGGTGGTTCATTGTCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  30599567  GAAGTTCCTCTGGTGGTTCATTGTCCTCGGATGGGGT  30599603
+
+
+
+
+Range 4: 30603061 to 30603200
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  1176      GAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGCGTCCACTACATCATCTT  1235
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30603061  GAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGCGTCCACTACATCATCTT  30603120
+
+Query  1236      TGCTTTTTTCCCTGACGATGCAAGCAGCGGCACAATGGAAATTCAGTTGTTTTTTGAATT  1295
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30603121  TGCTTTTTTCCCTGACGATGCAAGCAGCGGCACAATGGAAATTCAGTTGTTTTTTGAATT  30603180
+
+Query  1296      GGCTCTTGGATCATTCCAGG  1315
+                 ||||||||||||||||||||
+Sbjct  30603181  GGCTCTTGGATCATTCCAGG  30603200
+
+
+
+
+Range 5: 30598486 to 30598622
+
+Score:264 bits(137), Expect:6e-68, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  663       CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30598486  CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  30598545
+
+Query  723       GCGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCCGAAGACATAAATTA  782
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30598546  GCGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCCGAAGACATAAATTA  30598605
+
+Query  783       CTGTGGGGCACAAACGG  799
+                 |||||||||||||||||
+Sbjct  30598606  CTGTGGGGCACAAACGG  30598622
+
+
+
+
+Range 6: 30584946 to 30585074
+
+Score:248 bits(129), Expect:2e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAAAGCTGTTCCACCTGTCTGTGACCTCCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30584946  GATCAAAGCTGTTCCACCTGTCTGTGACCTCCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  30585005
+
+Query  285       GTGTGCTGAGACTCTCTCCCTGGAGGCACAGAACAGAACGACTGAAAATGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30585006  GTGTGCTGAGACTCTCTCCCTGGAGGCACAGAACAGAACGACTGAAAATGATCTGCTCCT  30585065
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  30585066  GAGCTCAGG  30585074
+
+
+
+
+Range 7: 30589103 to 30589218
+
+Score:223 bits(116), Expect:8e-56, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGGTGTGCTGGAATGTGGGATAACATGAGTTGCTGGCCTTCATCCACTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30589103  CAGGCAGGTGTGCTGGAATGTGGGATAACATGAGTTGCTGGCCTTCATCCACTGTGGGAC  30589162
+
+Query  410       AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30589163  AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  30589218
+
+
+
+
+Range 8: 30597004 to 30597109
+
+Score:204 bits(106), Expect:5e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTCTACAGAAATTGTACAAGTGAGGGCTGGTCAGACCCATATCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30597004  AGGTTTTGTCTACAGAAATTGTACAAGTGAGGGCTGGTCAGACCCATATCCGAGACCTGA  30597063
+
+Query  522       TATTGCTTGCGGCTACAATGTCAATGACACGACCAACGAGGCAAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30597064  TATTGCTTGCGGCTACAATGTCAATGACACGACCAACGAGGCAAGA  30597109
+
+
+
+
+Range 9: 30597406 to 30597503
+
+Score:189 bits(98), Expect:2e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACCTTGAAGACCATGTACACCGTCGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30597406  CGTTCCTATTTCATGACCTTGAAGACCATGTACACCGTCGGATACTGCACCTCCCTCGTG  30597465
+
+Query  628       ACGCTAATGATAGCCTTAGCGGTCCTGGCCTCTTTCAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  30597466  ACGCTAATGATAGCCTTAGCGGTCCTGGCCTCTTTCAG  30597503
+
+
+
+
+Range 10: 30602886 to 30602978
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30602886  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  30602945
+
+Query  1144      GAAAGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  30602946  GAAAGACGGAGCAGTGATTTCAACCAATACAAG  30602978
+
+
+
+
+Range 11: 30600288 to 30600358
+
+Score:137 bits(71), Expect:9e-30, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30600288  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  30600347
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  30600348  TGTCTATTTTT  30600358
+
+
+
+
+Range 12: 30599690 to 30599753
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAGCTGTGTTCGTGACTGCATGGGCGACTGCCAGGCAGCTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30599690  GGTGCCCCAGCTGTGTTCGTGACTGCATGGGCGACTGCCAGGCAGCTCCATGAAAATATT  30599749
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  30599750  GGGT  30599753
+
+
+
+
+Range 13: 30603369 to 30603414
+
+Score:89.1 bits(46), Expect:3e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAACGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30603369  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAACGGTGAGGT  30603414
+
+
+
+
+>Pseudopipra pipra isolate bDixPip1 chromosome 1, bDixPip1.hap1
+Sequence ID: NC_087549.1 Length: 156033950
+Range 1: 152947917 to 152948054
+
+Score:93.0 bits(48), Expect:2e-16, 
+Identities:108/138(78%),  Gaps:0/138(0%), Strand: Plus/Plus
+
+Query  817        ATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAGGGACTG  876
+                  ||||| ||||| ||||| ||  ||||| | |||| |  |||||| || |||||||| |||
+Sbjct  152947917  ATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTGCTGGTGGAGGGGCTG  152947976
+
+Query  877        TACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAGGAAGTTCCTCTGGTGGTTC  936
+                  ||||| ||||| || ||||| || || ||||| || || ||||||| | ||||||||| |
+Sbjct  152947977  TACCTTCACACCCTGCTGGTCATCTCCTTCTTTTCAGAGAGGAAGTACTTCTGGTGGTAC  152948036
+
+Query  937        ATTGTCCTCGGATGGGGT  954
+                  ||  |  |||| ||||||
+Sbjct  152948037  ATCCTGATCGGCTGGGGT  152948054
+
+
+
+
+Range 2: 152961560 to 152961639
+
+Score:73.7 bits(38), Expect:1e-10, 
+Identities:66/80(83%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  1172       ACAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGCGTCCACTACATCA  1231
+                  ||| ||| || || ||||| ||  | || || ||||||||||||||| | ||||||||||
+Sbjct  152961560  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  152961619
+
+Query  1232       TCTTTGCTTTTTTCCCTGAC  1251
+                  | |||||||| |||||||||
+Sbjct  152961620  TGTTTGCTTTCTTCCCTGAC  152961639
+
+
+
+
+Range 3: 152625385 to 152625456
+
+Score:58.4 bits(30), Expect:5e-06, 
+Identities:58/72(81%),  Gaps:0/72(0%), Strand: Plus/Minus
+
+Query  1176       GAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGCGTCCACTACATCATCTT  1235
+                  ||||||||| || || ||| | ||  | ||||| |||||||| || ||||||||| | ||
+Sbjct  152625456  GAGACTTGCTAAATCCACGTTGCTTTTAATCCCCCTCTTTGGAGTGCACTACATCGTATT  152625397
+
+Query  1236       TGCTTTTTTCCC  1247
+                  ||| ||||||||
+Sbjct  152625396  TGCATTTTTCCC  152625385
+
+
+
+
+Range 4: 152962730 to 152962777
+
+Score:52.6 bits(27), Expect:3e-04, 
+Identities:41/48(85%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  1311       CCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAACGGTGAGGT  1358
+                  |||||| ||||| |||||||| || || |||||||| ||||| |||||
+Sbjct  152962730  CCAGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAACGGAGAGGT  152962777
+
+
+
+
+Range 5: 154741553 to 154741586
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:31/34(91%),  Gaps:0/34(0%), Strand: Plus/Plus
+
+Query  675        CTGCACAAGGAACTACATCCACATGCATCTCTTC  708
+                  |||||| |||||||||||||||||||| || |||
+Sbjct  154741553  CTGCACTAGGAACTACATCCACATGCACCTGTTC  154741586
+
+
+
+
+>Pseudopipra pipra isolate bDixPip1 chromosome 19, bDixPip1.hap1
+Sequence ID: NC_087567.1 Length: 12855514
+Range 1: 196939 to 197005
+
+Score:54.5 bits(28), Expect:7e-05, 
+Identities:54/67(81%),  Gaps:0/67(0%), Strand: Plus/Plus
+
+Query  663     CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+               ||||| ||||| ||||||||| ||||||||||| ||| || | ||  |||| || || ||
+Sbjct  196939  CAGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTT  196998
+
+Query  723     GCGAGCC  729
+               ||| |||
+Sbjct  196999  GCGTGCC  197005
+
+
+
+
+Range 2: 12507191 to 12507235
+
+Score:46.8 bits(24), Expect:0.014, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  675       CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                 |||||  |||||||| ||||||||| |||||||| | || |||||
+Sbjct  12507191  CTGCATGAGGAACTATATCCACATGAATCTCTTCGCCTCCTTCAT  12507235
+
+
+
+
+>Pseudopipra pipra isolate bDixPip1 chromosome 26, bDixPip1.hap1
+Sequence ID: NC_087574.1 Length: 6511862
+Range 1: 1762026 to 1762166
+
+Score:52.6 bits(27), Expect:3e-04, 
+Identities:103/141(73%),  Gaps:0/141(0%), Strand: Plus/Plus
+
+Query  815      CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAGGGAC  874
+                |||| | |||||| ||||| |   || || | |||| |  |||||| || |||||||| |
+Sbjct  1762026  CCATCGCCTTCTTCCAGTACTCGGTCCTGGCCAACTTCTACTGGCTGCTGGTGGAGGGCC  1762085
+
+Query  875      TGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAGGAAGTTCCTCTGGTGGT  934
+                ||||||| || || || ||| |  |  | |||  ||| || |||| || | |||||||||
+Sbjct  1762086  TGTACCTGCAGACCCTGCTGCTGCTCACCTTCACCTCCGACAGGAGGTACATCTGGTGGT  1762145
+
+Query  935      TCATTGTCCTCGGATGGGGTG  955
+                 |||  || |||| |||||||
+Sbjct  1762146  ACATCCTCGTCGGCTGGGGTG  1762166
+
+
+
+
+Range 2: 1763493 to 1763534
+
+Score:46.8 bits(24), Expect:0.014, 
+Identities:36/42(86%),  Gaps:0/42(0%), Strand: Plus/Plus
+
+Query  1186     AAGTCAACGCTCCTCCTCATCCCTCTCTTTGGCGTCCACTAC  1227
+                ||||| ||||| || |||||||||||||| || || ||||||
+Sbjct  1763493  AAGTCCACGCTGCTGCTCATCCCTCTCTTCGGGGTGCACTAC  1763534
+
+
+
+
+Range 3: 2318627 to 2318671
+
+Score:46.8 bits(24), Expect:0.014, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  675      CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                ||||||| |||| ||||||||| | || |||||||| || |||||
+Sbjct  2318627  CTGCACACGGAATTACATCCACGTCCACCTCTTCACCTCCTTCAT  2318671
+
+
+
+
+
+
+
+		
+
+

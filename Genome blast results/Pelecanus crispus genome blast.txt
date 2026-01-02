@@ -1,0 +1,429 @@
+RID: NDHTVF8T014	
+Job Title: XM_075710436.1 PREDICTED: Pelecanus crispus 				
+Program: BLASTN 
+Database: Genome (bPelCri1.pri) Pelecanus crispus bPelCri1.pri [GCF_030463565.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_030463565.1-RS_2025_07)
+Query #1: XM_075710436.1 PREDICTED: Pelecanus crispus secretin receptor (SCTR), mRNA Query ID: lcl|Query_5562889 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Pelecanus crispus isolate bPelCri1 chromosome 5, bPelCri1.pri     Pelecanus cr... Dalmatian pe... 36300      392    2820  100%  1e-106 98.68  85025531   NC_134647.1      
+Pelecanus crispus isolate bPelCri1 chromosome 2, bPelCri1.pri     Pelecanus cr... Dalmatian pe... 36300      71.6   167   12%   5e-10  79.75  176268237  NC_134644.1      
+Pelecanus crispus isolate bPelCri1 chromosome 12, bPelCri1.pri    Pelecanus cr... Dalmatian pe... 36300      59.0   152   7%    3e-06  76.62  29696617   NC_134654.1      
+Pelecanus crispus isolate bPelCri1 chromosome 18, bPelCri1.pri    Pelecanus cr... Dalmatian pe... 36300      56.3   158   10%   4e-05  75.64  9344953    NC_134660.1      
+Pelecanus crispus isolate bPelCri1 chromosome 11, bPelCri1.pri    Pelecanus cr... Dalmatian pe... 36300      52.7   52.7  2%    5e-04  96.77  39351400   NC_134653.1      
+Pelecanus crispus isolate bPelCri1 chromosome 1, bPelCri1.pri     Pelecanus cr... Dalmatian pe... 36300      46.4   46.4  3%    0.022  82.46  227928177  NC_134643.1      
+
+
+Alignments:
+
+>Pelecanus crispus isolate bPelCri1 chromosome 5, bPelCri1.pri
+Sequence ID: NC_134647.1 Length: 85025531
+Range 1: 11418565 to 11418792
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Minus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11418792  ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  11418733
+
+Query  61        AGGaaaaaaaGT-AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  119
+                 |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11418732  AGGAAAAAAAGTGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  11418673
+
+Query  120       GCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTC  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11418672  GCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTC  11418613
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11418612  ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCGTCCTG  11418565
+
+
+
+
+Range 2: 11396055 to 11396233
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCATC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11396233  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCATC  11396174
+
+Query  1415      AGCATCTCAGCACCTCAGCAAGTAACGGAGGAAGTGGTTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11396173  AGCATCTCAGCACCTCAGCAAGTAACGGAGGAAGTGGTTTAACTCAAGAGATGCAGATGG  11396114
+
+Query  1475      TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11396113  TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  11396055
+
+
+
+
+Range 3: 11402834 to 11402990
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11402990  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  11402931
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTTGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11402930  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTTGGAAAG  11402871
+
+Query  918       GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  11402870  GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  11402834
+
+
+
+
+Range 4: 11397476 to 11397618
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGATCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11397618  CAGGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGATCCACTACATCAT  11397559
+
+Query  1233      CTTTGCTTTTTTCCCCGAAGACGCAAGCAGCAGCACAATGGATATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11397558  CTTTGCTTTTTTCCCCGAAGACGCAAGCAGCAGCACAATGGATATTCAGCTGTTTTTTGA  11397499
+
+Query  1293      ATTGGCTCTTGGATCGTTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  11397498  ATTGGCTCTTGGATCGTTCCAGG  11397476
+
+
+
+
+Range 5: 11404228 to 11404363
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Minus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11404363  AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCATTTTG  11404304
+
+Query  724       CGAGCCTCATCCAGCTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACATGAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11404303  CGAGCCTCATCCAGCTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACATGAATTAC  11404244
+
+Query  784       TGTGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  11404243  TGTGGGGCATACACGG  11404228
+
+
+
+
+Range 6: 11414564 to 11414692
+
+Score:233 bits(258), Expect:8e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11414692  GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  11414633
+
+Query  285       CTGTGCTGAGACTCTCTCCCTGGAGGCAAAGAACAGAACGCCTGAAAACAATCTGCTTCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11414632  CTGTGCTGAGACTCTCTCCCTGGAGGCAAAGAACAGAACGCCTGAAAACAATCTGCTTCT  11414573
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  11414572  GAGCTCAGG  11414564
+
+
+
+
+Range 7: 11409801 to 11409916
+
+Score:210 bits(232), Expect:9e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCCGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11409916  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCCGTGGGAC  11409857
+
+Query  410       AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGaaaaaaaGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11409856  AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGAAAAAAAGGT  11409801
+
+
+
+
+Range 8: 11405731 to 11405836
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462       aGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCGAGACCCGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11405836  AGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCGAGACCCGA  11405777
+
+Query  522       TATTGCTTGTGGCTACAACATCAATGACACGACAAATGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11405776  TATTGCTTGTGGCTACAACATCAATGACACGACAAATGAGGCGAGA  11405731
+
+
+
+
+Range 9: 11405343 to 11405440
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11405440  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTCGTG  11405381
+
+Query  628       ACGCTGACGATAGCCTTAGCAGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  11405380  ACGCTGACGATAGCCTTAGCAGTCCTGGTCTCTTTTAG  11405343
+
+
+
+
+Range 10: 11397709 to 11397815
+
+Score:171 bits(189), Expect:8e-40, 
+Identities:102/107(95%),  Gaps:0/107(0%), Strand: Plus/Minus
+
+Query  1070      TTTTGTCTATTTTTATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGA  1129
+                 |||||| | ||   ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11397815  TTTTGTTTTTTCAGATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGA  11397756
+
+Query  1130      AGCTCAGCTCTCCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11397755  AGCTCAGCTCTCCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  11397709
+
+
+
+
+Range 11: 11402070 to 11402140
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1013      GGTGCTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11402140  GGTGCTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  11402081
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  11402080  TGTCTATTTTT  11402070
+
+
+
+
+Range 12: 11402682 to 11402745
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  952       GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11402745  GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  11402686
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  11402685  GGGT  11402682
+
+
+
+
+Range 13: 11397257 to 11397319
+
+Score:86.0 bits(94), Expect:2e-14, 
+Identities:58/64(91%),  Gaps:1/64(1%), Strand: Plus/Minus
+
+Query  1295      TGGCTCTTGGATCGTTCCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTG  1354
+                 ||| ||||  ||| ||  ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11397319  TGGTTCTTTTATCTTTT-AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTG  11397261
+
+Query  1355      AGGT  1358
+                 ||||
+Sbjct  11397260  AGGT  11397257
+
+
+
+
+>Pelecanus crispus isolate bPelCri1 chromosome 2, bPelCri1.pri
+Sequence ID: NC_134644.1 Length: 176268237
+Range 1: 4132765 to 4132843
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGATCCACTACATCA  1231
+                ||| ||| || || ||||| ||  | || || || ||||||||||| || ||||||||||
+Sbjct  4132843  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATTCCTCTCTTTGGCATTCACTACATCA  4132784
+
+Query  1232     TCTTTGCTTTTTTCCCCGA  1250
+                | |||||||| ||||| ||
+Sbjct  4132783  TGTTTGCTTTCTTCCCTGA  4132765
+
+
+
+
+Range 2: 1911236 to 1911321
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:62/86(72%),  Gaps:0/86(0%), Strand: Plus/Minus
+
+Query  675      CTGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCATTTTGCGAGCCTCATC  734
+                ||| || || ||||||||||||||||| || ||    || |||||  || |||||     
+Sbjct  1911321  CTGCACTAGAAACTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCGTGAG  1911262
+
+Query  735      CAGCTTCATCAAGGATGCTGTTTTGT  760
+                || |||| | ||||| || || ||||
+Sbjct  1911261  CATCTTCGTGAAGGACGCAGTCTTGT  1911236
+
+
+
+
+Range 3: 11789101 to 11789211
+
+Score:47.3 bits(51), Expect:0.022, 
+Identities:81/113(72%),  Gaps:5/113(4%), Strand: Plus/Minus
+
+Query  656       TCTCTT-TTAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCA  714
+                 |||||| |||||| |||||  || ||  |||||||||||||  || | || |||   || 
+Sbjct  11789211  TCTCTTCTTAGAAAACTTCATTGCACTCGGAACTACATCCATCTGAACCTGTTCCTCTCT  11789152
+
+Query  715       TTCATTTTGCGAGCCTCATC-CAGCTTCA-TCAAGGATGCTGTTTTGTTTTCC  765
+                 |||||| |  ||||   ||| | | || | ||||||||| | || | | ||||
+Sbjct  11789151  TTCATTCTAAGAGC--AATCTCTGTTTTAGTCAAGGATGATATTCTCTATTCC  11789101
+
+
+
+
+>Pelecanus crispus isolate bPelCri1 chromosome 12, bPelCri1.pri
+Sequence ID: NC_134654.1 Length: 29696617
+Range 1: 14989905 to 14989981
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:59/77(77%),  Gaps:0/77(0%), Strand: Plus/Plus
+
+Query  656       TCTCTTTTAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCAT  715
+                 |||| |  |||| ||||| ||| ||||| ||||||||||| ||| || | ||  |||| |
+Sbjct  14989905  TCTCCTACAGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTT  14989964
+
+Query  716       TCATTTTGCGAGCCTCA  732
+                 | || ||||| ||| ||
+Sbjct  14989965  TTATCTTGCGCGCCACA  14989981
+
+
+
+
+Range 2: 29261338 to 29261375
+
+Score:47.3 bits(51), Expect:0.022, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  682       AGGAACTACATCCACATGCATCTCTTCACATCATTCAT  719
+                 |||||||||||||||||| | |||||| | || |||||
+Sbjct  29261338  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  29261375
+
+
+
+
+Range 3: 8466327 to 8466361
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:31/35(89%),  Gaps:0/35(0%), Strand: Plus/Minus
+
+Query  51       AAAGCTGGGAAGGaaaaaaaGTAGGAGGGAAAGGG  85
+                |||||| || ||||||||| ||| |||||||||||
+Sbjct  8466361  AAAGCTAGGTAGGAAAAAATGTATGAGGGAAAGGG  8466327
+
+
+
+
+>Pelecanus crispus isolate bPelCri1 chromosome 18, bPelCri1.pri
+Sequence ID: NC_134660.1 Length: 9344953
+Range 1: 5704015 to 5704092
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:59/78(76%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGATCCACTACATCAT  1232
+                || ||| ||  | ||||| ||||| ||||||||||||||||| ||| | |||||| |  |
+Sbjct  5704015  CAGGAGGCTGACGAAGTCTACACTGCTCCTCATCCCTCTCTTCGGGGTGCACTACGTGGT  5704074
+
+Query  1233     CTTTGCTTTTTTCCCCGA  1250
+                 || ||  | ||||| ||
+Sbjct  5704075  GTTCGCGCTCTTCCCTGA  5704092
+
+
+
+
+Range 2: 131316 to 131360
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  675     CTGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCAT  719
+               ||| ||| | |||||||||||||| || |||||||| || |||||
+Sbjct  131360  CTGCACACGCAACTACATCCACATCCACCTCTTCACTTCCTTCAT  131316
+
+
+
+
+Range 3: 5701595 to 5701674
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:59/80(74%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  676      TGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCATTTTGCGAGCCTCATCC  735
+                || || |||||||  |||||||| ||  ||||||| || |||||  |||| |   |  | 
+Sbjct  5701595  TGCACCAGGAACTCTATCCACATCCACTTCTTCACCTCCTTCATACTGCGTGGGGCCGCA  5701654
+
+Query  736      AGCTTCATCAAGGATGCTGT  755
+                   |||||||||||||||||
+Sbjct  5701655  GTGTTCATCAAGGATGCTGT  5701674
+
+
+
+
+>Pelecanus crispus isolate bPelCri1 chromosome 11, bPelCri1.pri
+Sequence ID: NC_134653.1 Length: 39351400
+Range 1: 37804320 to 37804350
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:30/31(97%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  882       CCACACTCTCCTGGTTATTTCTTTCTTCTTG  912
+                 ||||||||||||||||||||||||||| |||
+Sbjct  37804350  CCACACTCTCCTGGTTATTTCTTTCTTATTG  37804320
+
+
+
+
+>Pelecanus crispus isolate bPelCri1 chromosome 1, bPelCri1.pri
+Sequence ID: NC_134643.1 Length: 227928177
+Range 1: 124560339 to 124560393
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:47/57(82%),  Gaps:6/57(10%), Strand: Plus/Minus
+
+Query  48         GTCAAAGCTGGG-AAGGaa--aaaaaGTAGG-AGGGAAAGGGATGAAGTGAAAGGAG  100
+                  |||||||||||| || |||   ||||| ||| ||||||||||  |||||| ||||||
+Sbjct  124560393  GTCAAAGCTGGGAAAAGAAGTGAAAAGCAGGAAGGGAAAGGG--GAAGTGGAAGGAG  124560339
+
+
+
+
+
+
+
+		
+
+

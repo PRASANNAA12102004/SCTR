@@ -1,0 +1,414 @@
+RID: NDJX08N4014	
+Job Title: XM_054209822.1 PREDICTED: Rissa tridactyla 				
+Program: BLASTN 
+Database: Genome (bRisTri1.patW.cur.20221130) Rissa tridactyla bRisTri1.patW.cur.20221130 [GCF_028500815.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_028500815.1-RS_2023_03)
+Query #1: XM_054209822.1 PREDICTED: Rissa tridactyla secretin receptor (SCTR), mRNA Query ID: lcl|Query_7926063 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Rissa tridactyla isolate bRisTri1 chromosome 7,...                Rissa tridac... black-legged... 75485      392    2820  100%  1e-106 98.68  57337692   NC_071472.1      
+Rissa tridactyla isolate bRisTri1 chromosome 2,...                Rissa tridac... black-legged... 75485      67.1   286   12%   2e-08  78.48  168497702  NC_071467.1      
+Rissa tridactyla isolate bRisTri1 chromosome 19,...               Rissa tridac... black-legged... 75485      58.1   104   8%    1e-05  75.95  8543357    NC_071484.1      
+Rissa tridactyla isolate bRisTri1 chromosome 15,...               Rissa tridac... black-legged... 75485      52.7    99   4%    5e-04  77.27  15976837   NC_071480.1      
+Rissa tridactyla isolate bRisTri1 chromosome 1,...                Rissa tridac... black-legged... 75485      46.4   46.4  2%    0.022  91.67  219604264  NC_071466.1      
+
+
+Alignments:
+
+>Rissa tridactyla isolate bRisTri1 chromosome 7, bRisTri1.patW.cur.20221130
+Sequence ID: NC_071472.1 Length: 57337692
+Range 1: 10853511 to 10853738
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Minus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGTAGAGAAACATTGACTAAGGATGGGCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10853738  ATGCTCTCTAGGGCTCAGCAGCTGTAGAGAAACATTGACTAAGGATGGGCAAAGCTGGGA  10853679
+
+Query  61        AGGAAAAAA-GAGAGGAAGGAAAGGGATGAAGTGAAAGGAGCTGAGAGCTACGCTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10853678  AGGAAAAAAAGAGAGGAAGGAAAGGGATGAAGTGAAAGGAGCTGAGAGCTACGCTGGAGA  10853619
+
+Query  120       G--TACGGACAGCCTGGTGACCTCTAGTGCGCAAGGGGTGAAGGAAGCAGACTGTGATTG  177
+                 |  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10853618  GCCTACGGACAGCCTGGTGACCTCTAGTGCGCAAGGGGTGAAGGAAGCAGACTGTGATTG  10853559
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10853558  ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  10853511
+
+
+
+
+Range 2: 10832549 to 10832727
+
+Score:324 bits(358), Expect:6e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAACAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10832727  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAACAAACACTTGCGTC  10832668
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10832667  AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  10832608
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACTCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10832607  TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACTCTCCAAAGATCAAGCGTGCTTTAA  10832549
+
+
+
+
+Range 3: 10837870 to 10838026
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798       GGCTGGGTGTAAACTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10838026  GGCTGGGTGTAAACTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  10837967
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCAGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10837966  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCAGAAAG  10837907
+
+Query  918       GAAGTTCCTCTGGAGGTTCATCGCGCTTGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  10837906  GAAGTTCCTCTGGAGGTTCATCGCGCTTGGATGGGGT  10837870
+
+
+
+
+Range 4: 10833990 to 10834132
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1173      CAAGAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10834132  CAGGAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  10834073
+
+Query  1233      CTTCGCTTTTTTCCCTGAAGACACTAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10834072  CTTCGCTTTTTTCCCTGAAGACACTAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  10834013
+
+Query  1293      ATTAGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  10834012  ATTAGCTCTTGGATCATTCCAGG  10833990
+
+
+
+
+Range 5: 10839237 to 10839373
+
+Score:248 bits(274), Expect:4e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  663       CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10839373  CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  10839314
+
+Query  723       GCGAGCTTTGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTA  782
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10839313  GCGAGCTTTGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTA  10839254
+
+Query  783       CTGCGGGGCATACACGG  799
+                 |||||||||||||||||
+Sbjct  10839253  CTGCGGGGCATACACGG  10839237
+
+
+
+
+Range 6: 10849400 to 10849527
+
+Score:232 bits(256), Expect:3e-58, 
+Identities:128/128(100%),  Gaps:0/128(0%), Strand: Plus/Minus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10849527  GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  10849468
+
+Query  285       ATGTGCTGAGATTCTCTCGCTGGAGGCAAAGAACAGAACACCTGAAAATGAACTGCTCCC  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10849467  ATGTGCTGAGATTCTCTCGCTGGAGGCAAAGAACAGAACACCTGAAAATGAACTGCTCCC  10849408
+
+Query  345       GAGCTCAG  352
+                 ||||||||
+Sbjct  10849407  GAGCTCAG  10849400
+
+
+
+
+Range 7: 10844749 to 10844864
+
+Score:210 bits(232), Expect:9e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350       CAGACAGATGTGCTGGAATGTGGGATAATATGAGCTGCTGGCCTTCGTCTGACGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10844864  CAGACAGATGTGCTGGAATGTGGGATAATATGAGCTGCTGGCCTTCGTCTGACGTGGGAC  10844805
+
+Query  410       AGATTGTCAACGCTCACTGCCCTAAATTCTTCCAGATGTTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10844804  AGATTGTCAACGCTCACTGCCCTAAATTCTTCCAGATGTTGACTGGGAAAAAAGGT  10844749
+
+
+
+
+Range 8: 10840710 to 10840815
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10840815  AGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCGAGACCTGA  10840756
+
+Query  522       TATCGCTTGTGGCTACAATGTCAATGACACGGCAAACGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10840755  TATCGCTTGTGGCTACAATGTCAATGACACGGCAAACGAGGCGAGA  10840710
+
+
+
+
+Range 9: 10840326 to 10840423
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568       CGTTCGTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10840423  CGTTCGTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  10840364
+
+Query  628       ACGCTGACGATAGCGTTAGTGGTCCTGGCCTGTTTCAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  10840363  ACGCTGACGATAGCGTTAGTGGTCCTGGCCTGTTTCAG  10840326
+
+
+
+
+Range 10: 10834224 to 10834316
+
+Score:168 bits(186), Expect:3e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1084      GTTAATTTCATTCTTTTTGTTAACATTTTGAGAATCTTGATGAGGAAGCTCAGGTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10834316  GTTAATTTCATTCTTTTTGTTAACATTTTGAGAATCTTGATGAGGAAGCTCAGGTCACCT  10834257
+
+Query  1144      GAAAGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  10834256  GAAAGACGGAGCAGTGATTTCAACCAATACAAG  10834224
+
+
+
+
+Range 11: 10837096 to 10837168
+
+Score:132 bits(146), Expect:2e-28, 
+Identities:73/73(100%),  Gaps:0/73(0%), Strand: Plus/Minus
+
+Query  1013      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10837168  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  10837109
+
+Query  1073      TGTCTATTTTTGT  1085
+                 |||||||||||||
+Sbjct  10837108  TGTCTATTTTTGT  10837096
+
+
+
+
+Range 12: 10837718 to 10837781
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  952       GGTGCCCCAACTGTATTTGTGGCTGCATGGGCGACCGCTAGGCAGCTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10837781  GGTGCCCCAACTGTATTTGTGGCTGCATGGGCGACCGCTAGGCAGCTCCATGAAAATATT  10837722
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  10837721  GGGT  10837718
+
+
+
+
+Range 13: 10833751 to 10833796
+
+Score:84.2 bits(92), Expect:9e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10833796  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  10833751
+
+
+
+
+>Rissa tridactyla isolate bRisTri1 chromosome 2, bRisTri1.patW.cur.20221130
+Sequence ID: NC_071467.1 Length: 168497702
+Range 1: 164350875 to 164350953
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172       ACAAGAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1231
+                  ||| ||| || || || || ||  | || || ||||||||||||||  | ||||||||||
+Sbjct  164350875  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  164350934
+
+Query  1232       TCTTCGCTTTTTTCCCTGA  1250
+                  | || ||||| ||||||||
+Sbjct  164350935  TGTTTGCTTTCTTCCCTGA  164350953
+
+
+
+
+Range 2: 166523573 to 166523658
+
+Score:61.7 bits(67), Expect:1e-06, 
+Identities:65/86(76%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  675        CTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCTTTGTC  734
+                  ||| || || ||||||||||||||||| || ||    || |||||  || ||||  ||  
+Sbjct  166523573  CTGCACTAGAAACTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCATGAG  166523632
+
+Query  735        CAACTTCATCAAGGATGCTGTTTTGT  760
+                  || |||||| |||||||| || ||||
+Sbjct  166523633  CATCTTCATAAAGGATGCGGTCTTGT  166523658
+
+
+
+
+Range 3: 163974137 to 163974237
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:73/101(72%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  662        TCAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTT  721
+                  |||||| | | | ||||||| |||| |||||||| ||||| || ||    || || ||  
+Sbjct  163974237  TCAGAAAATTCCACTGTACACGGAATTACATCCATATGCACCTGTTTGTCTCCTTTATCC  163974178
+
+Query  722        TGCGAGCTTTGTCCAACTTCATCAAGGATGCTGTTTTGTTT  762
+                  || ||||  |  |    |||| ||| |||||||||||||||
+Sbjct  163974177  TGAGAGCAATTGCTGTTTTCACCAAAGATGCTGTTTTGTTT  163974137
+
+
+
+
+Range 4: 156848269 to 156848346
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:58/78(74%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173       CAAGAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  1232
+                  || ||||||||||||||| ||| |  | ||||| ||  | ||||| || |||||||   |
+Sbjct  156848269  CAGGAGACTTGCAAAATCCACGTTGTTGCTCATTCCGTTGTTTGGAGTTCACTACACAGT  156848328
+
+Query  1233       CTTCGCTTTTTTCCCTGA  1250
+                   || ||| | || |||||
+Sbjct  156848329  GTTTGCTCTATTTCCTGA  156848346
+
+
+
+
+Range 5: 164321889 to 164321977
+
+Score:49.1 bits(53), Expect:0.006, 
+Identities:64/89(72%),  Gaps:0/89(0%), Strand: Plus/Plus
+
+Query  663        CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+                  ||||| ||| | ||||||  | || || || || |||||||||||||  || |||||  |
+Sbjct  164321889  CAGAAAACTACACTGTACTCGAAATTATATTCATATGCATCTCTTCATGTCCTTCATAAT  164321948
+
+Query  723        GCGAGCTTTGTCCAACTTCATCAAGGATG  751
+                  | ||||  |  |   |||||| || ||||
+Sbjct  164321949  GAGAGCCATCGCAGTCTTCATAAAAGATG  164321977
+
+
+
+
+>Rissa tridactyla isolate bRisTri1 chromosome 19, bRisTri1.patW.cur.20221130
+Sequence ID: NC_071484.1 Length: 8543357
+Range 1: 3269231 to 3269309
+
+Score:58.1 bits(63), Expect:1e-05, 
+Identities:60/79(76%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1231
+                ||| ||| ||  | || || ||||| ||||| ||||||||||| ||||| |||||| |  
+Sbjct  3269309  ACAGGAGGCTGACGAAGTCCACGCTGCTCCTTATCCCTCTCTTCGGGGTGCACTACGTGG  3269250
+
+Query  1232     TCTTCGCTTTTTTCCCTGA  1250
+                | |||||  | ||||| ||
+Sbjct  3269249  TGTTCGCGCTCTTCCCCGA  3269231
+
+
+
+
+Range 2: 4832500 to 4832544
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:37/45(82%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  675      CTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                ||| ||| | |||||||||||| | || |||||||| || |||||
+Sbjct  4832544  CTGCACACGCAACTACATCCACGTCCACCTCTTCACCTCCTTCAT  4832500
+
+
+
+
+>Rissa tridactyla isolate bRisTri1 chromosome 15, bRisTri1.patW.cur.20221130
+Sequence ID: NC_071480.1 Length: 15976837
+Range 1: 542355 to 542420
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:51/66(77%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  663     CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+               ||||| ||||| ||| ||||| ||||||||||| ||| || | ||  |||| || ||  |
+Sbjct  542355  CAGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCCT  542414
+
+Query  723     GCGAGC  728
+               ||| ||
+Sbjct  542415  GCGTGC  542420
+
+
+
+
+Range 2: 11462079 to 11462116
+
+Score:47.3 bits(51), Expect:0.022, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  682       AGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                 |||||||||||||||||| | |||||| | || |||||
+Sbjct  11462116  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  11462079
+
+
+
+
+>Rissa tridactyla isolate bRisTri1 chromosome 1, bRisTri1.patW.cur.20221130
+Sequence ID: NC_071466.1 Length: 219604264
+Range 1: 93701836 to 93701868
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:33/36(92%),  Gaps:3/36(8%), Strand: Plus/Plus
+
+Query  50        CAAAGCTGGGAAGGAAAAAAGAGAGGAAGGAAAGGG  85
+                 ||||||||||  |||||||||| |||||||||||||
+Sbjct  93701836  CAAAGCTGGG--GGAAAAAAGA-AGGAAGGAAAGGG  93701868
+
+
+
+
+
+
+
+		
+
+

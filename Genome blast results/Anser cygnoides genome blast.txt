@@ -1,0 +1,483 @@
+RID: NERJKC6A016	
+Job Title:XM_013186498.3:271-1803 PREDICTED: Anser cygnoides...				
+Program: BLASTN 
+Database: Genome (Taihu_goose_T2T_genome) Anser cygnoides Taihu_goose_T2T_genome [GCF_040182565.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_040182565.1-RS_2024_07)
+Query #1: XM_013186498.3:271-1803 PREDICTED: Anser cygnoides secretin receptor (SCTR), mRNA Query ID: lcl|Query_7670927 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Anser cygnoides isolate HZ-2024a breed goose chromosome 6,...     Anser cygnoides Swan goose      8845       380    2813  100%  7e-103 97.81  42440135   NC_089878.1      
+Anser cygnoides isolate HZ-2024a breed goose chromosome 2,...     Anser cygnoides Swan goose      8845       114    634   29%   5e-23  78.26  163851223  NC_089874.1      
+Anser cygnoides isolate HZ-2024a breed goose chromosome 19,...    Anser cygnoides Swan goose      8845       74.3   174   12%   1e-10  74.34  13229691   NC_089891.1      
+Anser cygnoides isolate HZ-2024a breed goose chromosome 22,...    Anser cygnoides Swan goose      8845       69.8   69.8  5%    2e-09  78.31  9120855    NC_089894.1      
+
+
+Alignments:
+
+>Anser cygnoides isolate HZ-2024a breed goose chromosome 6, Taihu_goose_T2T_genome
+Sequence ID: NC_089878.1 Length: 42440135
+Range 1: 32460097 to 32460322
+
+Score:380 bits(421), Expect:7e-103, 
+Identities:223/228(98%),  Gaps:5/228(2%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTGGGGCTCGGCAGCTGGAGAGAAACGTTGACTCAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32460097  ATGCTCTCTGGGGCTCGGCAGCTGGAGAGAAACGTTGACTCAGGATGGTCAAAGCTGGGA  32460156
+
+Query  61        AGG-AAAAAAGCGAGGAGGGAAAGGAATGAAGTGAAAGGAGCTGAGAGCCAGGCTGGAGA  119
+                 ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32460157  AGGAAAAAAAGCGAGGAGGGAAAGGAATGAAGTGAAAGGAGCTGAGAGCCAGGCTGGAGA  32460216
+
+Query  120       GCA--CAGACAGCCTGGTGACCTCTGGTGCATGAAGGATGAAGGAAGCAGACTGNNAGTG  177
+                 |||  |||||||||||||||||||||||||||||||||||||||||||||||||  ||||
+Sbjct  32460217  GCACGCAGACAGCCTGGTGACCTCTGGTGCATGAAGGATGAAGGAAGCAGACTG--AGTG  32460274
+
+Query  178       ACTATGTGGACCGTCTGGGTGATCATCTTCTGGGTTTCAACCGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32460275  ACTATGTGGACCGTCTGGGTGATCATCTTCTGGGTTTCAACCGTCCTG  32460322
+
+
+
+
+Range 2: 32479140 to 32479318
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32479140  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  32479199
+
+Query  1415      AGCATCTGAGCACCTCAGCAAGTAACGGAGGAAGTGGCTTAACTCAGGAGATGCAGGTAG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32479200  AGCATCTGAGCACCTCAGCAAGTAACGGAGGAAGTGGCTTAACTCAGGAGATGCAGGTAG  32479259
+
+Query  1475      TGAAGTCGAGCCCACCACAGGACAGGAGAGCAACCCTCCAAAGATCAAGCATGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32479260  TGAAGTCGAGCCCACCACAGGACAGGAGAGCAACCCTCCAAAGATCAAGCATGCTTTAA  32479318
+
+
+
+
+Range 3: 32474051 to 32474207
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGATGCAAGCTTACCATGGTCTTCTTTCAGTATTGCATTATGTCTAACTACTGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32474051  GGCTGGATGCAAGCTTACCATGGTCTTCTTTCAGTATTGCATTATGTCTAACTACTGCTG  32474110
+
+Query  858       GCTTCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTAATTTCCTTCTTCTCAGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32474111  GCTTCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTAATTTCCTTCTTCTCAGAAAG  32474170
+
+Query  918       GAAGTTCTTCTGGTGGTTCATCACCCTTGGCTGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  32474171  GAAGTTCTTCTGGTGGTTCATCACCCTTGGCTGGGGT  32474207
+
+
+
+
+Range 4: 32477744 to 32477886
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGGCTTGCCAAGTCGACACTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32477744  CAGGAGGCTTGCCAAGTCGACACTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  32477803
+
+Query  1233      CTTTGCTTTCTTCCCCGAAGACACAAGTAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32477804  CTTTGCTTTCTTCCCCGAAGACACAAGTAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  32477863
+
+Query  1293      ATTGGCTCTTGGATCGTTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  32477864  ATTGGCTCTTGGATCGTTCCAGG  32477886
+
+
+
+
+Range 5: 32473210 to 32473345
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32473210  AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCATTTTG  32473269
+
+Query  724       CGAGCCTCATCTAACTTCATCAAAGATGCTGTTTTATTCTCCTCTGAAGACACAAACTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32473270  CGAGCCTCATCTAACTTCATCAAAGATGCTGTTTTATTCTCCTCTGAAGACACAAACTAC  32473329
+
+Query  784       TGTGAGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  32473330  TGTGAGGCATACACGG  32473345
+
+
+
+
+Range 6: 32464261 to 32464408
+
+Score:237 bits(262), Expect:6e-60, 
+Identities:142/148(96%),  Gaps:1/148(0%), Strand: Plus/Plus
+
+Query  225       GATCAGGGCTGCCCCACCTGTCTGTGACCTCCTGAGCGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32464261  GATCAGGGCTGCCCCACCTGTCTGTGACCTCCTGAGCGTCCTGAAAAAGGAGGAAGAAAA  32464320
+
+Query  285       CTGTGCTGAGAGACTGTCCCTGGAGGCGAGGAACAGGACACCTGAAAATGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32464321  CTGTGCTGAGAGACTGTCCCTGGAGGCGAGGAACAGGACACCTGAAAATGATCTGCTCCT  32464380
+
+Query  345       GACATCAGGCAGA-TGTGCTGGAATGTG  371
+                 ||||||||| | |  |||  ||||||||
+Sbjct  32464381  GACATCAGGTAAAGGGTGGGGGAATGTG  32464408
+
+
+
+
+Range 7: 32467216 to 32467331
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCAGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32467216  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCAGCTGTGGGAC  32467275
+
+Query  410       AGACTGTCGATGCACCCTGCCCCAAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32467276  AGACTGTCGATGCACCCTGCCCCAAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  32467331
+
+
+
+
+Range 8: 32471734 to 32471839
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTCGTCTATCGAAACTGTACCAGCGAGGGTTGGTCAGACCCGTATCCAAGACCAGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32471734  AGGTTTCGTCTATCGAAACTGTACCAGCGAGGGTTGGTCAGACCCGTATCCAAGACCAGA  32471793
+
+Query  522       TATTGCTTGTGGCTACAATGTCAATGACACCACAAATGAGAAAAGG  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32471794  TATTGCTTGTGGCTACAATGTCAATGACACCACAAATGAGAAAAGG  32471839
+
+
+
+
+Range 9: 32472132 to 32472230
+
+Score:179 bits(198), Expect:1e-42, 
+Identities:99/99(100%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  567       GCGTGCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGT  626
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32472132  GCGTGCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGT  32472191
+
+Query  627       GACGCTGACAATAGCCTTAGTGGTCCTGGCCTCTTTAAG  665
+                 |||||||||||||||||||||||||||||||||||||||
+Sbjct  32472192  GACGCTGACAATAGCCTTAGTGGTCCTGGCCTCTTTAAG  32472230
+
+
+
+
+Range 10: 32477561 to 32477653
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      ATTAATTTCATTCTTTTCATCAACATTTTAAGAATCCTGATGAAGAAGCTCAGCTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32477561  ATTAATTTCATTCTTTTCATCAACATTTTAAGAATCCTGATGAAGAAGCTCAGCTCACCT  32477620
+
+Query  1144      GAAAGACGGAGCAGCGATTTCAACCAGTACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  32477621  GAAAGACGGAGCAGCGATTTCAACCAGTACAAG  32477653
+
+
+
+
+Range 11: 32474878 to 32474956
+
+Score:130 bits(143), Expect:2e-27, 
+Identities:76/79(96%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32474878  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  32474937
+
+Query  1073      TGTCTATTTTTATTAATTT  1091
+                 ||||||||||| | | |||
+Sbjct  32474938  TGTCTATTTTTGTAAGTTT  32474956
+
+
+
+
+Range 12: 32474296 to 32474359
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACTGTCTTTGTGGCTGCGTGGGCCACTGCGAGGCAACTCCATGAAAACACC  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32474296  GGTGCCCCAACTGTCTTTGTGGCTGCGTGGGCCACTGCGAGGCAACTCCATGAAAACACC  32474355
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  32474356  GGGT  32474359
+
+
+
+
+Range 13: 32478052 to 32478101
+
+Score:86.9 bits(95), Expect:2e-14, 
+Identities:49/50(98%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  1309      TTCCAGGGTTTTTTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 || |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32478052  TTTCAGGGTTTTTTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  32478101
+
+
+
+
+>Anser cygnoides isolate HZ-2024a breed goose chromosome 2, Taihu_goose_T2T_genome
+Sequence ID: NC_089874.1 Length: 163851223
+Range 1: 3760043 to 3760180
+
+Score:114 bits(126), Expect:5e-23, 
+Identities:108/138(78%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  817      ATGGTCTTCTTTCAGTATTGCATTATGTCTAACTACTGCTGGCTTCTCGTGGAGGGACTG  876
+                ||||| ||||| ||||| ||  | ||| | |||| || |||||| || ||||| || |||
+Sbjct  3760180  ATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTCCTGGTGGAAGGGCTG  3760121
+
+Query  877      TACCTCCACACTCTCCTGGTAATTTCCTTCTTCTCAGAAAGGAAGTTCTTCTGGTGGTTC  936
+                || || ||||| ||  |||| || |||||||| || || ||||||| ||||||||||| |
+Sbjct  3760120  TATCTTCACACCCTGTTGGTCATCTCCTTCTTTTCGGAGAGGAAGTACTTCTGGTGGTAC  3760061
+
+Query  937      ATCACCCTTGGCTGGGGT  954
+                |||    |||||||||||
+Sbjct  3760060  ATCTTGATTGGCTGGGGT  3760043
+
+
+
+
+Range 2: 3747564 to 3747642
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGGCTTGCCAAGTCGACACTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCA  1231
+                ||| ||| || || ||||| ||  | || || ||||| ||||||||  ||||||||||||
+Sbjct  3747642  ACAGGAGACTGGCTAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3747583
+
+Query  1232     TCTTTGCTTTCTTCCCCGA  1250
+                | |||||||||||||| ||
+Sbjct  3747582  TGTTTGCTTTCTTCCCTGA  3747564
+
+
+
+
+Range 3: 4183219 to 4183356
+
+Score:74.3 bits(81), Expect:1e-10, 
+Identities:99/138(72%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  817      ATGGTCTTCTTTCAGTATTGCATTATGTCTAACTACTGCTGGCTTCTCGTGGAGGGACTG  876
+                ||||| || ||||| || ||  | ||||| ||||| | ||||||| || | |||||| ||
+Sbjct  4183356  ATGGTGTTTTTTCACTACTGTGTCATGTCCAACTATTTCTGGCTTTTCATTGAGGGATTG  4183297
+
+Query  877      TACCTCCACACTCTCCTGGTAATTTCCTTCTTCTCAGAAAGGAAGTTCTTCTGGTGGTTC  936
+                |||||   |||| |  |||||    |||| ||| |||| ||||  |  ||||  |||| |
+Sbjct  4183296  TACCTTTTCACTTTGTTGGTAGAAACCTTTTTCCCAGAGAGGAGATATTTCTACTGGTAC  4183237
+
+Query  937      ATCACCCTTGGCTGGGGT  954
+                |  |   |||||||||||
+Sbjct  4183236  ACTATTATTGGCTGGGGT  4183219
+
+
+
+
+Range 4: 3777229 to 3777316
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:68/90(76%),  Gaps:4/90(4%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCATTTTG  723
+                ||||  || | ||||||  | || || || || ||||| |||||||||||||||||  ||
+Sbjct  3777316  AGAAAGCTACACTGTACTCGAAATTATATTCATATGCACCTCTTCATGTCCTTCATAATG  3777257
+
+Query  724      CGAGCCTCATCTAA--CTTCATCAAAGATG  751
+                 ||||  ||||  |  |||||| |||||||
+Sbjct  3777256  AGAGC--CATCGCAGTCTTCATAAAAGATG  3777229
+
+
+
+
+Range 5: 10906175 to 10906243
+
+Score:58.1 bits(63), Expect:1e-05, 
+Identities:54/69(78%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  660       TTTAAGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCAT  719
+                 ||| |||| ||||| ||||||  |||||||||||||  || | || ||| | ||||||||
+Sbjct  10906243  TTTTAGAAAACTTCACTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCCTTCAT  10906184
+
+Query  720       TTTGCGAGC  728
+                 | |  ||||
+Sbjct  10906183  TCTAAGAGC  10906175
+
+
+
+
+Range 6: 4127162 to 4127259
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:71/98(72%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  664      AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCATTTTG  723
+                |||| | | | ||||||  |||| |||||||| ||||| || ||  | ||||| ||  ||
+Sbjct  4127162  AGAAAATTCCACTGTACACGGAATTACATCCATATGCACCTGTTTGTCTCCTTTATCCTG  4127221
+
+Query  724      CGAGCCTCATCTAACTTCATCAAAGATGCTGTTTTATT  761
+                 ||||     ||   |||| ||||||||||||||| ||
+Sbjct  4127222  AGAGCAATTGCTGTTTTCACCAAAGATGCTGTTTTGTT  4127259
+
+
+
+
+Range 7: 1726445 to 1726552
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:78/109(72%),  Gaps:2/109(1%), Strand: Plus/Minus
+
+Query  847      AACTACTGCTGGCTTCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTAATTTCCTTC  906
+                || |||| |||| | || ||||| || || || |||||||  ||| |  | ||  | || 
+Sbjct  1726552  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTT  1726493
+
+Query  907      TTCTCAGAAAGGAAGT-TCTTCTGGTGGTTCATCACCCTTGGCTGGGGT  954
+                |||||||| | ||||| |||| ||| | ||||      |||||||||||
+Sbjct  1726492  TTCTCAGAGAAGAAGTATCTT-TGGGGATTCACATTATTTGGCTGGGGT  1726445
+
+
+
+
+Range 8: 1729527 to 1729581
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:44/55(80%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  675      CTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCATTTTGCGAGCC  729
+                ||| || || ||||||||||||||||| || ||  | ||||||||  || |||||
+Sbjct  1729581  CTGCACTAGAAACTACATCCACATGCACCTATTTGTCTCCTTCATGCTGAGAGCC  1729527
+
+
+
+
+Range 9: 5027500 to 5027552
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:42/53(79%),  Gaps:0/53(0%), Strand: Plus/Plus
+
+Query  1306     TCGTTCCAGGGTTTTTTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                || ||||||||||| || ||| | ||| |||| || ||  | |||||||||||
+Sbjct  5027500  TCTTTCCAGGGTTTCTTTGTGTCAGTATTTTACTGCTTCTTGAATGGTGAGGT  5027552
+
+
+
+
+Range 10: 10932614 to 10932693
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:58/80(73%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  356       GATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCAGCTGTGGGACAGACTG  415
+                 |||||| |||| | ||||||||||| | ||| |||| | |  ||    | ||| ||||||
+Sbjct  10932693  GATGTGTTGGAGTTTGGGATAACATCACCTGTTGGCGTCCTGCAAAGATTGGAGAGACTG  10932634
+
+Query  416       TCGATGCACCCTGCCCCAAA  435
+                 ||  ||  || ||||| |||
+Sbjct  10932633  TCACTGTCCCTTGCCCAAAA  10932614
+
+
+
+
+>Anser cygnoides isolate HZ-2024a breed goose chromosome 19, Taihu_goose_T2T_genome
+Sequence ID: NC_089891.1 Length: 13229691
+Range 1: 12796656 to 12796768
+
+Score:74.3 bits(81), Expect:1e-10, 
+Identities:84/113(74%),  Gaps:0/113(0%), Strand: Plus/Plus
+
+Query  815       CCATGGTCTTCTTTCAGTATTGCATTATGTCTAACTACTGCTGGCTTCTCGTGGAGGGAC  874
+                 ||| ||||||| | |||||  |||   || | |||||||||||||| || ||||||||  
+Sbjct  12796656  CCACGGTCTTCATGCAGTACGGCACCGTGGCCAACTACTGCTGGCTGCTTGTGGAGGGCA  12796715
+
+Query  875       TGTACCTCCACACTCTCCTGGTAATTTCCTTCTTCTCAGAAAGGAAGTTCTTC  927
+                 | ||||| ||||  ||||||||  |  || ||||||| ||  |||  | ||||
+Sbjct  12796716  TCTACCTGCACAACCTCCTGGTGGTGGCCGTCTTCTCCGAGCGGAGCTACTTC  12796768
+
+
+
+
+Range 2: 12796424 to 12796468
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  675       CTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCAT  719
+                 ||| | ||||||||||||||||||| | ||||||   ||||||||
+Sbjct  12796424  CTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  12796468
+
+
+
+
+Range 3: 26830 to 26898
+
+Score:49.1 bits(53), Expect:0.006, 
+Identities:52/69(75%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  664    AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCATGTCCTTCATTTTG  723
+              |||| |||||  || || || ||||||||||| ||| || | ||  |||| || || |||
+Sbjct  26830  AGAAAACTTCATTGCACAAGAAACTACATCCATATGAATTTATTTGTGTCTTTTATCTTG  26889
+
+Query  724    CGAGCCTCA  732
+              || ||| ||
+Sbjct  26890  CGTGCCACA  26898
+
+
+
+
+>Anser cygnoides isolate HZ-2024a breed goose chromosome 22, Taihu_goose_T2T_genome
+Sequence ID: NC_089894.1 Length: 9120855
+Range 1: 2943779 to 2943861
+
+Score:69.8 bits(76), Expect:2e-09, 
+Identities:65/83(78%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  1173     CAAGAGGCTTGCCAAGTCGACACTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  1232
+                || ||||||  ||||||| || || ||||| ||||| ||||| ||||| |||||| |  |
+Sbjct  2943779  CAGGAGGCTGACCAAGTCCACGCTGCTCCTGATCCCCCTCTTCGGGGTGCACTACGTGGT  2943838
+
+Query  1233     CTTTGCTTTCTTCCCCGAAGACA  1255
+                 || ||  ||||||||||| |||
+Sbjct  2943839  GTTCGCGCTCTTCCCCGAACACA  2943861
+
+
+
+
+
+
+
+		
+
+

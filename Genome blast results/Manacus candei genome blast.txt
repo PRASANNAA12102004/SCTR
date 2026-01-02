@@ -1,0 +1,393 @@
+RID: NDFPCT29014	
+Job Title:XM_051786726.1:1-1533 PREDICTED: Manacus candei...				
+Program: BLASTN 
+Database: Genome (ASM2559294v1) Manacus candei ASM2559294v1 [GCF_025592945.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_025592945.1-RS_2023_02)
+Query #1: XM_051786726.1:1-1533 PREDICTED: Manacus candei secretin receptor (SCTR), mRNA Query ID: lcl|Query_6764609 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Manacus candei isolate 608988 ecotype Guabito, Panama unplaced... Manacus candei  White-collar... 415023     392    2818  100%  1e-106 98.68  27858140   NW_026138071.1   
+Manacus candei isolate 608988 ecotype Guabito, Panama unplaced... Manacus candei  White-collar... 415023     76.1   235   15%   4e-11  81.01  5447434    NW_026138142.1   
+Manacus candei isolate 608988 ecotype Guabito, Panama unplaced... Manacus candei  White-collar... 415023     64.4   64.4  5%    7e-08  80.00  13289495   NW_026138095.1   
+Manacus candei isolate 608988 ecotype Guabito, Panama unplaced... Manacus candei  White-collar... 415023     63.5   63.5  5%    2e-07  80.26  1049887    NW_026138144.1   
+Manacus candei isolate 608988 ecotype Guabito, Panama unplaced... Manacus candei  White-collar... 415023     60.8   60.8  5%    8e-07  76.92  577895     NW_026138206.1   
+Manacus candei isolate 608988 ecotype Guabito, Panama unplaced... Manacus candei  White-collar... 415023     57.2   57.2  5%    1e-05  75.31  1138688    NW_026138114.1   
+
+
+Alignments:
+
+>Manacus candei isolate 608988 ecotype Guabito, Panama unplaced genomic scaffold, ASM2559294v1 h1tg000023l
+Sequence ID: NW_026138071.1 Length: 27858140
+Range 1: 775837 to 776064
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Minus
+
+Query  1       ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCaaagctggga  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  776064  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  776005
+
+Query  61      aggaaaaaa-gcaaggagggaaaaggacaaagtgaaaagAGCTAGGAGCCACACTGGAGA  119
+               ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  776004  AGGAAAAAAAGCAAGGAGGGAAAAGGACAAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  775945
+
+Query  120     GTATAAA--CATCCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTCATTG  177
+               |||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  775944  GTATAAAAACATCCTGGTGACCTCTGATGCACAAGGTATGAAGAAAACAGACTGTCATTG  775885
+
+Query  178     ACTATGTGGACAATCTGGGTGATAATCTTCTGGATTTCAACTGTCCCG  225
+               ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  775884  ACTATGTGGACAATCTGGGTGATAATCTTCTGGATTTCAACTGTCCCG  775837
+
+
+
+
+Range 2: 756367 to 756545
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355    AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1414
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  756545  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  756486
+
+Query  1415    AGCACCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCACATGG  1474
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  756485  AGCACCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCACATGG  756426
+
+Query  1475    TGAGGTCGAGCCCACCAGAGCACAGGAGAGAAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  756425  TGAGGTCGAGCCCACCAGAGCACAGGAGAGAAACCCTCCAAAGATCAAGCGTGCTTTAA  756367
+
+
+
+
+Range 3: 761276 to 761432
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798     GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  761432  GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  761373
+
+Query  858     GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  761372  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  761313
+
+Query  918     GAAGTTCCTCTGGTGGTTCATTGTCCTCGGATGGGGT  954
+               |||||||||||||||||||||||||||||||||||||
+Sbjct  761312  GAAGTTCCTCTGGTGGTTCATTGTCCTCGGATGGGGT  761276
+
+
+
+
+Range 4: 757690 to 757832
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1173    CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  1232
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757832  CAGGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  757773
+
+Query  1233    CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGTTGTTTTTTGA  1292
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757772  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGTTGTTTTTTGA  757713
+
+Query  1293    ATTGGCTCTTGGATCATTCCAGG  1315
+               |||||||||||||||||||||||
+Sbjct  757712  ATTGGCTCTTGGATCATTCCAGG  757690
+
+
+
+
+Range 5: 762257 to 762393
+
+Score:248 bits(274), Expect:3e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  663     CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  762393  CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  762334
+
+Query  723     GCGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCCGAAGACATAAATTA  782
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  762333  GCGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCCGAAGACATAAATTA  762274
+
+Query  783     CTGTGGGGCACAAACGG  799
+               |||||||||||||||||
+Sbjct  762273  CTGTGGGGCACAAACGG  762257
+
+
+
+
+Range 6: 771915 to 772043
+
+Score:233 bits(258), Expect:6e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  225     GATCAAAGCTGTTCCACCTATCTGTGACCTCCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  284
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  772043  GATCAAAGCTGTTCCACCTATCTGTGACCTCCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  771984
+
+Query  285     GTGTGCTGAGACTCTCTCCCTGGAGGCACAGAACAGAACGACTGAAAATGATCTGCTCCT  344
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  771983  GTGTGCTGAGACTCTCTCCCTGGAGGCACAGAACAGAACGACTGAAAATGATCTGCTCCT  771924
+
+Query  345     GAGCTCAGG  353
+               |||||||||
+Sbjct  771923  GAGCTCAGG  771915
+
+
+
+
+Range 7: 767810 to 767925
+
+Score:210 bits(232), Expect:7e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350     CAGGCAGGTGTGCTGGAATGTGGGATAACATGAGTTGCTGGCCTTCATCCACTGTGGGAC  409
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  767925  CAGGCAGGTGTGCTGGAATGTGGGATAACATGAGTTGCTGGCCTTCATCCACTGTGGGAC  767866
+
+Query  410     AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  767865  AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  767810
+
+
+
+
+Range 8: 763771 to 763876
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462     AGGTTTTGTCTACAGAAATTGTACAAGTGAGGGCTGGTCAGACCCATATCCGAGACCTGA  521
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  763876  AGGTTTTGTCTACAGAAATTGTACAAGTGAGGGCTGGTCAGACCCATATCCGAGACCTGA  763817
+
+Query  522     TATTGCTTGTGGCTACAATGTCAATGACACGACCAACGAGGCAAGA  567
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  763816  TATTGCTTGTGGCTACAATGTCAATGACACGACCAACGAGGCAAGA  763771
+
+
+
+
+Range 9: 763377 to 763474
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568     CGTTTCTATTTCATGACCTTGAAGACCATGTACACCGTCGGATACTGCACCTCCCTCGTG  627
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  763474  CGTTTCTATTTCATGACCTTGAAGACCATGTACACCGTCGGATACTGCACCTCCCTCGTG  763415
+
+Query  628     ACACTAATCATAGCCTTAGCAGTCCTGGCCTCTTTCAG  665
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  763414  ACACTAATCATAGCCTTAGCAGTCCTGGCCTCTTTCAG  763377
+
+
+
+
+Range 10: 757912 to 758004
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1084    ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGATCACCT  1143
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  758004  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGATCACCT  757945
+
+Query  1144    GAAAGACGGAGCAGTGATTTCAACCAATACAAG  1176
+               |||||||||||||||||||||||||||||||||
+Sbjct  757944  GAAAGACGGAGCAGTGATTTCAACCAATACAAG  757912
+
+
+
+
+Range 11: 760521 to 760591
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1013    GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  1072
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  760591  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  760532
+
+Query  1073    TGTCTATTTTT  1083
+               |||||||||||
+Sbjct  760531  TGTCTATTTTT  760521
+
+
+
+
+Range 12: 761126 to 761189
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  952     GGTGCCCCAGCTGTGTTCGTGGCTGCATGGGCGACTGCCAGGCAGTTCCATGAAAATATT  1011
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  761189  GGTGCCCCAGCTGTGTTCGTGGCTGCATGGGCGACTGCCAGGCAGTTCCATGAAAATATT  761130
+
+Query  1012    GGGT  1015
+               ||||
+Sbjct  761129  GGGT  761126
+
+
+
+
+Range 13: 757476 to 757521
+
+Score:84.2 bits(92), Expect:7e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313    AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  757521  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  757476
+
+
+
+
+>Manacus candei isolate 608988 ecotype Guabito, Panama unplaced genomic scaffold, ASM2559294v1 h1tg000094l
+Sequence ID: NW_026138142.1 Length: 5447434
+Range 1: 4776444 to 4776522
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1231
+                ||| ||| || || ||||| ||  | || || ||||||||||||||  | ||||||||||
+Sbjct  4776444  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  4776503
+
+Query  1232     TCTTTGCTTTTTTCCCTGA  1250
+                | |||||||| ||||||||
+Sbjct  4776504  TGTTTGCTTTCTTCCCTGA  4776522
+
+
+
+
+Range 2: 4751974 to 4752073
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:73/100(73%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  663      CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+                ||||| ||| | ||||||  | || || || ||||||||||||||||  || |||||  |
+Sbjct  4751974  CAGAAAACTACACTGCACTCGAAATTATATTCACATGCATCTCTTCATGTCCTTCATCAT  4752033
+
+Query  723      GCGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTT  762
+                | |||||    |   ||||||||| |||| | |  |||||
+Sbjct  4752034  GAGAGCCATTGCAGTCTTCATCAAAGATGTCATCCTGTTT  4752073
+
+
+
+
+Range 3: 4442748 to 4442848
+
+Score:52.7 bits(57), Expect:4e-04, 
+Identities:72/101(71%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  662      TCAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTT  721
+                |||||| | | | ||| ||| |||| |||||||||||||| || ||    || || || |
+Sbjct  4442848  TCAGAAAATTCCACTGTACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCT  4442789
+
+Query  722      TGCGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTT  762
+                || ||||     |    |||| ||| ||||| |||||||||
+Sbjct  4442788  TGAGAGCAATTGCTGTTTTCACCAAAGATGCTGTTTTGTTT  4442748
+
+
+
+
+Range 4: 3626536 to 3626588
+
+Score:47.3 bits(51), Expect:0.018, 
+Identities:42/53(79%),  Gaps:0/53(0%), Strand: Plus/Minus
+
+Query  1306     TCATTCCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                || |||||||| ||  ||||| | ||| |||| || || || |||||||||||
+Sbjct  3626588  TCTTTCCAGGGTTTCTTTGTGTCAGTATTTTACTGCTTCCTGAATGGTGAGGT  3626536
+
+
+
+
+>Manacus candei isolate 608988 ecotype Guabito, Panama unplaced genomic scaffold, ASM2559294v1 h1tg000047l
+Sequence ID: NW_026138095.1 Length: 13289495
+Range 1: 12626132 to 12626201
+
+Score:64.4 bits(70), Expect:7e-08, 
+Identities:56/70(80%),  Gaps:0/70(0%), Strand: Plus/Minus
+
+Query  663       CAGAAGACTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+                 ||||| ||||| ||||||||| ||||||||||| ||| || | ||  |||| || || ||
+Sbjct  12626201  CAGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTT  12626142
+
+Query  723       GCGAGCCTCA  732
+                 ||| ||| ||
+Sbjct  12626141  GCGTGCCACA  12626132
+
+
+
+
+>Manacus candei isolate 608988 ecotype Guabito, Panama unplaced genomic scaffold, ASM2559294v1 h1tg000096l
+Sequence ID: NW_026138144.1 Length: 1049887
+Range 1: 281721 to 281795
+
+Score:63.5 bits(69), Expect:2e-07, 
+Identities:61/76(80%),  Gaps:2/76(2%), Strand: Plus/Plus
+
+Query  675     CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCC-TCAT  733
+               ||||||| |||| ||||||||| | || |||||||| || ||||| |  || ||| ||| 
+Sbjct  281721  CTGCACACGGAATTACATCCACGTCCACCTCTTCACCTCCTTCATCTGCCGGGCCATCAG  281780
+
+Query  734     CCAACTTCATCAAGGA  749
+               | | ||||||||||||
+Sbjct  281781  C-ATCTTCATCAAGGA  281795
+
+
+
+
+>Manacus candei isolate 608988 ecotype Guabito, Panama unplaced genomic scaffold, ASM2559294v1 h1tg000158l
+Sequence ID: NW_026138206.1 Length: 577895
+Range 1: 265233 to 265310
+
+Score:60.8 bits(66), Expect:8e-07, 
+Identities:60/78(77%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1173    CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  1232
+               || ||| ||  | ||||| ||||| || |||||||||||||| ||||| |||||| |  |
+Sbjct  265310  CAGGAGGCTGACCAAGTCCACGCTGCTGCTCATCCCTCTCTTCGGGGTGCACTACGTGGT  265251
+
+Query  1233    CTTTGCTTTTTTCCCTGA  1250
+                || ||| | ||||| ||
+Sbjct  265250  GTTCGCTCTCTTCCCCGA  265233
+
+
+
+
+>Manacus candei isolate 608988 ecotype Guabito, Panama unplaced genomic scaffold, ASM2559294v1 h1tg000066l
+Sequence ID: NW_026138114.1 Length: 1138688
+Range 1: 990042 to 990122
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:61/81(75%),  Gaps:0/81(0%), Strand: Plus/Minus
+
+Query  675     CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCATC  734
+               |||||| |||||||||||||||||||| || |||   || |||||  || | |||     
+Sbjct  990122  CTGCACTAGGAACTACATCCACATGCACCTGTTCGTGTCCTTCATGCTGAGGGCCGTGAG  990063
+
+Query  735     CAACTTCATCAAGGATGCCGT  755
+               || |||| | ||||| |||||
+Sbjct  990062  CATCTTCGTGAAGGACGCCGT  990042
+
+
+
+
+
+
+
+		
+
+

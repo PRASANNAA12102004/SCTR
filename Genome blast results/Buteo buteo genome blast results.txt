@@ -1,0 +1,422 @@
+RID: NDB7897T014	
+Job Title:XM_075029362.1 PREDICTED: Buteo buteo secretin...				
+Program: BLASTN 
+Database: Genome (bButBut1.hap1.1) Buteo buteo bButBut1.hap1.1 [GCF_964188355.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_964188355.1-RS_2025_07)
+Query #1: XM_075029362.1 PREDICTED: Buteo buteo secretin receptor (SCTR), mRNA Query ID: lcl|Query_5012917 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Buteo buteo chromosome 5, bButBut1.hap1.1                         Buteo buteo     common buzzard  30397      392    2817  100%  1e-106 98.68  54892834   NC_134175.1      
+Buteo buteo chromosome 2, bButBut1.hap1.1                         Buteo buteo     common buzzard  30397      71.6   341   15%   5e-10  79.75  80236099   NC_134172.1      
+Buteo buteo chromosome 9, bButBut1.hap1.1                         Buteo buteo     common buzzard  30397      63.5   114   7%    3e-07  75.49  46961128   NC_134179.1      
+Buteo buteo chromosome 13, bButBut1.hap1.1                        Buteo buteo     common buzzard  30397      52.7   104   4%    5e-04  77.27  40503592   NC_134183.1      
+Buteo buteo chromosome 29, bButBut1.hap1.1                        Buteo buteo     common buzzard  30397      46.4   46.4  3%    0.021  87.18  6425271    NC_134199.1      
+
+
+Alignments:
+
+>Buteo buteo chromosome 5, bButBut1.hap1.1
+Sequence ID: NC_134175.1 Length: 54892834
+Range 1: 43630115 to 43630342
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACGTTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43630115  ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACGTTGGCTAAGGATGGTCAAAGCTGGGA  43630174
+
+Query  61        AGGaaaaaaaGT-AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43630175  AGGAAAAAAAGTGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGAGA  43630234
+
+Query  120       GCATA--GACAGCCTGGTGACCTCTGGTGCATGAGGGATGAAGGAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43630235  GCATACAGACAGCCTGGTGACCTCTGGTGCATGAGGGATGAAGGAAACAGACTGTGATTG  43630294
+
+Query  178       AATATGTGGACCATCTGTGTGATCATCTTCTGGATTTCAGCTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43630295  AATATGTGGACCATCTGTGTGATCATCTTCTGGATTTCAGCTGTCCTG  43630342
+
+
+
+
+Range 2: 43651116 to 43651294
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43651116  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACTTGCGTC  43651175
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGTCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43651176  AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGTCTTAACTCAAGAGATGCAGATGG  43651235
+
+Query  1475      TGAGGTTGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43651236  TGAGGTTGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  43651294
+
+
+
+
+Range 3: 43645861 to 43646017
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43645861  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  43645920
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43645921  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  43645980
+
+Query  918       GAAATTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  43645981  GAAATTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  43646017
+
+
+
+
+Range 4: 43649732 to 43649874
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGGCTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43649732  CAGGAGGCTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  43649791
+
+Query  1233      CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43649792  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  43649851
+
+Query  1293      ATTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  43649852  ATTGGCTCTTGGATCATTCCAGG  43649874
+
+
+
+
+Range 5: 43644533 to 43644668
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43644533  AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  43644592
+
+Query  724       CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACGAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43644593  CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACGAATTAC  43644652
+
+Query  784       TGCGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  43644653  TGCGGGGCATACACGG  43644668
+
+
+
+
+Range 6: 43634249 to 43634377
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGCGACCTTTTGAATGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43634249  GATCAGAGCTGTCCCACCTGTCTGCGACCTTTTGAATGTCCTGAAAAAGGAGGAAGAAAA  43634308
+
+Query  285       CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACGGAACGGCTGAAAACGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43634309  CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACGGAACGGCTGAAAACGATCTGCTCCT  43634368
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  43634369  GAGCTCAGG  43634377
+
+
+
+
+Range 7: 43639035 to 43639150
+
+Score:210 bits(232), Expect:9e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43639035  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAC  43639094
+
+Query  410       AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43639095  AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  43639150
+
+
+
+
+Range 8: 43643059 to 43643164
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCAAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43643059  AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCAAGACCTGA  43643118
+
+Query  522       TATCGCTTGTGGCTACAACGTCAATGACACGACAAACGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43643119  TATCGCTTGTGGCTACAACGTCAATGACACGACAAACGAGGCGAGA  43643164
+
+
+
+
+Range 9: 43643466 to 43643563
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43643466  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  43643525
+
+Query  628       ACGCTGACGATAGCCTTAGTGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  43643526  ACGCTGACGATAGCCTTAGTGGTCCTGGTCTCTTTTAG  43643563
+
+
+
+
+Range 10: 43649535 to 43649642
+
+Score:169 bits(187), Expect:3e-39, 
+Identities:103/108(95%),  Gaps:1/108(0%), Strand: Plus/Plus
+
+Query  1070      TTTTGTCTATTTTT-ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGG  1128
+                 |||||| | |||   |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43649535  TTTTGTTTTTTTCAGATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGG  43649594
+
+Query  1129      AAGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43649595  AAGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  43649642
+
+
+
+
+Range 11: 43646707 to 43646777
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43646707  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  43646766
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  43646767  TGTCTATTTTT  43646777
+
+
+
+
+Range 12: 43646106 to 43646169
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATGTT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43646106  GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATGTT  43646165
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  43646166  GGGT  43646169
+
+
+
+
+Range 13: 43650055 to 43650100
+
+Score:84.2 bits(92), Expect:9e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  43650055  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  43650100
+
+
+
+
+>Buteo buteo chromosome 2, bButBut1.hap1.1
+Sequence ID: NC_134172.1 Length: 80236099
+Range 1: 4127840 to 4127918
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGGCTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCA  1231
+                ||| |||||| || ||||| ||  | || || |||||||| |||||  | ||||||||||
+Sbjct  4127918  ACAGGAGGCTGGCCAAGTCTACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  4127859
+
+Query  1232     TCTTTGCTTTTTTCCCTGA  1250
+                | |||||||| ||||| ||
+Sbjct  4127858  TGTTTGCTTTCTTCCCCGA  4127840
+
+
+
+
+Range 2: 4126324 to 4126369
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:40/46(87%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313     AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                |||| ||||| |||||||| || || |||||||| |||||||||||
+Sbjct  4126369  AGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAATGGGGAGGT  4126324
+
+
+
+
+Range 3: 4156789 to 4156887
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:74/100(74%),  Gaps:2/100(2%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                |||| ||| | ||||||  | || ||||| || |||||||||||||  || |||||  ||
+Sbjct  4156887  AGAAAACTACACTGTACTCGAAATTACATTCATATGCACCTCTTCATGTCCTTCATAATG  4156828
+
+Query  724      CGAGC-CTCGTCCAACTTCATCAAGGATGCCATCTTGTTT  762
+                 ||||  ||| |   |||||| || |||| |||| | |||
+Sbjct  4156827  AGAGCTATCG-CAGTCTTCATAAAAGATGTCATCCTATTT  4156789
+
+
+
+
+Range 4: 11624759 to 11624832
+
+Score:54.5 bits(59), Expect:1e-04, 
+Identities:57/74(77%),  Gaps:1/74(1%), Strand: Plus/Minus
+
+Query  656       TCTCTT-TTAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCG  714
+                 |||||| |||||| |||||  |||||  |||||||||||||  || |||| |||   || 
+Sbjct  11624832  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCT  11624773
+
+Query  715       TTCATTTTGCGAGC  728
+                 |||||| |  ||||
+Sbjct  11624772  TTCATTCTAAGAGC  11624759
+
+
+
+
+Range 5: 2056235 to 2056320
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:63/86(73%),  Gaps:0/86(0%), Strand: Plus/Minus
+
+Query  675      CTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTGCGAGCCTCGTC  734
+                ||| || || || ||||||||||||||||| ||    || |||||  || |||||  |  
+Sbjct  2056320  CTGCACTAGAAATTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCGTGAG  2056261
+
+Query  735      CAACTTCATCAAGGATGCCATCTTGT  760
+                || |||| | ||||| ||  ||||||
+Sbjct  2056260  CATCTTCGTGAAGGACGCAGTCTTGT  2056235
+
+
+
+
+Range 6: 4542154 to 4542199
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313     AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                |||| ||||| || ||||| || ||||||||  | |||||||||||
+Sbjct  4542199  AGGGTTTTGTTGTTGCTGTTCTCTATTGTTTCTTGAATGGGGAGGT  4542154
+
+
+
+
+>Buteo buteo chromosome 9, bButBut1.hap1.1
+Sequence ID: NC_134179.1 Length: 46961128
+Range 1: 41499903 to 41500001
+
+Score:63.5 bits(69), Expect:3e-07, 
+Identities:77/102(75%),  Gaps:5/102(4%), Strand: Plus/Minus
+
+Query  665       GAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT--TTT  722
+                 |||| || | ||| || ||||||| ||| ||||| ||| |||||||||| |||||  || 
+Sbjct  41500001  GAAG-CTGCACTGCACCAGGAACTCCATTCACATCCACTTCTTCACATCCTTCATACTTC  41499943
+
+Query  723       GCGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTC  764
+                 ||| | ||   ||   ||||||||||||||| || | || ||
+Sbjct  41499942  GCGGGGCTG--CCGTGTTCATCAAGGATGCCGTCCTCTTCTC  41499903
+
+
+
+
+Range 2: 43010024 to 43010068
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  675       CTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT  719
+                 ||| ||| | |||||||||||| | ||||||||||| || |||||
+Sbjct  43010068  CTGCACACGCAACTACATCCACGTCCACCTCTTCACCTCCTTCAT  43010024
+
+
+
+
+>Buteo buteo chromosome 13, bButBut1.hap1.1
+Sequence ID: NC_134183.1 Length: 40503592
+Range 1: 12808604 to 12808669
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:51/66(77%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                 |||| ||||| ||| ||||| ||||||||||| ||| |  | ||  |||| || || |||
+Sbjct  12808604  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  12808663
+
+Query  724       CGAGCC  729
+                 || |||
+Sbjct  12808664  CGCGCC  12808669
+
+
+
+
+Range 2: 683366 to 683403
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:34/38(89%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  682     AGGAACTACATCCACATGCACCTCTTCACATCGTTCAT  719
+               |||||||||||||||||| |||||||| | || |||||
+Sbjct  683403  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  683366
+
+
+
+
+>Buteo buteo chromosome 29, bButBut1.hap1.1
+Sequence ID: NC_134199.1 Length: 6425271
+Range 1: 900710 to 900746
+
+Score:46.4 bits(50), Expect:0.021, 
+Identities:34/39(87%),  Gaps:2/39(5%), Strand: Plus/Plus
+
+Query  53      AGCTGGGAAGGaaaaaaaGTAGGAGGGAAAGGGATGAAG  91
+               |||||||||||| ||||||||  ||||||| || |||||
+Sbjct  900710  AGCTGGGAAGGAGAAAAAGTA--AGGGAAATGGTTGAAG  900746
+
+
+
+
+
+
+
+		
+
+

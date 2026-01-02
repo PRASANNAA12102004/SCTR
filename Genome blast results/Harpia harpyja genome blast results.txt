@@ -1,0 +1,438 @@
+RID: NCCBM4E5014	
+Job Title:XM_052793215.1 PREDICTED: Harpia harpyja secretin...				
+Program: BLASTN 
+Database: Genome (bHarHar1 primary haplotype) Harpia harpyja bHarHar1 primary haplotype [GCF_026419915.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_026419915.1-RS_2023_02)
+Query #1: XM_052793215.1 PREDICTED: Harpia harpyja secretin receptor (SCTR), mRNA Query ID: lcl|Query_470303 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Harpia harpyja isolate bHarHar1 chromosome 7, bHarHar1 primary... Harpia harpyja  harpy eagle     202280     392    2817  100%  1e-106 98.68  58111031   NC_068946.1      
+Harpia harpyja isolate bHarHar1 chromosome 1, bHarHar1 primary... Harpia harpyja  harpy eagle     202280     67.1   388   15%   2e-08  78.48  109605434  NC_068940.1      
+Harpia harpyja isolate bHarHar1 chromosome 4, bHarHar1 primary... Harpia harpyja  harpy eagle     202280     61.7   112   5%    1e-06  78.48  86865622   NC_068943.1      
+Harpia harpyja isolate bHarHar1 chromosome 14, bHarHar1 primar... Harpia harpyja  harpy eagle     202280     57.2   108   4%    1e-05  78.79  43762477   NC_068953.1      
+Harpia harpyja isolate bHarHar1 chromosome 21, bHarHar1 primar... Harpia harpyja  harpy eagle     202280     46.4   46.4  3%    0.022  87.18  23009862   NC_068960.1      
+
+
+Alignments:
+
+>Harpia harpyja isolate bHarHar1 chromosome 7, bHarHar1 primary haplotype
+Sequence ID: NC_068946.1 Length: 58111031
+Range 1: 46847502 to 46847729
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46847502  ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  46847561
+
+Query  61        AGGaaaaaaaGT-AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46847562  AGGAAAAAAAGTGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGAGA  46847621
+
+Query  120       GCATA--GACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46847622  GCATACAGACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  46847681
+
+Query  178       AATATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46847682  AATATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  46847729
+
+
+
+
+Range 2: 46868528 to 46868706
+
+Score:324 bits(358), Expect:6e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46868528  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACTTGCGTC  46868587
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46868588  AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  46868647
+
+Query  1475      TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46868648  TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  46868706
+
+
+
+
+Range 3: 46863293 to 46863449
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTTGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46863293  GGCTTGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  46863352
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46863353  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  46863412
+
+Query  918       GAAATTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  46863413  GAAATTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  46863449
+
+
+
+
+Range 4: 46867145 to 46867287
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46867145  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  46867204
+
+Query  1233      CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46867205  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  46867264
+
+Query  1293      ATTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  46867265  ATTGGCTCTTGGATCATTCCAGG  46867287
+
+
+
+
+Range 5: 46861977 to 46862112
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46861977  AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  46862036
+
+Query  724       CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACAAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46862037  CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACAAATTAC  46862096
+
+Query  784       TGCGGGCCATACACGG  799
+                 ||||||||||||||||
+Sbjct  46862097  TGCGGGCCATACACGG  46862112
+
+
+
+
+Range 6: 46851673 to 46851801
+
+Score:233 bits(258), Expect:8e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46851673  GATCAGAGCTGTCCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAAGGAGGAAGAAAA  46851732
+
+Query  285       CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACAGAACGCCCGAAAACGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46851733  CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACAGAACGCCCGAAAACGATCTGCTCCT  46851792
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  46851793  GAGCTCAGG  46851801
+
+
+
+
+Range 7: 46856486 to 46856601
+
+Score:210 bits(232), Expect:9e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46856486  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCGCTGTGGGAC  46856545
+
+Query  410       AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46856546  AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  46856601
+
+
+
+
+Range 8: 46860496 to 46860601
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46860496  AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCGAGACCTGA  46860555
+
+Query  522       TATCGCTTGTGGCTACAACGTCAATGACACGACAAACGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46860556  TATCGCTTGTGGCTACAACGTCAATGACACGACAAACGAGGCGAGA  46860601
+
+
+
+
+Range 9: 46860903 to 46861000
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46860903  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTCGTG  46860962
+
+Query  628       ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  46860963  ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  46861000
+
+
+
+
+Range 10: 46866951 to 46867058
+
+Score:169 bits(187), Expect:3e-39, 
+Identities:103/108(95%),  Gaps:1/108(0%), Strand: Plus/Plus
+
+Query  1070      TTTTGTCTATTTTT-ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGG  1128
+                 |||||| | |||   |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46866951  TTTTGTTTTTTTCAGATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGG  46867010
+
+Query  1129      AAGCTCAGCTCGCCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46867011  AAGCTCAGCTCGCCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  46867058
+
+
+
+
+Range 11: 46864139 to 46864209
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46864139  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  46864198
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  46864199  TGTCTATTTTT  46864209
+
+
+
+
+Range 12: 46863538 to 46863601
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46863538  GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATT  46863597
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  46863598  GGGT  46863601
+
+
+
+
+Range 13: 46867468 to 46867513
+
+Score:84.2 bits(92), Expect:9e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46867468  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  46867513
+
+
+
+
+>Harpia harpyja isolate bHarHar1 chromosome 1, bHarHar1 primary haplotype
+Sequence ID: NC_068940.1 Length: 109605434
+Range 1: 105591800 to 105591878
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172       ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCA  1231
+                  ||| ||| || || ||||| ||  | || || |||||||| |||||  | ||||||||||
+Sbjct  105591800  ACAGGAGGCTGGCCAAGTCTACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  105591859
+
+Query  1232       TCTTTGCTTTTTTCCCTGA  1250
+                  | |||||||| ||||| ||
+Sbjct  105591860  TGTTTGCTTTCTTCCCCGA  105591878
+
+
+
+
+Range 2: 105561245 to 105561343
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:74/100(74%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  664        AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                  |||| ||| | ||||||  | || ||||| || |||||||||||||  || |||||  ||
+Sbjct  105561245  AGAAAACTACACTGTACTCGAAATTACATTCATATGCACCTCTTCATGTCCTTCATAATG  105561304
+
+Query  724        CGAGC-CTCGTCCAACTTCATCAAGGATGCCATCTTGTTT  762
+                   ||||  ||| |   |||||| || |||| |||| | |||
+Sbjct  105561305  AGAGCTATCG-CAGTCTTCATAAAAGATGTCATCCTATTT  105561343
+
+
+
+
+Range 3: 105593332 to 105593377
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:40/46(87%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313       AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                  |||| ||||| |||||||| || || |||||||| |||||||||||
+Sbjct  105593332  AGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAATGGGGAGGT  105593377
+
+
+
+
+Range 4: 98028242 to 98028315
+
+Score:54.5 bits(59), Expect:2e-04, 
+Identities:57/74(77%),  Gaps:1/74(1%), Strand: Plus/Plus
+
+Query  656       TCTCTT-TTAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCG  714
+                 |||||| |||||| |||||  |||||  |||||||||||||  || |||| |||   || 
+Sbjct  98028242  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCT  98028301
+
+Query  715       TTCATTTTGCGAGC  728
+                 |||||| |  ||||
+Sbjct  98028302  TTCATTCTAAGAGC  98028315
+
+
+
+
+Range 5: 107689921 to 107690006
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:63/86(73%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  675        CTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTGCGAGCCTCGTC  734
+                  ||| || || || ||||||||||||||||| ||    || |||||  || |||||  |  
+Sbjct  107689921  CTGCACTAGAAATTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCATGAG  107689980
+
+Query  735        CAACTTCATCAAGGATGCCATCTTGT  760
+                  || |||| | ||||| ||  ||||||
+Sbjct  107689981  CATCTTCGTGAAGGACGCAGTCTTGT  107690006
+
+
+
+
+Range 6: 98042275 to 98042352
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:58/78(74%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||| || ||| |  | || || || || ||||| || |||||||   |
+Sbjct  98042275  CAGGAGACTTGCAAAATCCACATTGTTGCTTATTCCACTATTTGGAGTTCACTACACAGT  98042334
+
+Query  1233      CTTTGCTTTTTTCCCTGA  1250
+                  |||||| | || |||||
+Sbjct  98042335  GTTTGCTCTCTTTCCTGA  98042352
+
+
+
+
+Range 7: 105173029 to 105173074
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313       AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                  |||| ||||| || ||||| || ||||||||  | |||||||||||
+Sbjct  105173029  AGGGTTTTGTTGTTGCTGTTCTCTATTGTTTCTTGAATGGGGAGGT  105173074
+
+
+
+
+>Harpia harpyja isolate bHarHar1 chromosome 4, bHarHar1 primary haplotype
+Sequence ID: NC_068943.1 Length: 86865622
+Range 1: 81415360 to 81415436
+
+Score:61.7 bits(67), Expect:1e-06, 
+Identities:62/79(78%),  Gaps:4/79(5%), Strand: Plus/Minus
+
+Query  676       TGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT--TTTGCGAGCCTCGT  733
+                 || || ||||||| ||||||||| ||| |||||||||| |||||  || ||| | ||   
+Sbjct  81415436  TGCACCAGGAACTCCATCCACATCCACTTCTTCACATCCTTCATACTTCGCGGGGCTG--  81415379
+
+Query  734       CCAACTTCATCAAGGATGC  752
+                 ||   ||||||||||||||
+Sbjct  81415378  CCGTGTTCATCAAGGATGC  81415360
+
+
+
+
+Range 2: 82942314 to 82942358
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  675       CTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT  719
+                 ||| ||| | |||||||||||| | ||||||||||| || |||||
+Sbjct  82942358  CTGCACACGCAACTACATCCACGTCCACCTCTTCACCTCCTTCAT  82942314
+
+
+
+
+>Harpia harpyja isolate bHarHar1 chromosome 14, bHarHar1 primary haplotype
+Sequence ID: NC_068953.1 Length: 43762477
+Range 1: 14479471 to 14479536
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:52/66(79%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                 |||||||||| ||| ||||| ||||||||||| ||| |  | ||  |||| || || |||
+Sbjct  14479536  AGAAGACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  14479477
+
+Query  724       CGAGCC  729
+                 || |||
+Sbjct  14479476  CGCGCC  14479471
+
+
+
+
+Range 2: 524279 to 524316
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:34/38(89%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  682     AGGAACTACATCCACATGCACCTCTTCACATCGTTCAT  719
+               |||||||||||||||||| |||||||| | || |||||
+Sbjct  524316  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  524279
+
+
+
+
+>Harpia harpyja isolate bHarHar1 chromosome 21, bHarHar1 primary haplotype
+Sequence ID: NC_068960.1 Length: 23009862
+Range 1: 19885550 to 19885586
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:34/39(87%),  Gaps:2/39(5%), Strand: Plus/Minus
+
+Query  53        AGCTGGGAAGGaaaaaaaGTAGGAGGGAAAGGGATGAAG  91
+                 |||||||||||| ||||||||  ||||||| || |||||
+Sbjct  19885586  AGCTGGGAAGGAGAAAAAGTA--AGGGAAATGGTTGAAG  19885550
+
+
+
+
+
+
+
+		
+
+

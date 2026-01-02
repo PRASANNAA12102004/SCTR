@@ -1,0 +1,379 @@
+RID: NDEUZ71V016	
+Job Title:XM_056349686.1:2215-3849 PREDICTED: Falco...				
+Program: BLASTN 
+Database: Genome (bFalBia1.pri) Falco biarmicus bFalBia1.pri [GCF_023638135.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_023638135.1-RS_2023_05)
+Query #1: XM_056349686.1:2215-3849 PREDICTED: Falco biarmicus secretin receptor (SCTR), mRNA Query ID: lcl|Query_6490239 Length: 1635
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Falco biarmicus isolate bFalBia1 chromosome 8, bFalBia1.pri       Falco biarmicus lanner falcon   345155     585    3016  100%  1e-164 98.52  66357009   NC_079295.1      
+Falco biarmicus isolate bFalBia1 chromosome 4, bFalBia1.pri       Falco biarmicus lanner falcon   345155     67.1   291   13%   2e-08  78.48  113378694  NC_079291.1      
+Falco biarmicus isolate bFalBia1 chromosome 1, bFalBia1.pri       Falco biarmicus lanner falcon   345155     59.0   59.0  4%    4e-06  79.10  127364718  NC_079288.1      
+Falco biarmicus isolate bFalBia1 chromosome 17, bFalBia1.pri      Falco biarmicus lanner falcon   345155     51.8   51.8  5%    5e-04  74.36  6740138    NC_079304.1      
+
+
+Alignments:
+
+>Falco biarmicus isolate bFalBia1 chromosome 8, bFalBia1.pri
+Sequence ID: NC_079295.1 Length: 66357009
+Range 1: 33770114 to 33770451
+
+Score:585 bits(648), Expect:1e-164, 
+Identities:333/338(99%),  Gaps:2/338(0%), Strand: Plus/Plus
+
+Query  1         ATGCTCAAGCGAGGTGCTGTTATTCTTGGGACAGGAGGTTTCTGCAGAGGAGGAGGAGAG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33770114  ATGCTCAAGCGAGGTGCTGTTATTCTTGGGACAGGAGGTTTCTGCAGAGGAGGAGGAGAG  33770173
+
+Query  61        CTTGGAAGATGGAGGGGGATGGGAGGTGTCCTGTCATTGCTGATGCTTTCTAGGGCTCAG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33770174  CTTGGAAGATGGAGGGGGATGGGAGGTGTCCTGTCATTGCTGATGCTTTCTAGGGCTCAG  33770233
+
+Query  121       CAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGAAGGaaaaaaaGGAGGAGG  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33770234  CAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGAAGGAAAAAAAGGAGGAGG  33770293
+
+Query  181       GAAAGGGACGAAGTGAAAGGAGCTAGGAACCAAACTGGAGAGCAT--AGACAGACCAGTG  238
+                 |||||||||||||||||||||||||||||||||||||||||||||  |||||||||||||
+Sbjct  33770294  GAAAGGGACGAAGTGAAAGGAGCTAGGAACCAAACTGGAGAGCATACAGACAGACCAGTG  33770353
+
+Query  239       ACCTCTGATGCATGAGGGATGAAAGAAACAGACTGTGATTGACTATGTGGACTGTCTGGG  298
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33770354  ACCTCTGATGCATGAGGGATGAAAGAAACAGACTGTGATTGACTATGTGGACTGTCTGGG  33770413
+
+Query  299       TGATCATCTTCTGGATTTCAACTGTACTGATCGGAGCT  336
+                 ||||||||||||||||||||||||||||| | || |||
+Sbjct  33770414  TGATCATCTTCTGGATTTCAACTGTACTGGTAGGTGCT  33770451
+
+
+
+
+Range 2: 33789345 to 33789523
+
+Score:324 bits(358), Expect:6e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1457      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1516
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33789345  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  33789404
+
+Query  1517      AGCATCTCAGTGCCTCAGCAAGTAACGGAGGAAGCGGCTTAACTCAAGAGATGCAGATGG  1576
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33789405  AGCATCTCAGTGCCTCAGCAAGTAACGGAGGAAGCGGCTTAACTCAAGAGATGCAGATGG  33789464
+
+Query  1577      TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1635
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33789465  TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  33789523
+
+
+
+
+Range 3: 33784159 to 33784315
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  900       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTG  959
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33784159  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTG  33784218
+
+Query  960       GCTCCTTGTGGAGGGACTGTACCTCCATACTCTCCTGGTTATTTCTTTCTTCTCGGAAAC  1019
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33784219  GCTCCTTGTGGAGGGACTGTACCTCCATACTCTCCTGGTTATTTCTTTCTTCTCGGAAAC  33784278
+
+Query  1020      AAAGTTCCTCTGGCGGTTCATCACCCTCGGATGGGGT  1056
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  33784279  AAAGTTCCTCTGGCGGTTCATCACCCTCGGATGGGGT  33784315
+
+
+
+
+Range 4: 33787959 to 33788101
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1275      CAAGAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCAT  1334
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33787959  CAGGAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCAT  33788018
+
+Query  1335      CTTTGCTTTTTTCCCAGAAGACACAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTCGA  1394
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33788019  CTTTGCTTTTTTCCCAGAAGACACAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTCGA  33788078
+
+Query  1395      ATTGGCTCTTGGATCATTCCAGG  1417
+                 |||||||||||||||||||||||
+Sbjct  33788079  ATTGGCTCTTGGATCATTCCAGG  33788101
+
+
+
+
+Range 5: 33782840 to 33782976
+
+Score:248 bits(274), Expect:4e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  765       CAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTTCACATCATTCATTTT  824
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33782840  CAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTTCACATCATTCATTTT  33782899
+
+Query  825       GCGAGCCTCGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGATGCAAATTA  884
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33782900  GCGAGCCTCGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGATGCAAATTA  33782959
+
+Query  885       CTGCAGAGCATACACGG  901
+                 |||||||||||||||||
+Sbjct  33782960  CTGCAGAGCATACACGG  33782976
+
+
+
+
+Range 6: 33774322 to 33774463
+
+Score:234 bits(259), Expect:8e-59, 
+Identities:137/142(96%),  Gaps:0/142(0%), Strand: Plus/Plus
+
+Query  314       TTTCAACTGTACTGATCGGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAA  373
+                 ||| || | | | |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33774322  TTTAAAATTTGCAGATCGGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAA  33774381
+
+Query  374       AGGAGGAAGAAAACTGTGCTGAGACGCTTTCCCTGGAGGTGAAGAACGGAACAACTGAAA  433
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33774382  AGGAGGAAGAAAACTGTGCTGAGACGCTTTCCCTGGAGGTGAAGAACGGAACAACTGAAA  33774441
+
+Query  434       ACTATCTGCTCCTGAGCTCAGG  455
+                 ||||||||||||||||||||||
+Sbjct  33774442  ACTATCTGCTCCTGAGCTCAGG  33774463
+
+
+
+
+Range 7: 33777381 to 33777496
+
+Score:210 bits(232), Expect:9e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  452       CAGGCAGATGTGTTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCCGTGGGAC  511
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33777381  CAGGCAGATGTGTTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCCGTGGGAC  33777440
+
+Query  512       AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33777441  AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  33777496
+
+
+
+
+Range 8: 33781383 to 33781488
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  564       AGGTTTTGTCTACCGAAACTGTACAAGCGAAGGTTGGTCAGACCCATATCCAAGACCTGA  623
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33781383  AGGTTTTGTCTACCGAAACTGTACAAGCGAAGGTTGGTCAGACCCATATCCAAGACCTGA  33781442
+
+Query  624       TATCGCTTGTGGCTACAATGTCAATGACACAGCAAACGAGGCAAGA  669
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33781443  TATCGCTTGTGGCTACAATGTCAATGACACAGCAAACGAGGCAAGA  33781488
+
+
+
+
+Range 9: 33781778 to 33781875
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  670       CGTTCCTATTTCATGATTCTGAAGACCATGTACACCATCGGGTACTGCACCTCCCTTGTG  729
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33781778  CGTTCCTATTTCATGATTCTGAAGACCATGTACACCATCGGGTACTGCACCTCCCTTGTG  33781837
+
+Query  730       ACGCTGATGATAGCCTTAGCGGTGCTGGCCTCTTTCAG  767
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  33781838  ACGCTGATGATAGCCTTAGCGGTGCTGGCCTCTTTCAG  33781875
+
+
+
+
+Range 10: 33787775 to 33787867
+
+Score:168 bits(186), Expect:3e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1186      ATAAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  1245
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33787775  ATAAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  33787834
+
+Query  1246      GAAGGACGGAACAGTGATTTCAACCAATACAAG  1278
+                 |||||||||||||||||||||||||||||||||
+Sbjct  33787835  GAAGGACGGAACAGTGATTTCAACCAATACAAG  33787867
+
+
+
+
+Range 11: 33784973 to 33785047
+
+Score:132 bits(145), Expect:7e-28, 
+Identities:74/75(99%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  1115      GGTGTTGGGATATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1174
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33784973  GGTGTTGGGATATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  33785032
+
+Query  1175      TGTCTATTTTTATAA  1189
+                 ||||||||||| |||
+Sbjct  33785033  TGTCTATTTTTGTAA  33785047
+
+
+
+
+Range 12: 33784401 to 33784464
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1054      GGTGCCCCAACCGTCTTTGTGGCCGCATGGGCAACTGCGAGGCAACTCCATGAAAATATT  1113
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33784401  GGTGCCCCAACCGTCTTTGTGGCCGCATGGGCAACTGCGAGGCAACTCCATGAAAATATT  33784460
+
+Query  1114      GGGT  1117
+                 ||||
+Sbjct  33784461  GGGT  33784464
+
+
+
+
+Range 13: 33788265 to 33788327
+
+Score:86.0 bits(94), Expect:3e-14, 
+Identities:58/64(91%),  Gaps:1/64(1%), Strand: Plus/Plus
+
+Query  1397      TGGCTCTTGGATCATTCCAGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTG  1456
+                 ||| ||||  ||| ||  ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33788265  TGGTTCTTTTATCTTTT-AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTG  33788323
+
+Query  1457      AGGT  1460
+                 ||||
+Sbjct  33788324  AGGT  33788327
+
+
+
+
+>Falco biarmicus isolate bFalBia1 chromosome 4, bFalBia1.pri
+Sequence ID: NC_079291.1 Length: 113378694
+Range 1: 58448298 to 58448376
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1275      CAAGAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCAT  1334
+                 || ||||||||| || || |   | ||| | || || |||||||| || ||||||||| |
+Sbjct  58448376  CAGGAGACTTGCTAAATCCACATTACTCTTAATTCCCCTCTTTGGAGTGCACTACATCGT  58448317
+
+Query  1335      CTTTGCTTTTTTCCCAGAA  1353
+                  ||||| ||||||||||||
+Sbjct  58448316  ATTTGCATTTTTCCCAGAA  58448298
+
+
+
+
+Range 2: 60925072 to 60925176
+
+Score:64.4 bits(70), Expect:8e-08, 
+Identities:77/105(73%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  758       CCTCTTTCAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTTCACATCAT  817
+                 |||| | |||| |  | | ||| || |||||||||||||||||||| || ||    ||||
+Sbjct  60925072  CCTCCTCCAGACGTTTGCACTGCACTAGAAACTACATCCACATGCACCTGTTTGTCTCAT  60925131
+
+Query  818       TCATTTTGCGAGCCTCGTCCAACTTCATCAAGGATGCTGTTTTGT  862
+                 ||||  || ||||   |  || |||| | |||||||| || ||||
+Sbjct  60925132  TCATGCTGAGAGCTGTGAGCATCTTCGTGAAGGATGCAGTCTTGT  60925176
+
+
+
+
+Range 3: 58835869 to 58835947
+
+Score:62.6 bits(68), Expect:3e-07, 
+Identities:61/79(77%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1274      ACAAGAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCA  1333
+                 ||| ||| || || ||||| |   | || || ||||| ||||||||  | ||||||||||
+Sbjct  58835869  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  58835928
+
+Query  1334      TCTTTGCTTTTTTCCCAGA  1352
+                 | |||||||| ||||| ||
+Sbjct  58835929  TGTTTGCTTTCTTCCCTGA  58835947
+
+
+
+
+Range 4: 58052896 to 58052945
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:41/50(82%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  760       TCTTTCAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTT  809
+                 |||| ||| |||||||||||  | ||||| || |||||||| || |||||
+Sbjct  58052896  TCTTCCAGGAGGCTTCGCTGCCCCAGAAATTATATCCACATACAGCTCTT  58052945
+
+
+
+
+Range 5: 107455890 to 107455925
+
+Score:46.4 bits(50), Expect:0.023, 
+Identities:33/37(89%),  Gaps:1/37(2%), Strand: Plus/Minus
+
+Query  856        GTTTTGTTTTCCTCTGAAGATGCAAATTACTGCAGAG  892
+                  |||||||||||| |||||  ||| |||||||||||||
+Sbjct  107455925  GTTTTGTTTTCCCCTGAATCTGC-AATTACTGCAGAG  107455890
+
+
+
+
+>Falco biarmicus isolate bFalBia1 chromosome 1, bFalBia1.pri
+Sequence ID: NC_079288.1 Length: 127364718
+Range 1: 8545349 to 8545415
+
+Score:59.0 bits(64), Expect:4e-06, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Plus
+
+Query  765      CAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTTCACATCATTCATTTT  824
+                |||||  |||| ||| ||||||||||| ||||| ||| || | ||  |||| ||||| ||
+Sbjct  8545349  CAGAAAACTTCACTGCACAAGAAACTATATCCATATGAATTTATTTGCATCTTTCATCTT  8545408
+
+Query  825      GCGAGCC  831
+                ||| |||
+Sbjct  8545409  GCGTGCC  8545415
+
+
+
+
+>Falco biarmicus isolate bFalBia1 chromosome 17, bFalBia1.pri
+Sequence ID: NC_079304.1 Length: 6740138
+Range 1: 2441475 to 2441552
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:58/78(74%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1275     CAAGAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCAT  1334
+                || ||| ||  | ||||| | ||| ||||||||||| ||||| ||||| |||||| |  |
+Sbjct  2441475  CAGGAGGCTGACGAAGTCCACGCTGCTCCTCATCCCTCTCTTCGGGGTACACTACGTGGT  2441534
+
+Query  1335     CTTTGCTTTTTTCCCAGA  1352
+                 || ||  | ||||| ||
+Sbjct  2441535  GTTCGCACTCTTCCCTGA  2441552
+
+
+
+
+
+
+
+		
+
+
