@@ -1,0 +1,395 @@
+RID: NES084XY014	
+Job Title:XM_076343034.1:1-1533 PREDICTED: Aptenodytes...				
+Program: BLASTN 
+Database: Genome (bAptPat1.pri.cur) Aptenodytes patagonicus bAptPat1.pri.cur [GCF_965638725.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_965638725.1-RS_2025_08)
+Query #1: XM_076343034.1:1-1533 PREDICTED: Aptenodytes patagonicus secretin receptor (SCTR), mRNA Query ID: lcl|Query_7802937 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Aptenodytes patagonicus chromosome 6, bAptPat1.pri.cur            Aptenodytes ... king penguin    9234       392    2817  100%  1e-106 98.68  76936922   NC_134954.1      
+Aptenodytes patagonicus chromosome 2, bAptPat1.pri.cur            Aptenodytes ... king penguin    9234       67.1   232   12%   2e-08  78.48  171160289  NC_134950.1      
+Aptenodytes patagonicus chromosome 16, bAptPat1.pri.cur           Aptenodytes ... king penguin    9234       67.1   119   5%    2e-08  81.16  14539535   NC_134964.1      
+Aptenodytes patagonicus chromosome 20, bAptPat1.pri.cur           Aptenodytes ... king penguin    9234       55.4   149   10%   4e-05  81.82  9523573    NC_134968.1      
+
+
+Alignments:
+
+>Aptenodytes patagonicus chromosome 6, bAptPat1.pri.cur
+Sequence ID: NC_134954.1 Length: 76936922
+Range 1: 65442788 to 65443015
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGGAGCGAAACATTGGCTAGGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65442788  ATGCTCTCTAGGGCTCAGCAGCTGGAGCGAAACATTGGCTAGGGATGGTCAAAGCTGGGA  65442847
+
+Query  61        AGGAAGAAAAGT-AGGAGGGAAAGGCATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  119
+                 |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65442848  AGGAAGAAAAGTGAGGAGGGAAAGGCATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  65442907
+
+Query  120       GCATA--GACAGCCTGGTGTCCTCTGGTGCGCAAGGGATGAAGGAAACAGCCTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65442908  GCATACAGACAGCCTGGTGTCCTCTGGTGCGCAAGGGATGAAGGAAACAGCCTGTGATTG  65442967
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCATCCGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65442968  ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCATCCGTCCTG  65443015
+
+
+
+
+Range 2: 65465460 to 65465638
+
+Score:324 bits(358), Expect:6e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTGAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65465460  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTGAGCAAACACTTGCGTC  65465519
+
+Query  1415      AGCATGTCAGCACCTCAGCAAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATAG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65465520  AGCATGTCAGCACCTCAGCAAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATAG  65465579
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65465580  TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  65465638
+
+
+
+
+Range 3: 65460219 to 65460375
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65460219  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  65460278
+
+Query  858       GCTCCTTGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65460279  GCTCCTTGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  65460338
+
+Query  918       GAAGTTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  65460339  GAAGTTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  65460375
+
+
+
+
+Range 4: 65464070 to 65464212
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65464070  CAGGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  65464129
+
+Query  1233      CTTCGCTTTTTTCCCCGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTCGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65464130  CTTCGCTTTTTTCCCCGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTCGA  65464189
+
+Query  1293      ATTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  65464190  ATTGGCTCTTGGATCATTCCAGG  65464212
+
+
+
+
+Range 5: 65458859 to 65458994
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAAACTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65458859  AGAAAACTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  65458918
+
+Query  724       CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65458919  CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTAC  65458978
+
+Query  784       TGCGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  65458979  TGCGGGGCATACACGG  65458994
+
+
+
+
+Range 6: 65447900 to 65448028
+
+Score:233 bits(258), Expect:8e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAGAGCTGTCCCGCCTGTCTGCGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65447900  GATCAGAGCTGTCCCGCCTGTCTGCGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  65447959
+
+Query  285       CTGTGCTGAGACTCTCTCGCTGGAGGCGAAGAACAGAACACCCGAAAATGATCCACTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65447960  CTGTGCTGAGACTCTCTCGCTGGAGGCGAAGAACAGAACACCCGAAAATGATCCACTCCT  65448019
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  65448020  GAGCTCAGG  65448028
+
+
+
+
+Range 7: 65453248 to 65453363
+
+Score:210 bits(232), Expect:9e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65453248  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCGCTGTGGGAC  65453307
+
+Query  410       AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGaaaaaaaGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65453308  AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGAAAAAAAGGT  65453363
+
+
+
+
+Range 8: 65457344 to 65457449
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       aGGTTTTGTCTACCGAAACTGTACAAGCGAGGGTTGGTCAGACCCATATCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65457344  AGGTTTTGTCTACCGAAACTGTACAAGCGAGGGTTGGTCAGACCCATATCCGAGACCTGA  65457403
+
+Query  522       TATTGCTTGTGGCTACAATGTCAATGACACGACAAACGAGGCAAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65457404  TATTGCTTGTGGCTACAATGTCAATGACACGACAAACGAGGCAAGA  65457449
+
+
+
+
+Range 9: 65457740 to 65457837
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACTATGTACACCATTGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65457740  CGTTCCTATTTCATGACTCTGAAGACTATGTACACCATTGGATACTGCACCTCCCTCGTG  65457799
+
+Query  628       ACACTGACGATAGCCTTAGCAGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  65457800  ACACTGACGATAGCCTTAGCAGTCCTGGTCTCTTTTAG  65457837
+
+
+
+
+Range 10: 65463871 to 65463978
+
+Score:169 bits(187), Expect:3e-39, 
+Identities:103/108(95%),  Gaps:1/108(0%), Strand: Plus/Plus
+
+Query  1070      TTTTGTCTATTTTT-ATTAATTTCATTCTTTTTGTCAAAATTTTAAGAATCTTGATGAGG  1128
+                 |||||| | |||   |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65463871  TTTTGTTTTTTTCAGATTAATTTCATTCTTTTTGTCAAAATTTTAAGAATCTTGATGAGG  65463930
+
+Query  1129      AAGCTCAGCTCACCTGAAGGACAGAGCAGTGATTTCAACCAATACAAG  1176
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65463931  AAGCTCAGCTCACCTGAAGGACAGAGCAGTGATTTCAACCAATACAAG  65463978
+
+
+
+
+Range 11: 65461068 to 65461138
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65461068  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  65461127
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  65461128  TGTCTATTTTT  65461138
+
+
+
+
+Range 12: 65460464 to 65460527
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACTGTGTTTGTGGCCGCATGGGCAACTGCTAGGCAACTCCATGAAAATGTT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65460464  GGTGCCCCAACTGTGTTTGTGGCCGCATGGGCAACTGCTAGGCAACTCCATGAAAATGTT  65460523
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  65460524  GGGT  65460527
+
+
+
+
+Range 13: 65464393 to 65464438
+
+Score:84.2 bits(92), Expect:9e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  65464393  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  65464438
+
+
+
+
+>Aptenodytes patagonicus chromosome 2, bAptPat1.pri.cur
+Sequence ID: NC_134950.1 Length: 171160289
+Range 1: 168664888 to 168664966
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172       ACAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1231
+                  ||| ||| || || ||||| ||  | || || ||||||||||||||  | ||||||||||
+Sbjct  168664888  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  168664947
+
+Query  1232       TCTTCGCTTTTTTCCCCGA  1250
+                  | || ||||| ||||| ||
+Sbjct  168664948  TGTTTGCTTTCTTCCCTGA  168664966
+
+
+
+
+Range 2: 168260899 to 168260997
+
+Score:58.1 bits(63), Expect:1e-05, 
+Identities:72/99(73%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  664        AGAAAACTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                  |||||| | ||||||||| |||| |||||||| ||||| || ||    || || ||  ||
+Sbjct  168260997  AGAAAATTCCACTGTACACGGAATTACATCCATATGCACCTGTTTGTCTCCTTTATCCTG  168260938
+
+Query  724        CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTTT  762
+                   ||||     |    |||| ||| |||||||||||||||
+Sbjct  168260937  AGAGCAATTGCTGTTTTCACCAAAGATGCTGTTTTGTTT  168260899
+
+
+
+
+Range 3: 160939227 to 160939298
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:56/72(78%),  Gaps:1/72(1%), Strand: Plus/Plus
+
+Query  658        TCTT-TTAGAAAACTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTT  716
+                  |||| ||||||||||||| |||||  |||||||||||||  || | || |||   || ||
+Sbjct  160939227  TCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCTTT  160939286
+
+Query  717        CATTTTGCGAGC  728
+                  |||| |  ||||
+Sbjct  160939287  CATTCTAAGAGC  160939298
+
+
+
+
+Range 4: 170875455 to 170875542
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:64/88(73%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  673        CACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCA  732
+                  ||||| || || ||||||||||||||||| || ||    || |||||  || |||||   
+Sbjct  170875455  CACTGCACTAGAAACTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCGTG  170875514
+
+Query  733        TCCAACTTCATCAAGGATGCTGTTTTGT  760
+                    || |||| | ||||| || || ||||
+Sbjct  170875515  AGCATCTTCGTGAAGGACGCAGTCTTGT  170875542
+
+
+
+
+>Aptenodytes patagonicus chromosome 16, bAptPat1.pri.cur
+Sequence ID: NC_134964.1 Length: 14539535
+Range 1: 14378657 to 14378725
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:56/69(81%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  664       AGAAAACTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                 |||||||||||||| ||||| ||||||||||| ||| || | ||  |||| || || |||
+Sbjct  14378725  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  14378666
+
+Query  724       CGAGCCTCA  732
+                 || ||| ||
+Sbjct  14378665  CGCGCCACA  14378657
+
+
+
+
+Range 2: 7733109 to 7733164
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:45/56(80%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  664      AGAAAACTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                || || || ||||| |  |||||||||||||||||| | |||||| | || |||||
+Sbjct  7733109  AGCAAGCTGCACTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  7733164
+
+
+
+
+>Aptenodytes patagonicus chromosome 20, bAptPat1.pri.cur
+Sequence ID: NC_134968.1 Length: 9523573
+Range 1: 5043287 to 5043341
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:45/55(82%),  Gaps:0/55(0%), Strand: Plus/Plus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTAC  1227
+                || ||| ||  | ||||| || || ||||||||||||||||| ||||| ||||||
+Sbjct  5043287  CAGGAGGCTGACGAAGTCCACGCTGCTCCTCATCCCTCTCTTCGGGGTGCACTAC  5043341
+
+
+
+
+Range 2: 5040840 to 5040932
+
+Score:47.3 bits(51), Expect:0.022, 
+Identities:66/93(71%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  663      TAGAAAACTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+                ||| || || || || || |||||||  |||||||| ||  ||||||| || |||||  |
+Sbjct  5040840  TAGGAAGCTGCATTGCACCAGGAACTCTATCCACATCCACTTCTTCACCTCCTTCATACT  5040899
+
+Query  723      GCGAGCCTCATCCAACTTCATCAAGGATGCTGT  755
+                 || |   |  |    |||||||||||||| ||
+Sbjct  5040900  ACGCGGGGCCGCTGTGTTCATCAAGGATGCCGT  5040932
+
+
+
+
+Range 3: 3510715 to 3510764
+
+Score:46.4 bits(50), Expect:0.022, 
+Identities:40/50(80%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  670      CTTCACTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                || ||||| ||| | |||||||||||  | || |||||||| || |||||
+Sbjct  3510715  CTGCACTGCACACGCAACTACATCCATGTCCACCTCTTCACCTCCTTCAT  3510764
+
+
+
+
+
+
+
+		
+
+

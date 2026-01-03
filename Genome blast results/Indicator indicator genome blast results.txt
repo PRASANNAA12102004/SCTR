@@ -1,0 +1,465 @@
+RID: NCE0V5KA016	
+Job Title:XM_054380823.1 PREDICTED: Indicator indicator...				
+Program: BLASTN 
+Database: Genome (UM_Iind_1.1) Indicator indicator UM_Iind_1.1 [GCF_027791375.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_027791375.1-RS_2023_03)
+Query #1: XM_054380823.1 PREDICTED: Indicator indicator secretin receptor (SCTR), mRNA Query ID: lcl|Query_1044327 Length: 1542
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Indicator indicator isolate 239-I01 chromosome 5, UM_Iind_1.1     Indicator in... NA              1002788    396    2836  100%  9e-108 98.70  44608985   NC_072014.1      
+Indicator indicator isolate 239-I01 chromosome 20, UM_Iind_1.1    Indicator in... NA              1002788    119    370   20%   4e-24  81.30  20493906   NC_072029.1      
+Indicator indicator isolate 239-I01 chromosome 29, UM_Iind_1.1    Indicator in... NA              1002788    59.9   59.9  3%    3e-06  86.00  13694804   NC_072038.1      
+Indicator indicator isolate 239-I01 chromosome 15, UM_Iind_1.1    Indicator in... NA              1002788    49.1   49.1  3%    0.005  86.54  25032306   NC_072024.1      
+Indicator indicator isolate 239-I01 chromosome 19, UM_Iind_1.1    Indicator in... NA              1002788    49.1   49.1  3%    0.005  88.37  21353127   NC_072028.1      
+Indicator indicator isolate 239-I01 chromosome 34, UM_Iind_1.1    Indicator in... NA              1002788    49.1   49.1  3%    0.005  86.67  8380681    NC_072043.1      
+Indicator indicator isolate 239-I01 unplaced genomic scaffold,... Indicator in... NA              1002788    49.1   49.1  4%    0.005  75.36  75754      NW_026539259.1   
+Indicator indicator isolate 239-I01 chromosome 7, UM_Iind_1.1     Indicator in... NA              1002788    48.2   48.2  3%    0.005  86.05  40738929   NC_072016.1      
+Indicator indicator isolate 239-I01 unplaced genomic scaffold,... Indicator in... NA              1002788    47.3   47.3  3%    0.019  84.78  97027      NW_026539233.1   
+Indicator indicator isolate 239-I01 chromosome 37, UM_Iind_1.1    Indicator in... NA              1002788    46.4   46.4  2%    0.019  88.57  5097496    NC_072046.1      
+
+
+Alignments:
+
+>Indicator indicator isolate 239-I01 chromosome 5, UM_Iind_1.1
+Sequence ID: NC_072014.1 Length: 44608985
+Range 1: 32858423 to 32858652
+
+Score:396 bits(438), Expect:9e-108, 
+Identities:227/230(99%),  Gaps:3/230(1%), Strand: Plus/Plus
+
+Query  1         ATGCTTTCTGAGGCTCAGCAGATGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32858423  ATGCTTTCTGAGGCTCAGCAGATGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  32858482
+
+Query  61        AGGAAAAAA-GCAAGGAGGGAAAGGAATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32858483  AGGAAAAAAAGCAAGGAGGGAAAGGAATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  32858542
+
+Query  120       GCATACG--CAGTCCAGTGACCTCTGATGTGCAAGGGATGAAGAAAACAGACTGTGATTG  177
+                 |||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32858543  GCATACGGACAGTCCAGTGACCTCTGATGTGCAAGGGATGAAGAAAACAGACTGTGATTG  32858602
+
+Query  178       ACTATGTGGACCATCTGGGTAATCATCTTCTGGATTTCAGCTGTCCTGGT  227
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32858603  ACTATGTGGACCATCTGGGTAATCATCTTCTGGATTTCAGCTGTCCTGGT  32858652
+
+
+
+
+Range 2: 32878644 to 32878831
+
+Score:340 bits(376), Expect:6e-91, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGATGGAAGTTAAGAGAAAATGGAGGCAGTGGCGTTTAACCAAACACTTCCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32878644  AGGTTCAGATGGAAGTTAAGAGAAAATGGAGGCAGTGGCGTTTAACCAAACACTTCCGTC  32878703
+
+Query  1415      AGCATCTCAGCACCTCAGCAAGCAATGGAGGAAGTGGCTTGACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32878704  AGCATCTCAGCACCTCAGCAAGCAATGGAGGAAGTGGCTTGACTCAAGAGATGCAGATGG  32878763
+
+Query  1475      TGAGGTCAAGCCCCCCAGAGCACTGGAGAGAGCACCAGGGCACCCTCCAAAGATCAAGCA  1534
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32878764  TGAGGTCAAGCCCCCCAGAGCACTGGAGAGAGCACCAGGGCACCCTCCAAAGATCAAGCA  32878823
+
+Query  1535      TGCTTTAA  1542
+                 ||||||||
+Sbjct  32878824  TGCTTTAA  32878831
+
+
+
+
+Range 3: 32873470 to 32873626
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAATACTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32873470  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAATACTGCATCATGTCTAACTACAGCTG  32873529
+
+Query  858       GCTCCTTGTGGAGGGGCTGTACCTCCACAATCTCCTGGTTATTTCTTTCTTTTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32873530  GCTCCTTGTGGAGGGGCTGTACCTCCACAATCTCCTGGTTATTTCTTTCTTTTCGGAAAG  32873589
+
+Query  918       GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  32873590  GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  32873626
+
+
+
+
+Range 4: 32877267 to 32877409
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTTTTTGGGATCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32877267  CAGGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTTTTTGGGATCCACTACATCAT  32877326
+
+Query  1233      CTTCGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAGATTCAGTTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32877327  CTTCGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAGATTCAGTTGTTTTTTGA  32877386
+
+Query  1293      ATTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  32877387  ATTGGCTCTTGGATCATTCCAGG  32877409
+
+
+
+
+Range 5: 32872171 to 32872306
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACCTCATTCATTCTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32872171  AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACCTCATTCATTCTG  32872230
+
+Query  724       AGAGCCTCATCCAACTTCATCAAAGATGCCATTTTGTTTTCTTCTGAAGACACAAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32872231  AGAGCCTCATCCAACTTCATCAAAGATGCCATTTTGTTTTCTTCTGAAGACACAAATTAC  32872290
+
+Query  784       TGCGGGTCATACACGG  799
+                 ||||||||||||||||
+Sbjct  32872291  TGCGGGTCATACACGG  32872306
+
+
+
+
+Range 6: 32862043 to 32862171
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GGTCAGAGCTGTcccccccGTTTGTGATCTCCTGAGTGTCCTGAAAAAGGAGGAGGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32862043  GGTCAGAGCTGTCCCCCCCGTTTGTGATCTCCTGAGTGTCCTGAAAAAGGAGGAGGAAAA  32862102
+
+Query  285       CTGTGCTAAGACTCTCTCCCTGGAGGTGAAGAACAGAACACCTGAAAATGATCAGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32862103  CTGTGCTAAGACTCTCTCCCTGGAGGTGAAGAACAGAACACCTGAAAATGATCAGCTCCT  32862162
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  32862163  GAGCTCAGG  32862171
+
+
+
+
+Range 7: 32866672 to 32866787
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCCTCAGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32866672  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCCTCAGCTGTGGGAC  32866731
+
+Query  410       AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32866732  AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  32866787
+
+
+
+
+Range 8: 32870708 to 32870813
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACCAGCGAGGGTTGGTCAGACCCATACCCAAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32870708  AGGTTTTGTCTACCGAAACTGTACCAGCGAGGGTTGGTCAGACCCATACCCAAGACCTGA  32870767
+
+Query  522       TATCGCTTGTGGCTACAATGTCAACGACACGACTAATGAGGCTAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32870768  TATCGCTTGTGGCTACAATGTCAACGACACGACTAATGAGGCTAGA  32870813
+
+
+
+
+Range 9: 32871094 to 32871191
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTTTGAAGACCATGTACACCATTGGATACTGCACCTCCTTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32871094  CGTTCCTATTTCATGACTTTGAAGACCATGTACACCATTGGATACTGCACCTCCTTCGTG  32871153
+
+Query  628       ACGCTGACAATAGCCTTAGCAATCCTGTTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  32871154  ACGCTGACAATAGCCTTAGCAATCCTGTTCTCTTTTAG  32871191
+
+
+
+
+Range 10: 32877080 to 32877172
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32877080  ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  32877139
+
+Query  1144      GAAAGACGGAGCAGTGATTTCAGCCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  32877140  GAAAGACGGAGCAGTGATTTCAGCCAATACAAG  32877172
+
+
+
+
+Range 11: 32874301 to 32874371
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTATAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32874301  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTATAGTTT  32874360
+
+Query  1073      TCTCTATTTTT  1083
+                 |||||||||||
+Sbjct  32874361  TCTCTATTTTT  32874371
+
+
+
+
+Range 12: 32873714 to 32873777
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACCATATTTGTGGCTGCATGGACGACTGCTAGGCAGCTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32873714  GGTGCCCCAACCATATTTGTGGCTGCATGGACGACTGCTAGGCAGCTCCATGAAAATATT  32873773
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  32873774  GGGT  32873777
+
+
+
+
+Range 13: 32877572 to 32877617
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32877572  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  32877617
+
+
+
+
+>Indicator indicator isolate 239-I01 chromosome 20, UM_Iind_1.1
+Sequence ID: NC_072029.1 Length: 20493906
+Range 1: 3429645 to 3429767
+
+Score:119 bits(131), Expect:4e-24, 
+Identities:100/123(81%),  Gaps:0/123(0%), Strand: Plus/Minus
+
+Query  817      ATGGTCTTCTTTCAATACTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGGCTG  876
+                ||||| ||||| || |||||| ||||| | |||| |  ||||||||||||||||||||||
+Sbjct  3429767  ATGGTTTTCTTCCAGTACTGCGTCATGGCCAACTTCTTCTGGCTCCTTGTGGAGGGGCTG  3429708
+
+Query  877      TACCTCCACAATCTCCTGGTTATTTCTTTCTTTTCGGAAAGGAAGTTCCTCTGGTGGTTC  936
+                || || ||||  || ||||| || || |||||||| || ||||||| | | ||||||| |
+Sbjct  3429707  TATCTTCACACCCTGCTGGTCATCTCCTTCTTTTCAGAGAGGAAGTACTTTTGGTGGTAC  3429648
+
+Query  937      ATC  939
+                |||
+Sbjct  3429647  ATC  3429645
+
+
+
+
+Range 2: 3415360 to 3415438
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTTTTTGGGATCCACTACATCA  1231
+                ||| | | || || ||||| ||  | || || |||||||| ||||| || ||||||||||
+Sbjct  3415438  ACAGGCGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3415379
+
+Query  1232     TCTTCGCTTTTTTCCCTGA  1250
+                | || ||||| ||||||||
+Sbjct  3415378  TGTTTGCTTTCTTCCCTGA  3415360
+
+
+
+
+Range 3: 3439271 to 3439369
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:74/99(75%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACCTCATTCATTCTG  723
+                |||| ||| | ||||||  | || || || ||||||||||||||||  || |||||  ||
+Sbjct  3439369  AGAAAACTGCACTGTACTCGCAATTATATTCACATGCATCTCTTCATGTCCTTCATCATG  3439310
+
+Query  724      AGAGCCTCATCCAACTTCATCAAAGATGCCATTTTGTTT  762
+                ||||||    |   |||||| ||||||| |||  |||||
+Sbjct  3439309  AGAGCCATCGCGGTCTTCATAAAAGATGTCATCCTGTTT  3439271
+
+
+
+
+Range 4: 34104 to 34177
+
+Score:63.5 bits(69), Expect:2e-07, 
+Identities:59/74(80%),  Gaps:1/74(1%), Strand: Plus/Minus
+
+Query  656    TCTCTT-TTAGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACCTCA  714
+              |||||| |||||| |||||  |||||  |||||||||||||  || | || |||  ||| 
+Sbjct  34177  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCT  34118
+
+Query  715    TTCATTCTGAGAGC  728
+              |||||||| |||||
+Sbjct  34117  TTCATTCTAAGAGC  34104
+
+
+
+
+Range 5: 1608814 to 1608867
+
+Score:53.6 bits(58), Expect:1e-04, 
+Identities:44/54(81%),  Gaps:0/54(0%), Strand: Plus/Minus
+
+Query  675      CTGTACGAGGAACTACATCCACATGCATCTCTTCACCTCATTCATTCTGAGAGC  728
+                ||| || || ||||||||||||||||| || ||   ||| ||||| ||||||||
+Sbjct  1608867  CTGCACTAGAAACTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGC  1608814
+
+
+
+
+>Indicator indicator isolate 239-I01 chromosome 29, UM_Iind_1.1
+Sequence ID: NC_072038.1 Length: 13694804
+Range 1: 6919913 to 6919962
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:43/50(86%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  675      CTGTACGAGGAACTACATCCACATGCATCTCTTCACCTCATTCATTCTGA  724
+                ||| | ||||||||||||||||||| | |||||| |||| ||||| ||||
+Sbjct  6919962  CTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCATCCTGA  6919913
+
+
+
+
+>Indicator indicator isolate 239-I01 chromosome 15, UM_Iind_1.1
+Sequence ID: NC_072024.1 Length: 25032306
+Range 1: 6048617 to 6048666
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:45/52(87%),  Gaps:4/52(7%), Strand: Plus/Plus
+
+Query  1070     TTTTCTCTATTTTTATTAATTTC-AT-TCTTTTTGTCAACATTTTAAGAATC  1119
+                ||||||||||||||| ||||||| || |||| || || ||||||||| ||||
+Sbjct  6048617  TTTTCTCTATTTTTA-TAATTTCTATATCTTCTTTTCTACATTTTAA-AATC  6048666
+
+
+
+
+>Indicator indicator isolate 239-I01 chromosome 19, UM_Iind_1.1
+Sequence ID: NC_072028.1 Length: 21353127
+Range 1: 286855 to 286896
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:38/43(88%),  Gaps:2/43(4%), Strand: Plus/Minus
+
+Query  58      GGAAGGAAAA-AAGCAAGGAGGGAAAGGAATGAAGTGAAAGGA  99
+               |||||||||  ||| ||||||||||||||| |||| |||||||
+Sbjct  286896  GGAAGGAAAGGAAGGAAGGAGGGAAAGGAAGGAAG-GAAAGGA  286855
+
+
+
+
+>Indicator indicator isolate 239-I01 chromosome 34, UM_Iind_1.1
+Sequence ID: NC_072043.1 Length: 8380681
+Range 1: 6695874 to 6695918
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:39/45(87%),  Gaps:3/45(6%), Strand: Plus/Minus
+
+Query  58       GGAAGGAA--AAAAGCAAGGA-GGGAAAGGAATGAAGTGAAAGGA  99
+                ||||||||  ||||| ||||| |||||||||| |||| |||||||
+Sbjct  6695918  GGAAGGAAGGAAAAGGAAGGAAGGGAAAGGAAGGAAGGGAAAGGA  6695874
+
+
+
+
+>Indicator indicator isolate 239-I01 unplaced genomic scaffold, UM_Iind_1.1 iindUn_scaffold_169
+Sequence ID: NW_026539259.1 Length: 75754
+Range 1: 70534 to 70602
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:52/69(75%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  664    AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCATCTCTTCACCTCATTCATTCTG  723
+              |||| ||| | ||||||||| ||||||||||| ||| || | ||  |||| || ||  ||
+Sbjct  70534  AGAAAACTCCACTGTACGAGAAACTACATCCATATGAATTTGTTTGCCTCTTTTATCTTG  70593
+
+Query  724    AGAGCCTCA  732
+               | ||| ||
+Sbjct  70594  CGTGCCACA  70602
+
+
+
+
+>Indicator indicator isolate 239-I01 chromosome 7, UM_Iind_1.1
+Sequence ID: NC_072016.1 Length: 40738929
+Range 1: 13745392 to 13745433
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:37/43(86%),  Gaps:1/43(2%), Strand: Plus/Plus
+
+Query  58        GGAAGGAAAAAAGCAAGGAGGGAAAGGAATGAAGTGAAAGGAG  100
+                 ||||||||  ||| ||||||||||||||| |||| ||||| ||
+Sbjct  13745392  GGAAGGAAGGAAGGAAGGAGGGAAAGGAAGGAAG-GAAAGAAG  13745433
+
+
+
+
+>Indicator indicator isolate 239-I01 unplaced genomic scaffold, UM_Iind_1.1 iindUn_scaffold_129
+Sequence ID: NW_026539233.1 Length: 97027
+Range 1: 85197 to 85240
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:39/46(85%),  Gaps:4/46(8%), Strand: Plus/Plus
+
+Query  57     GGGAAGGAAAAAAGCAAGGAGGGAAAGGAAT--GAAGTGAAAGGAG  100
+              |||||||||||||| ||||||||  ||||||  |||||| ||| ||
+Sbjct  85197  GGGAAGGAAAAAAGAAAGGAGGG--AGGAATGGGAAGTGGAAGAAG  85240
+
+
+
+
+>Indicator indicator isolate 239-I01 chromosome 37, UM_Iind_1.1
+Sequence ID: NC_072046.1 Length: 5097496
+Range 1: 360962 to 360996
+
+Score:46.4 bits(50), Expect:0.019, 
+Identities:31/35(89%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  685     AACTACATCCACATGCATCTCTTCACCTCATTCAT  719
+               |||||||||||| | || ||||||||||| |||||
+Sbjct  360962  AACTACATCCACGTCCACCTCTTCACCTCCTTCAT  360996
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,421 @@
+RID: NDH3HSZZ014	
+Job Title:XM_009944234.2 PREDICTED: Opisthocomus hoazin...				
+Program: BLASTN 
+Database: Genome (bOpiHoa1.hap1) Opisthocomus hoazin bOpiHoa1.hap1 [GCF_030867145.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_030867145.1-RS_2025_07)
+Query #1: XM_009944234.2 PREDICTED: Opisthocomus hoazin secretin receptor (SCTR), mRNA Query ID: lcl|Query_5395565 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Opisthocomus hoazin isolate bOpiHoa1 chromosome 9, bOpiHoa1.hap1  Opisthocomus... NA              30419      398    2829  100%  3e-108 99.12  45047082   NC_134422.1      
+Opisthocomus hoazin isolate bOpiHoa1 chromosome 4, bOpiHoa1.hap1  Opisthocomus... NA              30419      67.1   234   11%   3e-08  78.48  96046430   NC_134417.1      
+Opisthocomus hoazin isolate bOpiHoa1 chromosome 21, bOpiHoa1.hap1 Opisthocomus... NA              30419      57.2   103   4%    1e-05  78.79  16905070   NC_134434.1      
+Opisthocomus hoazin isolate bOpiHoa1 chromosome 26, bOpiHoa1.hap1 Opisthocomus... NA              30419      56.3   107   10%   5e-05  75.64  10902777   NC_134439.1      
+Opisthocomus hoazin isolate bOpiHoa1 chromosome 16, bOpiHoa1.hap1 Opisthocomus... NA              30419      47.3   47.3  2%    0.024  90.91  22219440   NC_134429.1      
+Opisthocomus hoazin isolate bOpiHoa1 chromosome 1, bOpiHoa1.hap1  Opisthocomus... NA              30419      46.4   46.4  3%    0.024  80.85  157519659  NC_134414.1      
+
+
+Alignments:
+
+>Opisthocomus hoazin isolate bOpiHoa1 chromosome 9, bOpiHoa1.hap1
+Sequence ID: NC_134422.1 Length: 45047082
+Range 1: 11176571 to 11176797
+
+Score:398 bits(441), Expect:3e-108, 
+Identities:225/227(99%),  Gaps:2/227(0%), Strand: Plus/Minus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGAA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11176797  ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGAA  11176738
+
+Query  61        AGGaaaaaaaaGAGGAGGGGAAGGGATGAAGTGAAAGGAGCTAAGAGCCGCTCTGAAGAG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11176737  AGGAAAAAAAAGAGGAGGGGAAGGGATGAAGTGAAAGGAGCTAAGAGCCGCTCTGAAGAG  11176678
+
+Query  121       CAT--AGACAGCCTGGTGACCTCTGGTGCACAAGGGATGAAGGAAACAGACTGTGATTGA  178
+                 |||  |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11176677  CATACAGACAGCCTGGTGACCTCTGGTGCACAAGGGATGAAGGAAACAGACTGTGATTGA  11176618
+
+Query  179       CTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCCGTCCTG  225
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11176617  CTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCCGTCCTG  11176571
+
+
+
+
+Range 2: 11155373 to 11155551
+
+Score:324 bits(358), Expect:6e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11155551  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  11155492
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11155491  AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  11155432
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCCTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11155431  TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCCTGCTTTAA  11155373
+
+
+
+
+Range 3: 11160641 to 11160797
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11160797  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  11160738
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11160737  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  11160678
+
+Query  918       GAAGTTCCTCTGGTGGTTCATCGCCCTTGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  11160677  GAAGTTCCTCTGGTGGTTCATCGCCCTTGGATGGGGT  11160641
+
+
+
+
+Range 4: 11156801 to 11156943
+
+Score:254 bits(281), Expect:9e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCCCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11156943  CAGGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCCCTGTTTGGGGTCCACTACATCAT  11156884
+
+Query  1233      CTTTGCTTTTTTCCCTGAAGATGCAAGCAGTGGCGCAATGGAAATTCAGCTGTTTTTCGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11156883  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGTGGCGCAATGGAAATTCAGCTGTTTTTCGA  11156824
+
+Query  1293      ATTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  11156823  ATTGGCTCTTGGATCATTCCAGG  11156801
+
+
+
+
+Range 5: 11162503 to 11162638
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Minus
+
+Query  664       AGAAGACTTCGCTGTACGAGAAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11162638  AGAAGACTTCGCTGTACGAGAAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  11162579
+
+Query  724       CGAGCCTCGTCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACACAAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11162578  CGAGCCTCGTCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACACAAATTAC  11162519
+
+Query  784       TGTGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  11162518  TGTGGGGCATACACGG  11162503
+
+
+
+
+Range 6: 11172454 to 11172582
+
+Score:233 bits(258), Expect:9e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11172582  GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  11172523
+
+Query  285       CTGTGCTGAGACCCTCTCCCTGGAGGCAAAGAACAGAACGCTGGAAGACAATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11172522  CTGTGCTGAGACCCTCTCCCTGGAGGCAAAGAACAGAACGCTGGAAGACAATCTGCTCCT  11172463
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  11172462  GAGCTCAGG  11172454
+
+
+
+
+Range 7: 11167915 to 11168030
+
+Score:210 bits(232), Expect:1e-51, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11168030  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCTGTGGGAC  11167971
+
+Query  410       AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11167970  AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  11167915
+
+
+
+
+Range 8: 11164011 to 11164116
+
+Score:192 bits(212), Expect:3e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCGAGACCCGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11164116  AGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCGAGACCCGA  11164057
+
+Query  522       TATCGCTTGTGGCTACAATGTCAATGACACGACAAATGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11164056  TATCGCTTGTGGCTACAATGTCAATGACACGACAAATGAGGCGAGA  11164011
+
+
+
+
+Range 9: 11163617 to 11163714
+
+Score:178 bits(196), Expect:6e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568       CGTTCCTACTTCATGACTCTGAAGACCATGTACACTGTCGGATACTGCACGTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11163714  CGTTCCTACTTCATGACTCTGAAGACCATGTACACTGTCGGATACTGCACGTCCCTCGTG  11163655
+
+Query  628       ACGCTGATGATAGCCTTAGCAGTCCTGGCCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  11163654  ACGCTGATGATAGCCTTAGCAGTCCTGGCCTCTTTTAG  11163617
+
+
+
+
+Range 10: 11157035 to 11157141
+
+Score:171 bits(189), Expect:9e-40, 
+Identities:102/107(95%),  Gaps:0/107(0%), Strand: Plus/Minus
+
+Query  1070      TTTTGTCTATTTTTATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCCTGATGAGGA  1129
+                 |||| ||| ||   ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11157141  TTTTCTCTTTTCAGATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCCTGATGAGGA  11157082
+
+Query  1130      AGCTCAGCTCGCCTGAAGGATGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11157081  AGCTCAGCTCGCCTGAAGGATGGAGCAGTGATTTCAACCAATACAAG  11157035
+
+
+
+
+Range 11: 11159888 to 11159958
+
+Score:129 bits(142), Expect:3e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1013      GGTGCTGGGACATTAACACTAATGCCAGTACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11159958  GGTGCTGGGACATTAACACTAATGCCAGTACCTGGTGGATCATTAGAGGCCCTGTAGTTT  11159899
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  11159898  TGTCTATTTTT  11159888
+
+
+
+
+Range 12: 11160488 to 11160552
+
+Score:118 bits(130), Expect:5e-24, 
+Identities:65/65(100%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  952       GGTGCCCCAGCTGTGTTCGTGGCCGCATGGGCGACTGCTAGGCAACTCCGTGAGAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11160552  GGTGCCCCAGCTGTGTTCGTGGCCGCATGGGCGACTGCTAGGCAACTCCGTGAGAATATT  11160493
+
+Query  1012      GGGTG  1016
+                 |||||
+Sbjct  11160492  GGGTG  11160488
+
+
+
+
+Range 13: 11156575 to 11156637
+
+Score:86.0 bits(94), Expect:3e-14, 
+Identities:58/64(91%),  Gaps:1/64(1%), Strand: Plus/Minus
+
+Query  1295      TGGCTCTTGGATCATTCCAGGGATTTGTCGTGGCTGTACTTTATTGCTTTCTTAATGGCG  1354
+                 ||| ||||  ||| ||  ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11156637  TGGTTCTTTTATCTTTT-AGGGATTTGTCGTGGCTGTACTTTATTGCTTTCTTAATGGCG  11156579
+
+Query  1355      AGGT  1358
+                 ||||
+Sbjct  11156578  AGGT  11156575
+
+
+
+
+>Opisthocomus hoazin isolate bOpiHoa1 chromosome 4, bOpiHoa1.hap1
+Sequence ID: NC_134417.1 Length: 96046430
+Range 1: 91045838 to 91045916
+
+Score:67.1 bits(73), Expect:3e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172      ACAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCCCTGTTTGGGGTCCACTACATCA  1231
+                 ||| ||| || || ||||| ||  | || || ||||| || |||||  | ||||||||||
+Sbjct  91045838  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  91045897
+
+Query  1232      TCTTTGCTTTTTTCCCTGA  1250
+                 | |||||||| ||||||||
+Sbjct  91045898  TGTTTGCTTTCTTCCCTGA  91045916
+
+
+
+
+Range 2: 90655416 to 90655494
+
+Score:62.6 bits(68), Expect:3e-07, 
+Identities:61/79(77%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCCCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||| || ||| | ||| | || || || ||||| || |||||| |  |
+Sbjct  90655494  CAGGAGACTTGCAAAATCCACGTTACTCTTGATTCCTCTCTTTGGAGTGCACTACGTAGT  90655435
+
+Query  1233      CTTTGCTTTTTTCCCTGAA  1251
+                  ||||| |||||||| |||
+Sbjct  90655434  ATTTGCATTTTTCCCGGAA  90655416
+
+
+
+
+Range 3: 93299948 to 93300033
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:64/86(74%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  675       CTGTACGAGAAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCGTC  734
+                 ||| || |||||||||||||| ||||| || |||   || |||||  || |||||  |  
+Sbjct  93299948  CTGCACTAGAAACTACATCCATATGCACCTGTTCGTCTCCTTCATGCTGAGAGCCGTGAG  93300007
+
+Query  735       CAACTTCATCAAGGATGCCGTTTTGT  760
+                 || |||| | ||||| || || ||||
+Sbjct  93300008  CATCTTCGTGAAGGACGCAGTCTTGT  93300033
+
+
+
+
+Range 4: 83404103 to 83404180
+
+Score:47.3 bits(51), Expect:0.024, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCCCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||| || ||  |  | ||||| ||  | ||||| || |||||||   |
+Sbjct  83404103  CAGGAGACTTGCAAAATCCACATTGTTGCTCATTCCATTATTTGGAGTTCACTACACAGT  83404162
+
+Query  1233      CTTTGCTTTTTTCCCTGA  1250
+                  |||||| | || |||||
+Sbjct  83404163  GTTTGCTCTATTTCCTGA  83404180
+
+
+
+
+>Opisthocomus hoazin isolate bOpiHoa1 chromosome 21, bOpiHoa1.hap1
+Sequence ID: NC_134434.1 Length: 16905070
+Range 1: 3551173 to 3551238
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:52/66(79%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  664      AGAAGACTTCGCTGTACGAGAAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                |||| ||||| ||| || |||||||||||||| ||| || | ||  |||| || || |||
+Sbjct  3551173  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  3551232
+
+Query  724      CGAGCC  729
+                || |||
+Sbjct  3551233  CGTGCC  3551238
+
+
+
+
+Range 2: 8804967 to 8805011
+
+Score:46.4 bits(50), Expect:0.024, 
+Identities:37/45(82%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  675      CTGTACGAGAAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                ||| | ||| ||||||||||||||| | |||||| | || |||||
+Sbjct  8804967  CTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  8805011
+
+
+
+
+>Opisthocomus hoazin isolate bOpiHoa1 chromosome 26, bOpiHoa1.hap1
+Sequence ID: NC_134439.1 Length: 10902777
+Range 1: 6191063 to 6191140
+
+Score:56.3 bits(61), Expect:5e-05, 
+Identities:59/78(76%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCCCTGTTTGGGGTCCACTACATCAT  1232
+                || ||| ||  | ||||| ||||| ||||||||||| || || ||||| |||||| |  |
+Sbjct  6191063  CAGGAGGCTGACGAAGTCCACGCTGCTCCTCATCCCTCTCTTCGGGGTGCACTACGTGGT  6191122
+
+Query  1233     CTTTGCTTTTTTCCCTGA  1250
+                 || ||  | ||||||||
+Sbjct  6191123  GTTCGCACTCTTCCCTGA  6191140
+
+
+
+
+Range 2: 6188704 to 6188783
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:59/80(74%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  676      TGTACGAGAAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAGCCTCGTCC  735
+                || || || |||| ||||||||| ||  ||||||| || |||||  |||| |   |  | 
+Sbjct  6188704  TGCACCAGGAACTCCATCCACATCCACTTCTTCACCTCCTTCATACTGCGCGGGGCCGCT  6188763
+
+Query  736      AACTTCATCAAGGATGCCGT  755
+                   |||||||||||||||||
+Sbjct  6188764  GTGTTCATCAAGGATGCCGT  6188783
+
+
+
+
+>Opisthocomus hoazin isolate bOpiHoa1 chromosome 16, bOpiHoa1.hap1
+Sequence ID: NC_134429.1 Length: 22219440
+Range 1: 19860685 to 19860717
+
+Score:47.3 bits(51), Expect:0.024, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  1068      AGTTTTGTCTATTTTTATTAATTTCATTCTTTT  1100
+                 ||||||||||||||| |||| ||||||| ||||
+Sbjct  19860685  AGTTTTGTCTATTTTCATTATTTTCATTATTTT  19860717
+
+
+
+
+>Opisthocomus hoazin isolate bOpiHoa1 chromosome 1, bOpiHoa1.hap1
+Sequence ID: NC_134414.1 Length: 157519659
+Range 1: 120216661 to 120216707
+
+Score:46.4 bits(50), Expect:0.024, 
+Identities:38/47(81%),  Gaps:6/47(12%), Strand: Plus/Plus
+
+Query  65         aaaaaaaGAGGAGGGGAAGGGA------TGAAGTGAAAGGAGCTAAG  105
+                  ||||||||||||||||||||||       |||| ||||||||| |||
+Sbjct  120216661  AAAAAAAGAGGAGGGGAAGGGAAAGGAGCGAAGGGAAAGGAGCAAAG  120216707
+
+
+
+
+
+
+
+		
+
+

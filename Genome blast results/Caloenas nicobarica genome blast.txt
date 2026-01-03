@@ -1,0 +1,411 @@
+RID: NDBH2RYZ016	
+Job Title:XM_065637665.1 PREDICTED: Caloenas nicobarica...				
+Program: BLASTN 
+Database: Genome (bCalNic1.hap1) Caloenas nicobarica bCalNic1.hap1 [GCF_036013445.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_036013445.1-RS_2024_06)
+Query #1: XM_065637665.1 PREDICTED: Caloenas nicobarica secretin receptor (SCTR), mRNA Query ID: lcl|Query_5142613 Length: 1521
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Caloenas nicobarica isolate bCalNic1 chromosome 6, bCalNic1.hap1  Caloenas nic... Nicobar pigeon  187106     382    2808  100%  2e-103 99.54  42827701   NC_088250.1      
+Caloenas nicobarica isolate bCalNic1 chromosome 2, bCalNic1.hap1  Caloenas nic... Nicobar pigeon  187106     81.5   328   22%   1e-12  72.54  165864392  NC_088246.1      
+Caloenas nicobarica isolate bCalNic1 chromosome 24, bCalNic1.hap1 Caloenas nic... Nicobar pigeon  187106     71.6   189   19%   5e-10  79.75  6743431    NC_088268.1      
+Caloenas nicobarica isolate bCalNic1 chromosome 18, bCalNic1.hap1 Caloenas nic... Nicobar pigeon  187106     55.4   55.4  3%    4e-05  86.67  12962670   NC_088262.1      
+
+
+Alignments:
+
+>Caloenas nicobarica isolate bCalNic1 chromosome 6, bCalNic1.hap1
+Sequence ID: NC_088250.1 Length: 42827701
+Range 1: 32418028 to 32418243
+
+Score:382 bits(423), Expect:2e-103, 
+Identities:215/216(99%),  Gaps:1/216(0%), Strand: Plus/Plus
+
+Query  1         ATGCTCTTTAGGGCTCAGCAGCTGGAGAGAAACATTAGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32418028  ATGCTCTTTAGGGCTCAGCAGCTGGAGAGAAACATTAGCTAAGGATGGTCAAAGCTGGGA  32418087
+
+Query  61        AGGAAAA-AATCAAGGAAGGAAAGGAATAAAGTGAAAGGAGCTGAGAGCCACGCTGGAGG  119
+                 ||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32418088  AGGAAAAAAATCAAGGAAGGAAAGGAATAAAGTGAAAGGAGCTGAGAGCCACGCTGGAGG  32418147
+
+Query  120       GCACACAGACTGATGCACAAGTGATGAAGGAAACAGACTGTGATTGACCATGTGGACTAT  179
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32418148  GCACACAGACTGATGCACAAGTGATGAAGGAAACAGACTGTGATTGACCATGTGGACTAT  32418207
+
+Query  180       CTGGGTGATCATCTTCTGGATTTCAATTGTCCTGGT  215
+                 ||||||||||||||||||||||||||||||||||||
+Sbjct  32418208  CTGGGTGATCATCTTCTGGATTTCAATTGTCCTGGT  32418243
+
+
+
+
+Range 2: 32437237 to 32437415
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1343      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACCTGCGTC  1402
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32437237  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACCTGCGTC  32437296
+
+Query  1403      AGCACCTCAGCACCTCAGCAAGTAATGGGGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32437297  AGCACCTCAGCACCTCAGCAAGTAATGGGGGAAGTGGCTTAACTCAAGAGATGCAGATGG  32437356
+
+Query  1463      TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACACTCCAAAGATCAAGTGCCCTTTAA  1521
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32437357  TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACACTCCAAAGATCAAGTGCCCTTTAA  32437415
+
+
+
+
+Range 3: 32431552 to 32431708
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  786       GGCAGGGTGTAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  845
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32431552  GGCAGGGTGTAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  32431611
+
+Query  846       GCTCCTTGTGGAGGGACTCTATCTCCACACTCTCCTGGTTACTTCTTTCTTCTCGGAAAA  905
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32431612  GCTCCTTGTGGAGGGACTCTATCTCCACACTCTCCTGGTTACTTCTTTCTTCTCGGAAAA  32431671
+
+Query  906       TAAATTCTTCTGGTGGTTCATCGCCCTGGGATGGGGT  942
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  32431672  TAAATTCTTCTGGTGGTTCATCGCCCTGGGATGGGGT  32431708
+
+
+
+
+Range 4: 32435847 to 32435989
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1161      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAt  1220
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32435847  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCAT  32435906
+
+Query  1221      ttttgcttttttCCCCGAAGATGCAAGCAGCGGCACAATGGAAATTCAACttttttttGA  1280
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32435907  TTTTGCTTTTTTCCCCGAAGATGCAAGCAGCGGCACAATGGAAATTCAACTTTTTTTTGA  32435966
+
+Query  1281      ATTGGCTCTTGGATCATTCCAGG  1303
+                 |||||||||||||||||||||||
+Sbjct  32435967  ATTGGCTCTTGGATCATTCCAGG  32435989
+
+
+
+
+Range 5: 32430232 to 32430367
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  652       AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  711
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32430232  AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  32430291
+
+Query  712       CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTATTCCTCTGAAGACACGAATTAC  771
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32430292  CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTATTCCTCTGAAGACACGAATTAC  32430351
+
+Query  772       TGCGGGGCATATACGG  787
+                 ||||||||||||||||
+Sbjct  32430352  TGCGGGGCATATACGG  32430367
+
+
+
+
+Range 6: 32422064 to 32422204
+
+Score:235 bits(260), Expect:2e-59, 
+Identities:138/142(97%),  Gaps:1/142(0%), Strand: Plus/Plus
+
+Query  200       TTTCAATTGTCCTGGTCAGAGCTATCCCACCCATCTGTGACCTCCTGAGTGTCCTGAAAA  259
+                 || ||||| | | |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32422064  TTACAATT-TGCAGGTCAGAGCTATCCCACCCATCTGTGACCTCCTGAGTGTCCTGAAAA  32422122
+
+Query  260       AAGAAGAAGAAAACTGTGCTGAGACTCTGTCCCTGGAGGCAAAGAACAGAACTCCTGAAA  319
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32422123  AAGAAGAAGAAAACTGTGCTGAGACTCTGTCCCTGGAGGCAAAGAACAGAACTCCTGAAA  32422182
+
+Query  320       ATGATCTGCTCCTGAGCTCAGG  341
+                 ||||||||||||||||||||||
+Sbjct  32422183  ATGATCTGCTCCTGAGCTCAGG  32422204
+
+
+
+
+Range 7: 32424747 to 32424862
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  338       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCACCGTGGGAC  397
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32424747  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCCACCGTGGGAC  32424806
+
+Query  398       AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  453
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32424807  AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  32424862
+
+
+
+
+Range 8: 32428779 to 32428884
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  450       AGGTTTTGTCTACCGAAACTGTACAAGTGAGGGTTGGTCAGACCCGTATCCGAGACCCGA  509
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32428779  AGGTTTTGTCTACCGAAACTGTACAAGTGAGGGTTGGTCAGACCCGTATCCGAGACCCGA  32428838
+
+Query  510       TATTGCTTGTGGCTACAACGTCAATGACACAACAAATGAGGCAAGA  555
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32428839  TATTGCTTGTGGCTACAACGTCAATGACACAACAAATGAGGCAAGA  32428884
+
+
+
+
+Range 9: 32429181 to 32429278
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  556       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCTCTCGTG  615
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32429181  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCTCTCGTG  32429240
+
+Query  616       ACACTGATGATAGCCTTAGCAGTCCTGGTCTCTTTTAG  653
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  32429241  ACACTGATGATAGCCTTAGCAGTCCTGGTCTCTTTTAG  32429278
+
+
+
+
+Range 10: 32435663 to 32435755
+
+Score:168 bits(186), Expect:3e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1072      ATTAACTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAAGAAGCTCAGCTCTCCT  1131
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32435663  ATTAACTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAAGAAGCTCAGCTCTCCT  32435722
+
+Query  1132      GAAGGACGGAGCAGTGACTTCAACCAGTACAAG  1164
+                 |||||||||||||||||||||||||||||||||
+Sbjct  32435723  GAAGGACGGAGCAGTGACTTCAACCAGTACAAG  32435755
+
+
+
+
+Range 11: 32432894 to 32432964
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1001      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGGGGCCCTGTAGTTT  1060
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32432894  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGGGGCCCTGTAGTTT  32432953
+
+Query  1061      TGTCTATTTTT  1071
+                 |||||||||||
+Sbjct  32432954  TGTCTATTTTT  32432964
+
+
+
+
+Range 12: 32431797 to 32431860
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  940       GGTGCCCCAGCTGTGTTTGTGGCCGCATGGGCGACTGCTAGGCAACTCCACGAAAATATT  999
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32431797  GGTGCCCCAGCTGTGTTTGTGGCCGCATGGGCGACTGCTAGGCAACTCCACGAAAATATT  32431856
+
+Query  1000      GGGT  1003
+                 ||||
+Sbjct  32431857  GGGT  32431860
+
+
+
+
+Range 13: 32436170 to 32436215
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1301      AGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  1346
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32436170  AGGGCTTTGTTGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  32436215
+
+
+
+
+>Caloenas nicobarica isolate bCalNic1 chromosome 2, bCalNic1.hap1
+Sequence ID: NC_088246.1 Length: 165864392
+Range 1: 3894289 to 3894430
+
+Score:81.5 bits(89), Expect:1e-12, 
+Identities:103/142(73%),  Gaps:0/142(0%), Strand: Plus/Minus
+
+Query  786      GGCAGGGTGTAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  845
+                || ||| || ||  |||  ||||| ||||||||||| ||  ||||| | || | |  |||
+Sbjct  3894430  GGTAGGCTGCAAAGTCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAATTTCTTCTG  3894371
+
+Query  846      GCTCCTTGTGGAGGGACTCTATCTCCACACTCTCCTGGTTACTTCTTTCTTCTCGGAAAA  905
+                |||||| || |||||  | ||||| ||||| ||  |||| |  || ||||| || || | 
+Sbjct  3894370  GCTCCTGGTAGAGGGCTTGTATCTTCACACCCTGTTGGTCATCTCCTTCTTTTCAGAGAG  3894311
+
+Query  906      TAAATTCTTCTGGTGGTTCATC  927
+                 || | ||| ||||||| ||||
+Sbjct  3894310  GAAGTACTTTTGGTGGTACATC  3894289
+
+
+
+
+Range 2: 3879362 to 3879440
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1160     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1219
+                ||| |||||| || ||||| ||  | || || ||||||||||||||  | ||||||||||
+Sbjct  3879440  ACAGGAGACTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3879381
+
+Query  1220     tttttgcttttttCCCCGA  1238
+                | |||||||| ||||| ||
+Sbjct  3879380  TGTTTGCTTTCTTCCCTGA  3879362
+
+
+
+
+Range 3: 1762135 to 1762224
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:67/90(74%),  Gaps:0/90(0%), Strand: Plus/Minus
+
+Query  663      CTGTACGAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTGCGAGCCTCATC  722
+                ||| || || |||||||||||||||||||| ||    || |||||  || |||||     
+Sbjct  1762224  CTGCACTAGAAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGAGCCATGAG  1762165
+
+Query  723      CAACTTCATCAAGGATGCTGTTTTGTATTC  752
+                || |||| | ||||| || || ||||||||
+Sbjct  1762164  CATCTTCGTGAAGGACGCGGTCTTGTATTC  1762135
+
+
+
+
+Range 4: 11288793 to 11288903
+
+Score:58.1 bits(63), Expect:1e-05, 
+Identities:80/111(72%),  Gaps:1/111(0%), Strand: Plus/Minus
+
+Query  644       TCTCTT-TTAGAAGACTTCGCTGTACGAGGAACTACATCCACATGCACCTCTTCACATCG  702
+                 |||||| |||||| |||||  |||||  |||||||||||||  || |||| |||   || 
+Sbjct  11288903  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCT  11288844
+
+Query  703       TTCATTTTGCGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTATTCC  753
+                 |||||| |  ||||    ||    ||  ||||||||| | || | ||||||
+Sbjct  11288843  TTCATTCTAAGAGCAATCTCTGTTTTAGTCAAGGATGATATTCTCTATTCC  11288793
+
+
+
+
+Range 5: 3908087 to 3908152
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:51/66(77%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  652      AGAAGACTTCGCTGTACGAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  711
+                |||| ||| | ||||||  | || || || ||||||||||||||||  || |||||  ||
+Sbjct  3908152  AGAAAACTACACTGTACTCGAAATTATATTCACATGCACCTCTTCATGTCCTTCATAATG  3908093
+
+Query  712      CGAGCC  717
+                 |||||
+Sbjct  3908092  AGAGCC  3908087
+
+
+
+
+>Caloenas nicobarica isolate bCalNic1 chromosome 24, bCalNic1.hap1
+Sequence ID: NC_088268.1 Length: 6743431
+Range 1: 2918533 to 2918611
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1160     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1219
+                ||| ||| ||  |||| || || || ||||||||||||||||||||||| |||||| |  
+Sbjct  2918533  ACAGGAGGCTGACAAAATCCACGCTGCTCCTCATCCCTCTCTTTGGGGTACACTACGTGG  2918592
+
+Query  1220     tttttgcttttttCCCCGA  1238
+                | |||||  | ||||||||
+Sbjct  2918593  TGTTTGCACTCTTCCCCGA  2918611
+
+
+
+
+Range 2: 2916468 to 2916540
+
+Score:60.8 bits(66), Expect:1e-06, 
+Identities:57/73(78%),  Gaps:0/73(0%), Strand: Plus/Plus
+
+Query  671      GGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTGCGAGCCTCATCCAACTTCA  730
+                |||||| ||||||||| ||| ||||||| || |||||  |||| |   |  ||   ||||
+Sbjct  2916468  GGAACTCCATCCACATCCACTTCTTCACCTCCTTCATACTGCGCGGGGCTGCCGTGTTCA  2916527
+
+Query  731      TCAAGGATGCTGT  743
+                |||||||||||||
+Sbjct  2916528  TCAAGGATGCTGT  2916540
+
+
+
+
+Range 3: 2916838 to 2916978
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:97/141(69%),  Gaps:0/141(0%), Strand: Plus/Plus
+
+Query  803      CCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGAC  862
+                |||| | |||||||||||| |   || || | |||| |  |||||| || ||||||||  
+Sbjct  2916838  CCATCGCCTTCTTCCAGTACTCAGTCCTGGCCAACTTCTACTGGCTGCTGGTGGAGGGCA  2916897
+
+Query  863      TCTATCTCCACACTCTCCTGGTTACTTCTTTCTTCTCGGAAAATAAATTCTTCTGGTGGT  922
+                | ||  | || ||||| ||| |     | |||  ||| || || |  | | |||||||||
+Sbjct  2916898  TGTACTTGCAGACTCTGCTGCTGCTCACCTTCACCTCTGACAAGAGGTACATCTGGTGGT  2916957
+
+Query  923      TCATCGCCCTGGGATGGGGTG  943
+                 ||||  | | || |||||||
+Sbjct  2916958  ACATCCTCATCGGCTGGGGTG  2916978
+
+
+
+
+>Caloenas nicobarica isolate bCalNic1 chromosome 18, bCalNic1.hap1
+Sequence ID: NC_088262.1 Length: 12962670
+Range 1: 390404 to 390448
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:39/45(87%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  663     CTGTACGAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT  707
+               ||| | ||||||||||||||||||| |||||||| | || |||||
+Sbjct  390448  CTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  390404
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,391 @@
+RID: NDF0MZK7016	
+Job Title:XM_005431780.3:2215-3849 PREDICTED: Falco...				
+Program: BLASTN 
+Database: Genome (bFalChe1.pri) Falco cherrug bFalChe1.pri [GCF_023634085.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_023634085.1-RS_2023_04)
+Query #1: XM_005431780.3:2215-3849 PREDICTED: Falco cherrug secretin receptor (SCTR), mRNA Query ID: lcl|Query_4959243 Length: 1635
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Falco cherrug isolate bFalChe1 chromosome 8, bFalChe1.pri         Falco cherrug   Saker falcon    345164     612    3190  100%  1e-172 99.39  65638367   NC_073704.1      
+Falco cherrug isolate bFalChe1 chromosome 4, bFalChe1.pri         Falco cherrug   Saker falcon    345164     58.4   262   15%   6e-06  74.80  113312423  NC_073700.1      
+Falco cherrug isolate bFalChe1 chromosome 1, bFalChe1.pri         Falco cherrug   Saker falcon    345164     48.8   97.5  9%    0.004  79.10  127826306  NC_073697.1      
+Falco cherrug isolate bFalChe1 chromosome 20, bFalChe1.pri        Falco cherrug   Saker falcon    345164     46.8   46.8  3%    0.017  85.71  6816747    NC_073716.1      
+
+
+Alignments:
+
+>Falco cherrug isolate bFalChe1 chromosome 8, bFalChe1.pri
+Sequence ID: NC_073704.1 Length: 65638367
+Range 1: 33039182 to 33039510
+
+Score:612 bits(318), Expect:1e-172, 
+Identities:327/329(99%),  Gaps:2/329(0%), Strand: Plus/Plus
+
+Query  1         ATGCTCAAGCGAGGTGCTGTTATTCTTGGGACAGGAGGTTTCTGCAGAGGAGGAGGAGAG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33039182  ATGCTCAAGCGAGGTGCTGTTATTCTTGGGACAGGAGGTTTCTGCAGAGGAGGAGGAGAG  33039241
+
+Query  61        CTTGGAAGATGGAGGGGGATGGGAGGTGTCCTGTCATTGCTGATGCTCTCTAGGGCTCAG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33039242  CTTGGAAGATGGAGGGGGATGGGAGGTGTCCTGTCATTGCTGATGCTCTCTAGGGCTCAG  33039301
+
+Query  121       CAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGAAGGaaaaaaaGGAGGAGG  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33039302  CAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGAAGGAAAAAAAGGAGGAGG  33039361
+
+Query  181       GAAAGGGACGAAGTGAAAGGAGCTAGGAACCAAACTGGAGAGCAT--AGACAGACCAGTG  238
+                 |||||||||||||||||||||||||||||||||||||||||||||  |||||||||||||
+Sbjct  33039362  GAAAGGGACGAAGTGAAAGGAGCTAGGAACCAAACTGGAGAGCATACAGACAGACCAGTG  33039421
+
+Query  239       ACCTCTGATGCATGAGGGATGAAAGAAACAGACTGTGATTGACTATGTGGACTGTCTGGG  298
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33039422  ACCTCTGATGCATGAGGGATGAAAGAAACAGACTGTGATTGACTATGTGGACTGTCTGGG  33039481
+
+Query  299       TGATCATCTTCTGGATTTCAACTGTACTG  327
+                 |||||||||||||||||||||||||||||
+Sbjct  33039482  TGATCATCTTCTGGATTTCAACTGTACTG  33039510
+
+
+
+
+Range 2: 33058408 to 33058586
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1457      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1516
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33058408  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  33058467
+
+Query  1517      AGCATCTCAGTGCCTCAGCAAGTAACGGAGGAAGCGGCTTAACTCAAGAGATGCAGATGG  1576
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33058468  AGCATCTCAGTGCCTCAGCAAGTAACGGAGGAAGCGGCTTAACTCAAGAGATGCAGATGG  33058527
+
+Query  1577      TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1635
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33058528  TGAGGTCAAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  33058586
+
+
+
+
+Range 3: 33053226 to 33053382
+
+Score:302 bits(157), Expect:2e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  900       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTG  959
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33053226  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTG  33053285
+
+Query  960       GCTCCTTGTGGAGGGACTGTACCTCCATACTCTCCTGGTTATTTCTTTCTTCTCGGAAAC  1019
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33053286  GCTCCTTGTGGAGGGACTGTACCTCCATACTCTCCTGGTTATTTCTTTCTTCTCGGAAAC  33053345
+
+Query  1020      AAAGTTCCTCTGGCGGTTCATCACCCTCGGATGGGGT  1056
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  33053346  AAAGTTCCTCTGGCGGTTCATCACCCTCGGATGGGGT  33053382
+
+
+
+
+Range 4: 33057026 to 33057165
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  1278      GAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCATCTT  1337
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33057026  GAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCATCTT  33057085
+
+Query  1338      TGCTTTTTTCCCAGAAGACACAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTCGAATT  1397
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33057086  TGCTTTTTTCCCAGAAGACACAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTCGAATT  33057145
+
+Query  1398      GGCTCTTGGATCATTCCAGG  1417
+                 ||||||||||||||||||||
+Sbjct  33057146  GGCTCTTGGATCATTCCAGG  33057165
+
+
+
+
+Range 5: 33051907 to 33052043
+
+Score:264 bits(137), Expect:7e-68, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  765       CAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTTCACATCATTCATTTT  824
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33051907  CAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTTCACATCATTCATTTT  33051966
+
+Query  825       GCGAGCCTCGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGATGCAAATTA  884
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33051967  GCGAGCCTCGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGATGCAAATTA  33052026
+
+Query  885       CTGCAGGGCATACACGG  901
+                 |||||||||||||||||
+Sbjct  33052027  CTGCAGGGCATACACGG  33052043
+
+
+
+
+Range 6: 33043403 to 33043531
+
+Score:248 bits(129), Expect:3e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  327       GATCGGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  386
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33043403  GATCGGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  33043462
+
+Query  387       CTGTGCTGAGACGCTTTCCCTGGAGGTGAAGAACGGAACAACTGAAAACTATCTGCTCCT  446
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33043463  CTGTGCTGAGACGCTTTCCCTGGAGGTGAAGAACGGAACAACTGAAAACTATCTGCTCCT  33043522
+
+Query  447       GAGCTCAGG  455
+                 |||||||||
+Sbjct  33043523  GAGCTCAGG  33043531
+
+
+
+
+Range 7: 33046449 to 33046564
+
+Score:223 bits(116), Expect:1e-55, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  452       CAGGCAGATGTGTTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCCGTGGGAC  511
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33046449  CAGGCAGATGTGTTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCCGTGGGAC  33046508
+
+Query  512       AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33046509  AGACTGTCAGTGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  33046564
+
+
+
+
+Range 8: 33050450 to 33050555
+
+Score:204 bits(106), Expect:6e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  564       AGGTTTTGTCTACCGAAACTGTACAAGCGAAGGTTGGTCAGACCCATATCCAAGACCTGA  623
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33050450  AGGTTTTGTCTACCGAAACTGTACAAGCGAAGGTTGGTCAGACCCATATCCAAGACCTGA  33050509
+
+Query  624       TATCGCTTGTGGCTACAATGTCAATGACACAGCAAACGAGGCAAGA  669
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33050510  TATCGCTTGTGGCTACAATGTCAATGACACAGCAAACGAGGCAAGA  33050555
+
+
+
+
+Range 9: 33050845 to 33050942
+
+Score:189 bits(98), Expect:2e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  670       CGTTCCTATTTCATGATTCTGAAGACCATGTACACCATCGGGTACTGCACCTCCCTTGTG  729
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33050845  CGTTCCTATTTCATGATTCTGAAGACCATGTACACCATCGGGTACTGCACCTCCCTTGTG  33050904
+
+Query  730       ACGCTGATGATAGCCTTAGCGGTGCTGGCCTCTTTCAG  767
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  33050905  ACGCTGATGATAGCCTTAGCGGTGCTGGCCTCTTTCAG  33050942
+
+
+
+
+Range 10: 33056839 to 33056931
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1186      ATAAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  1245
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33056839  ATAAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  33056898
+
+Query  1246      GAAGGACGGAACAGTGATTTCAACCAATACAAG  1278
+                 |||||||||||||||||||||||||||||||||
+Sbjct  33056899  GAAGGACGGAACAGTGATTTCAACCAATACAAG  33056931
+
+
+
+
+Range 11: 33054040 to 33054114
+
+Score:139 bits(72), Expect:3e-30, 
+Identities:74/75(99%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  1115      GGTGTTGGGATATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1174
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33054040  GGTGTTGGGATATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  33054099
+
+Query  1175      TGTCTATTTTTATAA  1189
+                 ||||||||||| |||
+Sbjct  33054100  TGTCTATTTTTGTAA  33054114
+
+
+
+
+Range 12: 33053468 to 33053531
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1054      GGTGCCCCAACCGTCTTTGTGGCCGCATGGGCAACTGCGAGGCAACTCCATGAAAATATT  1113
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33053468  GGTGCCCCAACCGTCTTTGTGGCCGCATGGGCAACTGCGAGGCAACTCCATGAAAATATT  33053527
+
+Query  1114      GGGT  1117
+                 ||||
+Sbjct  33053528  GGGT  33053531
+
+
+
+
+Range 13: 33057346 to 33057391
+
+Score:89.1 bits(46), Expect:3e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1415      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1460
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33057346  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  33057391
+
+
+
+
+>Falco cherrug isolate bFalChe1 chromosome 4, bFalChe1.pri
+Sequence ID: NC_073700.1 Length: 113312423
+Range 1: 54289660 to 54289782
+
+Score:58.4 bits(30), Expect:6e-06, 
+Identities:92/123(75%),  Gaps:0/123(0%), Strand: Plus/Minus
+
+Query  919       ATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGACTG  978
+                 ||||| ||||| ||||||||| ||||| | |||| |  ||||||| | ||||||||  ||
+Sbjct  54289782  ATGGTTTTCTTCCAGTACTGCGTCATGGCCAACTTCTTCTGGCTCTTGGTGGAGGGGTTG  54289723
+
+Query  979       TACCTCCATACTCTCCTGGTTATTTCTTTCTTCTCGGAAACAAAGTTCCTCTGGCGGTTC  1038
+                 || || || || ||  |||| || || ||||| || || |  |||| | | ||| ||| |
+Sbjct  54289722  TATCTTCACACCCTGTTGGTCATCTCCTTCTTTTCAGAGAGGAAGTACTTTTGGTGGTAC  54289663
+
+Query  1039      ATC  1041
+                 |||
+Sbjct  54289662  ATC  54289660
+
+
+
+
+Range 2: 54664646 to 54664721
+
+Score:54.5 bits(28), Expect:8e-05, 
+Identities:60/76(79%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1278      GAGACTTGCAAAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTACATCATCTT  1337
+                 ||||||||| || || |   | ||| | || || |||||||| || ||||||||| | ||
+Sbjct  54664646  GAGACTTGCTAAATCCACATTACTCTTAATTCCCCTCTTTGGAGTGCACTACATCGTATT  54664705
+
+Query  1338      TGCTTTTTTCCCAGAA  1353
+                 ||| ||||||||||||
+Sbjct  54664706  TGCATTTTTCCCAGAA  54664721
+
+
+
+
+Range 3: 54277227 to 54277270
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:38/44(86%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  1306      ATCCCACTCTTTGGGGTCCACTACATCATCTTTGCTTTTTTCCC  1349
+                 ||||| ||||||||  | ||||||||||| |||||||| |||||
+Sbjct  54277270  ATCCCTCTCTTTGGCATTCACTACATCATGTTTGCTTTCTTCCC  54277227
+
+
+
+
+Range 4: 54720893 to 54720957
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:52/65(80%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  919       ATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGACTG  978
+                 ||||| || ||||| |||||  ||||||| ||||||  ||||||  || | |||||| ||
+Sbjct  54720957  ATGGTGTTTTTTCATTACTGTGTCATGTCCAACTACTTCTGGCTTTTTATTGAGGGATTG  54720898
+
+Query  979       TACCT  983
+                 |||||
+Sbjct  54720897  TACCT  54720893
+
+
+
+
+Range 5: 54275744 to 54275789
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:39/46(85%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1415      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1460
+                 |||| ||||| |||||||| || || |||||||| ||||| |||||
+Sbjct  54275789  AGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAATGGGGAGGT  54275744
+
+
+
+
+>Falco cherrug isolate bFalChe1 chromosome 1, bFalChe1.pri
+Sequence ID: NC_073697.1 Length: 127826306
+Range 1: 119298825 to 119298891
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  765        CAGAAGGCTTCGCTGTACAAGAAACTACATCCACATGCATCTCTTCACATCATTCATTTT  824
+                  |||||  |||| ||| ||||||||||| ||||| ||| || | ||  |||| ||||| ||
+Sbjct  119298891  CAGAAAACTTCACTGCACAAGAAACTATATCCATATGAATTTATTTGCATCTTTCATCTT  119298832
+
+Query  825        GCGAGCC  831
+                  ||| |||
+Sbjct  119298831  GCGTGCC  119298825
+
+
+
+
+Range 2: 127462640 to 127462721
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:63/82(77%),  Gaps:0/82(0%), Strand: Plus/Plus
+
+Query  917        CCATGGTCTTCTTTCAGTACTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGAC  976
+                  ||| ||||||| | |||||  ||||| || | |||||| ||||| | || ||||||||  
+Sbjct  127462640  CCACGGTCTTCATGCAGTATGGCATCGTGGCCAACTACTGCTGGTTGCTGGTGGAGGGCA  127462699
+
+Query  977        TGTACCTCCATACTCTCCTGGT  998
+                  | ||||| || |  ||||||||
+Sbjct  127462700  TCTACCTGCACAACCTCCTGGT  127462721
+
+
+
+
+>Falco cherrug isolate bFalChe1 chromosome 20, bFalChe1.pri
+Sequence ID: NC_073716.1 Length: 6816747
+Range 1: 2459893 to 2459934
+
+Score:46.8 bits(24), Expect:0.017, 
+Identities:36/42(86%),  Gaps:0/42(0%), Strand: Plus/Plus
+
+Query  1288     AAGTCAATGCTCCTCCTCATCCCACTCTTTGGGGTCCACTAC  1329
+                ||||| | ||| ||||||||||| ||||| ||||| ||||||
+Sbjct  2459893  AAGTCCACGCTGCTCCTCATCCCTCTCTTCGGGGTACACTAC  2459934
+
+
+
+
+
+
+
+		
+
+

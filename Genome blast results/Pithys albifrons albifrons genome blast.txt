@@ -1,0 +1,367 @@
+RID: NDHYPE2S014	
+Job Title:XM_071562271.1:1-1533 PREDICTED: Pithys albifrons...				
+Program: BLASTN 
+Database: Genome (PitAlb_v1) Pithys albifrons albifrons PitAlb_v1 [GCF_047495875.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_047495875.1-RS_2025_02)
+Query #1: XM_071562271.1:1-1533 PREDICTED: Pithys albifrons albifrons secretin receptor (SCTR), mRNA Query ID: lcl|Query_5593281 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Pithys albifrons albifrons isolate INPA30051 chromosome 8,...     Pithys albif... NA              3385563    392    2818  100%  1e-106 98.68  41241367   NC_092465.1      
+Pithys albifrons albifrons isolate INPA30051 chromosome 7,...     Pithys albif... NA              3385563    80.6   294   15%   9e-13  82.28  61785287   NC_092464.1      
+Pithys albifrons albifrons isolate INPA30051 chromosome 25,...    Pithys albif... NA              3385563    50.0   50.0  5%    0.002  76.32  7889843    NC_092482.1      
+Pithys albifrons albifrons isolate INPA30051 chromosome 19,...    Pithys albif... NA              3385563    47.3   47.3  2%    0.019  86.84  14273583   NC_092476.1      
+
+
+Alignments:
+
+>Pithys albifrons albifrons isolate INPA30051 chromosome 8, PitAlb_v1
+Sequence ID: NC_092465.1 Length: 41241367
+Range 1: 9619463 to 9619690
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Minus
+
+Query  1        ATGCTCTCTAGAGCCCAGCAGCTGGAGAGAAACATTGGCTAATGATGGTCAAAGCTGGGA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9619690  ATGCTCTCTAGAGCCCAGCAGCTGGAGAGAAACATTGGCTAATGATGGTCAAAGCTGGGA  9619631
+
+Query  61       AGGAAAAAA-GCAAGGAGGGAAAAGGATGAAGTGAGAAGAGTTAGGAGCCACACTGGAGA  119
+                ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9619630  AGGAAAAAAAGCAAGGAGGGAAAAGGATGAAGTGAGAAGAGTTAGGAGCCACACTGGAGA  9619571
+
+Query  120      GCATA--AACAACCCGTTGACCTCTGATGCTTGAGGAATGAAGAAAACAGACTGAAACTG  177
+                |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9619570  GCATACAAACAACCCGTTGACCTCTGATGCTTGAGGAATGAAGAAAACAGACTGAAACTG  9619511
+
+Query  178      ACTATGTGGACAATGTGGGTGATCGTCTTCTGGATTTCAACTGTCCCG  225
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9619510  ACTATGTGGACAATGTGGGTGATCGTCTTCTGGATTTCAACTGTCCCG  9619463
+
+
+
+
+Range 2: 9600211 to 9600389
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355     AGGTGCAGCTGGAGGTTCAGAGAAAATGGAGACAGTGGCATTTAAACAAACACTGGCGTC  1414
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9600389  AGGTGCAGCTGGAGGTTCAGAGAAAATGGAGACAGTGGCATTTAAACAAACACTGGCGTC  9600330
+
+Query  1415     AGAATCTCAGCACCTCGGCGAGTAATGGAGGGAGTGGTGTAACTCAGGAGATGCACATGG  1474
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9600329  AGAATCTCAGCACCTCGGCGAGTAATGGAGGGAGTGGTGTAACTCAGGAGATGCACATGG  9600270
+
+Query  1475     TGCGGTCGAGCCCACCAGAGCAAAGGAGAGAAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9600269  TGCGGTCGAGCCCACCAGAGCAAAGGAGAGAAACCCTCCAAAGATCAAGCGTGCTTTAA  9600211
+
+
+
+
+Range 3: 9605236 to 9605392
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798      GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9605392  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  9605333
+
+Query  858      GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9605332  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  9605273
+
+Query  918      GAAGTTCCTCTTGTGGTTCATCACCCTCGGATGGGGT  954
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  9605272  GAAGTTCCTCTTGTGGTTCATCACCCTCGGATGGGGT  9605236
+
+
+
+
+Range 4: 9601617 to 9601759
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACACTCCTCCTTATCCCTCTCTTTGGGATCCACTACATCAT  1232
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9601759  CAGGAGACTTGCAAAGTCAACACTCCTCCTTATCCCTCTCTTTGGGATCCACTACATCAT  9601700
+
+Query  1233     CTTTGCTTTTTTCCCTGAAGACGCAAGCAGCGGCACAATGGAAATTCAGCTATTTTTTGA  1292
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9601699  CTTTGCTTTTTTCCCTGAAGACGCAAGCAGCGGCACAATGGAAATTCAGCTATTTTTTGA  9601640
+
+Query  1293     ATTGGCTCTTGGATCATTCCAGG  1315
+                |||||||||||||||||||||||
+Sbjct  9601639  ATTGGCTCTTGGATCATTCCAGG  9601617
+
+
+
+
+Range 5: 9606227 to 9606362
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9606362  AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  9606303
+
+Query  724      CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTAC  783
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9606302  CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTAC  9606243
+
+Query  784      TGTGGGGCATACACGG  799
+                ||||||||||||||||
+Sbjct  9606242  TGTGGGGCATACACGG  9606227
+
+
+
+
+Range 6: 9615523 to 9615651
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  225      GACCAAAGCTGTTCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAGAGAGGAAGAAAA  284
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9615651  GACCAAAGCTGTTCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAGAGAGGAAGAAAA  9615592
+
+Query  285      GTGTGTTGAAACTCTCTCCCTGGAGGCAAAGAATAGAACGACTGACAACGATCTGCTCCT  344
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9615591  GTGTGTTGAAACTCTCTCCCTGGAGGCAAAGAATAGAACGACTGACAACGATCTGCTCCT  9615532
+
+Query  345      AAGCTCAGG  353
+                |||||||||
+Sbjct  9615531  AAGCTCAGG  9615523
+
+
+
+
+Range 7: 9611390 to 9611505
+
+Score:210 bits(232), Expect:7e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350      CAGGCAGATGTGCTGGAATGTGGGATAACATGAGTTGCTGGCCTTCATCCACTGTGGGAC  409
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9611505  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGTTGCTGGCCTTCATCCACTGTGGGAC  9611446
+
+Query  410      AAACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACAGGGAAAAAAGGT  465
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9611445  AAACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACAGGGAAAAAAGGT  9611390
+
+
+
+
+Range 8: 9607722 to 9607827
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462      AGGTTTTGTCTACCGAAACTGCACAAGTGAGGGCTGGTCAGACCCGTATCCAAGACCTGA  521
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9607827  AGGTTTTGTCTACCGAAACTGCACAAGTGAGGGCTGGTCAGACCCGTATCCAAGACCTGA  9607768
+
+Query  522      TATTGCTTGTGGCTACAATGTCAATGACACCACCAACGAGGCAAGA  567
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9607767  TATTGCTTGTGGCTACAATGTCAATGACACCACCAACGAGGCAAGA  9607722
+
+
+
+
+Range 9: 9607334 to 9607431
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568      CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  627
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9607431  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  9607372
+
+Query  628      ACACTGACGATAGCCTTAGTGGTCCTGGCCTCTTTTAG  665
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  9607371  ACACTGACGATAGCCTTAGTGGTCCTGGCCTCTTTTAG  9607334
+
+
+
+
+Range 10: 9601840 to 9601932
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1084     ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCGCCT  1143
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9601932  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCGCCT  9601873
+
+Query  1144     GAAGGACGGAACAGTGATTTCAACCAATACAAG  1176
+                |||||||||||||||||||||||||||||||||
+Sbjct  9601872  GAAGGACGGAACAGTGATTTCAACCAATACAAG  9601840
+
+
+
+
+Range 11: 9604488 to 9604558
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1013     GGTGTTGGGACATTAACACTAGTGCTAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  1072
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9604558  GGTGTTGGGACATTAACACTAGTGCTAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  9604499
+
+Query  1073     TGTCTATTTTT  1083
+                |||||||||||
+Sbjct  9604498  TGTCTATTTTT  9604488
+
+
+
+
+Range 12: 9605083 to 9605146
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  952      GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCAACTGCCAGGCAACTCCATGAAAATATT  1011
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9605146  GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCAACTGCCAGGCAACTCCATGAAAATATT  9605087
+
+Query  1012     GGGT  1015
+                ||||
+Sbjct  9605086  GGGT  9605083
+
+
+
+
+Range 13: 9601400 to 9601446
+
+Score:86.0 bits(94), Expect:2e-14, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1313     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGTG  1359
+                |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9601446  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGTG  9601400
+
+
+
+
+>Pithys albifrons albifrons isolate INPA30051 chromosome 7, PitAlb_v1
+Sequence ID: NC_092464.1 Length: 61785287
+Range 1: 3658942 to 3659020
+
+Score:80.6 bits(88), Expect:9e-13, 
+Identities:65/79(82%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTCCTCCTTATCCCTCTCTTTGGGATCCACTACATCA  1231
+                ||| ||| || || ||||| ||  | || || |||||||||||||| || ||||||||||
+Sbjct  3659020  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3658961
+
+Query  1232     TCTTTGCTTTTTTCCCTGA  1250
+                | |||||||| ||||||||
+Sbjct  3658960  TGTTTGCTTTCTTCCCTGA  3658942
+
+
+
+
+Range 2: 4021508 to 4021606
+
+Score:58.1 bits(63), Expect:1e-05, 
+Identities:72/99(73%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  664      AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                |||| | | | ||||||  |||| |||||||||||||| || ||    || ||||| |||
+Sbjct  4021508  AGAAAATTCCACTGTACCCGGAATTACATCCACATGCACCTGTTTGTCTCCTTCATCTTG  4021567
+
+Query  724      CGAGCCTCATCCAACTTCATCAAGGATGCTGTTTTGTTT  762
+                 ||||     |    |||| ||| |||||||||||||||
+Sbjct  4021568  AGAGCTATTGCTGTTTTCACCAAAGATGCTGTTTTGTTT  4021606
+
+
+
+
+Range 3: 3657761 to 3657806
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:40/46(87%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                |||| ||||| |||||||| || ||||||||||| ||||| |||||
+Sbjct  3657806  AGGGATTTGTGGTGGCTGTTCTGTATTGTTTTCTCAATGGAGAGGT  3657761
+
+
+
+
+Range 4: 3685912 to 3685999
+
+Score:51.8 bits(56), Expect:4e-04, 
+Identities:64/88(73%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                ||||  || | ||| ||  | || || |||||||||||||||||||  || |||||  ||
+Sbjct  3685999  AGAAAGCTGCACTGCACTCGAAATTATATCCACATGCATCTCTTCATGTCCTTCATAATG  3685940
+
+Query  724      CGAGCCTCATCCAACTTCATCAAGGATG  751
+                 |||||    |   ||||||||| ||||
+Sbjct  3685939  AGAGCCATTGCAGTCTTCATCAAAGATG  3685912
+
+
+
+
+Range 5: 10709756 to 10709833
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTTATCCCTCTCTTTGGGATCCACTACATCAT  1232
+                 || |||||||||||| || ||| | || ||||| ||  | |||||  | ||||| |   |
+Sbjct  10709833  CAGGAGACTTGCAAAATCCACATTGCTGCTTATTCCATTATTTGGAGTTCACTATACAGT  10709774
+
+Query  1233      CTTTGCTTTTTTCCCTGA  1250
+                  |||||| | || |||||
+Sbjct  10709773  GTTTGCTCTATTTCCTGA  10709756
+
+
+
+
+>Pithys albifrons albifrons isolate INPA30051 chromosome 25, PitAlb_v1
+Sequence ID: NC_092482.1 Length: 7889843
+Range 1: 3473557 to 3473631
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:58/76(76%),  Gaps:2/76(2%), Strand: Plus/Plus
+
+Query  675      CTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTGCGAG-CCTCAT  733
+                ||| ||  |||||||||||||| | || |||||||| || ||||| |  || | ||||| 
+Sbjct  3473557  CTGCACTCGGAACTACATCCACGTCCACCTCTTCACCTCCTTCATCTGCCGTGCCCTCA-  3473615
+
+Query  734      CCAACTTCATCAAGGA  749
+                 || |||| | |||||
+Sbjct  3473616  GCATCTTCGTGAAGGA  3473631
+
+
+
+
+>Pithys albifrons albifrons isolate INPA30051 chromosome 19, PitAlb_v1
+Sequence ID: NC_092476.1 Length: 14273583
+Range 1: 4140409 to 4140446
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  682      AGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  719
+                |||||||||||||||||| | |||||| | || |||||
+Sbjct  4140409  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  4140446
+
+
+
+
+
+
+
+		
+
+

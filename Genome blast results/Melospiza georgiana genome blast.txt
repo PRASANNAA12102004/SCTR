@@ -1,0 +1,625 @@
+RID: NDFXSAXF014	
+Job Title:XM_058028072.1 PREDICTED: Melospiza georgiana...				
+Program: BLASTN 
+Database: Genome (bMelGeo1.pri) Melospiza georgiana bMelGeo1.pri [GCF_028018845.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_028018845.1-RS_2023_07)
+Query #1: XM_058028072.1 PREDICTED: Melospiza georgiana secretin receptor (SCTR), mRNA Query ID: lcl|Query_6837383 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Melospiza georgiana isolate bMelGeo1 chromosome 7, bMelGeo1.pri   Melospiza ge... NA              44398      387    2812  100%  5e-105 98.67  41113200   NC_080436.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 1, bMelGeo1.pri   Melospiza ge... NA              44398      127    663   22%   7e-27  78.06  155044423  NC_080430.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 21, bMelGeo1.pri  Melospiza ge... NA              44398      88.7   195   12%   6e-15  76.03  12685073   NC_080450.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 28, bMelGeo1.pri  Melospiza ge... NA              44398      71.6   197   14%   5e-10  76.60  6818969    NC_080457.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 3, bMelGeo1.pri   Melospiza ge... NA              44398      65.3   119   8%    7e-08  80.88  116058627  NC_080432.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 22, bMelGeo1.pri  Melospiza ge... NA              44398      50.0   50.0  3%    0.002  84.31  11415287   NC_080451.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 29, bMelGeo1.pri  Melospiza ge... NA              44398      48.2   48.2  3%    0.005  86.36  6746589    NC_080458.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 8, bMelGeo1.pri   Melospiza ge... NA              44398      47.3   47.3  3%    0.019  82.61  37718192   NC_080437.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 16, bMelGeo1.pri  Melospiza ge... NA              44398      47.3   47.3  4%    0.019  77.59  17259260   NC_080445.1      
+Melospiza georgiana isolate bMelGeo1 chromosome 17, bMelGeo1.pri  Melospiza ge... NA              44398      46.4   46.4  3%    0.019  85.71  15772524   NC_080446.1      
+
+
+Alignments:
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 7, bMelGeo1.pri
+Sequence ID: NC_080436.1 Length: 41113200
+Range 1: 31908080 to 31908304
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31908080  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  31908139
+
+Query  61        AGGG-AAAAGGCAAGGAGGGAAAAGGACGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  119
+                 |||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31908140  AGGGGAAAAGGCAAGGAGGGAAAAGGACGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  31908199
+
+Query  120       GCATA--AACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31908200  GCATACAAACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  31908259
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAGCTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31908260  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAGCTGTCCCG  31908304
+
+
+
+
+Range 2: 31927616 to 31927794
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31927616  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  31927675
+
+Query  1412      AGCACCTCAGCACCTCGGCGAGTAATGGCGGCAGCGGCTTGACGCAGGAGATGCAGATGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31927676  AGCACCTCAGCACCTCGGCGAGTAATGGCGGCAGCGGCTTGACGCAGGAGATGCAGATGG  31927735
+
+Query  1472      TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31927736  TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  31927794
+
+
+
+
+Range 3: 31922513 to 31922669
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31922513  GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  31922572
+
+Query  855       GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31922573  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  31922632
+
+Query  915       GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  31922633  GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  31922669
+
+
+
+
+Range 4: 31926250 to 31926392
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31926250  CAGGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCAT  31926309
+
+Query  1230      CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGA  1289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31926310  CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGA  31926369
+
+Query  1290      ATTGGCTCTTGGATCATTCCAGG  1312
+                 |||||||||||||||||||||||
+Sbjct  31926370  ATTGGCTCTTGGATCATTCCAGG  31926392
+
+
+
+
+Range 5: 31921554 to 31921690
+
+Score:248 bits(274), Expect:3e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  660       CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  719
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31921554  CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  31921613
+
+Query  720       GAGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTA  779
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31921614  GAGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTA  31921673
+
+Query  780       CTGTGGGGCATACACGG  796
+                 |||||||||||||||||
+Sbjct  31921674  CTGTGGGGCATACACGG  31921690
+
+
+
+
+Range 6: 31911792 to 31911920
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31911792  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  31911851
+
+Query  282       GTGTGTGGAGACTCTTTCCTTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31911852  GTGTGTGGAGACTCTTTCCTTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  31911911
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  31911912  GAGCTCAGG  31911920
+
+
+
+
+Range 7: 31916094 to 31916209
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31916094  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  31916153
+
+Query  407       AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31916154  AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  31916209
+
+
+
+
+Range 8: 31920082 to 31920187
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31920082  AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  31920141
+
+Query  519       CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31920142  CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  31920187
+
+
+
+
+Range 9: 31920482 to 31920579
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31920482  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  31920541
+
+Query  625       ACATTGATGATAGCCTTGGCAGTCCTGGCCTCCTTCAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  31920542  ACATTGATGATAGCCTTGGCAGTCCTGGCCTCCTTCAG  31920579
+
+
+
+
+Range 10: 31926068 to 31926160
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31926068  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  31926127
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  31926128  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  31926160
+
+
+
+
+Range 11: 31923340 to 31923410
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31923340  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  31923399
+
+Query  1070      TGTCTATATTT  1080
+                 |||||||||||
+Sbjct  31923400  TGTCTATATTT  31923410
+
+
+
+
+Range 12: 31922755 to 31922818
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCACGAAAATATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31922755  GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCACGAAAATATT  31922814
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  31922815  GGGT  31922818
+
+
+
+
+Range 13: 31926567 to 31926612
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1310      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  31926567  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  31926612
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 1, bMelGeo1.pri
+Sequence ID: NC_080430.1 Length: 155044423
+Range 1: 3201081 to 3201235
+
+Score:127 bits(140), Expect:7e-27, 
+Identities:121/155(78%),  Gaps:0/155(0%), Strand: Plus/Minus
+
+Query  799      GGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                |||||||||  ||  ||||| ||||||||||| ||  ||||| | |||| |  |||||| 
+Sbjct  3201235  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3201176
+
+Query  859      CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGAAG  918
+                |||||||| ||  ||||||| ||||| || || || ||||||||||||||||| ||||| 
+Sbjct  3201175  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTCGTCATCTCCTTCTTCTCGGAGAGGAAA  3201116
+
+Query  919      TTCCTCTTGTGGTTCATCGCCCTTGGATGGGGTGC  953
+                | | ||| ||||| ||||    | || ||||||||
+Sbjct  3201115  TACTTCTGGTGGTACATCCTGATCGGCTGGGGTGC  3201081
+
+
+
+
+Range 2: 3185403 to 3185481
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  3185481  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3185422
+
+Query  1229     TCTTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  3185421  TGTTTGCTTTCTTCCCTGA  3185403
+
+
+
+
+Range 3: 3543820 to 3543898
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                || ||||||||||||||| ||  | ||  | ||||| |||||||| || ||||| ||  |
+Sbjct  3543820  CAGGAGACTTGCAAAGTCCACGTTGCTGTTGATCCCCCTCTTTGGGGTGCACTACATTGT  3543879
+
+Query  1230     CTTTGCTTTTTTCCCTGAG  1248
+                 ||||| ||||||||||||
+Sbjct  3543880  GTTTGCATTTTTCCCTGAG  3543898
+
+
+
+
+Range 4: 1423603 to 1423707
+
+Score:68.0 bits(74), Expect:6e-09, 
+Identities:80/106(75%),  Gaps:2/106(1%), Strand: Plus/Minus
+
+Query  653      CCTCCTTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                |||| | |||| |  | | |||||| |||||||||||||||||||| || ||    || |
+Sbjct  1423707  CCTCTTCCAGACGTTTGCACTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCT  1423648
+
+Query  713      TCATTCTGAGAGCC-TCATCCAACTTCATCAAGGATGCAGTCTTGT  757
+                |||| ||||| ||| |||  || |||| | ||||| || ||| |||
+Sbjct  1423647  TCATGCTGAGGGCCGTCA-GCATCTTCGTGAAGGACGCGGTCCTGT  1423603
+
+
+
+
+Range 5: 3216077 to 3216176
+
+Score:62.6 bits(68), Expect:2e-07, 
+Identities:76/102(75%),  Gaps:4/102(3%), Strand: Plus/Minus
+
+Query  660      CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  719
+                |||||  || | ||| ||  | || ||||| |||||||| |||||||  || |||||  |
+Sbjct  3216176  CAGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCAT  3216117
+
+Query  720      GAGAGCCTCATCCAA--CTTCATCAAGGATGCAGTCTTGTTT  759
+                |||||||  |||  |  ||||||||||||||   || |||||
+Sbjct  3216116  GAGAGCC--ATCGCAGTCTTCATCAAGGATGTCATCCTGTTT  3216077
+
+
+
+
+Range 6: 3538769 to 3538856
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:65/88(74%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCCTCATC  731
+                ||||||| |||| |||||||||||||| || ||   ||| || ||  |||||||     |
+Sbjct  3538769  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTGAGAGCAGTTGC  3538828
+
+Query  732      CAACTTCATCAAGGATGCAGTCTTGTTT  759
+                    |||| ||||||||| || ||||||
+Sbjct  3538829  TGTTTTCACCAAGGATGCTGTTTTGTTT  3538856
+
+
+
+
+Range 7: 10434434 to 10434511
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:59/78(76%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                 || ||||||||||||||| ||  | || || || ||| | |||||||| ||||| |   |
+Sbjct  10434511  CAGGAGACTTGCAAAGTCCACCTTGCTGCTGATTCCTTTATTTGGAGTTCACTACACAGT  10434452
+
+Query  1230      CTTTGCTTTTTTCCCTGA  1247
+                  |||||| | || |||||
+Sbjct  10434451  GTTTGCTCTGTTTCCTGA  10434434
+
+
+
+
+Range 8: 3600812 to 3600904
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:68/94(72%),  Gaps:1/94(1%), Strand: Plus/Minus
+
+Query  653      CCTCCTTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                |||||| ||| | ||||| ||||||  |||| | |||||||||| | || ||    ||||
+Sbjct  3600904  CCTCCT-CAGGAAGCTTCACTGCACTCGGAATTTCATCCACATGAACCTTTTTGTTTCGT  3600846
+
+Query  713      TCATTCTGAGAGCCTCATCCAACTTCATCAAGGA  746
+                |||| ||  | ||   |||    |||||||||||
+Sbjct  3600845  TCATCCTCCGTGCAATATCTGTGTTCATCAAGGA  3600812
+
+
+
+
+Range 9: 1420154 to 1420244
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:65/91(71%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                || |||  |||| ||||||||||||| || || |||||||  ||| |  | ||  | || 
+Sbjct  1420244  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTT  1420185
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTTGTGGTTCA  934
+                ||||| || | ||| |  |||| | | ||||
+Sbjct  1420184  TTCTCAGAGAAGAAATATCTCTGGGGATTCA  1420154
+
+
+
+
+Range 10: 10446547 to 10446614
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:51/68(75%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  658       TTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATT  717
+                 || ||||  ||||  || ||  |||||||||||||  || | || |||  ||| ||||||
+Sbjct  10446614  TTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCTTTCATT  10446555
+
+Query  718       CTGAGAGC  725
+                 || |||||
+Sbjct  10446554  CTAAGAGC  10446547
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 21, bMelGeo1.pri
+Sequence ID: NC_080450.1 Length: 12685073
+Range 1: 398353 to 398473
+
+Score:88.7 bits(97), Expect:6e-15, 
+Identities:92/121(76%),  Gaps:0/121(0%), Strand: Plus/Minus
+
+Query  796     GCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGG  855
+               || ||||||| |    ||| ||||||| | |||||  ||||| || | |||||| |||||
+Sbjct  398473  GCAGGCTGCAGGGCAGCCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGG  398414
+
+Query  856     CTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGG  915
+               || |||||||||||  | ||||| ||||  || |||||| |  || ||||||| || |||
+Sbjct  398413  CTGCTGGTGGAAGGCATCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGG  398354
+
+Query  916     A  916
+               |
+Sbjct  398353  A  398353
+
+
+
+
+Range 2: 398722 to 398783
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:50/62(81%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  660     CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  719
+               ||| | ||| | |||||  |||||||||||||||||| | || ||| |||| ||||| ||
+Sbjct  398783  CAGCAAGCTGCACTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCATCCT  398724
+
+Query  720     GA  721
+               ||
+Sbjct  398723  GA  398722
+
+
+
+
+Range 3: 6824451 to 6824496
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  654      CTCCTTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCAT  699
+                ||||  |||||  |||| ||||||||| ||||||||||| ||| ||
+Sbjct  6824496  CTCCCCCAGAAAACTTCACTGCACAAGAAACTACATCCATATGAAT  6824451
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 28, bMelGeo1.pri
+Sequence ID: NC_080457.1 Length: 6818969
+Range 1: 5227750 to 5227843
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:72/94(77%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  653      CCTCCTTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                |||||| ||| | ||| | |||||| ||||| | ||||||||| ||  |||||||||| |
+Sbjct  5227843  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  5227784
+
+Query  713      TCATTCTGAGAGCCTCATCCAACTTCATCAAGGA  746
+                |||| ||| | | | |  ||   |||||||||||
+Sbjct  5227783  TCATCCTGCGGGGCACGGCCGTGTTCATCAAGGA  5227750
+
+
+
+
+Range 2: 1396492 to 1396536
+
+Score:64.4 bits(70), Expect:7e-08, 
+Identities:41/45(91%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCAT  716
+                ||||||| |||| |||||||||||||| ||||||||||| |||||
+Sbjct  1396492  CTGCACACGGAATTACATCCACATGCACCTCTTCACCTCCTTCAT  1396536
+
+
+
+
+Range 3: 5227012 to 5227127
+
+Score:61.7 bits(67), Expect:9e-07, 
+Identities:83/116(72%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  801      CTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTCCT  860
+                |||||||    ||||   |||||||||||| |   |  || | |||| |  |||||| ||
+Sbjct  5227127  CTGCAAGGCAGCCATCACCTTCTTCCAGTACTCAGTGCTGGCCAACTTCTACTGGCTGCT  5227068
+
+Query  861      GGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGA  916
+                |||||| || |||||||| || || || ||| || || |||||  ||  || ||||
+Sbjct  5227067  GGTGGAGGGGCTGTACCTGCAGACGCTGCTGCTGCTCACCTTCACCTGCGACAGGA  5227012
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 3, bMelGeo1.pri
+Sequence ID: NC_080432.1 Length: 116058627
+Range 1: 43195700 to 43195767
+
+Score:65.3 bits(71), Expect:7e-08, 
+Identities:55/68(81%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                 ||||||  |||||| |||||||||||  |||||||  |||| || |||||| ||||  ||
+Sbjct  43195767  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACACTGCTGGTGCTCTCTGTC  43195708
+
+Query  904       TTCTCGGA  911
+                 ||||| ||
+Sbjct  43195707  TTCTCTGA  43195700
+
+
+
+
+Range 2: 43197351 to 43197397
+
+Score:54.5 bits(59), Expect:1e-04, 
+Identities:40/47(85%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  673       TGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  719
+                 ||||||||||| ||||| ||| || | ||||||||||| ||||| ||
+Sbjct  43197397  TGCACAAGGAATTACATTCACCTGAACCTCTTCACCTCTTTCATCCT  43197351
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 22, bMelGeo1.pri
+Sequence ID: NC_080451.1 Length: 11415287
+Range 1: 11238862 to 11238911
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:43/51(84%),  Gaps:2/51(3%), Strand: Plus/Plus
+
+Query  41        AAGGATGGTCAAAGCTGGGAA-GGGAAAAGGCAAGGAGGGAAAAGGACGAA  90
+                 |||| |||  |||| |||||| ||| ||||| ||||||||||||||| |||
+Sbjct  11238862  AAGG-TGGGGAAAGGTGGGAATGGGGAAAGGAAAGGAGGGAAAAGGAGGAA  11238911
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 29, bMelGeo1.pri
+Sequence ID: NC_080458.1 Length: 6746589
+Range 1: 3840769 to 3840810
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:38/44(86%),  Gaps:4/44(9%), Strand: Plus/Plus
+
+Query  57       GGGAAGGGAAAAGGCAAGG--AGGGAAAAGGACGAAGTGAAAAG  98
+                |||||||||||||| ||||  |||||||||||  ||| ||||||
+Sbjct  3840769  GGGAAGGGAAAAGGAAAGGGAAGGGAAAAGGA--AAGGGAAAAG  3840810
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 8, bMelGeo1.pri
+Sequence ID: NC_080437.1 Length: 37718192
+Range 1: 36473081 to 36473126
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:38/46(83%),  Gaps:4/46(8%), Strand: Plus/Plus
+
+Query  57        GGGAAGGGAAAAGGCAAGG----AGGGAAAAGGACGAAGTGAAAAG  98
+                 |||||||||||||| ||||    |||||||||||  ||| ||||||
+Sbjct  36473081  GGGAAGGGAAAAGGGAAGGGAAAAGGGAAAAGGAAAAAGGGAAAAG  36473126
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 16, bMelGeo1.pri
+Sequence ID: NC_080445.1 Length: 17259260
+Range 1: 14448616 to 14448673
+
+Score:47.3 bits(51), Expect:0.019, 
+Identities:45/58(78%),  Gaps:0/58(0%), Strand: Plus/Plus
+
+Query  826       CAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACA  883
+                 ||||| |||||| || | ||| ||  |||| ||||||||||||   | |||||| |||
+Sbjct  14448616  CAGTACTGCATCCTGGCCAACCACTACTGGTTCCTGGTGGAAGCTGTCTACCTCTACA  14448673
+
+
+
+
+>Melospiza georgiana isolate bMelGeo1 chromosome 17, bMelGeo1.pri
+Sequence ID: NC_080446.1 Length: 15772524
+Range 1: 2223135 to 2223175
+
+Score:46.4 bits(50), Expect:0.019, 
+Identities:36/42(86%),  Gaps:1/42(2%), Strand: Plus/Plus
+
+Query  57       GGGAAGGGAAAAGGCAAGGAGGGAAAAGGACGAAGTGAAAAG  98
+                || ||||||||||| ||  ||||||||||| |||| ||||||
+Sbjct  2223135  GGAAAGGGAAAAGGGAAA-AGGGAAAAGGAAGAAGGGAAAAG  2223175
+
+
+
+
+
+
+
+		
+
+

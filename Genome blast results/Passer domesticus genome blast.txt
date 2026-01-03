@@ -1,0 +1,398 @@
+RID: NDH93C3C014	
+Job Title:XM_064435125.1:16-1545 PREDICTED: Passer domesticus...				
+Program: BLASTN 
+Database: Genome (bPasDom1.hap1) Passer domesticus bPasDom1.hap1 [GCF_036417665.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_036417665.1-RS_2024_04)
+Query #1: XM_064435125.1:16-1545 PREDICTED: Passer domesticus secretin receptor (SCTR), mRNA Query ID: lcl|Query_7277505 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Passer domesticus isolate bPasDom1 chromosome 10, bPasDom1.hap1   Passer domes... house sparrow   48849      396    2973  100%  7e-108 98.67  43451716   NC_087483.1      
+Passer domesticus isolate bPasDom1 chromosome 1, bPasDom1.hap1    Passer domes... house sparrow   48849      98.7   277   17%   4e-18  78.99  161085800  NC_087474.1      
+Passer domesticus isolate bPasDom1 chromosome 20, bPasDom1.hap1   Passer domes... house sparrow   48849      58.4   105   10%   5e-06  76.19  12527910   NC_087493.1      
+Passer domesticus isolate bPasDom1 chromosome 27, bPasDom1.hap1   Passer domes... house sparrow   48849      52.6   99.4  5%    3e-04  86.67  6056966    NC_087500.1      
+Passer domesticus isolate bPasDom1 chromosome 3, bPasDom1.hap1    Passer domes... house sparrow   48849      50.7   50.7  4%    0.001  80.00  123609293  NC_087476.1      
+
+
+Alignments:
+
+>Passer domesticus isolate bPasDom1 chromosome 10, bPasDom1.hap1
+Sequence ID: NC_087483.1 Length: 43451716
+Range 1: 34520397 to 34520621
+
+Score:396 bits(206), Expect:7e-108, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34520397  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  34520456
+
+Query  61        AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAATGAAAAGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34520457  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAATGAAAAGAGCTAGGAGCCACGCTGGAGA  34520516
+
+Query  120       G--TACAAACAGCCTGCTGAACTGTGATGCATGAGGGATGAAGAAAACAGACTGTGATTG  177
+                 |  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34520517  GCGTACAAACAGCCTGCTGAACTGTGATGCATGAGGGATGAAGAAAACAGACTGTGATTG  34520576
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34520577  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  34520621
+
+
+
+
+Range 2: 34540043 to 34540221
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGGAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34540043  AGGTTCAGCTGGAAGTTCAGAGGAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  34540102
+
+Query  1412      AGCATCTCAGCACCTCAGCCAGCAACGGGGGAAGCGGCTTGACTCAAGAGATGCAGATGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34540103  AGCATCTCAGCACCTCAGCCAGCAACGGGGGAAGCGGCTTGACTCAAGAGATGCAGATGG  34540162
+
+Query  1472      TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTCTAG  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34540163  TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTCTAG  34540221
+
+
+
+
+Range 3: 34534767 to 34534923
+
+Score:302 bits(157), Expect:2e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34534767  GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  34534826
+
+Query  855       GCTCCTCGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34534827  GCTCCTCGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  34534886
+
+Query  915       GAAGTTCCTCTGGTGGTTCATCGCCCTTGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  34534887  GAAGTTCCTCTGGTGGTTCATCGCCCTTGGATGGGGT  34534923
+
+
+
+
+Range 4: 34538701 to 34538840
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  1173      GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCATCTT  1232
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34538701  GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCATCTT  34538760
+
+Query  1233      TGCTTTTTTCCCTGAGGATGCAAGCAGTGGTACAATGGAAATTCAGCTGTTTTTTGAGTT  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34538761  TGCTTTTTTCCCTGAGGATGCAAGCAGTGGTACAATGGAAATTCAGCTGTTTTTTGAGTT  34538820
+
+Query  1293      GGCTCTTGGATCATTCCAGG  1312
+                 ||||||||||||||||||||
+Sbjct  34538821  GGCTCTTGGATCATTCCAGG  34538840
+
+
+
+
+Range 5: 34533819 to 34533954
+
+Score:262 bits(136), Expect:2e-67, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  661       AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  720
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34533819  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  34533878
+
+Query  721       CGAGCCTCATCCAACTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAGGACACAAATTAC  780
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34533879  CGAGCCTCATCCAACTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAGGACACAAATTAC  34533938
+
+Query  781       TGTGGGGCATACACGG  796
+                 ||||||||||||||||
+Sbjct  34533939  TGTGGGGCATACACGG  34533954
+
+
+
+
+Range 6: 34524070 to 34524198
+
+Score:248 bits(129), Expect:3e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCCATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34524070  GATCAAAGCCATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  34524129
+
+Query  282       GTGTATGGAGACTCTGTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34524130  GTGTATGGAGACTCTGTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  34524189
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  34524190  GAGCTCAGG  34524198
+
+
+
+
+Range 7: 34528396 to 34528511
+
+Score:223 bits(116), Expect:9e-56, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34528396  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  34528455
+
+Query  407       AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34528456  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  34528511
+
+
+
+
+Range 8: 34532349 to 34532454
+
+Score:204 bits(106), Expect:5e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCCTACCCGAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34532349  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCCTACCCGAGACCTGA  34532408
+
+Query  519       CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGG  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34532409  CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGG  34532454
+
+
+
+
+Range 9: 34532738 to 34532836
+
+Score:191 bits(99), Expect:6e-46, 
+Identities:99/99(100%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  564       GCGCTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGGTACTGCACCTCCCTTGT  623
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34532738  GCGCTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGGTACTGCACCTCCCTTGT  34532797
+
+Query  624       GACATTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  662
+                 |||||||||||||||||||||||||||||||||||||||
+Sbjct  34532798  GACATTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  34532836
+
+
+
+
+Range 10: 34538516 to 34538608
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34538516  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  34538575
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  34538576  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  34538608
+
+
+
+
+Range 11: 34535605 to 34535675
+
+Score:137 bits(71), Expect:1e-29, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34535605  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  34535664
+
+Query  1070      TGTCTATATTT  1080
+                 |||||||||||
+Sbjct  34535665  TGTCTATATTT  34535675
+
+
+
+
+Range 12: 34535009 to 34535072
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAATGGTGTTTGTGGCAGCATGGGCGACGGCTCGGCAACTCCATGAAAATATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34535009  GGTGCCCCAATGGTGTTTGTGGCAGCATGGGCGACGGCTCGGCAACTCCATGAAAATATT  34535068
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  34535069  GGGT  34535072
+
+
+
+
+Range 13: 34539016 to 34539061
+
+Score:89.1 bits(46), Expect:3e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1310      AGGGCTTTGTGGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34539016  AGGGCTTTGTGGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  34539061
+
+
+
+
+>Passer domesticus isolate bPasDom1 chromosome 1, bPasDom1.hap1
+Sequence ID: NC_087474.1 Length: 161085800
+Range 1: 2231907 to 2232044
+
+Score:98.7 bits(51), Expect:4e-18, 
+Identities:109/138(79%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  799      GGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                |||||||||  ||  ||||| ||||| ||||| ||  ||||| | |||| |  |||||| 
+Sbjct  2232044  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTA  2231985
+
+Query  859      CTCGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGAAG  918
+                || ||||| ||  ||||||| ||||| || ||||| || |||||||||||||| ||||| 
+Sbjct  2231984  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  2231925
+
+Query  919      TTCCTCTGGTGGTTCATC  936
+                | | ||||||||| ||||
+Sbjct  2231924  TACTTCTGGTGGTACATC  2231907
+
+
+
+
+Range 2: 2217993 to 2218071
+
+Score:66.1 bits(34), Expect:3e-08, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  2218071  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  2218012
+
+Query  1229     TCTTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  2218011  TGTTTGCTTTCTTCCCTGA  2217993
+
+
+
+
+Range 3: 2542087 to 2542162
+
+Score:66.1 bits(34), Expect:3e-08, 
+Identities:62/76(82%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1173     GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCATCTT  1232
+                ||||||||||||||| ||| | ||  | ||||| ||||||||||| ||||| ||  | ||
+Sbjct  2542087  GAGACTTGCAAAGTCCACATTACTTTTGATCCCCCTCTTTGGGGTGCACTACATTGTGTT  2542146
+
+Query  1233     TGCTTTTTTCCCTGAG  1248
+                ||| |||||||| |||
+Sbjct  2542147  TGCATTTTTCCCAGAG  2542162
+
+
+
+
+Range 4: 2217288 to 2217335
+
+Score:46.8 bits(24), Expect:0.016, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1308     CCAGGGCTTTGTGGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                |||||| |||||||||||||| || || || || || ||||| |||||
+Sbjct  2217335  CCAGGGGTTTGTGGTGGCTGTTCTGTACTGCTTCCTCAATGGAGAGGT  2217288
+
+
+
+
+>Passer domesticus isolate bPasDom1 chromosome 20, bPasDom1.hap1
+Sequence ID: NC_087493.1 Length: 12527910
+Range 1: 1410355 to 1410459
+
+Score:58.4 bits(30), Expect:5e-06, 
+Identities:80/105(76%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  812      CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAAGGAC  871
+                ||| ||||||| | |||||  ||||| || | |||||| ||||||| || ||||||||  
+Sbjct  1410459  CCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAAGGCA  1410400
+
+Query  872      TGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGA  916
+                | ||||| || |  || |||||| |  || ||||||| || ||||
+Sbjct  1410399  TCTACCTGCATAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGGA  1410355
+
+
+
+
+Range 2: 1410721 to 1410765
+
+Score:46.8 bits(24), Expect:0.016, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  716
+                |||||  |||||||||||||||||| | |||||| | || |||||
+Sbjct  1410765  CTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  1410721
+
+
+
+
+>Passer domesticus isolate bPasDom1 chromosome 27, bPasDom1.hap1
+Sequence ID: NC_087500.1 Length: 6056966
+Range 1: 5344598 to 5344642
+
+Score:52.6 bits(27), Expect:3e-04, 
+Identities:39/45(87%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  716
+                ||||||| |||| ||||||||| |||| |||||||| || |||||
+Sbjct  5344598  CTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCAT  5344642
+
+
+
+
+Range 2: 3355521 to 3355547
+
+Score:46.8 bits(24), Expect:0.016, 
+Identities:26/27(96%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  1346     ATGGTGAGGTTCAGCTGGAAGTTCAGA  1372
+                ||| |||||||||||||||||||||||
+Sbjct  3355547  ATGCTGAGGTTCAGCTGGAAGTTCAGA  3355521
+
+
+
+
+>Passer domesticus isolate bPasDom1 chromosome 3, bPasDom1.hap1
+Sequence ID: NC_087476.1 Length: 123609293
+Range 1: 97884691 to 97884755
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:52/65(80%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  844       AACTACAGCTGGCTCCTCGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTC  903
+                 ||||||  |||||| || ||||||||  |||||||  |||| || |||||  ||||| ||
+Sbjct  97884755  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACACTGCTGGTACTTTCCGTC  97884696
+
+Query  904       TTCTC  908
+                 |||||
+Sbjct  97884695  TTCTC  97884691
+
+
+
+
+
+
+
+		
+
+

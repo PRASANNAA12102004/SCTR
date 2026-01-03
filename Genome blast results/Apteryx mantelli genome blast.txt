@@ -1,0 +1,347 @@
+RID: NES7KMNU016	
+Job Title:XM_067298584.1 PREDICTED: Apteryx mantelli...				
+Program: BLASTN 
+Database: Genome (bAptMan1.hap1) Apteryx mantelli bAptMan1.hap1 [GCF_036417845.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_036417845.1-RS_2024_08)
+Query #1: XM_067298584.1 PREDICTED: Apteryx mantelli secretin receptor (SCTR), mRNA Query ID: lcl|Query_1699519 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Apteryx mantelli isolate bAptMan1 chromosome 6, bAptMan1.hap1     Apteryx mant... North Island... 2696672    398    2829  100%  3e-108 99.12  51104803   NC_089983.1      
+Apteryx mantelli isolate bAptMan1 chromosome 2, bAptMan1.hap1     Apteryx mant... North Island... 2696672    109    238   21%   2e-21  77.14  173427134  NC_089979.1      
+Apteryx mantelli isolate bAptMan1 chromosome 28, bAptMan1.hap1    Apteryx mant... North Island... 2696672    62.6   62.6  5%    3e-07  77.22  7760717    NC_090005.1      
+Apteryx mantelli isolate bAptMan1 chromosome 19, bAptMan1.hap1    Apteryx mant... North Island... 2696672    59.0   59.0  4%    4e-06  79.10  17975779   NC_089996.1      
+
+
+Alignments:
+
+>Apteryx mantelli isolate bAptMan1 chromosome 6, bAptMan1.hap1
+Sequence ID: NC_089983.1 Length: 51104803
+Range 1: 40294285 to 40294511
+
+Score:398 bits(441), Expect:3e-108, 
+Identities:225/227(99%),  Gaps:2/227(0%), Strand: Plus/Plus
+
+Query  1         ATGCTCCTTAGGGCTCTGCAGCTGCAGAGAAACCTTGGCTCAGGATGGTCAAAGCTTGCA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40294285  ATGCTCCTTAGGGCTCTGCAGCTGCAGAGAAACCTTGGCTCAGGATGGTCAAAGCTTGCA  40294344
+
+Query  61        AGGAAAAAACGCTAGGAGGGAAAGGGATGGAGTGAGCGAACGGAGAGGTCCTCTGGAGA-  119
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  40294345  AGGAAAAAACGCTAGGAGGGAAAGGGATGGAGTGAGCGAACGGAGAGGTCCTCTGGAGAG  40294404
+
+Query  120       -GTACACACAGCCCGGGGACCTCTGGGGCGCGAGGCATGAAGGAGACGGACTGTGGCTGA  178
+                  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40294405  CGTACACACAGCCCGGGGACCTCTGGGGCGCGAGGCATGAAGGAGACGGACTGTGGCTGA  40294464
+
+Query  179       CTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCCTCCTG  225
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40294465  CTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCCTCCTG  40294511
+
+
+
+
+Range 2: 40314767 to 40314945
+
+Score:324 bits(358), Expect:6e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTGCAGCGAAAATGGAGGCAGTGGCATCTGAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40314767  AGGTTCAGCTGGAAGTGCAGCGAAAATGGAGGCAGTGGCATCTGAGCAAACACTTGCGTC  40314826
+
+Query  1415      AGCATCTGAGCACCTCGGCTAGCAACGGAGGAAGCGGCTTAACTCAAGTGATGCACACGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40314827  AGCATCTGAGCACCTCGGCTAGCAACGGAGGAAGCGGCTTAACTCAAGTGATGCACACGG  40314886
+
+Query  1475      TGAAGTCCAGCCCGCCAGAGCACAGGAGACCAACCATCCAAAAATCAAGCGTGCTTTAG  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40314887  TGAAGTCCAGCCCGCCAGAGCACAGGAGACCAACCATCCAAAAATCAAGCGTGCTTTAG  40314945
+
+
+
+
+Range 3: 40309737 to 40309895
+
+Score:288 bits(318), Expect:4e-75, 
+Identities:159/159(100%),  Gaps:0/159(0%), Strand: Plus/Plus
+
+Query  798       GGCCGGATGTAAACTCACGATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40309737  GGCCGGATGTAAACTCACGATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  40309796
+
+Query  858       GCTTCTTGTAGAGGGGCTGTACCTCCACACTCTCCTGGTCATTTCTTTCTTCTCAGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40309797  GCTTCTTGTAGAGGGGCTGTACCTCCACACTCTCCTGGTCATTTCTTTCTTCTCAGAAAG  40309856
+
+Query  918       GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGTAC  956
+                 |||||||||||||||||||||||||||||||||||||||
+Sbjct  40309857  GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGTAC  40309895
+
+
+
+
+Range 4: 40313373 to 40313515
+
+Score:254 bits(281), Expect:9e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40313373  CAGGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  40313432
+
+Query  1233      CTTTGCtttttttCCCGAAGATGCAAGTAGTGGCACAGTGGAAATTCAGCtttttttGGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40313433  CTTTGCTTTTTTTCCCGAAGATGCAAGTAGTGGCACAGTGGAAATTCAGCTTTTTTTGGA  40313492
+
+Query  1293      GTTAGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  40313493  GTTAGCTCTTGGATCATTCCAGG  40313515
+
+
+
+
+Range 5: 40307587 to 40307723
+
+Score:248 bits(274), Expect:4e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  663       CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTGTTCACGTCGTTCATCTT  722
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40307587  CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTGTTCACGTCGTTCATCTT  40307646
+
+Query  723       GCGAGCCTCATCAAACTTCATCAAGGATGCCGTTCTGTTTTCCTCCGATGACACAAATTA  782
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40307647  GCGAGCCTCATCAAACTTCATCAAGGATGCCGTTCTGTTTTCCTCCGATGACACAAATTA  40307706
+
+Query  783       CTGCGGGGTGTACACGG  799
+                 |||||||||||||||||
+Sbjct  40307707  CTGCGGGGTGTACACGG  40307723
+
+
+
+
+Range 6: 40298391 to 40298519
+
+Score:233 bits(258), Expect:9e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGCGACCTTCTGAGCGTCCTGAAGAAGGAAGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40298391  GATCAGAGCTGTCCCACCTGTCTGCGACCTTCTGAGCGTCCTGAAGAAGGAAGAAGAAAA  40298450
+
+Query  285       CTGTGCAGAGACTCTTTCCCTGGAGGCAAAGAACAGGACACCTGAAAATGATCTGCTCAG  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40298451  CTGTGCAGAGACTCTTTCCCTGGAGGCAAAGAACAGGACACCTGAAAATGATCTGCTCAG  40298510
+
+Query  345       GGGTTCAGG  353
+                 |||||||||
+Sbjct  40298511  GGGTTCAGG  40298519
+
+
+
+
+Range 7: 40301961 to 40302075
+
+Score:208 bits(230), Expect:3e-51, 
+Identities:115/115(100%),  Gaps:0/115(0%), Strand: Plus/Plus
+
+Query  351       AGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCGGTGGGACA  410
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40301961  AGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCGGTGGGACA  40302020
+
+Query  411       GACTGTCAATGCTCACTGCCCCAAATTCTTCCAGATGCTGACGGGGAAAAAAGGT  465
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40302021  GACTGTCAATGCTCACTGCCCCAAATTCTTCCAGATGCTGACGGGGAAAAAAGGT  40302075
+
+
+
+
+Range 8: 40306089 to 40306194
+
+Score:192 bits(212), Expect:3e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTATCTATCGAAACTGTACTAGTGAGGGTTGGTCAGCCCCATATCCAAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40306089  AGGTTTTATCTATCGAAACTGTACTAGTGAGGGTTGGTCAGCCCCATATCCAAGACCTGA  40306148
+
+Query  522       TATTGCCTGTGGTTACAACGTAGATGACTCTGCGAACGAGGCAAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40306149  TATTGCCTGTGGTTACAACGTAGATGACTCTGCGAACGAGGCAAGA  40306194
+
+
+
+
+Range 9: 40306507 to 40306604
+
+Score:178 bits(196), Expect:6e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACGGTTGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40306507  CGTTCCTATTTCATGACTCTGAAGACCATGTACACGGTTGGATACTGCACCTCCCTCGTG  40306566
+
+Query  628       ACACTGTCAATAGCCTTAGTGATCCTGGCCTCTTTCAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  40306567  ACACTGTCAATAGCCTTAGTGATCCTGGCCTCTTTCAG  40306604
+
+
+
+
+Range 10: 40313185 to 40313277
+
+Score:168 bits(186), Expect:3e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      ATAAACTTCATTCTTTTCGTCAACATTTTAAGAATTTTGATGAGGAAGCTCAGCTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40313185  ATAAACTTCATTCTTTTCGTCAACATTTTAAGAATTTTGATGAGGAAGCTCAGCTCACCT  40313244
+
+Query  1144      GAAGGGAGGAGTGGTGATACCAACCAGTACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  40313245  GAAGGGAGGAGTGGTGATACCAACCAGTACAAG  40313277
+
+
+
+
+Range 11: 40310616 to 40310690
+
+Score:132 bits(145), Expect:8e-28, 
+Identities:74/75(99%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  1013      GGTGCTGGGACACTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40310616  GGTGCTGGGACACTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  40310675
+
+Query  1073      TGTCTATTTTTATAA  1087
+                 ||||||||||| |||
+Sbjct  40310676  TGTCTATTTTTGTAA  40310690
+
+
+
+
+Range 12: 40309979 to 40310042
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTACCCCAACTGTGTTTGTTGCGGCATGGGCCATAGCTAGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40309979  GGTACCCCAACTGTGTTTGTTGCGGCATGGGCCATAGCTAGGCAACTCCATGAAAATATT  40310038
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  40310039  GGGT  40310042
+
+
+
+
+Range 13: 40313691 to 40313736
+
+Score:84.2 bits(92), Expect:1e-13, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40313691  AGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  40313736
+
+
+
+
+>Apteryx mantelli isolate bAptMan1 chromosome 2, bAptMan1.hap1
+Sequence ID: NC_089979.1 Length: 173427134
+Range 1: 166913991 to 166914130
+
+Score:109 bits(120), Expect:2e-21, 
+Identities:108/140(77%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  816        GATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTTCTTGTAGAGGGGCT  875
+                  |||||| ||||||||||| ||| ||||| | |||| |  |||||| ||||| || ||  |
+Sbjct  166913991  GATGGTTTTCTTTCAGTACTGCGTCATGGCCAACTTCTTCTGGCTGCTTGTGGAAGGCTT  166914050
+
+Query  876        GTACCTCCACACTCTCCTGGTCATTTCTTTCTTCTCAGAAAGGAAGTTCCTCTGGTGGTT  935
+                  ||| || ||||| ||  ||||||| || ||||| ||||| ||||||| | | ||||||| 
+Sbjct  166914051  GTATCTTCACACCCTGTTGGTCATCTCCTTCTTTTCAGAGAGGAAGTACTTTTGGTGGTA  166914110
+
+Query  936        CATCGCCCTCGGATGGGGTA  955
+                  ||||    | || |||||||
+Sbjct  166914111  CATCTTGATTGGCTGGGGTA  166914130
+
+
+
+
+Range 2: 166928761 to 166928895
+
+Score:75.2 bits(82), Expect:5e-11, 
+Identities:103/144(72%),  Gaps:9/144(6%), Strand: Plus/Plus
+
+Query  1172       ACAAGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCA  1231
+                  ||| |||||| || ||||| ||  | || || ||||| ||||||||  ||||||||||||
+Sbjct  166928761  ACAGGAGACTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  166928820
+
+Query  1232       TCTTTGCtttttttCCCGAAGATGCAAGTAGTGGCACAGTGGAAATTCAGCtttttttGG  1291
+                  | |||||||| || || ||     |||    |  || ||  ||| || ||||| | || |
+Sbjct  166928821  TGTTTGCTTTCTTCCCTGA-----CAA----TTTCAAAGCAGAAGTTAAGCTTGTCTTTG  166928871
+
+Query  1292       AGTTAGCTCTTGGATCATTCCAGG  1315
+                  || | |   |||| ||||||||||
+Sbjct  166928872  AGCTCGTGGTTGGGTCATTCCAGG  166928895
+
+
+
+
+Range 3: 166507180 to 166507228
+
+Score:53.6 bits(58), Expect:2e-04, 
+Identities:41/49(84%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1310       TCCAGGGTTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                  ||||||||||||| || ||||| || ||||||||  | ||||| |||||
+Sbjct  166507180  TCCAGGGTTTTGTTGTTGCTGTTCTCTATTGTTTCTTGAATGGGGAGGT  166507228
+
+
+
+
+>Apteryx mantelli isolate bAptMan1 chromosome 28, bAptMan1.hap1
+Sequence ID: NC_090005.1 Length: 7760717
+Range 1: 5471230 to 5471308
+
+Score:62.6 bits(68), Expect:3e-07, 
+Identities:61/79(77%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1173     CAAGAGACTCGCAAAGTCGACTCTCCTCCTCATCCCGCTCTTTGGGGTTCACTACATCAT  1232
+                || ||| ||| ||||||| || || ||||||||||| ||||| ||||| |||||| |  |
+Sbjct  5471230  CAGGAGGCTCACAAAGTCCACACTGCTCCTCATCCCTCTCTTCGGGGTGCACTACGTGGT  5471289
+
+Query  1233     CTTTGCtttttttCCCGAA  1251
+                 || ||  | || ||||||
+Sbjct  5471290  GTTCGCGCTCTTCCCCGAA  5471308
+
+
+
+
+>Apteryx mantelli isolate bAptMan1 chromosome 19, bAptMan1.hap1
+Sequence ID: NC_089996.1 Length: 17975779
+Range 1: 7631055 to 7631121
+
+Score:59.0 bits(64), Expect:4e-06, 
+Identities:53/67(79%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  663      CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTGTTCACGTCGTTCATCTT  722
+                ||||| ||||| ||| ||||| ||||||||||| ||| || | ||  | || || |||||
+Sbjct  7631121  CAGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTT  7631062
+
+Query  723      GCGAGCC  729
+                ||| |||
+Sbjct  7631061  GCGTGCC  7631055
+
+
+
+
+
+
+
+		
+
+

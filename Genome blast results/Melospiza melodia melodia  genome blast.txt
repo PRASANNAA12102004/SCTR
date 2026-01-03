@@ -1,0 +1,438 @@
+RID: NDG4XG6E014	
+Job Title:XM_063161354.1:1-1530 PREDICTED: Melospiza...				
+Program: BLASTN 
+Database: Genome (bMelMel2.pri) Melospiza melodia melodia bMelMel2.pri [GCF_035770615.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_035770615.1-RS_2024_02)
+Query #1: XM_063161354.1:1-1530 PREDICTED: Melospiza melodia melodia secretin receptor (SCTR), mRNA Query ID: lcl|Query_6894871 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Melospiza melodia melodia isolate bMelMel2 chromosome 8,...       Melospiza me... NA              1914991    396    2973  100%  8e-108 98.67  40833162   NC_086201.1      
+Melospiza melodia melodia isolate bMelMel2 chromosome 1,...       Melospiza me... NA              1914991    110    386   21%   1e-21  80.43  174870981  NC_086194.1      
+Melospiza melodia melodia isolate bMelMel2 chromosome 24,...      Melospiza me... NA              1914991    69.9   120   10%   2e-09  78.10  12985511   NC_086217.1      
+Melospiza melodia melodia isolate bMelMel2 chromosome 30,...      Melospiza me... NA              1914991    58.4   114   4%    6e-06  88.89  7646334    NC_086223.1      
+Melospiza melodia melodia isolate bMelMel2 chromosome 3,...       Melospiza me... NA              1914991    56.4   107   7%    2e-05  81.54  140599127  NC_086196.1      
+
+
+Alignments:
+
+>Melospiza melodia melodia isolate bMelMel2 chromosome 8, bMelMel2.pri
+Sequence ID: NC_086201.1 Length: 40833162
+Range 1: 9069168 to 9069392
+
+Score:396 bits(206), Expect:8e-108, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Minus
+
+Query  1        ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9069392  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  9069333
+
+Query  61       AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  119
+                |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9069332  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  9069273
+
+Query  120      GCAT--AAACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  177
+                ||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9069272  GCATGCAAACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  9069213
+
+Query  178      ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9069212  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  9069168
+
+
+
+
+Range 2: 9049779 to 9049957
+
+Score:344 bits(179), Expect:4e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1352     AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9049957  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  9049898
+
+Query  1412     AGCACCTCAGCACCTCGGCGACTAACGGAGGCAGCGGCTTGACCCAGGAGATGCACATGG  1471
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9049897  AGCACCTCAGCACCTCGGCGACTAACGGAGGCAGCGGCTTGACCCAGGAGATGCACATGG  9049838
+
+Query  1472     TGAGGTGCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9049837  TGAGGTGCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  9049779
+
+
+
+
+Range 3: 9054839 to 9054995
+
+Score:302 bits(157), Expect:2e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  795      GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  854
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9054995  GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  9054936
+
+Query  855      GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  914
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9054935  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  9054876
+
+Query  915      GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  951
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  9054875  GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  9054839
+
+
+
+
+Range 4: 9051149 to 9051288
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  1173     GAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCATCTT  1232
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9051288  GAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCATCTT  9051229
+
+Query  1233     TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGAATT  1292
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9051228  TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGAATT  9051169
+
+Query  1293     GGCTCTTGGATCATTCCAGG  1312
+                ||||||||||||||||||||
+Sbjct  9051168  GGCTCTTGGATCATTCCAGG  9051149
+
+
+
+
+Range 5: 9055818 to 9055954
+
+Score:264 bits(137), Expect:7e-68, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  660      CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  719
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9055954  CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  9055895
+
+Query  720      GAGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTA  779
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9055894  GAGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTA  9055835
+
+Query  780      CTGTGGGGCATACACGG  796
+                |||||||||||||||||
+Sbjct  9055834  CTGTGGGGCATACACGG  9055818
+
+
+
+
+Range 6: 9065555 to 9065683
+
+Score:248 bits(129), Expect:3e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  222      GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  281
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9065683  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  9065624
+
+Query  282      GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  341
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9065623  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  9065564
+
+Query  342      GAGCTCAGG  350
+                |||||||||
+Sbjct  9065563  GAGCTCAGG  9065555
+
+
+
+
+Range 7: 9061315 to 9061430
+
+Score:223 bits(116), Expect:1e-55, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  347      CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9061430  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  9061371
+
+Query  407      AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9061370  AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  9061315
+
+
+
+
+Range 8: 9057321 to 9057426
+
+Score:204 bits(106), Expect:6e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  459      AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  518
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9057426  AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  9057367
+
+Query  519      CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9057366  CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  9057321
+
+
+
+
+Range 9: 9056929 to 9057026
+
+Score:189 bits(98), Expect:3e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  565      CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9057026  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  9056967
+
+Query  625      ACACTGATGATAGCCTTGGCGGTCCTGGCCTCCTTCAG  662
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  9056966  ACACTGATGATAGCCTTGGCGGTCCTGGCCTCCTTCAG  9056929
+
+
+
+
+Range 10: 9051381 to 9051473
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1081     ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9051473  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  9051414
+
+Query  1141     GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                |||||||||||||||||||||||||||||||||
+Sbjct  9051413  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  9051381
+
+
+
+
+Range 11: 9054098 to 9054168
+
+Score:137 bits(71), Expect:1e-29, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1010     GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9054168  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  9054109
+
+Query  1070     TGTCTATATTT  1080
+                |||||||||||
+Sbjct  9054108  TGTCTATATTT  9054098
+
+
+
+
+Range 12: 9054690 to 9054753
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  949      GGTGCCCCAGCGGTGTTTGTGGCGGCATGGGCGGCTGCTCGGCAGCTCCATGAAAATATT  1008
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9054753  GGTGCCCCAGCGGTGTTTGTGGCGGCATGGGCGGCTGCTCGGCAGCTCCATGAAAATATT  9054694
+
+Query  1009     GGGT  1012
+                ||||
+Sbjct  9054693  GGGT  9054690
+
+
+
+
+Range 13: 9050929 to 9050974
+
+Score:89.1 bits(46), Expect:3e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1310     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9050974  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  9050929
+
+
+
+
+>Melospiza melodia melodia isolate bMelMel2 chromosome 1, bMelMel2.pri
+Sequence ID: NC_086194.1 Length: 174870981
+Range 1: 3250698 to 3250835
+
+Score:110 bits(57), Expect:1e-21, 
+Identities:111/138(80%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  799      GGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                |||||||||  ||  ||||| ||||||||||| ||  ||||| | |||| |  |||||| 
+Sbjct  3250835  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3250776
+
+Query  859      CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGAAG  918
+                |||||||| ||  ||||||| ||||| || ||||| ||||||||||||||||| ||||| 
+Sbjct  3250775  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3250716
+
+Query  919      TTCCTCTTGTGGTTCATC  936
+                | | ||| ||||| ||||
+Sbjct  3250715  TACTTCTGGTGGTACATC  3250698
+
+
+
+
+Range 2: 3234405 to 3234483
+
+Score:66.1 bits(34), Expect:3e-08, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  3234483  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3234424
+
+Query  1229     TCTTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  3234423  TGTTTGCTTTCTTCCCTGA  3234405
+
+
+
+
+Range 3: 3595846 to 3595921
+
+Score:60.3 bits(31), Expect:2e-06, 
+Identities:61/76(80%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1173     GAGACTTGCAAAGTCAACACTCCTTCTCATCCCTCTCTTTGGAGTCCACTATATCATCTT  1232
+                ||||||||||||||| ||  | ||  | ||||| |||||||| || ||||| ||  | ||
+Sbjct  3595846  GAGACTTGCAAAGTCCACGTTGCTGTTGATCCCCCTCTTTGGGGTGCACTACATTGTGTT  3595905
+
+Query  1233     TGCTTTTTTCCCTGAG  1248
+                ||| ||||||||||||
+Sbjct  3595906  TGCATTTTTCCCTGAG  3595921
+
+
+
+
+Range 4: 10506681 to 10506723
+
+Score:54.5 bits(28), Expect:9e-05, 
+Identities:38/43(88%),  Gaps:0/43(0%), Strand: Plus/Minus
+
+Query  852       CTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTG  894
+                 ||||||| ||||||||||||| ||||||||||  ||||| |||
+Sbjct  10506723  CTGGCTCTTGGTGGAAGGACTTTACCTCCACATCCTCCTTGTG  10506681
+
+
+
+
+Range 5: 1470275 to 1470329
+
+Score:48.8 bits(25), Expect:0.005, 
+Identities:45/55(82%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCC  726
+                |||||| |||||||||||||||||||| || ||    || ||||| ||||| |||
+Sbjct  1470329  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCC  1470275
+
+
+
+
+Range 6: 3233728 to 3233775
+
+Score:46.8 bits(24), Expect:0.019, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1308     CCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                |||||| ||||| |||||||| || || || ||||| ||||| |||||
+Sbjct  3233775  CCAGGGGTTTGTGGTGGCTGTGCTGTACTGCTTTCTCAATGGAGAGGT  3233728
+
+
+
+
+>Melospiza melodia melodia isolate bMelMel2 chromosome 24, bMelMel2.pri
+Sequence ID: NC_086217.1 Length: 12985511
+Range 1: 12619632 to 12619736
+
+Score:69.9 bits(36), Expect:2e-09, 
+Identities:82/105(78%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  812       CCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGAC  871
+                 ||| ||||||| | |||||  ||||| || | |||||| ||||||| |||||||||||  
+Sbjct  12619632  CCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAAGGCA  12619691
+
+Query  872       TGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGA  916
+                 | ||||| ||||  || |||||| |  || ||||||| || ||||
+Sbjct  12619692  TCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGGA  12619736
+
+
+
+
+Range 2: 12619330 to 12619379
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:42/50(84%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  672       CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGA  721
+                 |||||  |||||||||||||||||| | || ||| |||| ||||| ||||
+Sbjct  12619330  CTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCATCCTGA  12619379
+
+
+
+
+>Melospiza melodia melodia isolate bMelMel2 chromosome 30, bMelMel2.pri
+Sequence ID: NC_086223.1 Length: 7646334
+Range 1: 1425838 to 1425882
+
+Score:58.4 bits(30), Expect:6e-06, 
+Identities:40/45(89%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCAT  716
+                ||||||| |||| ||||||||| |||| ||||||||||| |||||
+Sbjct  1425838  CTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCAT  1425882
+
+
+
+
+Range 2: 5126134 to 5126201
+
+Score:56.4 bits(29), Expect:2e-05, 
+Identities:55/68(81%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  653      CCTCCTTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                |||||| ||| | ||| | |||||| ||||| | ||||||||| ||  |||||||||| |
+Sbjct  5126201  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  5126142
+
+Query  713      TCATTCTG  720
+                |||| |||
+Sbjct  5126141  TCATCCTG  5126134
+
+
+
+
+>Melospiza melodia melodia isolate bMelMel2 chromosome 3, bMelMel2.pri
+Sequence ID: NC_086196.1 Length: 140599127
+Range 1: 61425387 to 61425451
+
+Score:56.4 bits(29), Expect:2e-05, 
+Identities:53/65(82%),  Gaps:0/65(0%), Strand: Plus/Plus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                 ||||||  |||||| |||||||||||  |||||||  |||| || |||||| ||||  ||
+Sbjct  61425387  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACACTGCTGGTGCTCTCTGTC  61425446
+
+Query  904       TTCTC  908
+                 |||||
+Sbjct  61425447  TTCTC  61425451
+
+
+
+
+Range 2: 61423760 to 61423803
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:38/44(86%),  Gaps:0/44(0%), Strand: Plus/Plus
+
+Query  673       TGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCAT  716
+                 ||||||||||| ||||| ||| || | ||||||||||| |||||
+Sbjct  61423760  TGCACAAGGAATTACATTCACCTGAACCTCTTCACCTCTTTCAT  61423803
+
+
+
+
+
+
+
+		
+
+

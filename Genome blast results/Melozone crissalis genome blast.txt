@@ -1,0 +1,430 @@
+RID: NDGA7WCV014	
+Job Title:XM_054277967.1 PREDICTED: Melozone crissalis...				
+Program: BLASTN 
+Database: Genome (PUWL_Pcris_2) Melozone crissalis PUWL_Pcris_2 [GCF_028551555.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_028551555.1-RS_2023_03)
+Query #1: XM_054277967.1 PREDICTED: Melozone crissalis secretin receptor (SCTR), mRNA Query ID: lcl|Query_6942673 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Melozone crissalis strain CALT ecotype California unplaced...     Melozone cri... California t... 40204      396    2971  100%  8e-108 98.67  41612349   NW_026535801.1   
+Melozone crissalis strain CALT ecotype California unplaced...     Melozone cri... California t... 40204      104    388   21%   7e-20  79.71  58639876   NW_026535794.1   
+Melozone crissalis strain CALT ecotype California unplaced...     Melozone cri... California t... 40204      69.9   120   10%   2e-09  78.10  1543075    NW_026535903.1   
+Melozone crissalis strain CALT ecotype California unplaced...     Melozone cri... California t... 40204      56.4   56.4  4%    2e-05  81.54  89094009   NW_026535805.1   
+Melozone crissalis strain CALT ecotype California unplaced...     Melozone cri... California t... 40204      52.6   103   4%    3e-04  86.67  8390540    NW_026535810.1   
+
+
+Alignments:
+
+>Melozone crissalis strain CALT ecotype California unplaced genomic scaffold, PUWL_Pcris_2 ptg000023l_1
+Sequence ID: NW_026535801.1 Length: 41612349
+Range 1: 32447981 to 32448205
+
+Score:396 bits(206), Expect:8e-108, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAACTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32447981  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAACTGGGA  32448040
+
+Query  61        AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32448041  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACACTGGAGA  32448100
+
+Query  120       GCATA--AACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAAGAGGCTGTAATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32448101  GCATACAAACAGCCTGCTGACCTCTGATGCATGAGGCATGAAGAAAAGAGGCTGTAATTG  32448160
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32448161  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  32448205
+
+
+
+
+Range 2: 32467594 to 32467772
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGGAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32467594  AGGTTCAGCTGGAAGTTCAGAGGAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  32467653
+
+Query  1412      AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32467654  AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  32467713
+
+Query  1472      TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32467714  TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  32467772
+
+
+
+
+Range 3: 32462414 to 32462570
+
+Score:302 bits(157), Expect:2e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32462414  GGCTGGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  32462473
+
+Query  855       GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32462474  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  32462533
+
+Query  915       GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  32462534  GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  32462570
+
+
+
+
+Range 4: 32466225 to 32466364
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  1173      GAGACTTGCAAAGTCAACACTCCTCCTCATCCCCCTCTTTGGGGTTCACTATATCATCTT  1232
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32466225  GAGACTTGCAAAGTCAACACTCCTCCTCATCCCCCTCTTTGGGGTTCACTATATCATCTT  32466284
+
+Query  1233      TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGAATT  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32466285  TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGAATT  32466344
+
+Query  1293      GGCTCTTGGATCATTCCAGG  1312
+                 ||||||||||||||||||||
+Sbjct  32466345  GGCTCTTGGATCATTCCAGG  32466364
+
+
+
+
+Range 5: 32461455 to 32461590
+
+Score:262 bits(136), Expect:3e-67, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  661       AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32461455  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  32461514
+
+Query  721       AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  780
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32461515  AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  32461574
+
+Query  781       TGTGGGGCATACACGG  796
+                 ||||||||||||||||
+Sbjct  32461575  TGTGGGGCATACACGG  32461590
+
+
+
+
+Range 6: 32451694 to 32451822
+
+Score:248 bits(129), Expect:3e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32451694  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  32451753
+
+Query  282       GTGTGTGGAGACTCTTTCTCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32451754  GTGTGTGGAGACTCTTTCTCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  32451813
+
+Query  342       AAGCTCAGG  350
+                 |||||||||
+Sbjct  32451814  AAGCTCAGG  32451822
+
+
+
+
+Range 7: 32455982 to 32456097
+
+Score:223 bits(116), Expect:1e-55, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32455982  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  32456041
+
+Query  407       AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32456042  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  32456097
+
+
+
+
+Range 8: 32459979 to 32460084
+
+Score:204 bits(106), Expect:6e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCATACCCCAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32459979  AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCATACCCCAGACCTGA  32460038
+
+Query  519       CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32460039  CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  32460084
+
+
+
+
+Range 9: 32460380 to 32460477
+
+Score:189 bits(98), Expect:3e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32460380  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  32460439
+
+Query  625       ACATTGATGATAGCCTTGGGGGTCCTGGCCTCCTTTAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  32460440  ACATTGATGATAGCCTTGGGGGTCCTGGCCTCCTTTAG  32460477
+
+
+
+
+Range 10: 32466040 to 32466132
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATCATCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32466040  ATTAATTTCATCATCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  32466099
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  32466100  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  32466132
+
+
+
+
+Range 11: 32463255 to 32463325
+
+Score:137 bits(71), Expect:1e-29, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32463255  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  32463314
+
+Query  1070      TGTCTATATTT  1080
+                 |||||||||||
+Sbjct  32463315  TGTCTATATTT  32463325
+
+
+
+
+Range 12: 32462657 to 32462720
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAATATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32462657  GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAATATT  32462716
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  32462717  GGGT  32462720
+
+
+
+
+Range 13: 32466539 to 32466584
+
+Score:89.1 bits(46), Expect:3e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1310      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32466539  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  32466584
+
+
+
+
+>Melozone crissalis strain CALT ecotype California unplaced genomic scaffold, PUWL_Pcris_2 ptg000016l_1
+Sequence ID: NW_026535794.1 Length: 58639876
+Range 1: 3258971 to 3259108
+
+Score:104 bits(54), Expect:7e-20, 
+Identities:110/138(80%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  799      GGCTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                |||||||||  ||  ||||| ||||| ||||| ||  ||||| | |||| |  |||||| 
+Sbjct  3259108  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3259049
+
+Query  859      CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGAAG  918
+                |||||||| ||  ||||||| ||||| || ||||| ||||||||||||||||| ||||| 
+Sbjct  3259048  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3258989
+
+Query  919      TTCCTCTTGTGGTTCATC  936
+                | | ||| ||||| ||||
+Sbjct  3258988  TACTTCTGGTGGTACATC  3258971
+
+
+
+
+Range 2: 3604873 to 3604948
+
+Score:71.8 bits(37), Expect:5e-10, 
+Identities:63/76(83%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1173     GAGACTTGCAAAGTCAACACTCCTCCTCATCCCCCTCTTTGGGGTTCACTATATCATCTT  1232
+                ||||||||||||||| ||  | ||  | ||||||||||||||||| ||||| ||  | ||
+Sbjct  3604873  GAGACTTGCAAAGTCCACGTTGCTGTTGATCCCCCTCTTTGGGGTGCACTACATTGTGTT  3604932
+
+Query  1233     TGCTTTTTTCCCTGAG  1248
+                ||| ||||||||||||
+Sbjct  3604933  TGCATTTTTCCCTGAG  3604948
+
+
+
+
+Range 3: 3244894 to 3244972
+
+Score:66.1 bits(34), Expect:3e-08, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCCCTCTTTGGGGTTCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||| ||||||||  ||||||| ||||
+Sbjct  3244972  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3244913
+
+Query  1229     TCTTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  3244912  TGTTTGCTTTCTTCCCTGA  3244894
+
+
+
+
+Range 4: 10500249 to 10500328
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:62/80(78%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  815       TGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGT  874
+                 |||| || ||||||||| |  | ||| | ||||    ||||||| |||| |||||||| |
+Sbjct  10500328  TGGTGTTTTTTCAGTATGGTGTTATGGCAAACTTTTACTGGCTCTTGGTAGAAGGACTTT  10500269
+
+Query  875       ACCTCCACACTCTCCTGGTG  894
+                 |||||||||  ||||| |||
+Sbjct  10500268  ACCTCCACATCCTCCTTGTG  10500249
+
+
+
+
+Range 5: 1443029 to 1443083
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:45/55(82%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCC  726
+                |||||| |||||||||||||||||||| || ||    || ||||| ||||| |||
+Sbjct  1443083  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCC  1443029
+
+
+
+
+Range 6: 3244194 to 3244241
+
+Score:46.8 bits(24), Expect:0.017, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1308     CCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                |||||| ||||| |||||||| || || || ||||| ||||| |||||
+Sbjct  3244241  CCAGGGGTTTGTGGTGGCTGTGCTGTACTGCTTTCTCAATGGAGAGGT  3244194
+
+
+
+
+>Melozone crissalis strain CALT ecotype California unplaced genomic scaffold, PUWL_Pcris_2 ptg000129l_1
+Sequence ID: NW_026535903.1 Length: 1543075
+Range 1: 1185073 to 1185177
+
+Score:69.9 bits(36), Expect:2e-09, 
+Identities:82/105(78%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  812      CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGAC  871
+                ||| ||||||| | |||||  ||||| || | |||||| ||||||| |||||||||||  
+Sbjct  1185073  CCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAAGGCA  1185132
+
+Query  872      TGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGA  916
+                | ||||| ||||  || |||||| |  || ||||||| || ||||
+Sbjct  1185133  TCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGGA  1185177
+
+
+
+
+Range 2: 1184772 to 1184821
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:42/50(84%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGA  721
+                |||||  |||||||||||||||||| | || ||| |||| ||||| ||||
+Sbjct  1184772  CTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCATCCTGA  1184821
+
+
+
+
+>Melozone crissalis strain CALT ecotype California unplaced genomic scaffold, PUWL_Pcris_2 ptg000027l_1
+Sequence ID: NW_026535805.1 Length: 89094009
+Range 1: 12615865 to 12615929
+
+Score:56.4 bits(29), Expect:2e-05, 
+Identities:53/65(82%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                 ||||||  |||||||||||| |||||  |||||||  |||| || |||||| ||||  ||
+Sbjct  12615929  AACTACTACTGGCTCCTGGTAGAAGGCATGTACCTGTACACACTGCTGGTGCTCTCTGTC  12615870
+
+Query  904       TTCTC  908
+                 |||||
+Sbjct  12615869  TTCTC  12615865
+
+
+
+
+>Melozone crissalis strain CALT ecotype California unplaced genomic scaffold, PUWL_Pcris_2 ptg000032l_1
+Sequence ID: NW_026535810.1 Length: 8390540
+Range 1: 505146 to 505190
+
+Score:52.6 bits(27), Expect:3e-04, 
+Identities:39/45(87%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  672     CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCAT  716
+               ||||||| |||| ||||||||| |||| |||||| |||| |||||
+Sbjct  505146  CTGCACACGGAATTACATCCACGTGCACCTCTTCGCCTCCTTCAT  505190
+
+
+
+
+Range 2: 5446815 to 5446882
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:54/68(79%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  653      CCTCCTTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                ||||||  || | ||| | |||||| ||||| | ||||||||| ||  |||||||||| |
+Sbjct  5446882  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  5446823
+
+Query  713      TCATTCTG  720
+                |||| |||
+Sbjct  5446822  TCATCCTG  5446815
+
+
+
+
+
+
+
+		
+
+

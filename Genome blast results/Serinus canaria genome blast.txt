@@ -1,0 +1,547 @@
+RID: NDK5Y0W6014	
+Job Title: XM_009087813.4:1-1530 PREDICTED: Serinus 				
+Program: BLASTN 
+Database: Genome (serCan2020) Serinus canaria serCan2020 [GCF_022539315.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_022539315.1-RS_2023_02)
+Query #1: XM_009087813.4:1-1530 PREDICTED: Serinus canaria secretin receptor (SCTR), mRNA Query ID: lcl|Query_5838281 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Serinus canaria isolate serCan28SL12 chromosome 7, serCan2020     Serinus canaria Common canary   9135       387    2812  100%  4e-105 98.67  30958916   NC_066321.1      
+Serinus canaria isolate serCan28SL12 chromosome 2, serCan2020     Serinus canaria Common canary   9135       114    826   25%   4e-23  76.47  150870690  NC_066315.1      
+Serinus canaria isolate serCan28SL12 chromosome 27, serCan2020    Serinus canaria Common canary   9135       59.9   217   12%   3e-06  77.33  5412604    NC_066340.1      
+Serinus canaria isolate serCan28SL12 chromosome 18, serCan2020    Serinus canaria Common canary   9135       52.7   52.7  3%    4e-04  82.35  11483696   NC_066331.1      
+
+
+Alignments:
+
+>Serinus canaria isolate serCan28SL12 chromosome 7, serCan2020
+Sequence ID: NC_066321.1 Length: 30958916
+Range 1: 8872074 to 8872298
+
+Score:387 bits(428), Expect:4e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Minus
+
+Query  1        ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8872298  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  8872239
+
+Query  61       AGGGAAAA-GGCAAGGAGGGAGAAGGATGAAGTGAAAAGAGCTAGCAGCCACACTGGAGA  119
+                |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8872238  AGGGAAAAAGGCAAGGAGGGAGAAGGATGAAGTGAAAAGAGCTAGCAGCCACACTGGAGA  8872179
+
+Query  120      GCATA--AACAGTCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGATTG  177
+                |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8872178  GCATACAAACAGTCTGCTGACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGATTG  8872119
+
+Query  178      ACTATGTGGACCATCTGGGTGTTCTTCTGGATTTCAGCTGTCCCG  222
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8872118  ACTATGTGGACCATCTGGGTGTTCTTCTGGATTTCAGCTGTCCCG  8872074
+
+
+
+
+Range 2: 8852630 to 8852808
+
+Score:324 bits(358), Expect:4e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1352     AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8852808  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  8852749
+
+Query  1412     AGCATCTCAGCACGTCAGCGAGTAACGGAGGAAGCGGCTTGACCCAAGAGATGCAGATGG  1471
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8852748  AGCATCTCAGCACGTCAGCGAGTAACGGAGGAAGCGGCTTGACCCAAGAGATGCAGATGG  8852689
+
+Query  1472     TGAGGTCCAGCCCGGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  1530
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8852688  TGAGGTCCAGCCCGGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  8852630
+
+
+
+
+Range 3: 8857785 to 8857941
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  795      GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAATATTGCATCATGTCTAACTACAGCTG  854
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8857941  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAATATTGCATCATGTCTAACTACAGCTG  8857882
+
+Query  855      GCTCCTCGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  914
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8857881  GCTCCTCGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  8857822
+
+Query  915      GAAGTTCCTCTGCTGGTTCATCGCCCTCGGATGGGGT  951
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  8857821  GAAGTTCCTCTGCTGGTTCATCGCCCTCGGATGGGGT  8857785
+
+
+
+
+Range 4: 8854036 to 8854178
+
+Score:254 bits(281), Expect:6e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8854178  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  8854119
+
+Query  1230     CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  1289
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8854118  CTTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  8854059
+
+Query  1290     ATTGGCTCTTGGATCATTCCAGG  1312
+                |||||||||||||||||||||||
+Sbjct  8854058  ATTGGCTCTTGGATCATTCCAGG  8854036
+
+
+
+
+Range 5: 8858707 to 8858859
+
+Score:248 bits(274), Expect:3e-63, 
+Identities:148/154(96%),  Gaps:1/154(0%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTG  720
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8858859  AGAAGGCTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTG  8858800
+
+Query  721      CGAGCCTCATCCAACTTCATCAAGGATGTTGTCCTGTTTTCCTCTGAGGACACAAATTAC  780
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8858799  CGAGCCTCATCCAACTTCATCAAGGATGTTGTCCTGTTTTCCTCTGAGGACACAAATTAC  8858740
+
+Query  781      TGTGGGGCATACACGGCTGGCTGTAAGCTCACCA  814
+                |||||||||||||||| |  || |  ||||||||
+Sbjct  8858739  TGTGGGGCATACACGG-TAACTCTCTGCTCACCA  8858707
+
+
+
+
+Range 6: 8868461 to 8868589
+
+Score:233 bits(258), Expect:6e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  222      GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAG  281
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8868589  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAG  8868530
+
+Query  282      GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  341
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8868529  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  8868470
+
+Query  342      GAGCTCAGG  350
+                |||||||||
+Sbjct  8868469  GAGCTCAGG  8868461
+
+
+
+
+Range 7: 8864149 to 8864264
+
+Score:210 bits(232), Expect:7e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  347      CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8864264  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  8864205
+
+Query  407      AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8864204  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  8864149
+
+
+
+
+Range 8: 8860243 to 8860348
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  459      AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCAAGACCTGA  518
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8860348  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCAAGACCTGA  8860289
+
+Query  519      CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8860288  CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  8860243
+
+
+
+
+Range 9: 8859842 to 8859939
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  565      CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCTCTCGTG  624
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8859939  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCTCTCGTG  8859880
+
+Query  625      ACATTGATGATAGCCTTGGTGGTCCTGGCTTCCTTTAG  662
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  8859879  ACATTGATGATAGCCTTGGTGGTCCTGGCTTCCTTTAG  8859842
+
+
+
+
+Range 10: 8854268 to 8854360
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1081     ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCC  1140
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8854360  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCC  8854301
+
+Query  1141     GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                |||||||||||||||||||||||||||||||||
+Sbjct  8854300  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  8854268
+
+
+
+
+Range 11: 8857031 to 8857101
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1010     GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8857101  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  8857042
+
+Query  1070     TGTCTATATTT  1080
+                |||||||||||
+Sbjct  8857041  TGTCTATATTT  8857031
+
+
+
+
+Range 12: 8857635 to 8857698
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  949      GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCGACTGCTCGGCAGCTCCATGAAAATATT  1008
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8857698  GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCGACTGCTCGGCAGCTCCATGAAAATATT  8857639
+
+Query  1009     GGGT  1012
+                ||||
+Sbjct  8857638  GGGT  8857635
+
+
+
+
+Range 13: 8853819 to 8853864
+
+Score:84.2 bits(92), Expect:7e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1310     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8853864  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  8853819
+
+
+
+
+>Serinus canaria isolate serCan28SL12 chromosome 2, serCan2020
+Sequence ID: NC_066315.1 Length: 150870690
+Range 1: 3191715 to 3191867
+
+Score:114 bits(126), Expect:4e-23, 
+Identities:117/153(76%),  Gaps:0/153(0%), Strand: Plus/Plus
+
+Query  799      GGCTGTAAGCTCACCATGGTCTTCTTTCAATATTGCATCATGTCTAACTACAGCTGGCTC  858
+                ||||| |||  ||  ||||| ||||| || || ||  ||||| | |||| |  |||||| 
+Sbjct  3191715  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3191774
+
+Query  859      CTCGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGAAG  918
+                || ||||| ||| ||||||| ||||| || ||||| || |||||||||||||| ||||| 
+Sbjct  3191775  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3191834
+
+Query  919      TTCCTCTGCTGGTTCATCGCCCTCGGATGGGGT  951
+                | | |||| |||| ||||    |||| ||||||
+Sbjct  3191835  TACTTCTGGTGGTACATCCTGATCGGCTGGGGT  3191867
+
+
+
+
+Range 2: 3205994 to 3206072
+
+Score:80.6 bits(88), Expect:8e-13, 
+Identities:65/79(82%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||||||||||||  ||||||| ||||
+Sbjct  3205994  ACAGGAGGCTGGCCAAGTCCACTCTTCTGCTGATCCCTCTCTTTGGCATCCACTACATCA  3206053
+
+Query  1229     TCTTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  3206054  TGTTTGCTTTCTTCCCTGA  3206072
+
+
+
+
+Range 3: 3178128 to 3178226
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:76/99(77%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  661      AGAAGGCTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTG  720
+                ||||  || | ||||||  | || ||||| |||||||||||||||| ||| |||||  ||
+Sbjct  3178128  AGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCATG  3178187
+
+Query  721      CGAGCCTCATCCAACTTCATCAAGGATGTTGTCCTGTTT  759
+                 |||||    |   |||||||||||||||  ||||||||
+Sbjct  3178188  AGAGCCATTGCAGTCTTCATCAAGGATGTCATCCTGTTT  3178226
+
+
+
+
+Range 4: 3380171 to 3380291
+
+Score:75.2 bits(82), Expect:4e-11, 
+Identities:89/121(74%),  Gaps:0/121(0%), Strand: Plus/Minus
+
+Query  814      ATGGTCTTCTTTCAATATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAAGGGCTG  873
+                ||||| || ||||| || ||  ||||||| ||||||  ||||||| || | || ||||||
+Sbjct  3380291  ATGGTGTTTTTTCACTACTGTGTCATGTCCAACTACTTCTGGCTCTTCATCGAGGGGCTG  3380232
+
+Query  874      TACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGAAGTTCCTCTGCTGGTTC  933
+                ||||||  |||| | ||||||    | |||||| | || ||||  |   ||| ||||| |
+Sbjct  3380231  TACCTCTTCACTTTGCTGGTGGAGACTTTCTTCCCAGAGAGGAGATATTTCTACTGGTAC  3380172
+
+Query  934      A  934
+                |
+Sbjct  3380171  A  3380171
+
+
+
+
+Range 5: 3324655 to 3324733
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                || ||||||||| ||||| ||  | ||  | ||||| ||||||||||| ||||| ||  |
+Sbjct  3324655  CAGGAGACTTGCCAAGTCCACGTTGCTGTTGATCCCCCTCTTTGGGGTGCACTACATTGT  3324714
+
+Query  1230     CTTTGCTTTTTTCCCTGAG  1248
+                 ||||| |||||||| |||
+Sbjct  3324715  GTTTGCATTTTTCCCAGAG  3324733
+
+
+
+
+Range 6: 1279408 to 1279493
+
+Score:60.8 bits(66), Expect:8e-07, 
+Identities:67/87(77%),  Gaps:2/87(2%), Strand: Plus/Minus
+
+Query  672      CTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTGCGAGCC-TCAT  730
+                ||| || ||||||||||||||||||||||| ||   ||| |||||  || | ||| ||| 
+Sbjct  1279493  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTCA-  1279435
+
+Query  731      CCAACTTCATCAAGGATGTTGTCCTGT  757
+                 || |||| | ||||| |  |||||||
+Sbjct  1279434  GCATCTTCGTGAAGGACGCGGTCCTGT  1279408
+
+
+
+
+Range 7: 1276187 to 1276277
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:67/91(74%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTCGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCCTTC  903
+                || |||  |||| |||| ||||||||||| || |||||||  ||| |  | ||  | |||
+Sbjct  1276277  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTC  1276218
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTGCTGGTTCA  934
+                |||||||| | ||| |  |||||  | ||||
+Sbjct  1276217  TTCTCGGAGAAGAAATATCTCTGGGGATTCA  1276187
+
+
+
+
+Range 8: 3206734 to 3206781
+
+Score:56.3 bits(61), Expect:3e-05, 
+Identities:41/48(85%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  1308     CCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                |||||||||||| |||||||| || || || ||||| ||||| |||||
+Sbjct  3206734  CCAGGGCTTTGTGGTGGCTGTGCTGTACTGCTTTCTCAATGGAGAGGT  3206781
+
+
+
+
+Range 9: 3318919 to 3318972
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:43/54(80%),  Gaps:0/54(0%), Strand: Plus/Plus
+
+Query  672      CTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTGCGAGC  725
+                ||| ||| |||| ||||||||||||||||| ||    || ||||| ||| ||||
+Sbjct  3318919  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTCATCTTGAGAGC  3318972
+
+
+
+
+Range 10: 3382995 to 3383075
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:59/81(73%),  Gaps:0/81(0%), Strand: Plus/Minus
+
+Query  666      GCTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTGCGAGC  725
+                ||||| ||| ||  |||| | |||||||||| |||| ||    ||||||||  |||| ||
+Sbjct  3383075  GCTTCACTGCACCCGGAATTTCATCCACATGAACCTTTTTGTTTCATTCATCCTGCGTGC  3383016
+
+Query  726      CTCATCCAACTTCATCAAGGA  746
+                   |||    |||||||||||
+Sbjct  3383015  AATATCTGTGTTCATCAAGGA  3382995
+
+
+
+
+Range 11: 10010883 to 10010960
+
+Score:47.3 bits(51), Expect:0.017, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1229
+                 || |||||||||||| || ||  | || || || ||| | ||||| || ||||| |   |
+Sbjct  10010960  CAGGAGACTTGCAAAATCCACCTTGCTGCTGATTCCTTTATTTGGAGTTCACTACACAGT  10010901
+
+Query  1230      CTTTGCTTTTTTCCCTGA  1247
+                  |||||| | || |||||
+Sbjct  10010900  GTTTGCTCTGTTTCCTGA  10010883
+
+
+
+
+Range 12: 10023045 to 10023112
+
+Score:47.3 bits(51), Expect:0.017, 
+Identities:51/68(75%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  658       TTTAGAAGGCTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATT  717
+                 |||||||  ||||  |||||  |||||||||||||  || |||| |||   || ||||||
+Sbjct  10023112  TTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCTTTCATT  10023053
+
+Query  718       TTGCGAGC  725
+                  |  ||||
+Sbjct  10023052  CTAAGAGC  10023045
+
+
+
+
+Range 13: 3724809 to 3724906
+
+Score:46.4 bits(50), Expect:0.017, 
+Identities:71/99(72%),  Gaps:2/99(2%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTG  720
+                || |||||||||||| | ||||| || |||||  | || |||||     | ||||| || 
+Sbjct  3724906  AGGAGGCTTCGCTGTCCCAGGAATTATATCCATGTACAGCTCTTTTTTACTTTCATCTT-  3724848
+
+Query  721      CGAGCCTCAT-CCAACTTCATCAAGGATGTTGTCCTGTT  758
+                  || ||  | |||  ||||| ||||||| |||||| ||
+Sbjct  3724847  AAAGGCTATTGCCATTTTCATTAAGGATGCTGTCCTTTT  3724809
+
+
+
+
+>Serinus canaria isolate serCan28SL12 chromosome 27, serCan2020
+Sequence ID: NC_066340.1 Length: 5412604
+Range 1: 4495463 to 4495537
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:58/75(77%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  672      CTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTGCGAGCCTCATC  731
+                ||| || ||||| | ||||||||| ||| ||||||| || |||||  |||| | | || |
+Sbjct  4495537  CTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCTTCATCCTGCGGGGCACAGC  4495478
+
+Query  732      CAACTTCATCAAGGA  746
+                |   |||||||||||
+Sbjct  4495477  CGTGTTCATCAAGGA  4495463
+
+
+
+
+Range 2: 1033987 to 1034061
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:60/76(79%),  Gaps:2/76(2%), Strand: Plus/Plus
+
+Query  672      CTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCATTTTGCGAG-CCTCAT  730
+                ||| ||| |||| ||||||||| ||||||||||||| || ||||| |  || | ||||| 
+Sbjct  1033987  CTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCATCTGCCGGGCCCTCA-  1034045
+
+Query  731      CCAACTTCATCAAGGA  746
+                 || |||| | |||||
+Sbjct  1034046  GCATCTTCCTGAAGGA  1034061
+
+
+
+
+Range 3: 1034562 to 1034670
+
+Score:51.8 bits(56), Expect:4e-04, 
+Identities:79/111(71%),  Gaps:4/111(3%), Strand: Plus/Plus
+
+Query  844      AACTACAGCTGGCTCCTCGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCCTTC  903
+                ||| ||  |||| |||| ||||||||||| ||||| ||||  ||  |  | ||  |||||
+Sbjct  1034562  AACCACTACTGGATCCTGGTGGAAGGGCTCTACCTGCACAGCCTGATCTTCATGGCCTTC  1034621
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTGCTGGT--TCATCGCCCTCGGATGGGGTG  952
+                 ||||  | | ||| | ||| ||  |||  |||||  | |||| |||||||
+Sbjct  1034622  CTCTCCAATAAGAACTACCTGTG--GGTCCTCATCATCATCGGCTGGGGTG  1034670
+
+
+
+
+Range 4: 4494708 to 4494780
+
+Score:47.3 bits(51), Expect:0.017, 
+Identities:54/73(74%),  Gaps:0/73(0%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTCGTGGAAGGGCTGTACCTCCACACTCTCCTGGTGATTTCCTTC  903
+                |||| |  |||||| || ||||| ||||||||||| || || || ||| || |  |||||
+Sbjct  4494780  AACTTCTACTGGCTGCTGGTGGAGGGGCTGTACCTGCAGACGCTGCTGCTGCTCACCTTC  4494721
+
+Query  904      TTCTCGGAAAGGA  916
+                  ||  || ||||
+Sbjct  4494720  ACCTGCGACAGGA  4494708
+
+
+
+
+>Serinus canaria isolate serCan28SL12 chromosome 18, serCan2020
+Sequence ID: NC_066331.1 Length: 11483696
+Range 1: 303013 to 303063
+
+Score:52.7 bits(57), Expect:4e-04, 
+Identities:42/51(82%),  Gaps:0/51(0%), Strand: Plus/Minus
+
+Query  666     GCTTCGCTGTACAAGGAACTACATCCACATGCACCTCTTCACGTCATTCAT  716
+               ||| | ||| |  |||||||||||||||||| |||||||| | || |||||
+Sbjct  303063  GCTGCACTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  303013
+
+
+
+
+
+
+
+		
+
+

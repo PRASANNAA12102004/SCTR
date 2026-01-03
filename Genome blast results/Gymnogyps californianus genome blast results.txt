@@ -1,0 +1,390 @@
+RID: NC45RM40014	
+Job Title:XM_050900053.1 PREDICTED: Gymnogyps californianus...				
+Program: BLASTN 
+Database: Genome (ASM1813914v2) Gymnogyps californianus ASM1813914v2 [GCF_018139145.2] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_018139145.2-RS_2023_02)
+Query #1: XM_050900053.1 PREDICTED: Gymnogyps californianus secretin receptor (SCTR), mRNA Query ID: lcl|Query_5754321 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Gymnogyps californianus isolate 813 chromosome 7, ASM1813914v2    Gymnogyps ca... California c... 33616      392    2817  100%  1e-106 98.68  45032703   NC_059477.1      
+Gymnogyps californianus isolate 813 chromosome 2, ASM1813914v2    Gymnogyps ca... California c... 33616      73.4   243   12%   1e-10  80.00  168219358  NC_059472.1      
+Gymnogyps californianus isolate 813 chromosome 28, ASM1813914v2   Gymnogyps ca... California c... 33616      69.8   117   10%   2e-09  79.49  7841093    NC_059498.1      
+Gymnogyps californianus isolate 813 chromosome 19, ASM1813914v2   Gymnogyps ca... California c... 33616      62.6   62.6  5%    3e-07  79.71  14294090   NC_059489.1      
+Gymnogyps californianus isolate 813 chromosome 15, ASM1813914v2   Gymnogyps ca... California c... 33616      46.4   46.4  2%    0.020  93.75  19638087   NC_059485.1      
+
+
+Alignments:
+
+>Gymnogyps californianus isolate 813 chromosome 7, ASM1813914v2
+Sequence ID: NC_059477.1 Length: 45032703
+Range 1: 33613083 to 33613310
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAACTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33613083  ATGCTCTCTAGGGCTCAGCAACTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  33613142
+
+Query  61        AGGAAAATA-GCAAGGAGGGAAAGGGGTGAAGTGAAAGGAGCTAGGAGCCACACTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33613143  AGGAAAATAAGCAAGGAGGGAAAGGGGTGAAGTGAAAGGAGCTAGGAGCCACACTGGAGA  33613202
+
+Query  120       GCATA--GACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33613203  GCATACAGACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  33613262
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33613263  ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  33613310
+
+
+
+
+Range 2: 33633311 to 33633489
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTAGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33633311  AGGTTCAGCTAGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  33633370
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33633371  AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  33633430
+
+Query  1475      TGAGGTTGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33633431  TGAGGTTGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  33633489
+
+
+
+
+Range 3: 33628060 to 33628216
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33628060  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  33628119
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33628120  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  33628179
+
+Query  918       GAAGTTCCTCTGGCAGTTCATCACCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  33628180  GAAGTTCCTCTGGCAGTTCATCACCCTCGGATGGGGT  33628216
+
+
+
+
+Range 4: 33631906 to 33632048
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTGCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33631906  CAGGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTGCACTACATCAT  33631965
+
+Query  1233      CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTCGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33631966  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTCGA  33632025
+
+Query  1293      ACTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  33632026  ACTGGCTCTTGGATCATTCCAGG  33632048
+
+
+
+
+Range 5: 33626724 to 33626859
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACGAGAAACTACATCCACATGCATCTCTTCACATCTTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33626724  AGAAGACTTCGCTGTACGAGAAACTACATCCACATGCATCTCTTCACATCTTTCATTTTG  33626783
+
+Query  724       CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACACGAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33626784  CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACACGAATTAC  33626843
+
+Query  784       TGCGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  33626844  TGCGGGGCATACACGG  33626859
+
+
+
+
+Range 6: 33617211 to 33617339
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGAGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33617211  GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGAGTCCTGAAAAAGGAGGAAGAAAA  33617270
+
+Query  285       CTGTGCTGAGACTCTCTCCCTGGAGGCAAAGAACAGAACGACCAAAAACGATCTGCTCCC  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33617271  CTGTGCTGAGACTCTCTCCCTGGAGGCAAAGAACAGAACGACCAAAAACGATCTGCTCCC  33617330
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  33617331  GAGCTCAGG  33617339
+
+
+
+
+Range 7: 33621199 to 33621314
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33621199  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCTGCTGTGGGAC  33621258
+
+Query  410       AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33621259  AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  33621314
+
+
+
+
+Range 8: 33625264 to 33625369
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCATATCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33625264  AGGTTTTGTCTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCATATCCGAGACCTGA  33625323
+
+Query  522       TATCGCTTGTGGCTACAATGTCAATGACACGACAAACGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33625324  TATCGCTTGTGGCTACAATGTCAATGACACGACAAACGAGGCGAGA  33625369
+
+
+
+
+Range 9: 33625666 to 33625763
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGTACCTCCCTTGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33625666  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGTACCTCCCTTGTG  33625725
+
+Query  628       ACGCTGACGATAGCCTTAGTGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  33625726  ACGCTGACGATAGCCTTAGTGGTCCTGGTCTCTTTTAG  33625763
+
+
+
+
+Range 10: 33631707 to 33631814
+
+Score:169 bits(187), Expect:2e-39, 
+Identities:103/108(95%),  Gaps:1/108(0%), Strand: Plus/Plus
+
+Query  1070      TTTTGTCTATTTTT-ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGG  1128
+                 |||||| | |||   |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33631707  TTTTGTTTTTTTCAGATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGG  33631766
+
+Query  1129      AAGCTCAGCTCGCCTGAAGGAAGGAGCAGTGATTTCAACCAATACAAG  1176
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33631767  AAGCTCAGCTCGCCTGAAGGAAGGAGCAGTGATTTCAACCAATACAAG  33631814
+
+
+
+
+Range 11: 33628907 to 33628977
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33628907  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  33628966
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  33628967  TGTCTATTTTT  33628977
+
+
+
+
+Range 12: 33628305 to 33628368
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33628305  GGTGCCCCAACTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  33628364
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  33628365  GGGT  33628368
+
+
+
+
+Range 13: 33632228 to 33632273
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33632228  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  33632273
+
+
+
+
+>Gymnogyps californianus isolate 813 chromosome 2, ASM1813914v2
+Sequence ID: NC_059472.1 Length: 168219358
+Range 1: 164180440 to 164180519
+
+Score:73.4 bits(80), Expect:1e-10, 
+Identities:64/80(80%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  1172       ACAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTGCACTACATCA  1231
+                  ||| ||||||||| || || ||  | ||| | ||||| |||||||| |||||||||||  
+Sbjct  164180519  ACAGGAGACTTGCTAAATCCACATTACTCTTAATCCCCCTCTTTGGAGTGCACTACATTG  164180460
+
+Query  1232       TCTTTGCTTTTTTCCCTGAA  1251
+                  | ||||| |||||||| |||
+Sbjct  164180459  TATTTGCATTTTTCCCAGAA  164180440
+
+
+
+
+Range 2: 164567995 to 164568073
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172       ACAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTGCACTACATCA  1231
+                  ||| ||| || || ||||| ||  | || || ||||||||||||||  | ||||||||||
+Sbjct  164567995  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  164568054
+
+Query  1232       TCTTTGCTTTTTTCCCTGA  1250
+                  | |||||||| ||||| ||
+Sbjct  164568055  TGTTTGCTTTCTTCCCCGA  164568073
+
+
+
+
+Range 3: 156954286 to 156954359
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:56/74(76%),  Gaps:1/74(1%), Strand: Plus/Plus
+
+Query  656        TCTCTT-TTAGAAGACTTCGCTGTACGAGAAACTACATCCACATGCATCTCTTCACATCT  714
+                  |||||| |||||| |||||  |||||  | |||||||||||  || | || |||   |||
+Sbjct  156954286  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCTTCTCT  156954345
+
+Query  715        TTCATTTTGCGAGC  728
+                  |||||| |  ||||
+Sbjct  156954346  TTCATTCTAAGAGC  156954359
+
+
+
+
+Range 4: 166732747 to 166732832
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:62/86(72%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  675        CTGTACGAGAAACTACATCCACATGCATCTCTTCACATCTTTCATTTTGCGAGCCTCATC  734
+                  ||| || |||||||||||||||||||| || ||    || |||||  || |||||     
+Sbjct  166732747  CTGCACTAGAAACTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCGTGAG  166732806
+
+Query  735        CAACTTCATCAAGGATGCCGTTTTGT  760
+                  || |||  | ||||| || || ||||
+Sbjct  166732807  CATCTTTGTGAAGGACGCAGTCTTGT  166732832
+
+
+
+
+>Gymnogyps californianus isolate 813 chromosome 28, ASM1813914v2
+Sequence ID: NC_059498.1 Length: 7841093
+Range 1: 3002303 to 3002380
+
+Score:69.8 bits(76), Expect:2e-09, 
+Identities:62/78(79%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1173     CAAGAGACTTGCAAAGTCAACGCTCCTCCTCATCCCTCTCTTTGGGGTGCACTACATCAT  1232
+                || ||| ||  | ||||| ||||| ||||||||||||||||||||||| |||||| |  |
+Sbjct  3002380  CAGGAGGCTGACCAAGTCCACGCTGCTCCTCATCCCTCTCTTTGGGGTACACTACGTGGT  3002321
+
+Query  1233     CTTTGCTTTTTTCCCTGA  1250
+                 |||||  | ||||| ||
+Sbjct  3002320  GTTTGCACTCTTCCCCGA  3002303
+
+
+
+
+Range 2: 3004757 to 3004834
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  676      TGTACGAGAAACTACATCCACATGCATCTCTTCACATCTTTCATTTTGCGAGCCTCATCC  735
+                || || || |||| ||||||||| ||  ||||||| || |||||  |||| |   |  ||
+Sbjct  3004834  TGCACCAGGAACTCCATCCACATCCACTTCTTCACCTCCTTCATACTGCGCGGGGCTGCC  3004775
+
+Query  736      AACTTCATCAAGGATGCC  753
+                   ||||||||||| |||
+Sbjct  3004774  GTGTTCATCAAGGACGCC  3004757
+
+
+
+
+>Gymnogyps californianus isolate 813 chromosome 19, ASM1813914v2
+Sequence ID: NC_059489.1 Length: 14294090
+Range 1: 14133869 to 14133937
+
+Score:62.6 bits(68), Expect:3e-07, 
+Identities:55/69(80%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  664       AGAAGACTTCGCTGTACGAGAAACTACATCCACATGCATCTCTTCACATCTTTCATTTTG  723
+                 |||| ||||| ||| || |||||||||||||| ||| || | ||  ||||||| || |||
+Sbjct  14133937  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  14133878
+
+Query  724       CGAGCCTCA  732
+                 || ||| ||
+Sbjct  14133877  CGCGCCACA  14133869
+
+
+
+
+>Gymnogyps californianus isolate 813 chromosome 15, ASM1813914v2
+Sequence ID: NC_059485.1 Length: 19638087
+Range 1: 14426708 to 14426739
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:30/32(94%),  Gaps:1/32(3%), Strand: Plus/Plus
+
+Query  1082      TTATTAATTTCATTC-TTTTTGTCAACATTTT  1112
+                 |||| |||||||||| ||||||||||||||||
+Sbjct  14426708  TTATGAATTTCATTCATTTTTGTCAACATTTT  14426739
+
+
+
+
+
+
+
+		
+
+

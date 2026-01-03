@@ -1,0 +1,434 @@
+RID: NDM2BG7H014	
+Job Title:XM_053947471.1:1-1533 PREDICTED: Vidua chalybeata...				
+Program: BLASTN 
+Database: Genome (bVidCha1 merged haplotype) Vidua chalybeata bVidCha1 merged haplotype [GCF_026979565.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_026979565.1-RS_2023_03)
+Query #1: XM_053947471.1:1-1533 PREDICTED: Vidua chalybeata secretin receptor (SCTR), mRNA Query ID: lcl|Query_8289679 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Vidua chalybeata isolate OUT-0048 chromosome 7, bVidCha1 merge... Vidua chalyb... NA              81927      419    2994  100%  7e-115 99.56  39295975   NC_071536.1      
+Vidua chalybeata isolate OUT-0048 chromosome 1, bVidCha1 merge... Vidua chalyb... NA              81927      87.2   350   18%   9e-15  78.86  153566144  NC_071530.1      
+Vidua chalybeata isolate OUT-0048 chromosome 26, bVidCha1 merg... Vidua chalyb... NA              81927      56.4   101   5%    2e-05  87.23  6149731    NC_071555.1      
+Vidua chalybeata isolate OUT-0048 chromosome 19, bVidCha1 merg... Vidua chalyb... NA              81927      52.6   150   11%   2e-04  75.24  12625712   NC_071548.1      
+Vidua chalybeata isolate OUT-0048 chromosome 28, bVidCha1 merg... Vidua chalyb... NA              81927      44.9   44.9  3%    0.049  85.37  5438579    NC_071557.1      
+
+
+Alignments:
+
+>Vidua chalybeata isolate OUT-0048 chromosome 7, bVidCha1 merged haplotype
+Sequence ID: NC_071536.1 Length: 39295975
+Range 1: 30072567 to 30072792
+
+Score:419 bits(218), Expect:7e-115, 
+Identities:225/226(99%),  Gaps:1/226(0%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30072567  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  30072626
+
+Query  61        AGGGAAAA-AGCAAAGAGGGAAAAGGATGAAGTGAAAAAGAGCTAGGAGCCACGCTGGAG  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30072627  AGGGAAAAAAGCAAAGAGGGAAAAGGATGAAGTGAAAAAGAGCTAGGAGCCACGCTGGAG  30072686
+
+Query  120       AGCGTACAAACAGCCTGCTGACCTCTGATGCACGAGGGATGAAGAAAACAGACTCTGATT  179
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30072687  AGCGTACAAACAGCCTGCTGACCTCTGATGCACGAGGGATGAAGAAAACAGACTCTGATT  30072746
+
+Query  180       GACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30072747  GACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  30072792
+
+
+
+
+Range 2: 30092117 to 30092295
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30092117  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  30092176
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAACGGCGGCAGCGGCTTGACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30092177  AGCATCTCAGCACCTCAGCGAGTAACGGCGGCAGCGGCTTGACTCAAGAGATGCAGATGG  30092236
+
+Query  1475      TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30092237  TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  30092295
+
+
+
+
+Range 3: 30086962 to 30087118
+
+Score:302 bits(157), Expect:1e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30086962  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  30087021
+
+Query  858       GCTCCTTGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30087022  GCTCCTTGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  30087081
+
+Query  918       GAAGTTCCTCTGGTGGTTCATCACCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  30087082  GAAGTTCCTCTGGTGGTTCATCACCCTCGGATGGGGT  30087118
+
+
+
+
+Range 4: 30090742 to 30090881
+
+Score:269 bits(140), Expect:9e-70, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  1176      GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCATCTT  1235
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30090742  GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCATCTT  30090801
+
+Query  1236      TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGAATT  1295
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30090802  TGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGAATT  30090861
+
+Query  1296      GGCTCTTGGATCATTCCAGG  1315
+                 ||||||||||||||||||||
+Sbjct  30090862  GGCTCTTGGATCATTCCAGG  30090881
+
+
+
+
+Range 5: 30086006 to 30086141
+
+Score:262 bits(136), Expect:2e-67, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCACTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30086006  AGAAGACTTCACTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTG  30086065
+
+Query  724       CGAGCCTCATCCAGCTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAAGACACAAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30086066  CGAGCCTCATCCAGCTTCATCAAGGATGCTGTCTTGTTTTCCTCTGAAGACACAAATTAC  30086125
+
+Query  784       TGTGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  30086126  TGTGGGGCATACACGG  30086141
+
+
+
+
+Range 6: 30076265 to 30076393
+
+Score:248 bits(129), Expect:2e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30076265  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  30076324
+
+Query  285       GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30076325  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  30076384
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  30076385  GAGCTCAGG  30076393
+
+
+
+
+Range 7: 30080609 to 30080724
+
+Score:223 bits(116), Expect:7e-56, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCAGTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30080609  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCAGTGTGGGAC  30080668
+
+Query  410       AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30080669  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  30080724
+
+
+
+
+Range 8: 30084524 to 30084629
+
+Score:204 bits(106), Expect:5e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30084524  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  30084583
+
+Query  522       CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30084584  CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  30084629
+
+
+
+
+Range 9: 30084925 to 30085022
+
+Score:189 bits(98), Expect:2e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCGTTGGATACTGCACCTCCCTTGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30084925  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCGTTGGATACTGCACCTCCCTTGTG  30084984
+
+Query  628       ACGTTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  30084985  ACGTTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  30085022
+
+
+
+
+Range 10: 30090557 to 30090649
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      ATTAATTTCATTCTCTTTGTCAACATTTTGAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30090557  ATTAATTTCATTCTCTTTGTCAACATTTTGAGAATCCTGATGAGGAAGCTCAGCTCCCCT  30090616
+
+Query  1144      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  30090617  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  30090649
+
+
+
+
+Range 11: 30087798 to 30087868
+
+Score:137 bits(71), Expect:8e-30, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30087798  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  30087857
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  30087858  TGTCTATTTTT  30087868
+
+
+
+
+Range 12: 30087204 to 30087267
+
+Score:123 bits(64), Expect:9e-26, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCGACTGCTCGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30087204  GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCGACTGCTCGGCAACTCCATGAAAATATT  30087263
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  30087264  GGGT  30087267
+
+
+
+
+Range 13: 30091057 to 30091102
+
+Score:89.1 bits(46), Expect:2e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  30091057  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  30091102
+
+
+
+
+>Vidua chalybeata isolate OUT-0048 chromosome 1, bVidCha1 merged haplotype
+Sequence ID: NC_071530.1 Length: 153566144
+Range 1: 3026431 to 3026553
+
+Score:87.2 bits(45), Expect:9e-15, 
+Identities:97/123(79%),  Gaps:0/123(0%), Strand: Plus/Minus
+
+Query  817      ATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAAGGACTG  876
+                ||||| ||||| ||||| ||  ||||| | |||| |  |||||| || ||||| ||  ||
+Sbjct  3026553  ATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTGCTAGTGGAGGGGTTG  3026494
+
+Query  877      TACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGAAGTTCCTCTGGTGGTTC  936
+                ||||| ||||| || ||||| || |||||||||||||| ||||| |   ||||||||| |
+Sbjct  3026493  TACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAATATTTCTGGTGGTAC  3026434
+
+Query  937      ATC  939
+                |||
+Sbjct  3026433  ATC  3026431
+
+
+
+
+Range 2: 3012924 to 3012999
+
+Score:60.3 bits(31), Expect:1e-06, 
+Identities:61/76(80%),  Gaps:0/76(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1231
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  3012999  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3012940
+
+Query  1232     TCTTTGCTTTTTTCCC  1247
+                | |||||||| |||||
+Sbjct  3012939  TGTTTGCTTTCTTCCC  3012924
+
+
+
+
+Range 3: 3336929 to 3337004
+
+Score:60.3 bits(31), Expect:1e-06, 
+Identities:61/76(80%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1176     GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCATCTT  1235
+                ||||||||||||||| ||  | ||  | ||||| ||||||||||| ||||| ||  | ||
+Sbjct  3336929  GAGACTTGCAAAGTCCACGTTACTTTTGATCCCCCTCTTTGGGGTGCACTACATTGTATT  3336988
+
+Query  1236     TGCTTTTTTCCCTGAG  1251
+                ||| |||||||| |||
+Sbjct  3336989  TGCATTTTTCCCAGAG  3337004
+
+
+
+
+Range 4: 1386987 to 1387015
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:28/29(97%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  673      CACTGCACAAGGAACTACATCCACATGCA  701
+                |||||||| ||||||||||||||||||||
+Sbjct  1387015  CACTGCACTAGGAACTACATCCACATGCA  1386987
+
+
+
+
+Range 5: 3012045 to 3012092
+
+Score:46.8 bits(24), Expect:0.013, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1311     CCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                |||||| ||||| |||||||| || || || ||||| ||||| |||||
+Sbjct  3012092  CCAGGGATTTGTGGTGGCTGTTCTGTACTGCTTTCTCAATGGAGAGGT  3012045
+
+
+
+
+Range 6: 3332372 to 3332400
+
+Score:44.9 bits(23), Expect:0.049, 
+Identities:27/29(93%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  673      CACTGCACAAGGAACTACATCCACATGCA  701
+                ||||||||| |||| ||||||||||||||
+Sbjct  3332372  CACTGCACACGGAATTACATCCACATGCA  3332400
+
+
+
+
+>Vidua chalybeata isolate OUT-0048 chromosome 26, bVidCha1 merged haplotype
+Sequence ID: NC_071555.1 Length: 6149731
+Range 1: 1561935 to 1561981
+
+Score:56.4 bits(29), Expect:2e-05, 
+Identities:41/47(87%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  673      CACTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCAT  719
+                ||||||||| |||| ||||||||| |||| |||||||| || |||||
+Sbjct  1561981  CACTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCAT  1561935
+
+
+
+
+Range 2: 5216370 to 5216446
+
+Score:44.9 bits(23), Expect:0.049, 
+Identities:59/77(77%),  Gaps:0/77(0%), Strand: Plus/Minus
+
+Query  673      CACTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTGCGAGCCTCA  732
+                |||||||| ||||| | ||||||||| ||  ||||||| || |||||  |||| | | | 
+Sbjct  5216446  CACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCTTCATCCTGCGGGGCACG  5216387
+
+Query  733      TCCAGCTTCATCAAGGA  749
+                 ||   |||||||||||
+Sbjct  5216386  GCCGTGTTCATCAAGGA  5216370
+
+
+
+
+>Vidua chalybeata isolate OUT-0048 chromosome 19, bVidCha1 merged haplotype
+Sequence ID: NC_071548.1 Length: 12625712
+Range 1: 6582237 to 6582341
+
+Score:52.6 bits(27), Expect:2e-04, 
+Identities:79/105(75%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  815      CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTTGTGGAAGGAC  874
+                ||| ||||||| | |||||  ||||| || | |||||| ||||||| || ||||||||  
+Sbjct  6582341  CCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAAGGCA  6582282
+
+Query  875      TGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGA  919
+                | ||||| || |  ||  ||||| |  || ||||||| || ||||
+Sbjct  6582281  TCTACCTGCATAACCTGTTGGTGGTGGCCGTCTTCTCCGAGAGGA  6582237
+
+
+
+
+Range 2: 6582600 to 6582646
+
+Score:50.7 bits(26), Expect:0.001, 
+Identities:40/47(85%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  673      CACTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCAT  719
+                |||||||  |||||||||||||||||| | |||||| | || |||||
+Sbjct  6582646  CACTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  6582600
+
+
+
+
+Range 3: 2266137 to 2266172
+
+Score:46.8 bits(24), Expect:0.013, 
+Identities:32/36(89%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  664      AGAAGACTTCACTGCACAAGGAACTACATCCACATG  699
+                |||| |||||||||||| || ||||||||||| |||
+Sbjct  2266172  AGAAAACTTCACTGCACGAGAAACTACATCCATATG  2266137
+
+
+
+
+>Vidua chalybeata isolate OUT-0048 chromosome 28, bVidCha1 merged haplotype
+Sequence ID: NC_071557.1 Length: 5438579
+Range 1: 2038799 to 2038839
+
+Score:44.9 bits(23), Expect:0.049, 
+Identities:35/41(85%),  Gaps:0/41(0%), Strand: Plus/Plus
+
+Query  57       GGGAAGGGAAAAAGCAAAGAGGGAAAAGGATGAAGTGAAAA  97
+                ||||| |||||||| ||| |||||||||||  ||| |||||
+Sbjct  2038799  GGGAAAGGAAAAAGGAAAAAGGGAAAAGGAAAAAGGGAAAA  2038839
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,466 @@
+RID: NCB22V3B014	
+Job Title:XM_059852623.1:164-1795 PREDICTED: Haemorhous...				
+Program: BLASTN 
+Database: Genome (bHaeMex1.pri) Haemorhous mexicanus bHaeMex1.pri [GCF_027477595.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_027477595.1-RS_2023_09)
+Query #1: XM_059852623.1:164-1795 PREDICTED: Haemorhous mexicanus secretin receptor (SCTR), mRNA Query ID: lcl|Query_2901211 Length: 1632
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Haemorhous mexicanus isolate bHaeMex1 chromosome 8, bHaeMex1.pri  Haemorhous m... house finch     30427      571    2996  100%  2e-160 99.08  31663447   NC_082348.1      
+Haemorhous mexicanus isolate bHaeMex1 chromosome 1, bHaeMex1.pri  Haemorhous m... house finch     30427      105    492   22%   2e-20  76.81  159305015  NC_082341.1      
+Haemorhous mexicanus isolate bHaeMex1 chromosome 28, bHaeMex1.pri Haemorhous m... house finch     30427      71.6   183   8%    5e-10  76.60  6497947    NC_082368.1      
+Haemorhous mexicanus isolate bHaeMex1 chromosome 20, bHaeMex1.pri Haemorhous m... house finch     30427      57.2   108   4%    1e-05  84.31  13168035   NC_082360.1      
+Haemorhous mexicanus isolate bHaeMex1 chromosome 3, bHaeMex1.pri  Haemorhous m... house finch     30427      51.8   51.8  3%    5e-04  81.13  118570436  NC_082343.1      
+
+
+Alignments:
+
+>Haemorhous mexicanus isolate bHaeMex1 chromosome 8, bHaeMex1.pri
+Sequence ID: NC_082348.1 Length: 31663447
+Range 1: 9022906 to 9023232
+
+Score:571 bits(632), Expect:2e-160, 
+Identities:324/327(99%),  Gaps:3/327(0%), Strand: Plus/Minus
+
+Query  1        ATGCTCAAGAGAGGTGCTGTAATTCTTGGGACATGGCGCTTCTGCAgaggaggaggagag  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9023232  ATGCTCAAGAGAGGTGCTGTAATTCTTGGGACATGGCGCTTCTGCAGAGGAGGAGGAGAG  9023173
+
+Query  61       ttgcagggtggacgggagggggagggggTCCTGTCACTGCTGATGCTCTCTAGAGCTCAG  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9023172  TTGCAGGGTGGACGGGAGGGGGAGGGGGTCCTGTCACTGCTGATGCTCTCTAGAGCTCAG  9023113
+
+Query  121      CAGCTGGAGAGAAACATTGGCTGAGGATGGTCAAAGCTGGGAAGGG-AAAAGGCAAGGAG  179
+                |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+Sbjct  9023112  CAGCTGGAGAGAAACATTGGCTGAGGATGGTCAAAGCTGGGAAGGGAAAAAGGCAAGGAG  9023053
+
+Query  180      GGAAAAGGATGAAGTGAAAAGAGCTAGCAGCCACGCTGGAGAGCAT--AAACAGTCTGCT  237
+                ||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||
+Sbjct  9023052  GGAAAAGGATGAAGTGAAAAGAGCTAGCAGCCACGCTGGAGAGCATACAAACAGTCTGCT  9022993
+
+Query  238      GACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGATTGACTATGTGGTCCATCTGG  297
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9022992  GACCTCTGATGCATGAGGGATGAAGAAAACAGACTGTGATTGACTATGTGGTCCATCTGG  9022933
+
+Query  298      GTGTTCTTCTGGATTTCAGCTGTCCCG  324
+                |||||||||||||||||||||||||||
+Sbjct  9022932  GTGTTCTTCTGGATTTCAGCTGTCCCG  9022906
+
+
+
+
+Range 2: 9003386 to 9003564
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1454     AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1513
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9003564  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  9003505
+
+Query  1514     AGCATCTCAGCACGTCAGCGAGTAACGGAGGAAGCGGCTTGACCCAAGAGATGCAGATGG  1573
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9003504  AGCATCTCAGCACGTCAGCGAGTAACGGAGGAAGCGGCTTGACCCAAGAGATGCAGATGG  9003445
+
+Query  1574     TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  1632
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9003444  TGAGGTCCAGCCCAGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAA  9003386
+
+
+
+
+Range 3: 9008545 to 9008701
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  897      GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAATATTGCATCATGTCTAACTACAGCTG  956
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9008701  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAATATTGCATCATGTCTAACTACAGCTG  9008642
+
+Query  957      GCTCCTCGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  1016
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9008641  GCTCCTCGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAG  9008582
+
+Query  1017     GAAGTTCCTCTGCTGGTTCATCGCCCTCGGATGGGGT  1053
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  9008581  GAAGTTCCTCTGCTGGTTCATCGCCCTCGGATGGGGT  9008545
+
+
+
+
+Range 4: 9004794 to 9004936
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1272     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1331
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9004936  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  9004877
+
+Query  1332     CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  1391
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9004876  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  9004817
+
+Query  1392     ATTGGCTCTTGGATCATTCCAGG  1414
+                |||||||||||||||||||||||
+Sbjct  9004816  ATTGGCTCTTGGATCATTCCAGG  9004794
+
+
+
+
+Range 5: 9009507 to 9009659
+
+Score:248 bits(274), Expect:3e-63, 
+Identities:148/154(96%),  Gaps:1/154(0%), Strand: Plus/Minus
+
+Query  763      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCATTTTG  822
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9009659  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCATTTTG  9009600
+
+Query  823      CGAGCCTCATCCAACTTCATCAAGGATGCCGTCCTGTTTTCCTCTGAGGACACAAATTAC  882
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9009599  CGAGCCTCATCCAACTTCATCAAGGATGCCGTCCTGTTTTCCTCTGAGGACACAAATTAC  9009540
+
+Query  883      TGTGGGGCATACACGGCTGGCTGTAAGCTCACCA  916
+                |||||||||||||||| |  || |  ||||||||
+Sbjct  9009539  TGTGGGGCATACACGG-TAACTCTCTGCTCACCA  9009507
+
+
+
+
+Range 6: 9019290 to 9019418
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  324      GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  383
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9019418  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  9019359
+
+Query  384      GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  443
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9019358  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  9019299
+
+Query  444      GAGCTCAGG  452
+                |||||||||
+Sbjct  9019298  GAGCTCAGG  9019290
+
+
+
+
+Range 7: 9014995 to 9015110
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  449      CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  508
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9015110  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  9015051
+
+Query  509      AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  564
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9015050  AGACTGTCAATGCTCACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  9014995
+
+
+
+
+Range 8: 9011068 to 9011173
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  561      AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  620
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9011173  AGGTTTTGTGTACCGAAACTGTACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  9011114
+
+Query  621      CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  666
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9011113  CATTGCTTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  9011068
+
+
+
+
+Range 9: 9010667 to 9010764
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  667      CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  726
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9010764  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  9010705
+
+Query  727      ACGTTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  764
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  9010704  ACGTTGATGATAGCCTTGGTGGTCCTGGCCTCCTTTAG  9010667
+
+
+
+
+Range 10: 9005026 to 9005118
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1183     ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTAATGAGGAAGCTCAGCTCCCCT  1242
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9005118  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTAATGAGGAAGCTCAGCTCCCCT  9005059
+
+Query  1243     GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1275
+                |||||||||||||||||||||||||||||||||
+Sbjct  9005058  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  9005026
+
+
+
+
+Range 11: 9007791 to 9007861
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1112     GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1171
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9007861  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  9007802
+
+Query  1172     TGTCTATATTT  1182
+                |||||||||||
+Sbjct  9007801  TGTCTATATTT  9007791
+
+
+
+
+Range 12: 9008395 to 9008458
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  1051     GGTGCCCCAATGGTCTTTGTGGCTGCATGGGCCACTGCTCGGCAGCTCCATGAAAATATT  1110
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9008458  GGTGCCCCAATGGTCTTTGTGGCTGCATGGGCCACTGCTCGGCAGCTCCATGAAAATATT  9008399
+
+Query  1111     GGGT  1114
+                ||||
+Sbjct  9008398  GGGT  9008395
+
+
+
+
+Range 13: 9004573 to 9004618
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1412     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1457
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9004618  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  9004573
+
+
+
+
+>Haemorhous mexicanus isolate bHaeMex1 chromosome 1, bHaeMex1.pri
+Sequence ID: NC_082341.1 Length: 159305015
+Range 1: 3215260 to 3215397
+
+Score:105 bits(116), Expect:2e-20, 
+Identities:106/138(77%),  Gaps:0/138(0%), Strand: Plus/Plus
+
+Query  901      GGCTGTAAGCTCACCATGGTCTTCTTTCAATATTGCATCATGTCTAACTACAGCTGGCTC  960
+                ||||| |||  ||  ||||| ||||| || || ||  ||||| | |||| |  |||||| 
+Sbjct  3215260  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3215319
+
+Query  961      CTCGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATTTCCTTCTTCTCGGAAAGGAAG  1020
+                || ||||| ||  ||||||| ||||| || ||||| || |||||||||||||| ||||| 
+Sbjct  3215320  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3215379
+
+Query  1021     TTCCTCTGCTGGTTCATC  1038
+                | | |||| |||| ||||
+Sbjct  3215380  TACTTCTGGTGGTACATC  3215397
+
+
+
+
+Range 2: 3229245 to 3229323
+
+Score:80.6 bits(88), Expect:1e-12, 
+Identities:65/79(82%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1271     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1330
+                ||| ||| || || ||||| || || || || ||||||||||||||  ||||||| ||||
+Sbjct  3229245  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATCCACTACATCA  3229304
+
+Query  1331     TCTTTGCTTTTTTCCCTGA  1349
+                | |||||||| ||||||||
+Sbjct  3229305  TGTTTGCTTTCTTCCCTGA  3229323
+
+
+
+
+Range 3: 1323124 to 1323209
+
+Score:69.8 bits(76), Expect:2e-09, 
+Identities:69/87(79%),  Gaps:2/87(2%), Strand: Plus/Minus
+
+Query  774      CTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCATTTTGCGAGCC-TCAT  832
+                |||||| ||||||||||||||||||||||| ||   ||| |||||  || | ||| ||| 
+Sbjct  1323209  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTCA-  1323151
+
+Query  833      CCAACTTCATCAAGGATGCCGTCCTGT  859
+                 || |||| | ||||| || |||||||
+Sbjct  1323150  GCATCTTCGTGAAGGACGCGGTCCTGT  1323124
+
+
+
+
+Range 4: 3201438 to 3201515
+
+Score:65.3 bits(71), Expect:8e-08, 
+Identities:61/78(78%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  784      AACTACATCCACATGCACCTCTTCACGTCGTTCATTTTGCGAGCCTCATCCAACTTCATC  843
+                || ||||| |||||||||||||||| ||| |||||  || |||||    |   |||||||
+Sbjct  3201438  AATTACATTCACATGCACCTCTTCATGTCCTTCATCATGAGAGCCATTGCAGTCTTCATC  3201497
+
+Query  844      AAGGATGCCGTCCTGTTT  861
+                ||||||| | |||| |||
+Sbjct  3201498  AAGGATGTCATCCTTTTT  3201515
+
+
+
+
+Range 5: 3344693 to 3344770
+
+Score:60.8 bits(66), Expect:9e-07, 
+Identities:60/78(77%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1272     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1331
+                || ||| ||||||||||| ||  | ||  | ||||| ||||| ||||| ||||| ||  |
+Sbjct  3344693  CAGGAGGCTTGCAAAGTCCACGTTGCTGTTGATCCCCCTCTTCGGGGTGCACTACATTGT  3344752
+
+Query  1332     CTTTGCTTTTTTCCCTGA  1349
+                 ||||| |||||||| ||
+Sbjct  3344753  GTTTGCATTTTTCCCAGA  3344770
+
+
+
+
+Range 6: 3229986 to 3230033
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:41/48(85%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  1410     CCAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1457
+                |||||||||||| |||||||| || || || ||||| ||||| |||||
+Sbjct  3229986  CCAGGGCTTTGTGGTGGCTGTTCTGTACTGCTTTCTCAATGGAGAGGT  3230033
+
+
+
+
+Range 7: 3339697 to 3339750
+
+Score:53.6 bits(58), Expect:1e-04, 
+Identities:44/54(81%),  Gaps:0/54(0%), Strand: Plus/Plus
+
+Query  774      CTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCATTTTGCGAGC  827
+                ||||||| |||| ||||||||||||||||| ||    || ||||| ||| ||||
+Sbjct  3339697  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTCATCTTGAGAGC  3339750
+
+
+
+
+>Haemorhous mexicanus isolate bHaeMex1 chromosome 28, bHaeMex1.pri
+Sequence ID: NC_082368.1 Length: 6497947
+Range 1: 887391 to 887484
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:72/94(77%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  755     CCTCCTTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGT  814
+               ||||||  || | ||| | |||||| ||||| | ||||||||| ||| ||||||| || |
+Sbjct  887391  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  887450
+
+Query  815     TCATTTTGCGAGCCTCATCCAACTTCATCAAGGA  848
+               ||||  |||| | | || ||   |||||||||||
+Sbjct  887451  TCATCCTGCGGGGCACAGCCGTGTTCATCAAGGA  887484
+
+
+
+
+Range 2: 4998426 to 4998500
+
+Score:63.5 bits(69), Expect:3e-07, 
+Identities:61/76(80%),  Gaps:2/76(2%), Strand: Plus/Minus
+
+Query  774      CTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCATTTTGCGAG-CCTCAT  832
+                ||||||| |||| ||||||||| ||||||||||||| || ||||| |  || | ||||| 
+Sbjct  4998500  CTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCATCTGCCGGGCCCTCA-  4998442
+
+Query  833      CCAACTTCATCAAGGA  848
+                 || |||| | |||||
+Sbjct  4998441  GCATCTTCCTGAAGGA  4998426
+
+
+
+
+Range 3: 5535649 to 5535690
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:37/43(86%),  Gaps:1/43(2%), Strand: Plus/Minus
+
+Query  158      TGGGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  200
+                ||||||||||||| ||| | ||||||||| | |||| ||||||
+Sbjct  5535690  TGGGAAGGGAAAA-GCAGGAAGGGAAAAGCAGGAAGGGAAAAG  5535649
+
+
+
+
+>Haemorhous mexicanus isolate bHaeMex1 chromosome 20, bHaeMex1.pri
+Sequence ID: NC_082360.1 Length: 13168035
+Range 1: 11911631 to 11911681
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:43/51(84%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  768       GCTTCGCTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCAT  818
+                 ||| | |||||  |||||||||||||||||| |||||||| | || |||||
+Sbjct  11911631  GCTGCACTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  11911681
+
+
+
+
+Range 2: 2252286 to 2252350
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:50/65(77%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  763      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCATTTTG  822
+                ||||  |||| ||||||||| ||||||||||||||| |  | ||  | || |||||  ||
+Sbjct  2252350  AGAAAACTTCACTGCACAAGAAACTACATCCACATGAATTTATTTGCATCCTTCATCCTG  2252291
+
+Query  823      CGAGC  827
+                || ||
+Sbjct  2252290  CGTGC  2252286
+
+
+
+
+>Haemorhous mexicanus isolate bHaeMex1 chromosome 3, bHaeMex1.pri
+Sequence ID: NC_082343.1 Length: 118570436
+Range 1: 37675018 to 37675070
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:43/53(81%),  Gaps:0/53(0%), Strand: Plus/Minus
+
+Query  775       TGCACAAGGAACTACATCCACATGCACCTCTTCACGTCGTTCATTTTGCGAGC  827
+                 ||||||||||| ||||| ||| || |||||||||| || || ||| | || ||
+Sbjct  37675070  TGCACAAGGAATTACATTCACCTGAACCTCTTCACCTCTTTTATTCTCCGGGC  37675018
+
+
+
+
+
+
+
+		
+
+

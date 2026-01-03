@@ -1,0 +1,367 @@
+RID: NDKJ30YV014	
+Job Title:XM_074872328.1 PREDICTED: Strix uralensis...				
+Program: BLASTN 
+Database: Genome (bStrUra1) Strix uralensis bStrUra1 [GCF_047716275.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_047716275.1-RS_2025_06)
+Query #1: XM_074872328.1 PREDICTED: Strix uralensis secretin receptor (SCTR), mRNA Query ID: lcl|Query_8171159 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Strix uralensis isolate ZFMK-TIS-50842 chromosome 6, bStrUra1     Strix uralensis Ural owl        36305      392    2823  100%  1e-106 98.68  46170580   NC_133977.1      
+Strix uralensis isolate ZFMK-TIS-50842 chromosome 1, bStrUra1     Strix uralensis Ural owl        36305      62.6   211   15%   3e-07  77.22  175618106  NC_133972.1      
+Strix uralensis isolate ZFMK-TIS-50842 chromosome 22, bStrUra1    Strix uralensis Ural owl        36305      58.1   105   10%   1e-05  75.95  12001617   NC_133993.1      
+Strix uralensis isolate ZFMK-TIS-50842 chromosome 19, bStrUra1    Strix uralensis Ural owl        36305      47.3   47.3  2%    0.023  86.84  17316830   NC_133990.1      
+
+
+Alignments:
+
+>Strix uralensis isolate ZFMK-TIS-50842 chromosome 6, bStrUra1
+Sequence ID: NC_133977.1 Length: 46170580
+Range 1: 35019946 to 35020173
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGGGCTCAGAAGCTGAAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35019946  ATGCTCTCTAGGGCTCAGAAGCTGAAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  35020005
+
+Query  61        AGGAAAAAA-GCAAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35020006  AGGAAAAAAAGCAAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  35020065
+
+Query  120       G--TACAGACAGCCCGGTGACCTCTGATGTGCAAGGGATGAAGGAAACAGACTGTGATTG  177
+                 |  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35020066  GCGTACAGACAGCCCGGTGACCTCTGATGTGCAAGGGATGAAGGAAACAGACTGTGATTG  35020125
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGTATTTCAACTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35020126  ACTATGTGGACCATCTGGGTGATCATCTTCTGTATTTCAACTGTCCTG  35020173
+
+
+
+
+Range 2: 35039872 to 35040050
+
+Score:324 bits(358), Expect:6e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGTAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35039872  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGTAAACACTTGCGTC  35039931
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35039932  AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  35039991
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGAACAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35039992  TGAGGTCGAGCCCACCAGAGCACAGGAGAACAACCCTCCAAAGATCAAGCGTGCTTTAA  35040050
+
+
+
+
+Range 3: 35034627 to 35034783
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35034627  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  35034686
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATCTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35034687  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATCTCTTTCTTCTCGGAAAG  35034746
+
+Query  918       GAAGTTCCTCTGGTGGTTCATCACCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  35034747  GAAGTTCCTCTGGTGGTTCATCACCCTCGGATGGGGT  35034783
+
+
+
+
+Range 4: 35038488 to 35038630
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35038488  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCAT  35038547
+
+Query  1233      CTTCGCTTTTTTCCCCGAAGACACAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35038548  CTTCGCTTTTTTCCCCGAAGACACAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGA  35038607
+
+Query  1293      ATTGGGTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  35038608  ATTGGGTCTTGGATCATTCCAGG  35038630
+
+
+
+
+Range 5: 35033302 to 35033437
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35033302  AGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCATTTTG  35033361
+
+Query  724       CGAGCCTCGTCCAACTTCATCAAGGATGCCATTTTGTTTTCCTCTGAAGACATAAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35033362  CGAGCCTCGTCCAACTTCATCAAGGATGCCATTTTGTTTTCCTCTGAAGACATAAATTAC  35033421
+
+Query  784       TGTGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  35033422  TGTGGGGCATACACGG  35033437
+
+
+
+
+Range 6: 35023913 to 35024068
+
+Score:238 bits(263), Expect:7e-60, 
+Identities:148/158(94%),  Gaps:2/158(1%), Strand: Plus/Plus
+
+Query  196       GTGATCATCTTCTGTATTTCAACTGTCCTGATCAGAGCTGTCCCGCCTGTCTGTGACCTC  255
+                 |||||  ||| |||  ||| || | | | |||||||||||||||||||||||||||||||
+Sbjct  35023913  GTGAT--TCTACTGCTTTTAAAATTTGCAGATCAGAGCTGTCCCGCCTGTCTGTGACCTC  35023970
+
+Query  256       CTGAGCGTCCTGAAAAAGGAGGAAGAAAACTGTGCCAAGACTCTGTCCCTGGAGGAGAAG  315
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35023971  CTGAGCGTCCTGAAAAAGGAGGAAGAAAACTGTGCCAAGACTCTGTCCCTGGAGGAGAAG  35024030
+
+Query  316       AACAGAACGCCCGAAAACGATCTGCTCCTGAGCTCGGG  353
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  35024031  AACAGAACGCCCGAAAACGATCTGCTCCTGAGCTCGGG  35024068
+
+
+
+
+Range 7: 35027752 to 35027865
+
+Score:206 bits(228), Expect:1e-50, 
+Identities:114/114(100%),  Gaps:0/114(0%), Strand: Plus/Plus
+
+Query  352       GGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCAGCTGTGGGACAG  411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35027752  GGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCAGCTGTGGGACAG  35027811
+
+Query  412       ACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35027812  ACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  35027865
+
+
+
+
+Range 8: 35031830 to 35031935
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTGTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCAAGACCCGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35031830  AGGTTTTGTGTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCAAGACCCGA  35031889
+
+Query  522       TATCGCTTGTGGCTACAACATCAATGACACGACAAATGAGGCAAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35031890  TATCGCTTGTGGCTACAACATCAATGACACGACAAATGAGGCAAGA  35031935
+
+
+
+
+Range 9: 35032227 to 35032324
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35032227  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGTG  35032286
+
+Query  628       ACGCTGACGATAGCCCTAGTGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  35032287  ACGCTGACGATAGCCCTAGTGGTCCTGGTCTCTTTTAG  35032324
+
+
+
+
+Range 10: 35038290 to 35038396
+
+Score:171 bits(189), Expect:8e-40, 
+Identities:102/107(95%),  Gaps:0/107(0%), Strand: Plus/Plus
+
+Query  1070      TTTTGTCTATTTTTATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGA  1129
+                 |||||| | ||   ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35038290  TTTTGTTTTTTCAGATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGA  35038349
+
+Query  1130      AGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35038350  AGCTCAGCTCACCTGAAGGACGGAGCAGTGATTTCAACCAATACAAG  35038396
+
+
+
+
+Range 11: 35035477 to 35035547
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35035477  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  35035536
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  35035537  TGTCTATTTTT  35035547
+
+
+
+
+Range 12: 35034872 to 35034935
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACTGTCTTTGTGGTTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35034872  GGTGCCCCAACTGTCTTTGTGGTTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  35034931
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  35034932  GGGT  35034935
+
+
+
+
+Range 13: 35038797 to 35038855
+
+Score:87.8 bits(96), Expect:7e-15, 
+Identities:56/60(93%),  Gaps:1/60(1%), Strand: Plus/Plus
+
+Query  1299      TCTTGGATCATTCCAGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||  ||| ||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35038797  TCTTTTATCTTTC-AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  35038855
+
+
+
+
+>Strix uralensis isolate ZFMK-TIS-50842 chromosome 1, bStrUra1
+Sequence ID: NC_133972.1 Length: 175618106
+Range 1: 1490349 to 1490427
+
+Score:62.6 bits(68), Expect:3e-07, 
+Identities:61/79(77%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1231
+                ||| ||| || || ||||| ||  | || || ||||||||||||||  | ||||| ||||
+Sbjct  1490349  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  1490408
+
+Query  1232     TCTTCGCTTTTTTCCCCGA  1250
+                | || ||||| ||||| ||
+Sbjct  1490409  TGTTTGCTTTCTTCCCTGA  1490427
+
+
+
+
+Range 2: 3644117 to 3644222
+
+Score:52.7 bits(57), Expect:5e-04, 
+Identities:75/106(71%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  655      GTCTCTTTTAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCA  714
+                |||||||  ||| |  | | ||| || || ||||||||||||||||| || ||    || 
+Sbjct  3644117  GTCTCTTCCAGACGTTTGCACTGCACTAGAAACTACATCCACATGCACCTATTTGTCTCC  3644176
+
+Query  715      TTCATTTTGCGAGCCTCGTCCAACTTCATCAAGGATGCCATTTTGT  760
+                |||||  || ||||   |  || |||| | ||||||||  | ||||
+Sbjct  3644177  TTCATGCTGAGAGCTGTGAGCATCTTCGTGAAGGATGCAGTCTTGT  3644222
+
+
+
+
+Range 3: 60522093 to 60522166
+
+Score:50.0 bits(54), Expect:0.002, 
+Identities:56/74(76%),  Gaps:1/74(1%), Strand: Plus/Plus
+
+Query  656       TCTCTT-TTAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCA  714
+                 |||||| |||||| |||||  |||||  |||||||||||||  || | || |||   || 
+Sbjct  60522093  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCT  60522152
+
+Query  715       TTCATTTTGCGAGC  728
+                 |||||| |  ||||
+Sbjct  60522153  TTCATTCTAAGAGC  60522166
+
+
+
+
+Range 4: 140278911 to 140278952
+
+Score:46.4 bits(50), Expect:0.023, 
+Identities:38/44(86%),  Gaps:2/44(4%), Strand: Plus/Plus
+
+Query  1079       TTTTTATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTG  1122
+                  |||| || ||||| || |||||||||| |||||||||||| |||
+Sbjct  140278911  TTTTAATGAATTTTAT-CTTTTTGTCA-CATTTTAAGAATTTTG  140278952
+
+
+
+
+>Strix uralensis isolate ZFMK-TIS-50842 chromosome 22, bStrUra1
+Sequence ID: NC_133993.1 Length: 12001617
+Range 1: 6794810 to 6794888
+
+Score:58.1 bits(63), Expect:1e-05, 
+Identities:60/79(76%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGGGTCCACTATATCA  1231
+                ||| ||| ||  | ||||| || || |||||||||||||| || ||||| |||||| |  
+Sbjct  6794888  ACAGGAGGCTGACGAAGTCCACGCTGCTCCTCATCCCTCTTTTCGGGGTACACTATGTGG  6794829
+
+Query  1232     TCTTCGCTTTTTTCCCCGA  1250
+                | || ||  | ||||||||
+Sbjct  6794828  TGTTTGCACTCTTCCCCGA  6794810
+
+
+
+
+Range 2: 6797205 to 6797282
+
+Score:47.3 bits(51), Expect:0.023, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  676      TGTACAAGGAACTACATCCACATGCATCTCTTCACATCATTCATTTTGCGAGCCTCGTCC  735
+                || || ||||| | ||||||||| ||  ||||||| || |||||  |||| |   |  ||
+Sbjct  6797282  TGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCTTCATACTGCGCGGGGCTGCC  6797223
+
+Query  736      AACTTCATCAAGGATGCC  753
+                   ||||||||||| |||
+Sbjct  6797222  GTGTTCATCAAGGACGCC  6797205
+
+
+
+
+>Strix uralensis isolate ZFMK-TIS-50842 chromosome 19, bStrUra1
+Sequence ID: NC_133990.1 Length: 17316830
+Range 1: 16859127 to 16859164
+
+Score:47.3 bits(51), Expect:0.023, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  682       AGGAACTACATCCACATGCATCTCTTCACATCATTCAT  719
+                 |||||||||||||||||| | |||||| | || |||||
+Sbjct  16859127  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  16859164
+
+
+
+
+
+
+
+		
+
+

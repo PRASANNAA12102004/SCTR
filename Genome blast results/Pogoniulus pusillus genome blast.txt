@@ -1,0 +1,429 @@
+RID: NDJ42J77014	
+Job Title:XM_064166482.1:1-1533 PREDICTED: Pogoniulus...				
+Program: BLASTN 
+Database: Genome (bPogPus1.pri) Pogoniulus pusillus bPogPus1.pri [GCF_015220805.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_015220805.1-RS_2024_03)
+Query #1: XM_064166482.1:1-1533 PREDICTED: Pogoniulus pusillus secretin receptor (SCTR), mRNA Query ID: lcl|Query_7587561 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Pogoniulus pusillus isolate bPogPus1 chromosome 2, bPogPus1.pri   Pogoniulus p... Red-fronted ... 488313     389    2989  100%  1e-105 98.64  50464041   NC_087265.1      
+Pogoniulus pusillus isolate bPogPus1 chromosome 23, bPogPus1.pri  Pogoniulus p... Red-fronted ... 488313     93.0   369   18%   2e-16  79.67  22851124   NC_087286.1      
+Pogoniulus pusillus isolate bPogPus1 chromosome 11, bPogPus1.pri  Pogoniulus p... Red-fronted ... 488313     64.1   64.1  7%    9e-08  77.14  34651362   NC_087274.1      
+Pogoniulus pusillus isolate bPogPus1 chromosome 40, bPogPus1.pri  Pogoniulus p... Red-fronted ... 488313     56.4   56.4  9%    2e-05  73.88  8734467    NC_087303.1      
+Pogoniulus pusillus isolate bPogPus1 chromosome 8, bPogPus1.pri   Pogoniulus p... Red-fronted ... 488313     46.8   46.8  2%    0.015  93.33  41511246   NC_087271.1      
+Pogoniulus pusillus isolate bPogPus1 chromosome 10, bPogPus1.pri  Pogoniulus p... Red-fronted ... 488313     46.8   46.8  2%    0.015  96.30  40508505   NC_087273.1      
+
+
+Alignments:
+
+>Pogoniulus pusillus isolate bPogPus1 chromosome 2, bPogPus1.pri
+Sequence ID: NC_087265.1 Length: 50464041
+Range 1: 12645248 to 12645468
+
+Score:389 bits(202), Expect:1e-105, 
+Identities:218/221(99%),  Gaps:3/221(1%), Strand: Plus/Minus
+
+Query  1         ATGCTTTCTGAGGCTCAGCAGATGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12645468  ATGCTTTCTGAGGCTCAGCAGATGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  12645409
+
+Query  61        AGaaaaaaa-GCAAGGAGGGAAAGGGATGAAGCTAAGAACCACGCTGGAGAGCATA--AA  117
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||  ||
+Sbjct  12645408  AGAAAAAAAAGCAAGGAGGGAAAGGGATGAAGCTAAGAACCACGCTGGAGAGCATACAAA  12645349
+
+Query  118       CAGCCCAGTGACCTCTGATGCACAAGGGATGAAGGAAACAGACTGTGATTGACTATGTGG  177
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12645348  CAGCCCAGTGACCTCTGATGCACAAGGGATGAAGGAAACAGACTGTGATTGACTATGTGG  12645289
+
+Query  178       ACCATCTGGGTAATGATCTTCTGGATTTCAGCTGTCCTGGT  218
+                 |||||||||||||||||||||||||||||||||||||||||
+Sbjct  12645288  ACCATCTGGGTAATGATCTTCTGGATTTCAGCTGTCCTGGT  12645248
+
+
+
+
+Range 2: 12623102 to 12623289
+
+Score:362 bits(188), Expect:2e-97, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Minus
+
+Query  1346      AGGTTCAGCTGGAAGTTAAGAGAAAATGGAGGCAGTGGCATTTAACCAAACACTTGAGAC  1405
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12623289  AGGTTCAGCTGGAAGTTAAGAGAAAATGGAGGCAGTGGCATTTAACCAAACACTTGAGAC  12623230
+
+Query  1406      AACATCTGAGCACCACAGCAAGTAATGGAGGAAGTGGCTTGACTCAAGAGATGCAGATGG  1465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12623229  AACATCTGAGCACCACAGCAAGTAATGGAGGAAGTGGCTTGACTCAAGAGATGCAGATGG  12623170
+
+Query  1466      TGAGGTCAAACCCAGCAGAGCACTGGAGAGAGCACCAGAGCACCCTCCAAAGATCAAGCG  1525
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12623169  TGAGGTCAAACCCAGCAGAGCACTGGAGAGAGCACCAGAGCACCCTCCAAAGATCAAGCG  12623110
+
+Query  1526      TGCTTTAA  1533
+                 ||||||||
+Sbjct  12623109  TGCTTTAA  12623102
+
+
+
+
+Range 3: 12628215 to 12628371
+
+Score:302 bits(157), Expect:2e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  789       GGTTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTACTGTATCATGTCTAACTACAGCTG  848
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12628371  GGTTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTACTGTATCATGTCTAACTACAGCTG  12628312
+
+Query  849       GCTCCTTGTGGAGGGACTATACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  908
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12628311  GCTCCTTGTGGAGGGACTATACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  12628252
+
+Query  909       GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  945
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  12628251  GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  12628215
+
+
+
+
+Range 4: 12624387 to 12624526
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  1167      GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGATCCACTACATTGTCTT  1226
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12624526  GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGATCCACTACATTGTCTT  12624467
+
+Query  1227      TGCTTTTTTCCCTGAAGATGCAAGCAGCGGCGCAATGGAGATTCAGCTGTTTTTTGAATT  1286
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12624466  TGCTTTTTTCCCTGAAGATGCAAGCAGCGGCGCAATGGAGATTCAGCTGTTTTTTGAATT  12624407
+
+Query  1287      GGCTCTTGGATCATTCCAGG  1306
+                 ||||||||||||||||||||
+Sbjct  12624406  GGCTCTTGGATCATTCCAGG  12624387
+
+
+
+
+Range 5: 12630218 to 12630354
+
+Score:264 bits(137), Expect:6e-68, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  655       AGAAGACTTCGCTGTACAAGGAACTACATCCATATGCATCTCTTCACATCATTCATTTTG  714
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12630354  AGAAGACTTCGCTGTACAAGGAACTACATCCATATGCATCTCTTCACATCATTCATTTTG  12630295
+
+Query  715       AGAGCCTCATCCAACTTCATCAAGGATGCCATTCTGTTTTCTTCTGAAGACACAAATTAC  774
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12630294  AGAGCCTCATCCAACTTCATCAAGGATGCCATTCTGTTTTCTTCTGAAGACACAAATTAC  12630235
+
+Query  775       TGCGGGTCATACACGGT  791
+                 |||||||||||||||||
+Sbjct  12630234  TGCGGGTCATACACGGT  12630218
+
+
+
+
+Range 6: 12640690 to 12640818
+
+Score:248 bits(129), Expect:3e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  216       GGTCAGAGCTGTCCCCCCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAGGAAAA  275
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12640818  GGTCAGAGCTGTCCCCCCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAGGAAAA  12640759
+
+Query  276       CTGTGCTAAGACACTGTTGCTGGAGGCAAAGAACAGAACACCTGAAAATGATCAGCTCCT  335
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12640758  CTGTGCTAAGACACTGTTGCTGGAGGCAAAGAACAGAACACCTGAAAATGATCAGCTCCT  12640699
+
+Query  336       GAGCTCAGG  344
+                 |||||||||
+Sbjct  12640698  GAGCTCAGG  12640690
+
+
+
+
+Range 7: 12635705 to 12635822
+
+Score:227 bits(118), Expect:6e-57, 
+Identities:118/118(100%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  339       CTCAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCCTCAGCTGTGGG  398
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12635822  CTCAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCCTCAGCTGTGGG  12635763
+
+Query  399       ACAGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  456
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12635762  ACAGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  12635705
+
+
+
+
+Range 8: 12631710 to 12631815
+
+Score:204 bits(106), Expect:5e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  453       AGGTTTTGTCTACCGAAACTGTACCAGTGAGGGTTGGTCAGATCCATATCCAAGACCCGA  512
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12631815  AGGTTTTGTCTACCGAAACTGTACCAGTGAGGGTTGGTCAGATCCATATCCAAGACCCGA  12631756
+
+Query  513       TATCGCTTGTGGCTACAATGTCAATGACACAACAAATGAGGCGAGA  558
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12631755  TATCGCTTGTGGCTACAATGTCAATGACACAACAAATGAGGCGAGA  12631710
+
+
+
+
+Range 9: 12631317 to 12631414
+
+Score:189 bits(98), Expect:2e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  559       CGTTCCTATTTCATGACTTTGAAGATCATGTACACCATTGGATACTGCACCTCACTCGTG  618
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12631414  CGTTCCTATTTCATGACTTTGAAGATCATGTACACCATTGGATACTGCACCTCACTCGTG  12631355
+
+Query  619       ACGCTGATGATAGCCTTAGCAGTCTTGGTCTCTTTTAG  656
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  12631354  ACGCTGATGATAGCCTTAGCAGTCTTGGTCTCTTTTAG  12631317
+
+
+
+
+Range 10: 12624623 to 12624715
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1075      ATTAATTTCATTCTTTTTGTCAATATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  1134
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12624715  ATTAATTTCATTCTTTTTGTCAATATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  12624656
+
+Query  1135      GAAAGACGAAGTAATGATGTCAACCAATACAAG  1167
+                 |||||||||||||||||||||||||||||||||
+Sbjct  12624655  GAAAGACGAAGTAATGATGTCAACCAATACAAG  12624623
+
+
+
+
+Range 11: 12627452 to 12627522
+
+Score:137 bits(71), Expect:1e-29, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1004      GGTGTTGGGACATCAACACTAACGCTAATACCTGGTGGATCATTAGAGGCCCTATAGTTT  1063
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12627522  GGTGTTGGGACATCAACACTAACGCTAATACCTGGTGGATCATTAGAGGCCCTATAGTTT  12627463
+
+Query  1064      TCTCTATTTTC  1074
+                 |||||||||||
+Sbjct  12627462  TCTCTATTTTC  12627452
+
+
+
+
+Range 12: 12628060 to 12628124
+
+Score:125 bits(65), Expect:3e-26, 
+Identities:65/65(100%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  943       GGTGCCCCAACCGTATTTGTGGCTGCGTGGGCGACTGCTAGGCAGCTCCATGAGAATATC  1002
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12628124  GGTGCCCCAACCGTATTTGTGGCTGCGTGGGCGACTGCTAGGCAGCTCCATGAGAATATC  12628065
+
+Query  1003      GGGTG  1007
+                 |||||
+Sbjct  12628064  GGGTG  12628060
+
+
+
+
+Range 13: 12624168 to 12624213
+
+Score:89.1 bits(46), Expect:3e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1304      AGGGCTTTGTCGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  1349
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12624213  AGGGCTTTGTCGTGGCTGTGCTTTATTGTTTTCTTAATGGTGAGGT  12624168
+
+
+
+
+>Pogoniulus pusillus isolate bPogPus1 chromosome 23, bPogPus1.pri
+Sequence ID: NC_087286.1 Length: 22851124
+Range 1: 4538918 to 4539040
+
+Score:93.0 bits(48), Expect:2e-16, 
+Identities:98/123(80%),  Gaps:0/123(0%), Strand: Plus/Plus
+
+Query  808      ATGGTCTTCTTTCAGTACTGTATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGACTA  867
+                ||||| ||||| ||||||||| ||||| | |||| |  ||||||||||||||||||  | 
+Sbjct  4538918  ATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTCCTTGTGGAGGGGTTG  4538977
+
+Query  868      TACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAGGAAGTTCCTCTGGTGGTTC  927
+                || || ||||| ||  |||| || || |||||||| || ||||||| | | ||||||| |
+Sbjct  4538978  TATCTTCACACCCTGTTGGTCATCTCCTTCTTCTCAGAGAGGAAGTACTTTTGGTGGTAC  4539037
+
+Query  928      ATC  930
+                |||
+Sbjct  4539038  ATC  4539040
+
+
+
+
+Range 2: 4034574 to 4034638
+
+Score:62.2 bits(32), Expect:4e-07, 
+Identities:54/65(83%),  Gaps:0/65(0%), Strand: Plus/Plus
+
+Query  808      ATGGTCTTCTTTCAGTACTGTATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGACTA  867
+                ||||| || ||||| |||||| ||||||| ||||||  ||||||| || | |||||||| 
+Sbjct  4034574  ATGGTGTTTTTTCACTACTGTGTCATGTCCAACTACTTCTGGCTCTTTATTGAGGGACTG  4034633
+
+Query  868      TACCT  872
+                |||||
+Sbjct  4034634  TACCT  4034638
+
+
+
+
+Range 3: 4518767 to 4518832
+
+Score:58.4 bits(30), Expect:5e-06, 
+Identities:54/66(82%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  655      AGAAGACTTCGCTGTACAAGGAACTACATCCATATGCATCTCTTCACATCATTCATTTTG  714
+                |||| ||| | ||||||  |||| || |||||||||||||||||||  || |||||  ||
+Sbjct  4518767  AGAAAACTACACTGTACTCGGAATTATATCCATATGCATCTCTTCATGTCCTTCATCATG  4518826
+
+Query  715      AGAGCC  720
+                ||||||
+Sbjct  4518827  AGAGCC  4518832
+
+
+
+
+Range 4: 4100542 to 4100617
+
+Score:54.5 bits(28), Expect:7e-05, 
+Identities:60/76(79%),  Gaps:0/76(0%), Strand: Plus/Minus
+
+Query  1167     GAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGATCCACTACATTGTCTT  1226
+                ||||||||| || || || || ||| | ||||| || |||||  | |||||| |||| ||
+Sbjct  4100617  GAGACTTGCTAAATCCACCCTGCTCTTAATCCCCCTCTTTGGAGTGCACTACGTTGTGTT  4100558
+
+Query  1227     TGCTTTTTTCCCTGAA  1242
+                ||| |||||||| |||
+Sbjct  4100557  TGCGTTTTTCCCAGAA  4100542
+
+
+
+
+Range 5: 4558010 to 4558088
+
+Score:54.5 bits(28), Expect:7e-05, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1163     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGATCCACTACATTG  1222
+                ||| ||| || || ||||| ||  | || || |||||||| ||||| || ||||||||  
+Sbjct  4558010  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  4558069
+
+Query  1223     TCTTTGCTTTTTTCCCTGA  1241
+                | |||||||| ||||||||
+Sbjct  4558070  TGTTTGCTTTCTTCCCTGA  4558088
+
+
+
+
+Range 6: 4112507 to 4112539
+
+Score:46.8 bits(24), Expect:0.015, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Minus
+
+Query  666      CTGTACAAGGAACTACATCCATATGCATCTCTT  698
+                ||||||| ||||||||||||| ||||| |||||
+Sbjct  4112539  CTGTACACGGAACTACATCCACATGCACCTCTT  4112507
+
+
+
+
+>Pogoniulus pusillus isolate bPogPus1 chromosome 11, bPogPus1.pri
+Sequence ID: NC_087274.1 Length: 34651362
+Range 1: 7855200 to 7855304
+
+Score:64.1 bits(33), Expect:9e-08, 
+Identities:81/105(77%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  806      CCATGGTCTTCTTTCAGTACTGTATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGAC  865
+                ||| ||||||| | |||||| | ||| || |||||||| ||||||| || ||||| ||  
+Sbjct  7855200  CCACGGTCTTCATGCAGTACGGCATCGTGGCTAACTACTGCTGGCTGCTGGTGGAAGGCA  7855259
+
+Query  866      TATACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAGGA  910
+                | ||||| ||||  ||||||||  |  || ||||||| || ||||
+Sbjct  7855260  TCTACCTGCACAACCTCCTGGTGGTGGCTGTCTTCTCTGAGAGGA  7855304
+
+
+
+
+>Pogoniulus pusillus isolate bPogPus1 chromosome 40, bPogPus1.pri
+Sequence ID: NC_087303.1 Length: 8734467
+Range 1: 5790670 to 5790803
+
+Score:56.4 bits(29), Expect:2e-05, 
+Identities:99/134(74%),  Gaps:0/134(0%), Strand: Plus/Plus
+
+Query  813      CTTCTTTCAGTACTGTATCATGTCTAACTACAGCTGGCTCCTTGTGGAGGGACTATACCT  872
+                |||||| |||||||   || || | |||| |  |||||| || |||||||| || |||||
+Sbjct  5790670  CTTCTTCCAGTACTCAGTCCTGGCCAACTTCTACTGGCTGCTGGTGGAGGGTCTGTACCT  5790729
+
+Query  873      CCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAGGAAGTTCCTCTGGTGGTTCATCGC  932
+                 || || || ||| |  |  | |||  ||| || |||| || ||||||||||| ||||  
+Sbjct  5790730  GCAGACGCTGCTGCTGCTCACCTTCACCTCCGACAGGAGGTACCTCTGGTGGTACATCCT  5790789
+
+Query  933      CCTCGGATGGGGTG  946
+                | |||| |||||||
+Sbjct  5790790  CATCGGCTGGGGTG  5790803
+
+
+
+
+>Pogoniulus pusillus isolate bPogPus1 chromosome 8, bPogPus1.pri
+Sequence ID: NC_087271.1 Length: 41511246
+Range 1: 30319287 to 30319316
+
+Score:46.8 bits(24), Expect:0.015, 
+Identities:28/30(93%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  873       CCACACTCTCCTGGTTATTTCTTTCTTCTC  902
+                 ||||| ||||||| ||||||||||||||||
+Sbjct  30319316  CCACATTCTCCTGCTTATTTCTTTCTTCTC  30319287
+
+
+
+
+>Pogoniulus pusillus isolate bPogPus1 chromosome 10, bPogPus1.pri
+Sequence ID: NC_087273.1 Length: 40508505
+Range 1: 17103649 to 17103675
+
+Score:46.8 bits(24), Expect:0.015, 
+Identities:26/27(96%),  Gaps:0/27(0%), Strand: Plus/Minus
+
+Query  53        AGCTGGGAAGaaaaaaaGCAAGGAGGG  79
+                 |||||||||||||||||||| ||||||
+Sbjct  17103675  AGCTGGGAAGAAAAAAAGCAGGGAGGG  17103649
+
+
+
+
+
+
+
+		
+
+

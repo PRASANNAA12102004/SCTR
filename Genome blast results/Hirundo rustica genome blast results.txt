@@ -1,0 +1,477 @@
+RID: NCD39HXB014	
+Job Title:XM_040069626.2:1-1530 PREDICTED: Hirundo rustica...				
+Program: BLASTN 
+Database: Genome (bHirRus1.pri.v3) Hirundo rustica bHirRus1.pri.v3 [GCF_015227805.2] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_015227805.2-RS_2023_07)
+Query #1: XM_040069626.2:1-1530 PREDICTED: Hirundo rustica secretin receptor (SCTR), mRNA Query ID: lcl|Query_712961 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Hirundo rustica isolate bHirRus1 chromosome 7, bHirRus1.pri.v3    Hirundo rustica Barn swallow    43150      387    2816  100%  5e-105 98.67  38459648   NC_053456.1      
+Hirundo rustica isolate bHirRus1 chromosome 1, bHirRus1.pri.v3    Hirundo rustica Barn swallow    43150      67.1   496   22%   2e-08  78.48  156035725  NC_053450.1      
+Hirundo rustica isolate bHirRus1 chromosome 27, bHirRus1.pri.v3   Hirundo rustica Barn swallow    43150      65.3   65.3  6%    7e-08  77.66  5236451    NC_053476.1      
+Hirundo rustica isolate bHirRus1 chromosome 18, bHirRus1.pri.v3   Hirundo rustica Barn swallow    43150      61.7   116   5%    8e-07  77.63  12073725   NC_053467.1      
+Hirundo rustica isolate bHirRus1 chromosome 27 unlocalized...     Hirundo rustica Barn swallow    43150      48.2   48.2  4%    0.005  78.57  65965      NW_026690185.1   
+Hirundo rustica isolate bHirRus1 chromosome 4, bHirRus1.pri.v3    Hirundo rustica Barn swallow    43150      46.4   46.4  2%    0.018  88.57  76187387   NC_053453.1      
+
+
+Alignments:
+
+>Hirundo rustica isolate bHirRus1 chromosome 7, bHirRus1.pri.v3
+Sequence ID: NC_053456.1 Length: 38459648
+Range 1: 8946783 to 8947007
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Minus
+
+Query  1        ATGCTCTCTGGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8947007  ATGCTCTCTGGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA  8946948
+
+Query  61       AGGGAAAAA-GCAAGGAGGGAAAAGGATGAAGTAAAAAGAGCTAGGAGCCACGCCGGAGA  119
+                ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8946947  AGGGAAAAAAGCAAGGAGGGAAAAGGATGAAGTAAAAAGAGCTAGGAGCCACGCCGGAGA  8946888
+
+Query  120      GCATA--AACAGCCTGCTCAACTCTGCTGCACGAGGGATGAAGAAAACGGACTGTGTTTG  177
+                |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8946887  GCATACAAACAGCCTGCTCAACTCTGCTGCACGAGGGATGAAGAAAACGGACTGTGTTTG  8946828
+
+Query  178      ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAGCTGTCCCG  222
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8946827  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAGCTGTCCCG  8946783
+
+
+
+
+Range 2: 8928725 to 8928903
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1352     AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAGACACTGGCATC  1411
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8928903  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAGACACTGGCATC  8928844
+
+Query  1412     AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCAGATGG  1471
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8928843  AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGCGGCTTGACTCAAGAGATGCAGATGG  8928784
+
+Query  1472     TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAG  1530
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8928783  TGAGGTCCAGCCCACCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTTTAG  8928725
+
+
+
+
+Range 3: 8933779 to 8933935
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  795      GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTGTAACTACAGCTG  854
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8933935  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTGTAACTACAGCTG  8933876
+
+Query  855      GCTCCTCGTGGAAGGACTTTACCTCCACACGCTGCTGGTGATTTCTTTCTTCTCAGAAAG  914
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8933875  GCTCCTCGTGGAAGGACTTTACCTCCACACGCTGCTGGTGATTTCTTTCTTCTCAGAAAG  8933816
+
+Query  915      GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  951
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  8933815  GAAGTTCCTCTGGTGGTTCATCGCCCTCGGATGGGGT  8933779
+
+
+
+
+Range 4: 8930136 to 8930278
+
+Score:254 bits(281), Expect:7e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGGTCCACTACATCAT  1229
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8930278  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGGTCCACTACATCAT  8930219
+
+Query  1230     CTTTGCTTTTTTCCCTGAGGATGCAAGCAATGGCACAATGGAAATTCAGCTCTTTTTTGA  1289
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8930218  CTTTGCTTTTTTCCCTGAGGATGCAAGCAATGGCACAATGGAAATTCAGCTCTTTTTTGA  8930159
+
+Query  1290     ATTGGCTCTTGGATCATTCCAGG  1312
+                |||||||||||||||||||||||
+Sbjct  8930158  ATTGGCTCTTGGATCATTCCAGG  8930136
+
+
+
+
+Range 5: 8934752 to 8934890
+
+Score:251 bits(278), Expect:2e-64, 
+Identities:139/139(100%),  Gaps:0/139(0%), Strand: Plus/Minus
+
+Query  658      TTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATT  717
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8934890  TTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATT  8934831
+
+Query  718      TTGCGAGCCTCATCCAACTTCATCAAGGATGCTGTCTTGTTTTCTTCTGAAGACACAAAT  777
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8934830  TTGCGAGCCTCATCCAACTTCATCAAGGATGCTGTCTTGTTTTCTTCTGAAGACACAAAT  8934771
+
+Query  778      TACTGTGGAGCATATACGG  796
+                |||||||||||||||||||
+Sbjct  8934770  TACTGTGGAGCATATACGG  8934752
+
+
+
+
+Range 6: 8943178 to 8943306
+
+Score:233 bits(258), Expect:6e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  222      GATCAAAGCTATTCCACCCATCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  281
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8943306  GATCAAAGCTATTCCACCCATCTGTGACCTTCTGAGCGTCCTGAAAAGGGAGGAAGAAAA  8943247
+
+Query  282      GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  341
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8943246  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAAAATGATCTGCTCCT  8943187
+
+Query  342      GAACTCAGG  350
+                |||||||||
+Sbjct  8943186  GAACTCAGG  8943178
+
+
+
+
+Range 7: 8940262 to 8940377
+
+Score:210 bits(232), Expect:7e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  347      CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  406
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8940377  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCACTGTGGGAC  8940318
+
+Query  407      AGACTGTCAAGGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  462
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8940317  AGACTGTCAAGGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  8940262
+
+
+
+
+Range 8: 8936277 to 8936382
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  459      AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGACCCGTACCCGAGACCTGA  518
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8936382  AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGACCCGTACCCGAGACCTGA  8936323
+
+Query  519      CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  564
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8936322  CATTGCTTGTGGCTACAATGTCAACGACACAACCAACGAGGCCAGA  8936277
+
+
+
+
+Range 9: 8935888 to 8935985
+
+Score:178 bits(196), Expect:4e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  565      CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8935985  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  8935926
+
+Query  625      ACGCTGATGATAGCTTTAGTGGTCCTGGCCTCCTTCAG  662
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  8935925  ACGCTGATGATAGCTTTAGTGGTCCTGGCCTCCTTCAG  8935888
+
+
+
+
+Range 10: 8930368 to 8930460
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1081     ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCACCTCCCCT  1140
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8930460  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCACCTCCCCT  8930401
+
+Query  1141     GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                |||||||||||||||||||||||||||||||||
+Sbjct  8930400  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  8930368
+
+
+
+
+Range 11: 8933033 to 8933103
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  1010     GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  1069
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8933103  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTT  8933044
+
+Query  1070     TGTCTATTTTT  1080
+                |||||||||||
+Sbjct  8933043  TGTCTATTTTT  8933033
+
+
+
+
+Range 12: 8933629 to 8933692
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  949      GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATT  1008
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8933692  GGTGCCCCAATGGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATT  8933633
+
+Query  1009     GGGT  1012
+                ||||
+Sbjct  8933632  GGGT  8933629
+
+
+
+
+Range 13: 8929929 to 8929974
+
+Score:84.2 bits(92), Expect:7e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1310     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8929974  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  8929929
+
+
+
+
+>Hirundo rustica isolate bHirRus1 chromosome 1, bHirRus1.pri.v3
+Sequence ID: NC_053450.1 Length: 156035725
+Range 1: 153588677 to 153588755
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1169       ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGGTCCACTACATCA  1228
+                  ||| ||| || || ||||| || || || || |||||||| || ||  | ||||||||||
+Sbjct  153588677  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTCGGCATTCACTACATCA  153588736
+
+Query  1229       TCTTTGCTTTTTTCCCTGA  1247
+                  | |||||||| ||||| ||
+Sbjct  153588737  TGTTTGCTTTCTTCCCCGA  153588755
+
+
+
+
+Range 2: 155001189 to 155001270
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:66/83(80%),  Gaps:2/83(2%), Strand: Plus/Plus
+
+Query  672        CTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTGCGAGCC-TCAT  730
+                  |||||| |||||||||||||||||||| || |||  ||| |||||  || ||||| ||| 
+Sbjct  155001189  CTGCACTAGGAACTACATCCACATGCACCTGTTCGTGTCCTTCATGCTGAGAGCCGTCA-  155001247
+
+Query  731        CCAACTTCATCAAGGATGCTGTC  753
+                   || |||| | ||||| || |||
+Sbjct  155001248  GCATCTTCGTGAAGGACGCAGTC  155001270
+
+
+
+
+Range 3: 153560382 to 153560481
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:73/100(73%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  660        CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTT  719
+                  |||||  || | ||| ||  | || ||||| |||||||||||||||| ||| |||||  |
+Sbjct  153560382  CAGAAAACTACACTGTACTCGAAATTACATTCACATGCATCTCTTCATGTCCTTCATCAT  153560441
+
+Query  720        GCGAGCCTCATCCAACTTCATCAAGGATGCTGTCTTGTTT  759
+                  | |||||    |   |||||| |||||||   || |||||
+Sbjct  153560442  GAGAGCCATTGCAGTCTTCATAAAGGATGTCATCCTGTTT  153560481
+
+
+
+
+Range 4: 152887449 to 152887542
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:71/95(75%),  Gaps:2/95(2%), Strand: Plus/Plus
+
+Query  660        CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTT  719
+                  ||| |||||||||||  | ||||| || |||||||| || |||||  |  | ||||| ||
+Sbjct  152887449  CAGGAGGCTTCGCTGTCCCAGGAATTATATCCACATACAGCTCTTTTCTACATTCATCTT  152887508
+
+Query  720        GCGAGCCTCAT-CCAACTTCATCAAGGATGCTGTC  753
+                     || ||  | |||  ||||| ||||||||||||
+Sbjct  152887509  -AAAGGCTATTGCCATTTTCATTAAGGATGCTGTC  152887542
+
+
+
+
+Range 5: 146695707 to 146695784
+
+Score:51.8 bits(56), Expect:4e-04, 
+Identities:58/78(74%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1170       CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGGTCCACTACATCAT  1229
+                  || |||||||||||| || ||  |  | ||||||||  | ||||| || |||||||   |
+Sbjct  146695707  CAGGAGACTTGCAAAATCCACGTTGTTGCTCATCCCGTTATTTGGAGTTCACTACACAGT  146695766
+
+Query  1230       CTTTGCTTTTTTCCCTGA  1247
+                   |||||| | || |||||
+Sbjct  146695767  GTTTGCTCTATTTCCTGA  146695784
+
+
+
+
+Range 6: 146686810 to 146686889
+
+Score:50.9 bits(55), Expect:0.001, 
+Identities:59/80(74%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  815        TGGTCTTCTTTCAGTATTGCATCATGTGTAACTACAGCTGGCTCCTCGTGGAAGGACTTT  874
+                  |||| || || |||||| |  | |||   ||||    ||||||| | || ||||||||||
+Sbjct  146686810  TGGTGTTTTTCCAGTATGGTGTTATGGCAAACTTTTACTGGCTCTTAGTAGAAGGACTTT  146686869
+
+Query  875        ACCTCCACACGCTGCTGGTG  894
+                  |||||||||  || || |||
+Sbjct  146686870  ACCTCCACATCCTCCTAGTG  146686889
+
+
+
+
+Range 7: 153271871 to 153271954
+
+Score:49.1 bits(53), Expect:0.005, 
+Identities:61/84(73%),  Gaps:0/84(0%), Strand: Plus/Minus
+
+Query  852        CTGGCTCCTCGTGGAAGGACTTTACCTCCACACGCTGCTGGTGATTTCTTTCTTCTCAGA  911
+                  |||||| ||| | |||||  | ||||| || || |||||| || |  | ||  | ||  |
+Sbjct  153271954  CTGGCTTCTCATCGAAGGGATCTACCTGCAAACCCTGCTGCTGCTGACCTTTGTTTCCAA  153271895
+
+Query  912        AAGGAAGTTCCTCTGGTGGTTCAT  935
+                   | ||||||| | |||||||||||
+Sbjct  153271894  CAAGAAGTTCGTGTGGTGGTTCAT  153271871
+
+
+
+
+Range 8: 153272510 to 153272597
+
+Score:47.3 bits(51), Expect:0.018, 
+Identities:63/88(72%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  672        CTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCATTTTGCGAGCCTCATC  731
+                  ||||||| |||| |||||||||||||| || ||    || || || ||| ||||     |
+Sbjct  153272597  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTGAGAGCGGTTGC  153272538
+
+Query  732        CAACTTCATCAAGGATGCTGTCTTGTTT  759
+                      |||| ||| || ||||| ||||||
+Sbjct  153272537  TGTTTTCACCAAAGACGCTGTTTTGTTT  153272510
+
+
+
+
+Range 9: 15625502 to 15625531
+
+Score:46.4 bits(50), Expect:0.018, 
+Identities:28/30(93%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  1063      ATAGTTTTGTCTATTTTTATTAATTTCATT  1092
+                 |||||||||||| |||||||||||||| ||
+Sbjct  15625502  ATAGTTTTGTCTGTTTTTATTAATTTCTTT  15625531
+
+
+
+
+>Hirundo rustica isolate bHirRus1 chromosome 27, bHirRus1.pri.v3
+Sequence ID: NC_053476.1 Length: 5236451
+Range 1: 4527477 to 4527568
+
+Score:65.3 bits(71), Expect:7e-08, 
+Identities:73/94(78%),  Gaps:3/94(3%), Strand: Plus/Minus
+
+Query  654      CTCCTTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTT  713
+                ||||| |||  | || | |||||| ||||||||||||||| | ||||||||||| || ||
+Sbjct  4527568  CTCCT-CAGGCGCCTGCACTGCACGAGGAACTACATCCACGTCCATCTCTTCACCTCCTT  4527510
+
+Query  714      CATTTTGCGAG-CCTCATCCAACTTCATCAAGGA  746
+                ||| |  || | |||||  || |||| | |||||
+Sbjct  4527509  CATCTGCCGGGCCCTCA-GCATCTTCGTGAAGGA  4527477
+
+
+
+
+>Hirundo rustica isolate bHirRus1 chromosome 18, bHirRus1.pri.v3
+Sequence ID: NC_053467.1 Length: 12073725
+Range 1: 1965677 to 1965752
+
+Score:61.7 bits(67), Expect:8e-07, 
+Identities:59/76(78%),  Gaps:0/76(0%), Strand: Plus/Minus
+
+Query  654      CTCCTTCAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTT  713
+                ||||  |||||  |||| ||||||||| ||||||||||| ||| || | ||  |||| ||
+Sbjct  1965752  CTCCCCCAGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCGTCCTT  1965693
+
+Query  714      CATTTTGCGAGCCTCA  729
+                 || ||||| ||| ||
+Sbjct  1965692  TATCTTGCGTGCCGCA  1965677
+
+
+
+
+Range 2: 11773921 to 11773977
+
+Score:54.5 bits(59), Expect:1e-04, 
+Identities:46/57(81%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  660       CAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACGTCGTTCAT  716
+                 ||| | ||| | |||||  |||||||||||||||||| | |||||| | || |||||
+Sbjct  11773921  CAGCAAGCTGCACTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  11773977
+
+
+
+
+>Hirundo rustica isolate bHirRus1 chromosome 27 unlocalized genomic scaffold, bHirRus1.pri.v3 SUPER_27_unloc_1
+Sequence ID: NW_026690185.1 Length: 65965
+Range 1: 14609 to 14664
+
+Score:48.2 bits(52), Expect:0.005, 
+Identities:44/56(79%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  1169   ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTTTTTGGGGTCCACTAC  1224
+              ||| ||| ||  | ||||| || || ||||||||||| || || ||||| ||||||
+Sbjct  14609  ACAGGAGGCTGACCAAGTCCACGCTGCTCCTCATCCCCCTCTTCGGGGTGCACTAC  14664
+
+
+
+
+>Hirundo rustica isolate bHirRus1 chromosome 4, bHirRus1.pri.v3
+Sequence ID: NC_053453.1 Length: 76187387
+Range 1: 3538783 to 3538817
+
+Score:46.4 bits(50), Expect:0.018, 
+Identities:31/35(89%),  Gaps:0/35(0%), Strand: Plus/Plus
+
+Query  747      TGCTGTCTTGTTTTCTTCTGAAGACACAAATTACT  781
+                ||||||| ||||| |||||||||||| ||||| ||
+Sbjct  3538783  TGCTGTCATGTTTCCTTCTGAAGACATAAATTGCT  3538817
+
+
+
+
+
+
+
+		
+
+

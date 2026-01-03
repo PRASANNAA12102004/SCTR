@@ -1,0 +1,561 @@
+RID: NEWFD5T3014	
+Job Title:XM_058809465.1:1-1530 PREDICTED: Ammospiza...				
+Program: BLASTN 
+Database: Genome (bAmmCau1.pri) Ammospiza caudacuta bAmmCau1.pri [GCF_027887145.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_027887145.1-RS_2023_08)
+Query #1: XM_058809465.1:1-1530 PREDICTED: Ammospiza caudacuta secretin receptor (SCTR), mRNA Query ID: lcl|Query_1178253 Length: 1530
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Ammospiza caudacuta isolate bAmmCau1 chromosome 8, bAmmCau1.pri   Ammospiza ca... NA              2857398    387    2811  100%  5e-105 98.67  44359421   NC_080600.1      
+Ammospiza caudacuta isolate bAmmCau1 chromosome 1, bAmmCau1.pri   Ammospiza ca... NA              2857398    132    618   22%   6e-28  78.71  157152855  NC_080593.1      
+Ammospiza caudacuta isolate bAmmCau1 chromosome 19, bAmmCau1.pri  Ammospiza ca... NA              2857398    84.2   187   14%   8e-14  75.21  13147743   NC_080611.1      
+Ammospiza caudacuta isolate bAmmCau1 chromosome 27, bAmmCau1.pri  Ammospiza ca... NA              2857398    67.1   237   16%   2e-08  75.53  7633124    NC_080619.1      
+Ammospiza caudacuta isolate bAmmCau1 chromosome 3, bAmmCau1.pri   Ammospiza ca... NA              2857398    65.3   117   8%    8e-08  80.88  119294532  NC_080595.1      
+Ammospiza caudacuta isolate bAmmCau1 chromosome 17, bAmmCau1.pri  Ammospiza ca... NA              2857398    47.3   47.3  4%    0.020  77.59  17718754   NC_080609.1      
+
+
+Alignments:
+
+>Ammospiza caudacuta isolate bAmmCau1 chromosome 8, bAmmCau1.pri
+Sequence ID: NC_080600.1 Length: 44359421
+Range 1: 35143500 to 35143724
+
+Score:387 bits(428), Expect:5e-105, 
+Identities:222/225(99%),  Gaps:3/225(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGAGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35143500  ATGCTCTCTAGAGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGAGA  35143559
+
+Query  61        AGGGAAAA-GGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  119
+                 |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35143560  AGGGAAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAGAGCTAGGAGCCACGCTGGAGA  35143619
+
+Query  120       GCATA--AACAGCCTGATGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35143620  GCATACAAACAGCCTGATGACCTCTGATGCATGAGGCATGAAGAAAACAGACTGTGATTG  35143679
+
+Query  178       ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  222
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35143680  ACTATGTGGACCATCTGGGTGATCTTCTGGATTTCAACTGTCCCG  35143724
+
+
+
+
+Range 2: 35163043 to 35163221
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1352      AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  1411
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35163043  AGGTTCAGCTGGAAGTTCAGAGAAAGTGGAGGCAGTGGCATTTAAGCAAGCACTGGCGAC  35163102
+
+Query  1412      AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  1471
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35163103  AGCACCTCAGCACCTCGGCGAGTAACGGAGGCAGCGGCTTGACCCAGGAGATGCAGATGG  35163162
+
+Query  1472      TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  1530
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35163163  TGAGGTCCAGCCCCGCAGAGCACAGGAGAGGAACCCTCCAAAGGTCAAGTGTGCTGTAA  35163221
+
+
+
+
+Range 3: 35157937 to 35158093
+
+Score:284 bits(314), Expect:4e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  795       GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  854
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35157937  GGCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTG  35157996
+
+Query  855       GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  914
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35157997  GCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAG  35158056
+
+Query  915       GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  951
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  35158057  GAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGT  35158093
+
+
+
+
+Range 4: 35161655 to 35161797
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35161655  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  35161714
+
+Query  1230      ATTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGA  1289
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35161715  ATTTGCTTTTTTCCCTGAGGATGCAAGCAGCGGCACAATGGAAATTCAGCTCTTTTTTGA  35161774
+
+Query  1290      ATTGGCTCTTGGATCATTCCAGG  1312
+                 |||||||||||||||||||||||
+Sbjct  35161775  ATTGGCTCTTGGATCATTCCAGG  35161797
+
+
+
+
+Range 5: 35156983 to 35157118
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  661       AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35156983  AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  35157042
+
+Query  721       AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  780
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35157043  AGAGCCTCATCCAACTTCATCAAGGATGCAGTCTTGTTTTCCTCTGAGGACACAAATTAC  35157102
+
+Query  781       TGTGGGGCATACACGG  796
+                 ||||||||||||||||
+Sbjct  35157103  TGTGGGGCATACACGG  35157118
+
+
+
+
+Range 6: 35147209 to 35147337
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  222       GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35147209  GATCAAAGCTATTCCACCTGTCTGTGACCTTCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  35147268
+
+Query  282       GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35147269  GTGTGTGGAGACTCTTTCCCTGGAGGCAAGGAACAGAACGACTGAGAATGATCTGCTCCT  35147328
+
+Query  342       GAGCTCAGG  350
+                 |||||||||
+Sbjct  35147329  GAGCTCAGG  35147337
+
+
+
+
+Range 7: 35151523 to 35151638
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  347       CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  406
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35151523  CAGGCAGATGTGCTGGAATGTGGGACAACATGAGCTGCTGGCCTTCATCCTCTGTGGGAC  35151582
+
+Query  407       AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  462
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35151583  AGACTGTCAATGCACACTGCCCTGAATTCTTTCAGATGCTGACTGGGAAAAAAGGT  35151638
+
+
+
+
+Range 8: 35155510 to 35155615
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  459       AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  518
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35155510  AGGTTTTGTGTACCGAAACTGCACAAGTGAGGGCTGGTCAGAGCCGTACCCGAGACCTGA  35155569
+
+Query  519       CATTGCCTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  564
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35155570  CATTGCCTGTGGCTACAATGTCAACGACACCACCAACGAGGCCAGA  35155615
+
+
+
+
+Range 9: 35155910 to 35156007
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  565       CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  624
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35155910  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTCCCTTGTG  35155969
+
+Query  625       ACACTGATGATAGCCTTGGCGGTCCTGGCCTCCTTTAG  662
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  35155970  ACACTGATGATAGCCTTGGCGGTCCTGGCCTCCTTTAG  35156007
+
+
+
+
+Range 10: 35161473 to 35161565
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1081      ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  1140
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35161473  ATTAATTTCATTCTCTTTGTCAACATTTTAAGAATCCTGATGAGGAAGCTCAGCTCCCCT  35161532
+
+Query  1141      GAAAAACGGAGCAGTGATTTCAACCAATACAAG  1173
+                 |||||||||||||||||||||||||||||||||
+Sbjct  35161533  GAAAAACGGAGCAGTGATTTCAACCAATACAAG  35161565
+
+
+
+
+Range 11: 35158768 to 35158838
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1010      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  1069
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35158768  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCCATAGTTG  35158827
+
+Query  1070      TGTCTATATTT  1080
+                 |||||||||||
+Sbjct  35158828  TGTCTATATTT  35158838
+
+
+
+
+Range 12: 35158179 to 35158242
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  949       GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAACATT  1008
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35158179  GGTGCCCCAGCGGTGTTTGTGGCTGCATGGGCGGCTGCTCGGCAGCTCCATGAAAACATT  35158238
+
+Query  1009      GGGT  1012
+                 ||||
+Sbjct  35158239  GGGT  35158242
+
+
+
+
+Range 13: 35161970 to 35162015
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1310      AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1355
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  35161970  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  35162015
+
+
+
+
+>Ammospiza caudacuta isolate bAmmCau1 chromosome 1, bAmmCau1.pri
+Sequence ID: NC_080593.1 Length: 157152855
+Range 1: 3249289 to 3249443
+
+Score:132 bits(145), Expect:6e-28, 
+Identities:122/155(79%),  Gaps:0/155(0%), Strand: Plus/Minus
+
+Query  799      GGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTC  858
+                |||||||||  ||  ||||| ||||||||||| ||  ||||| | |||| |  |||||| 
+Sbjct  3249443  GGCTGCAAGGCCATGATGGTTTTCTTCCAGTACTGTGTCATGGCCAACTTCTTCTGGCTG  3249384
+
+Query  859      CTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGAAG  918
+                |||||||| ||  ||||||| ||||| || ||||| ||||||||||||||||| ||||| 
+Sbjct  3249383  CTGGTGGAGGGGTTGTACCTTCACACCCTGCTGGTCATCTCCTTCTTCTCGGAGAGGAAA  3249324
+
+Query  919      TTCCTCTTGTGGTTCATCGCCCTTGGATGGGGTGC  953
+                | | ||| ||||| ||||    | || ||||||||
+Sbjct  3249323  TACTTCTGGTGGTACATCCTGATCGGCTGGGGTGC  3249289
+
+
+
+
+Range 2: 3233598 to 3233676
+
+Score:76.1 bits(83), Expect:4e-11, 
+Identities:64/79(81%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1169     ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCA  1228
+                ||| ||| || || ||||| || || || || ||||||||||||||  | ||||| ||||
+Sbjct  3233676  ACAGGAGGCTGGCCAAGTCCACTCTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  3233617
+
+Query  1229     TATTTGCTTTTTTCCCTGA  1247
+                | |||||||| ||||||||
+Sbjct  3233616  TGTTTGCTTTCTTCCCTGA  3233598
+
+
+
+
+Range 3: 3597486 to 3597564
+
+Score:71.6 bits(78), Expect:5e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1170     CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                || ||||||||||||||| ||  | ||  | ||||| |||||||| || ||||| ||  |
+Sbjct  3597486  CAGGAGACTTGCAAAGTCCACGTTGCTGTTGATCCCCCTCTTTGGGGTGCACTACATTGT  3597545
+
+Query  1230     ATTTGCTTTTTTCCCTGAG  1248
+                 ||||| ||||||||||||
+Sbjct  3597546  GTTTGCATTTTTCCCTGAG  3597564
+
+
+
+
+Range 4: 1396971 to 1397056
+
+Score:65.3 bits(71), Expect:8e-08, 
+Identities:68/87(78%),  Gaps:2/87(2%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCC-TCAT  730
+                |||||| |||||||||||||||||||| || ||    || ||||| ||||| ||| ||| 
+Sbjct  1397056  CTGCACTAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGCTGAGGGCCGTCA-  1396998
+
+Query  731      CCAACTTCATCAAGGATGCAGTCTTGT  757
+                 || |||| | ||||| || ||| |||
+Sbjct  1396997  GCATCTTCGTGAAGGACGCGGTCCTGT  1396971
+
+
+
+
+Range 5: 3264313 to 3264411
+
+Score:60.8 bits(66), Expect:9e-07, 
+Identities:75/101(74%),  Gaps:4/101(3%), Strand: Plus/Minus
+
+Query  661      AGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTG  720
+                ||||  || | ||| ||  | || ||||| |||||||| |||||||  || |||||  ||
+Sbjct  3264411  AGAAAACTACACTGTACTCGAAATTACATTCACATGCACCTCTTCATGTCCTTCATCATG  3264352
+
+Query  721      AGAGCCTCATCCAA--CTTCATCAAGGATGCAGTCTTGTTT  759
+                ||||||  |||  |  ||||||||||||||   || |||||
+Sbjct  3264351  AGAGCC--ATCGCAGTCTTCATCAAGGATGTCATCCTGTTT  3264313
+
+
+
+
+Range 6: 3592440 to 3592527
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:65/88(74%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGAGAGCCTCATC  731
+                ||||||| |||| |||||||||||||| || ||   ||| || ||  |||||||     |
+Sbjct  3592440  CTGCACACGGAATTACATCCACATGCACCTGTTTGTCTCCTTTATCTTGAGAGCAGTTGC  3592499
+
+Query  732      CAACTTCATCAAGGATGCAGTCTTGTTT  759
+                    |||| ||||||||| || ||||||
+Sbjct  3592500  TGTTTTCACCAAGGATGCTGTTTTGTTT  3592527
+
+
+
+
+Range 7: 10512352 to 10512429
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:59/78(76%),  Gaps:0/78(0%), Strand: Plus/Minus
+
+Query  1170      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTCTTTGGAGTCCACTATATCAT  1229
+                 || ||||||||||||||| ||  | || || || ||| | |||||||| ||||| |   |
+Sbjct  10512429  CAGGAGACTTGCAAAGTCCACCTTGCTGCTGATTCCTTTATTTGGAGTTCACTACACAGT  10512370
+
+Query  1230      ATTTGCTTTTTTCCCTGA  1247
+                  |||||| | || |||||
+Sbjct  10512369  GTTTGCTCTGTTTCCTGA  10512352
+
+
+
+
+Range 8: 10524391 to 10524458
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:52/68(76%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  658       TTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATT  717
+                 |||||||  ||||  || ||  |||||||||||||  || | || |||  ||| ||||||
+Sbjct  10524458  TTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCTTTCATT  10524399
+
+Query  718       CTGAGAGC  725
+                 || |||||
+Sbjct  10524398  CTAAGAGC  10524391
+
+
+
+
+Range 9: 1393365 to 1393455
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:65/91(71%),  Gaps:0/91(0%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                || |||  |||| ||||||||||||| || || |||||||  ||| |  | ||  | || 
+Sbjct  1393455  AATTACTACTGGATCCTGGTGGAAGGGCTCTATCTCCACAGCCTCATCTTCATGGCATTT  1393396
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTTGTGGTTCA  934
+                ||||| || | ||| |  |||| | | ||||
+Sbjct  1393395  TTCTCAGAGAAGAAATATCTCTGGGGATTCA  1393365
+
+
+
+
+>Ammospiza caudacuta isolate bAmmCau1 chromosome 19, bAmmCau1.pri
+Sequence ID: NC_080611.1 Length: 13147743
+Range 1: 12723770 to 12723890
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:91/121(75%),  Gaps:0/121(0%), Strand: Plus/Plus
+
+Query  796       GCTGGCTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGG  855
+                 || ||||||| |    ||| ||||||| | |||||  ||||  || | |||||| |||||
+Sbjct  12723770  GCAGGCTGCAGGGCAGCCACGGTCTTCATGCAGTACGGCATTGTGGCCAACTACTGCTGG  12723829
+
+Query  856       CTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGG  915
+                 || |||||||||||  | ||||| ||||  || |||||| |  || ||||||| || |||
+Sbjct  12723830  CTGCTGGTGGAAGGCATCTACCTGCACAACCTGCTGGTGGTGGCCGTCTTCTCCGAGAGG  12723889
+
+Query  916       A  916
+                 |
+Sbjct  12723890  A  12723890
+
+
+
+
+Range 2: 12723466 to 12723521
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:46/56(82%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  666       GCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCTGA  721
+                 ||| | |||||  |||||||||||||||||| | || ||| |||| ||||| ||||
+Sbjct  12723466  GCTGCACTGCATGAGGAACTACATCCACATGAACCTGTTCGCCTCCTTCATCCTGA  12723521
+
+
+
+
+Range 3: 11185603 to 11185643
+
+Score:46.4 bits(50), Expect:0.020, 
+Identities:36/42(86%),  Gaps:1/42(2%), Strand: Plus/Minus
+
+Query  57        GAGAAGGGAAAAGGCAAGGAGGGAAAAGGATGAAGTGAAAAG  98
+                 |||||||||||||| ||  ||||||||||  |||| ||||||
+Sbjct  11185643  GAGAAGGGAAAAGGGAA-AAGGGAAAAGGGAGAAGGGAAAAG  11185603
+
+
+
+
+>Ammospiza caudacuta isolate bAmmCau1 chromosome 27, bAmmCau1.pri
+Sequence ID: NC_080619.1 Length: 7633124
+Range 1: 2295319 to 2295412
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:71/94(76%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  653      CCTCCTTTAGAAGGCTTCGCTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGT  712
+                ||||||  || | ||| | |||||| ||||| | ||||||||| ||  |||||||||| |
+Sbjct  2295319  CCTCCTGCAGGAAGCTGCACTGCACCAGGAATTCCATCCACATCCACTTCTTCACCTCCT  2295378
+
+Query  713      TCATTCTGAGAGCCTCATCCAACTTCATCAAGGA  746
+                |||| ||| | | | |  ||   |||||||||||
+Sbjct  2295379  TCATCCTGCGGGGCACGGCCGTGTTCATCAAGGA  2295412
+
+
+
+
+Range 2: 2296056 to 2296171
+
+Score:61.7 bits(67), Expect:9e-07, 
+Identities:83/116(72%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  801      CTGCAAGCTCACCATGGTCTTCTTCCAGTATTGCATCATGTCTAACTACAGCTGGCTCCT  860
+                |||||||    ||||   |||||||||||| |   |  || | |||| |  |||||| ||
+Sbjct  2296056  CTGCAAGGCAGCCATCACCTTCTTCCAGTACTCAGTGCTGGCCAACTTCTACTGGCTGCT  2296115
+
+Query  861      GGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTCTTCTCGGAAAGGA  916
+                |||||| || |||||||| || || || ||| || || |||||  ||  || ||||
+Sbjct  2296116  GGTGGAGGGGCTGTACCTGCAGACGCTGCTGCTGCTCACCTTCACCTGCGACAGGA  2296171
+
+
+
+
+Range 3: 6109814 to 6109858
+
+Score:59.9 bits(65), Expect:3e-06, 
+Identities:40/45(89%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  672      CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCAT  716
+                ||||||| |||| ||||||||| |||| ||||||||||| |||||
+Sbjct  6109858  CTGCACACGGAATTACATCCACGTGCACCTCTTCACCTCCTTCAT  6109814
+
+
+
+
+Range 4: 6109197 to 6109305
+
+Score:49.1 bits(53), Expect:0.006, 
+Identities:76/109(70%),  Gaps:0/109(0%), Strand: Plus/Minus
+
+Query  844      AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                ||| ||  |||| ||||||||||||| || ||||| ||||  ||  |  | ||  |||||
+Sbjct  6109305  AACCACTACTGGATCCTGGTGGAAGGTCTCTACCTGCACAGCCTGATCTTCATGGCCTTC  6109246
+
+Query  904      TTCTCGGAAAGGAAGTTCCTCTTGTGGTTCATCGCCCTTGGATGGGGTG  952
+                 ||||  | | ||| | ||| | |    |||||  | |||| |||||||
+Sbjct  6109245  CTCTCCAACAAGAACTACCTGTGGGTCCTCATCATCATTGGCTGGGGTG  6109197
+
+
+
+
+>Ammospiza caudacuta isolate bAmmCau1 chromosome 3, bAmmCau1.pri
+Sequence ID: NC_080595.1 Length: 119294532
+Range 1: 33682892 to 33682959
+
+Score:65.3 bits(71), Expect:8e-08, 
+Identities:55/68(81%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  844       AACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACACTCTCCTGGTGATCTCCTTC  903
+                 ||||||  |||||| |||||||||||  |||||||  |||| || |||||| ||||  ||
+Sbjct  33682959  AACTACTACTGGCTGCTGGTGGAAGGCATGTACCTGTACACACTGCTGGTGCTCTCTGTC  33682900
+
+Query  904       TTCTCGGA  911
+                 ||||| ||
+Sbjct  33682899  TTCTCTGA  33682892
+
+
+
+
+Range 2: 33684562 to 33684609
+
+Score:51.8 bits(56), Expect:5e-04, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  672       CTGCACAAGGAACTACATCCACATGCATCTCTTCACCTCGTTCATTCT  719
+                 |||||| ||||| ||||| ||| || | ||||||||||| ||||| ||
+Sbjct  33684609  CTGCACGAGGAATTACATTCACCTGAACCTCTTCACCTCTTTCATCCT  33684562
+
+
+
+
+>Ammospiza caudacuta isolate bAmmCau1 chromosome 17, bAmmCau1.pri
+Sequence ID: NC_080609.1 Length: 17718754
+Range 1: 3237645 to 3237702
+
+Score:47.3 bits(51), Expect:0.020, 
+Identities:45/58(78%),  Gaps:0/58(0%), Strand: Plus/Minus
+
+Query  826      CAGTATTGCATCATGTCTAACTACAGCTGGCTCCTGGTGGAAGGACTGTACCTCCACA  883
+                ||||| |||||| || | ||| ||  |||| ||||||||||||   | |||||| |||
+Sbjct  3237702  CAGTACTGCATCCTGGCCAACCACTACTGGTTCCTGGTGGAAGCTGTCTACCTCTACA  3237645
+
+
+
+
+
+
+
+		
+
+

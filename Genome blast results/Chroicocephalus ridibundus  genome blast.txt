@@ -1,0 +1,351 @@
+RID: NDDNCE5C014	
+Job Title:XM_063341362.1:322-1854 PREDICTED: Chroicocephalus...				
+Program: BLASTN 
+Database: Genome (bChrRid1.1) Chroicocephalus ridibundus bChrRid1.1 [GCF_963924245.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_963924245.1-RS_2024_02)
+Query #1: XM_063341362.1:322-1854 PREDICTED: Chroicocephalus ridibundus secretin receptor (SCTR), mRNA Query ID: lcl|Query_5945253 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Chroicocephalus ridibundus chromosome 7, bChrRid1.1               Chroicocepha... black-headed... 1192867    402    2983  100%  1e-109 98.68  59405987   NC_086290.1      
+Chroicocephalus ridibundus chromosome 2, bChrRid1.1               Chroicocepha... black-headed... 1192867    87.2   252   17%   1e-14  77.54  170215963  NC_086285.1      
+Chroicocephalus ridibundus chromosome 14, bChrRid1.1              Chroicocepha... black-headed... 1192867    60.3   60.3  5%    2e-06  79.27  15782416   NC_086297.1      
+Chroicocephalus ridibundus chromosome 17, bChrRid1.1              Chroicocepha... black-headed... 1192867    46.8   46.8  2%    0.017  88.89  9702428    NC_086300.1      
+
+
+Alignments:
+
+>Chroicocephalus ridibundus chromosome 7, bChrRid1.1
+Sequence ID: NC_086290.1 Length: 59405987
+Range 1: 10835987 to 10836214
+
+Score:402 bits(209), Expect:1e-109, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Minus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGTAGAGAAACATTGACTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10836214  ATGCTCTCTAGGGCTCAGCAGCTGTAGAGAAACATTGACTAAGGATGGTCAAAGCTGGGA  10836155
+
+Query  61        AGGAAAAAA-GAGAGGAAGGAAAGGGATGAAGTGAAAGGAGCTGAGAGCTACGCTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10836154  AGGAAAAAAAGAGAGGAAGGAAAGGGATGAAGTGAAAGGAGCTGAGAGCTACGCTGGAGA  10836095
+
+Query  120       G--TACGGACAGCCTGGTGACCTCTAGTGCGCAAGGGGTGAAGGAAGCAGACTGTGATTG  177
+                 |  |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10836094  GCCTACGGACAGCCTGGTGACCTCTAGTGCGCAAGGGGTGAAGGAAGCAGACTGTGATTG  10836035
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10836034  ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  10835987
+
+
+
+
+Range 2: 10815021 to 10815199
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAACAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10815199  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAACAAACACTTGCGTC  10815140
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10815139  AGCATCTCAGCACCTCAGCGAGTAACGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  10815080
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACTCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10815079  TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACTCTCCAAAGATCAAGCGTGCTTTAA  10815021
+
+
+
+
+Range 3: 10820341 to 10820497
+
+Score:302 bits(157), Expect:2e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  798       GGCTGGGTGTAAACTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10820497  GGCTGGGTGTAAACTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  10820438
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCAGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10820437  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCAGAAAG  10820378
+
+Query  918       GAAGTTCCTCTGGAGGTTCATCGCGCTTGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  10820377  GAAGTTCCTCTGGAGGTTCATCGCGCTTGGATGGGGT  10820341
+
+
+
+
+Range 4: 10816464 to 10816603
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  1176      GAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCATCTT  1235
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10816603  GAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCATCTT  10816544
+
+Query  1236      CGCTTTTTTCCCTGAAGACACTAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGAATT  1295
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10816543  CGCTTTTTTCCCTGAAGACACTAGCAGTGGCACAATGGAAATTCAGCTGTTTTTTGAATT  10816484
+
+Query  1296      AGCTCTTGGATCATTCCAGG  1315
+                 ||||||||||||||||||||
+Sbjct  10816483  AGCTCTTGGATCATTCCAGG  10816464
+
+
+
+
+Range 5: 10821711 to 10821847
+
+Score:264 bits(137), Expect:7e-68, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  663       CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  722
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10821847  CAGAAGACTTCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTT  10821788
+
+Query  723       GCGAGCTTTGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTA  782
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10821787  GCGAGCTTTGTCCAACTTCATCAAGGATGCTGTTTTGTTTTCCTCTGAAGACACAAATTA  10821728
+
+Query  783       CTGCGGGGCATACACGG  799
+                 |||||||||||||||||
+Sbjct  10821727  CTGCGGGGCATACACGG  10821711
+
+
+
+
+Range 6: 10831873 to 10832001
+
+Score:248 bits(129), Expect:3e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10832001  GATCAGAGCTGTCCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAAGGAGGAAGAAAA  10831942
+
+Query  285       ATGTGCTGAGATTCTCTCGCTGGAGGCAAAGAACAGAACACCTGAAAATGAACTGCTCCC  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10831941  ATGTGCTGAGATTCTCTCGCTGGAGGCAAAGAACAGAACACCTGAAAATGAACTGCTCCC  10831882
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  10831881  GAGCTCAGG  10831873
+
+
+
+
+Range 7: 10827223 to 10827338
+
+Score:223 bits(116), Expect:1e-55, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAATATGAGCTGCTGGCCTTCGTCTGACGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10827338  CAGGCAGATGTGCTGGAATGTGGGATAATATGAGCTGCTGGCCTTCGTCTGACGTGGGAC  10827279
+
+Query  410       AGATTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGTTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10827278  AGATTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGTTGACTGGGAAAAAAGGT  10827223
+
+
+
+
+Range 8: 10823184 to 10823289
+
+Score:204 bits(106), Expect:6e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCAAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10823289  AGGTTTTGTCTACCGAAACTGTACGAGTGAGGGTTGGTCAGACCCATATCCAAGACCTGA  10823230
+
+Query  522       TATCGCTTGTGGCTACAATGTCAATGACACGGCAAACGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10823229  TATCGCTTGTGGCTACAATGTCAATGACACGGCAAACGAGGCGAGA  10823184
+
+
+
+
+Range 9: 10822800 to 10822897
+
+Score:189 bits(98), Expect:3e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  568       CGTTCGTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10822897  CGTTCGTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  10822838
+
+Query  628       ACGCTGACGATAGCGTTAGTGGTCCTGGCCTGTTTCAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  10822837  ACGCTGACGATAGCGTTAGTGGTCCTGGCCTGTTTCAG  10822800
+
+
+
+
+Range 10: 10816698 to 10816790
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  1084      GTTAATTTCATTCTTTTTGTTAACATTTTGAGAATCTTGATGAGGAAGCTCAGGTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10816790  GTTAATTTCATTCTTTTTGTTAACATTTTGAGAATCTTGATGAGGAAGCTCAGGTCACCT  10816731
+
+Query  1144      GAAAGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  10816730  GAAAGACGGAGCAGTGATTTCAACCAATACAAG  10816698
+
+
+
+
+Range 11: 10819568 to 10819640
+
+Score:141 bits(73), Expect:7e-31, 
+Identities:73/73(100%),  Gaps:0/73(0%), Strand: Plus/Minus
+
+Query  1013      GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10819640  GGTGTTGGGACATTAACACTGATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  10819581
+
+Query  1073      TGTCTATTTTTGT  1085
+                 |||||||||||||
+Sbjct  10819580  TGTCTATTTTTGT  10819568
+
+
+
+
+Range 12: 10820189 to 10820252
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  952       GGTGCCCCAACTGTATTTGTGGCTGCATGGGCGACTGCTAGGCAGCTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10820252  GGTGCCCCAACTGTATTTGTGGCTGCATGGGCGACTGCTAGGCAGCTCCATGAAAATATT  10820193
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  10820192  GGGT  10820189
+
+
+
+
+Range 13: 10816223 to 10816268
+
+Score:89.1 bits(46), Expect:3e-15, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10816268  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  10816223
+
+
+
+
+>Chroicocephalus ridibundus chromosome 2, bChrRid1.1
+Sequence ID: NC_086285.1 Length: 170215963
+Range 1: 4049100 to 4049237
+
+Score:87.2 bits(45), Expect:1e-14, 
+Identities:107/138(78%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  817      ATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAGGGACTG  876
+                ||||| ||||| ||||| ||| ||||| | |||| |  ||||||||| ||||||||  ||
+Sbjct  4049237  ATGGTTTTCTTCCAGTACTGCGTCATGGCCAACTTCTTCTGGCTCCTGGTGGAGGGGTTG  4049178
+
+Query  877      TACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCAGAAAGGAAGTTCCTCTGGAGGTTC  936
+                || || ||||| ||  |||| || || ||||| ||||| ||||||| | | ||| ||| |
+Sbjct  4049177  TATCTTCACACCCTGTTGGTCATCTCCTTCTTTTCAGAGAGGAAGTACTTTTGGTGGTAC  4049118
+
+Query  937      ATCGCGCTTGGATGGGGT  954
+                |||  | |||| ||||||
+Sbjct  4049117  ATCTTGATTGGCTGGGGT  4049100
+
+
+
+
+Range 2: 4420132 to 4420207
+
+Score:60.3 bits(31), Expect:2e-06, 
+Identities:61/76(80%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1176     GAGACTTGCAAAATCAACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTACATCATCTT  1235
+                ||||||||| ||||| ||| | ||| | ||||| |||||||| || ||||||||  | ||
+Sbjct  4420132  GAGACTTGCTAAATCCACGTTACTCTTGATCCCCCTCTTTGGAGTGCACTACATTGTATT  4420191
+
+Query  1236     CGCTTTTTTCCCTGAA  1251
+                 || |||||||| |||
+Sbjct  4420192  TGCATTTTTCCCAGAA  4420207
+
+
+
+
+Range 3: 4036584 to 4036630
+
+Score:56.4 bits(29), Expect:2e-05, 
+Identities:41/47(87%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1204     ATCCCTCTCTTTGGGGTCCACTACATCATCTTCGCTTTTTTCCCTGA  1250
+                ||||||||||||||  | ||||||||||| || ||||| ||||||||
+Sbjct  4036630  ATCCCTCTCTTTGGCATTCACTACATCATGTTTGCTTTCTTCCCTGA  4036584
+
+
+
+
+Range 4: 4035063 to 4035108
+
+Score:48.8 bits(25), Expect:0.005, 
+Identities:39/46(85%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313     AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                |||| ||||| |||||||| || || |||||||| ||||| |||||
+Sbjct  4035108  AGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAATGGGGAGGT  4035063
+
+
+
+
+>Chroicocephalus ridibundus chromosome 14, bChrRid1.1
+Sequence ID: NC_086297.1 Length: 15782416
+Range 1: 4733185 to 4733266
+
+Score:60.3 bits(31), Expect:2e-06, 
+Identities:65/82(79%),  Gaps:0/82(0%), Strand: Plus/Plus
+
+Query  815      CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAGGGAC  874
+                ||| ||||||| | |||||  ||||| || | |||||| ||||||| || ||||||||  
+Sbjct  4733185  CCACGGTCTTCATGCAGTACGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAGGGCA  4733244
+
+Query  875      TGTACCTCCACACTCTCCTGGT  896
+                | ||||| ||||  ||||||||
+Sbjct  4733245  TCTACCTGCACAACCTCCTGGT  4733266
+
+
+
+
+>Chroicocephalus ridibundus chromosome 17, bChrRid1.1
+Sequence ID: NC_086300.1 Length: 9702428
+Range 1: 6314443 to 6314478
+
+Score:46.8 bits(24), Expect:0.017, 
+Identities:32/36(89%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  1192     ACGCTCCTCCTCATCCCTCTCTTTGGGGTCCACTAC  1227
+                ||||| ||||| ||||||||||| ||||| ||||||
+Sbjct  6314443  ACGCTGCTCCTTATCCCTCTCTTCGGGGTGCACTAC  6314478
+
+
+
+
+
+
+
+		
+
+

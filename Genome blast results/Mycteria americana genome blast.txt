@@ -1,0 +1,356 @@
+RID: NDGG6RTA014	
+Job Title:XM_075511508.1:1-1533 PREDICTED: Mycteria...				
+Program: BLASTN 
+Database: Genome (USCA_MyAme_1.0) Mycteria americana USCA_MyAme_1.0 [GCF_035582795.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_035582795.1-RS_2025_07)
+Query #1: XM_075511508.1:1-1533 PREDICTED: Mycteria americana secretin receptor (SCTR), mRNA Query ID: lcl|Query_7007513 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Mycteria americana isolate JAX WOST 10 ecotype Jacksonville Zo... Mycteria ame... wood stork      33587      402    2983  100%  1e-109 98.68  44957592   NC_134373.1      
+Mycteria americana isolate JAX WOST 10 ecotype Jacksonville Zo... Mycteria ame... wood stork      33587      75.7   274   20%   3e-11  77.24  175112271  NC_134366.1      
+Mycteria americana isolate JAX WOST 10 ecotype Jacksonville Zo... Mycteria ame... wood stork      33587      66.1   66.1  5%    3e-08  80.49  14969894   NC_134380.1      
+
+
+Alignments:
+
+>Mycteria americana isolate JAX WOST 10 ecotype Jacksonville Zoo and Gardens chromosome 9, USCA_MyAme_1.0
+Sequence ID: NC_134373.1 Length: 44957592
+Range 1: 33647506 to 33647733
+
+Score:402 bits(209), Expect:1e-109, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCCAGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33647506  ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCCAGGA  33647565
+
+Query  61        AGGAAAAAA-GCGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACACTGGAGA  119
+                 ||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33647566  AGGAAAAAAAGCGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACACTGGAGA  33647625
+
+Query  120       GCATA--GACAGCCTGGTGACCTCTGGTGTGCGAGGGATGAAGGAAACAGCCTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33647626  GCATACAGACAGCCTGGTGACCTCTGGTGTGCGAGGGATGAAGGAAACAGCCTGTGATTG  33647685
+
+Query  178       ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCATCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33647686  ACTATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAACCATCCTG  33647733
+
+
+
+
+Range 2: 33668715 to 33668893
+
+Score:344 bits(179), Expect:3e-92, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33668715  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCATTTAAGCAAACACTTGCGTC  33668774
+
+Query  1415      AGCATCTCAGCACCTCAGCAAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33668775  AGCATCTCAGCACCTCAGCAAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  33668834
+
+Query  1475      TGAGGTCAAGCCCACCAGAGCACTGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33668835  TGAGGTCAAGCCCACCAGAGCACTGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  33668893
+
+
+
+
+Range 3: 33663444 to 33663600
+
+Score:302 bits(157), Expect:2e-79, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGGTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33663444  GGCTGGGTGCAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  33663503
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33663504  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  33663563
+
+Query  918       GAAGTTCCTCTGGCGGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  33663564  GAAGTTCCTCTGGCGGTTCATCGCCCTCGGATGGGGT  33663600
+
+
+
+
+Range 4: 33667300 to 33667439
+
+Score:269 bits(140), Expect:1e-69, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Plus
+
+Query  1176      GAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCATCTT  1235
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33667300  GAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCATCTT  33667359
+
+Query  1236      CGCTTTTTTCCCTGAAGACGCAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTCGAGTT  1295
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33667360  CGCTTTTTTCCCTGAAGACGCAAGCAGTGGCACAATGGAAATTCAGCTGTTTTTCGAGTT  33667419
+
+Query  1296      GGCTCTTGGATCATTCCAGG  1315
+                 ||||||||||||||||||||
+Sbjct  33667420  GGCTCTTGGATCATTCCAGG  33667439
+
+
+
+
+Range 5: 33662092 to 33662227
+
+Score:262 bits(136), Expect:2e-67, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTCCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33662092  AGAAGACTCCGCTGTACAAGGAACTACATCCACATGCATCTCTTCACATCGTTCATTTTG  33662151
+
+Query  724       CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACACGAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33662152  CGAGCCTCATCCAACTTCATCAAGGATGCCGTTTTGTTTTCCTCTGAAGACACGAATTAC  33662211
+
+Query  784       TGCGGAGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  33662212  TGCGGAGCATACACGG  33662227
+
+
+
+
+Range 6: 33651680 to 33651808
+
+Score:248 bits(129), Expect:3e-63, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGCGACCTCCTGACCGTCTTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33651680  GATCAGAGCTGTCCCACCTGTCTGCGACCTCCTGACCGTCTTGAAAAAGGAGGAAGAAAA  33651739
+
+Query  285       CTGTGCTGAGACTCTCTCCCTGGAGGCGAAGAACAGAACGGCTGACAACGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33651740  CTGTGCTGAGACTCTCTCCCTGGAGGCGAAGAACAGAACGGCTGACAACGATCTGCTCCT  33651799
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  33651800  GAGCTCAGG  33651808
+
+
+
+
+Range 7: 33656548 to 33656663
+
+Score:223 bits(116), Expect:9e-56, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCAGTGGGAG  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33656548  CAGGCAGATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCAGTGGGAG  33656607
+
+Query  410       AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33656608  AGACTGTCAACGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAAAAAGGT  33656663
+
+
+
+
+Range 8: 33660618 to 33660723
+
+Score:204 bits(106), Expect:6e-50, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACGAGCGAGGGTTGGTCAGACCCATATCCAAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33660618  AGGTTTTGTCTACCGAAACTGTACGAGCGAGGGTTGGTCAGACCCATATCCAAGACCTGA  33660677
+
+Query  522       TATCGCTTGTGGCTACAATGTCAATGACACAACAAATGAGGCAAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33660678  TATCGCTTGTGGCTACAATGTCAATGACACAACAAATGAGGCAAGA  33660723
+
+
+
+
+Range 9: 33661020 to 33661117
+
+Score:189 bits(98), Expect:2e-45, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33661020  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTTGTG  33661079
+
+Query  628       ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  33661080  ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  33661117
+
+
+
+
+Range 10: 33667113 to 33667205
+
+Score:179 bits(93), Expect:2e-42, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      GTTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33667113  GTTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCT  33667172
+
+Query  1144      GAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  33667173  GAAGGACGGAGCAGTGATTTCAACCAATACAAG  33667205
+
+
+
+
+Range 11: 33664301 to 33664373
+
+Score:141 bits(73), Expect:7e-31, 
+Identities:73/73(100%),  Gaps:0/73(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCCGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33664301  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCCGTAGTTT  33664360
+
+Query  1073      TGTCTATTTTTGT  1085
+                 |||||||||||||
+Sbjct  33664361  TGTCTATTTTTGT  33664373
+
+
+
+
+Range 12: 33663689 to 33663752
+
+Score:123 bits(64), Expect:1e-25, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAGCTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33663689  GGTGCCCCAGCTGTGTTTGTGGCTGCATGGGCGACTGCTAGGCAACTCCATGAAAATATT  33663748
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  33663749  GGGT  33663752
+
+
+
+
+Range 13: 33667619 to 33667665
+
+Score:91.1 bits(47), Expect:8e-16, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1312      CAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  33667619  CAGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  33667665
+
+
+
+
+>Mycteria americana isolate JAX WOST 10 ecotype Jacksonville Zoo and Gardens chromosome 2, USCA_MyAme_1.0
+Sequence ID: NC_134366.1 Length: 175112271
+Range 1: 4067003 to 4067125
+
+Score:75.7 bits(39), Expect:3e-11, 
+Identities:95/123(77%),  Gaps:0/123(0%), Strand: Plus/Minus
+
+Query  817      ATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAGGGACTG  876
+                ||||| ||||| ||||| ||| ||||| | |||| |  ||||||||| ||||||||  ||
+Sbjct  4067125  ATGGTTTTCTTCCAGTACTGCGTCATGGCCAACTTCTTCTGGCTCCTGGTGGAGGGGTTG  4067066
+
+Query  877      TACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAGGAAGTTCCTCTGGCGGTTC  936
+                || || ||||| ||  |||| || || ||||| || || ||||||| | | ||| ||| |
+Sbjct  4067065  TATCTTCACACCCTGTTGGTCATCTCCTTCTTTTCAGAGAGGAAGTACTTTTGGTGGTAC  4067006
+
+Query  937      ATC  939
+                |||
+Sbjct  4067005  ATC  4067003
+
+
+
+
+Range 2: 4053682 to 4053760
+
+Score:54.5 bits(28), Expect:8e-05, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  1172     ACAAGAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCA  1231
+                ||| ||| || || ||||| ||  | || || ||||||||||||||  | ||||| ||||
+Sbjct  4053760  ACAGGAGGCTGGCCAAGTCCACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTATATCA  4053701
+
+Query  1232     TCTTCGCTTTTTTCCCTGA  1250
+                | || ||||| ||||||||
+Sbjct  4053700  TGTTTGCTTTCTTCCCTGA  4053682
+
+
+
+
+Range 3: 4052181 to 4052226
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:39/46(85%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1313     AGGGCTTTGTTGTGGCTGTACTTTATTGTTTTCTTAATGGTGAGGT  1358
+                |||| ||||| |||||||| || || |||||||| ||||| |||||
+Sbjct  4052226  AGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAATGGGGAGGT  4052181
+
+
+
+
+Range 4: 4466241 to 4466316
+
+Score:48.8 bits(25), Expect:0.004, 
+Identities:59/76(78%),  Gaps:0/76(0%), Strand: Plus/Plus
+
+Query  1176     GAGACTTGCAAAGTCAACACTTCTCCTCATCCCTCTCTTTGGGGTCCACTACATCATCTT  1235
+                ||||||||| || || ||  | ||| | ||||| |||||||| || ||||||||  | ||
+Sbjct  4466241  GAGACTTGCTAAATCCACGTTACTCTTGATCCCCCTCTTTGGAGTGCACTACATTGTATT  4466300
+
+Query  1236     CGCTTTTTTCCCTGAA  1251
+                 || |||||||| |||
+Sbjct  4466301  TGCATTTTTCCCAGAA  4466316
+
+
+
+
+Range 5: 11746698 to 11746760
+
+Score:46.8 bits(24), Expect:0.016, 
+Identities:50/63(79%),  Gaps:0/63(0%), Strand: Plus/Minus
+
+Query  356       GATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCATCCGCAGTGGGAGAGACTG  415
+                 |||||| |||||| ||||||||||| | ||| |||| |||  |    || ||||||||||
+Sbjct  11746760  GATGTGTTGGAATTTGGGATAACATCACCTGTTGGCGTTCTGCGAAGGTTGGAGAGACTG  11746701
+
+Query  416       TCA  418
+                 |||
+Sbjct  11746700  TCA  11746698
+
+
+
+
+>Mycteria americana isolate JAX WOST 10 ecotype Jacksonville Zoo and Gardens chromosome 16, USCA_MyAme_1.0
+Sequence ID: NC_134380.1 Length: 14969894
+Range 1: 14278892 to 14278973
+
+Score:66.1 bits(34), Expect:3e-08, 
+Identities:66/82(80%),  Gaps:0/82(0%), Strand: Plus/Plus
+
+Query  815       CCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTGGCTCCTCGTGGAGGGAC  874
+                 ||| ||||||| | |||||| ||||| || | |||||| ||||||| || ||||||||  
+Sbjct  14278892  CCACGGTCTTCATGCAGTATGGCATCGTGGCCAACTACTGCTGGCTGCTGGTGGAGGGCA  14278951
+
+Query  875       TGTACCTCCACACTCTCCTGGT  896
+                 | ||||| ||||  ||||||||
+Sbjct  14278952  TCTACCTGCACAACCTCCTGGT  14278973
+
+
+
+
+
+
+
+		
+
+

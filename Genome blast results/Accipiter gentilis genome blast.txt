@@ -1,0 +1,453 @@
+RID: NCRNCNH6014	
+Job Title:XM_049814731.1 PREDICTED: Accipiter gentilis...				
+Program: BLASTN 
+Database: genomic/8957/GCA_929443795.2 bAccGen1.2 GenBank assembly [GCA_929443795.2]
+Query #1: XM_049814731.1 PREDICTED: Accipiter gentilis secretin receptor (SCTR), mRNA Query ID: lcl|Query_4574465 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Accipiter gentilis genome assembly, chromosome: 1                 Astur gentilis  Northern gos... 8957       392    2816  100%  1e-106 98.68  55805604   OV839361.1       
+Accipiter gentilis genome assembly, chromosome: 4                 Astur gentilis  Northern gos... 8957       67.1   396   15%   2e-08  78.48  48363854   OV839364.1       
+Accipiter gentilis genome assembly, chromosome: 5                 Astur gentilis  Northern gos... 8957       63.5   118   7%    3e-07  75.49  47463143   OV839365.1       
+Accipiter gentilis genome assembly, chromosome: 10                Astur gentilis  Northern gos... 8957       57.2   112   4%    1e-05  78.79  41278614   OV839370.1       
+Accipiter gentilis genome assembly, chromosome: 33                Astur gentilis  Northern gos... 8957       46.4   46.4  3%    0.021  87.18  21076603   OV839394.1       
+Accipiter gentilis genome assembly, chromosome: 14                Astur gentilis  Northern gos... 8957       46.4   46.4  2%    0.021  89.19  34431249   OV839375.1       
+
+
+Alignments:
+
+>Accipiter gentilis genome assembly, chromosome: 1
+Sequence ID: OV839361.1 Length: 55805604
+Range 1: 44618497 to 44618724
+
+Score:392 bits(434), Expect:1e-106, 
+Identities:225/228(99%),  Gaps:3/228(1%), Strand: Plus/Plus
+
+Query  1         ATGCTCTCTCGGGCTCAGCAGCTGGAGAGAAACGTTGGCTAAGGATGGTCAAAGCTGGGA  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44618497  ATGCTCTCTCGGGCTCAGCAGCTGGAGAGAAACGTTGGCTAAGGATGGTCAAAGCTGGGA  44618556
+
+Query  61        AGGaaaaaaaGT-AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGACA  119
+                 |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44618557  AGGAAAAAAAGTGAGGAGGGAAAGGGATGAAGTGAAAGGAGCTAGGAGCCACGCTGGACA  44618616
+
+Query  120       GCATA--GACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  177
+                 |||||  |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44618617  GCATACAGACAGCCCGGTGACCTCTGGTGCACGAGGGATGAAGGAAACAGACTGTGATTG  44618676
+
+Query  178       AATATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  225
+                 ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44618677  AATATGTGGACCATCTGGGTGATCATCTTCTGGATTTCAGCTGTCCTG  44618724
+
+
+
+
+Range 2: 44639575 to 44639753
+
+Score:324 bits(358), Expect:5e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Plus
+
+Query  1355      AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACGTGCGTC  1414
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44639575  AGGTTCAGCTGGAAGTTCAGAGAAAATGGAGGCAGTGGCACTTAAGCAAACACGTGCGTC  44639634
+
+Query  1415      AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  1474
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44639635  AGCATCTCAGCACCTCAGCGAGTAATGGAGGAAGTGGCTTAACTCAAGAGATGCAGATGG  44639694
+
+Query  1475      TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  1533
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44639695  TGAGGTCGAGCCCACCAGAGCACAGGAGAGCAACCCTCCAAAGATCAAGCGTGCTTTAA  44639753
+
+
+
+
+Range 3: 44634321 to 44634477
+
+Score:284 bits(314), Expect:5e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  798       GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  857
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44634321  GGCTGGGTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  44634380
+
+Query  858       GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  917
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44634381  GCTCCTCGTGGAGGGACTGTACCTCCACACTCTCCTGGTTATTTCTTTCTTCTCGGAAAG  44634440
+
+Query  918       GAAATTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  954
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  44634441  GAAATTCCTCTGGCAGTTCATCGCCCTCGGATGGGGT  44634477
+
+
+
+
+Range 4: 44638188 to 44638330
+
+Score:254 bits(281), Expect:8e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44638188  CAGGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  44638247
+
+Query  1233      CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  1292
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44638248  CTTTGCTTTTTTCCCTGAAGATGCAAGCAGCGGCACAATGGAAATTCAGCTGTTTTTTGA  44638307
+
+Query  1293      ATTGGCTCTTGGATCATTCCAGG  1315
+                 |||||||||||||||||||||||
+Sbjct  44638308  ATTGGCTCTTGGATCATTCCAGG  44638330
+
+
+
+
+Range 5: 44632976 to 44633111
+
+Score:246 bits(272), Expect:1e-62, 
+Identities:136/136(100%),  Gaps:0/136(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44632976  AGAAGACTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  44633035
+
+Query  724       CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACGAATTAC  783
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44633036  CGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTCCTCTGAAGACACGAATTAC  44633095
+
+Query  784       TGCGGGGCATACACGG  799
+                 ||||||||||||||||
+Sbjct  44633096  TGCGGGGCATACACGG  44633111
+
+
+
+
+Range 6: 44622672 to 44622800
+
+Score:233 bits(258), Expect:7e-59, 
+Identities:129/129(100%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  225       GATCAGAGCTGTCCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAAGGAGGAAGAAAA  284
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44622672  GATCAGAGCTGTCCCACCTGTCTGTGACCTTTTGAGTGTCCTGAAAAAGGAGGAAGAAAA  44622731
+
+Query  285       CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACAGAACGGCCGAAAACGATCTGCTCCT  344
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44622732  CTGTGCTGAGACTCTCTCCTTGGAGGCGAAGAACAGAACGGCCGAAAACGATCTGCTCCT  44622791
+
+Query  345       GAGCTCAGG  353
+                 |||||||||
+Sbjct  44622792  GAGCTCAGG  44622800
+
+
+
+
+Range 7: 44627472 to 44627587
+
+Score:210 bits(232), Expect:8e-52, 
+Identities:116/116(100%),  Gaps:0/116(0%), Strand: Plus/Plus
+
+Query  350       CAGGCAGATGCGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAC  409
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44627472  CAGGCAGATGCGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCGTCTGCTGTGGGAC  44627531
+
+Query  410       AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  465
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44627532  AGACTGTCAATGCTCACTGCCCTGAATTCTTCCAGATGCTGACTGGGAAGAAAGGT  44627587
+
+
+
+
+Range 8: 44631494 to 44631599
+
+Score:192 bits(212), Expect:2e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Plus
+
+Query  462       AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCGAGACCTGA  521
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44631494  AGGTTTTGTCTACCGAAACTGTACAAGCAAGGGTTGGTCAGACCCATATCCGAGACCTGA  44631553
+
+Query  522       TATCGCTTGTGGCTACAACGTCAATGACACGACAAACGAGGCGAGA  567
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44631554  TATCGCTTGTGGCTACAACGTCAATGACACGACAAACGAGGCGAGA  44631599
+
+
+
+
+Range 9: 44631901 to 44631998
+
+Score:178 bits(196), Expect:5e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Plus
+
+Query  568       CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  627
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44631901  CGTTCCTATTTCATGACTCTGAAGACCATGTACACCATTGGATACTGCACCTCCCTCGTG  44631960
+
+Query  628       ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  665
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  44631961  ACGCTGACGATAGCCTTAGCGGTCCTGGTCTCTTTTAG  44631998
+
+
+
+
+Range 10: 44638006 to 44638098
+
+Score:168 bits(186), Expect:3e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  1084      ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTGAGCTCGCCT  1143
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44638006  ATTAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTGAGCTCGCCT  44638065
+
+Query  1144      GAAGGACGGAGCAGTGATTTCAACCAATACAAG  1176
+                 |||||||||||||||||||||||||||||||||
+Sbjct  44638066  GAAGGACGGAGCAGTGATTTCAACCAATACAAG  44638098
+
+
+
+
+Range 11: 44635167 to 44635237
+
+Score:129 bits(142), Expect:2e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  1013      GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  1072
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44635167  GGTGTTGGGACATTAACACTAATGCCAATACCTGGTGGATCATTAGAGGCCCTGTAGTTT  44635226
+
+Query  1073      TGTCTATTTTT  1083
+                 |||||||||||
+Sbjct  44635227  TGTCTATTTTT  44635237
+
+
+
+
+Range 12: 44634566 to 44634629
+
+Score:116 bits(128), Expect:1e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  952       GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATC  1011
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44634566  GGTGCCCCAACCGTGTTTGTGGCTGCATGGGCAACTGCTAGGCAACTCCATGAAAATATC  44634625
+
+Query  1012      GGGT  1015
+                 ||||
+Sbjct  44634626  GGGT  44634629
+
+
+
+
+Range 13: 44638511 to 44638556
+
+Score:84.2 bits(92), Expect:8e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44638511  AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  44638556
+
+
+
+
+>Accipiter gentilis genome assembly, chromosome: 4
+Sequence ID: OV839364.1 Length: 48363854
+Range 1: 44334365 to 44334443
+
+Score:67.1 bits(73), Expect:2e-08, 
+Identities:62/79(78%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  1172      ACAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCA  1231
+                 ||| ||| || || ||||| ||  | || || |||||||| |||||  | ||||||||||
+Sbjct  44334365  ACAGGAGGCTGGCCAAGTCTACCTTGCTGCTGATCCCTCTCTTTGGCATTCACTACATCA  44334424
+
+Query  1232      TCTTTGCTTTTTTCCCTGA  1250
+                 | |||||||| ||||| ||
+Sbjct  44334425  TGTTTGCTTTCTTCCCCGA  44334443
+
+
+
+
+Range 2: 44305299 to 44305397
+
+Score:61.7 bits(67), Expect:9e-07, 
+Identities:75/100(75%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                 |||| ||| ||||||||  | || ||||| || |||||||||||||  || |||||  ||
+Sbjct  44305299  AGAAAACTACACTGTACTCGAAATTACATTCATATGCACCTCTTCATGTCATTCATAATG  44305358
+
+Query  724       CGAGCCTCGTCCA-ACTTCATCAAGGATGCCATCTTGTTT  762
+                  ||| ||  | ||  |||||| || |||| |||| | |||
+Sbjct  44305359  AGAG-CTATTGCAGTCTTCATAAAAGATGTCATCCTATTT  44305397
+
+
+
+
+Range 3: 36828259 to 36828332
+
+Score:59.0 bits(64), Expect:3e-06, 
+Identities:58/74(78%),  Gaps:1/74(1%), Strand: Plus/Plus
+
+Query  656       TCTCTT-TTAGAAGACTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCG  714
+                 |||||| |||||| |||||| |||||  |||||||||||||  || |||| |||   || 
+Sbjct  36828259  TCTCTTCTTAGAAAACTTCATTGTACTCGGAACTACATCCATCTGAACCTGTTCCTCTCT  36828318
+
+Query  715       TTCATTTTGCGAGC  728
+                 |||||| |  ||||
+Sbjct  36828319  TTCATTCTAAGAGC  36828332
+
+
+
+
+Range 4: 44335890 to 44335935
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:40/46(87%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 |||| ||||| |||||||| || || |||||||| |||||||||||
+Sbjct  44335890  AGGGATTTGTGGTGGCTGTTCTGTACTGTTTTCTCAATGGGGAGGT  44335935
+
+
+
+
+Range 5: 46416882 to 46416969
+
+Score:56.3 bits(61), Expect:4e-05, 
+Identities:65/88(74%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  673       CACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTGCGAGCCTCG  732
+                 ||||| || || || ||||||||||||||||| ||    || |||||  || |||||  |
+Sbjct  46416882  CACTGCACTAGAAATTACATCCACATGCACCTGTTTGTCTCCTTCATGCTGAGAGCCGTG  46416941
+
+Query  733       TCCAACTTCATCAAGGATGCCATCTTGT  760
+                   || |||| | ||||| ||  ||||||
+Sbjct  46416942  AGCATCTTCGTGAAGGACGCGGTCTTGT  46416969
+
+
+
+
+Range 6: 43922226 to 43922271
+
+Score:48.2 bits(52), Expect:0.006, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1313      AGGGCTTTGTCGTGGCTGTACTTTATTGTTTTCTTAATGGGGAGGT  1358
+                 |||| ||||| || ||||| || ||||||||  | |||||||||||
+Sbjct  43922226  AGGGTTTTGTTGTTGCTGTTCTCTATTGTTTCTTGAATGGGGAGGT  43922271
+
+
+
+
+Range 7: 36842574 to 36842651
+
+Score:47.3 bits(51), Expect:0.021, 
+Identities:57/78(73%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  1173      CAAGAGACTTGCAAAGTCAACACTCCTCCTCATCCCTCTGTTTGGGGTCCACTACATCAT  1232
+                 || |||||||||||| || ||| |  | || || || || ||||| || ||||| |   |
+Sbjct  36842574  CAGGAGACTTGCAAAATCCACATTGTTGCTTATTCCACTATTTGGAGTTCACTATACAGT  36842633
+
+Query  1233      CTTTGCTTTTTTCCCTGA  1250
+                  |||||| | || |||||
+Sbjct  36842634  GTTTGCTCTCTTTCCTGA  36842651
+
+
+
+
+>Accipiter gentilis genome assembly, chromosome: 5
+Sequence ID: OV839365.1 Length: 47463143
+Range 1: 42017488 to 42017586
+
+Score:63.5 bits(69), Expect:3e-07, 
+Identities:77/102(75%),  Gaps:5/102(4%), Strand: Plus/Minus
+
+Query  665       GAAGACTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT--TTT  722
+                 |||| || || || || || |||| ||||||||| ||| |||||||||| |||||  || 
+Sbjct  42017586  GAAG-CTGCATTGCACCAGAAACTCCATCCACATCCACTTCTTCACATCCTTCATACTTC  42017528
+
+Query  723       GCGAGCCTCGTCCAACTTCATCAAGGATGCCATCTTGTTTTC  764
+                 ||| | ||   ||   ||||||||||||||| || | || ||
+Sbjct  42017527  GCGGGGCTG--CCGTGTTCATCAAGGATGCCGTCCTCTTCTC  42017488
+
+
+
+
+Range 2: 43538513 to 43538562
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:42/50(84%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  670       CTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT  719
+                 || ||||| ||| | |||||||||||| | ||||||||||| || |||||
+Sbjct  43538562  CTGCACTGCACACGCAACTACATCCACGTCCACCTCTTCACCTCCTTCAT  43538513
+
+
+
+
+>Accipiter gentilis genome assembly, chromosome: 10
+Sequence ID: OV839370.1 Length: 41278614
+Range 1: 26765767 to 26765832
+
+Score:57.2 bits(62), Expect:1e-05, 
+Identities:52/66(79%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  664       AGAAGACTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCATTTTG  723
+                 |||| ||||||||| ||||| ||||||||||| ||| |  | ||  |||| || || |||
+Sbjct  26765767  AGAAAACTTCACTGCACAAGAAACTACATCCATATGAATTTATTTGCATCTTTTATCTTG  26765826
+
+Query  724       CGAGCC  729
+                 || |||
+Sbjct  26765827  CGTGCC  26765832
+
+
+
+
+Range 2: 40712797 to 40712846
+
+Score:55.4 bits(60), Expect:4e-05, 
+Identities:42/50(84%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  670       CTTCACTGTACAAGGAACTACATCCACATGCACCTCTTCACATCGTTCAT  719
+                 || ||||| |  |||||||||||||||||| |||||||| | || |||||
+Sbjct  40712797  CTGCACTGCATGAGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  40712846
+
+
+
+
+>Accipiter gentilis genome assembly, chromosome: 33
+Sequence ID: OV839394.1 Length: 21076603
+Range 1: 789083 to 789119
+
+Score:46.4 bits(50), Expect:0.021, 
+Identities:34/39(87%),  Gaps:2/39(5%), Strand: Plus/Plus
+
+Query  53      AGCTGGGAAGGaaaaaaaGTAGGAGGGAAAGGGATGAAG  91
+               |||||||||||| ||||||||  ||||||| || |||||
+Sbjct  789083  AGCTGGGAAGGAGAAAAAGTA--AGGGAAATGGTTGAAG  789119
+
+
+
+
+>Accipiter gentilis genome assembly, chromosome: 14
+Sequence ID: OV839375.1 Length: 34431249
+Range 1: 23439750 to 23439786
+
+Score:46.4 bits(50), Expect:0.021, 
+Identities:33/37(89%),  Gaps:1/37(2%), Strand: Plus/Plus
+
+Query  204       CTTCTGG-ATTTCAGCTGTCCTGATCAGAGCTGTCCC  239
+                 ||||||| ||||||||||| |||| ||||||||| ||
+Sbjct  23439750  CTTCTGGCATTTCAGCTGTGCTGAGCAGAGCTGTGCC  23439786
+
+
+
+
+
+
+
+		
+
+
