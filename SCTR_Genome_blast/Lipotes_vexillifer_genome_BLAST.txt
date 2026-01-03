@@ -1,0 +1,1248 @@
+RID: NEP49JCG016	
+Job Title:XM_007472035.1 PREDICTED: Lipotes vexillifer...				
+Program: BLASTN 
+Database: Genome (Lipotes_vexillifer_v1.1) Lipotes_vexillifer_v1.1 RefSeq assembly [GCF_000442215.2]
+Query #1: XM_007472035.1 PREDICTED: Lipotes vexillifer secretin receptor (SCTR), partial mRNA Query ID: lcl|Query_1025331 Length: 1136
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     284    2110  100%  6e-74 100.00 59138      NW_006788509.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     270    994   53%   1e-69 98.09  26905      NW_006773748.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     267    1037  53%   2e-68 98.09  904873     NW_006797504.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     233    795   42%   1e-58 94.81  45737      NW_006794904.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     224    513   28%   5e-56 93.51  19413      NW_006787327.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     224    782   42%   5e-56 93.51  23344      NW_006781537.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     215    782   42%   3e-53 92.21  498068     NW_006785237.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     214    552   29%   1e-52 96.88  12554      NW_006783000.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     190    190   10%   1e-45 98.18  1151       NW_006791196.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     177    177   10%   2e-41 95.45  505404     NW_006796989.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     159    159   9%    6e-36 95.00  254        NW_006784386.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     150    150   8%    3e-33 96.67  278        NW_006791198.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     137    365   29%   2e-29 84.55  2032200    NW_006769631.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     122    122   7%    5e-25 94.81  461        NW_006775796.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     111    111   6%    8e-22 94.37  853326     NW_006789243.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     110    110   6%    3e-21 98.41  251        NW_006788122.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     102    269   25%   4e-19 83.33  1718468    NW_006790887.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     100    185   21%   2e-18 80.95  1419073    NW_006798282.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     83.3   149   15%   4e-13 81.93  7102288    NW_006785876.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     73.4   126   12%   2e-10 78.82  7525025    NW_006792921.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     70.7   177   19%   3e-09 75.25  4335523    NW_006789046.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     67.1   113   11%   3e-08 81.16  4749610    NW_006786304.1   
+Lipotes vexillifer unplaced genomic scaffold,...                  Lipotes vexi... Yangtze Rive... 118797     64.4   121   10%   1e-07 88.00  3353470    NW_006785619.1   
+
+
+Alignments:
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1357, whole genome shotgun sequence
+Sequence ID: NW_006788509.1 Length: 59138
+Range 1: 44215 to 44371
+
+Score:284 bits(314), Expect:6e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  443    GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTG  502
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44371  GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTG  44312
+
+Query  503    GCTGCTGGTGGAAGGCCTCTACCTTCACACACTCCTCGTCATCTCCTTCTTCTCAGAAAG  562
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44311  GCTGCTGGTGGAAGGCCTCTACCTTCACACACTCCTCGTCATCTCCTTCTTCTCAGAAAG  44252
+
+Query  563    GAAATGGCTCCAGGGATTTATTGCCCTCGGATGGGGT  599
+              |||||||||||||||||||||||||||||||||||||
+Sbjct  44251  GAAATGGCTCCAGGGATTTATTGCCCTCGGATGGGGT  44215
+
+
+
+
+Range 2: 21543 to 21694
+
+Score:264 bits(292), Expect:6e-68, 
+Identities:151/153(99%),  Gaps:1/153(0%), Strand: Plus/Minus
+
+Query  984    GGGGAGGTGCAGCTGGAGGTTCAGAAGAGGTGGCGGCAGTGGCACCTGCGTGAGNCTCCC  1043
+              ||| |||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  21694  GGGCAGGTGCAGCTGGAGGTTCAGAAGAGGTGGCGGCAGTGGCACCTGCGTGAG-CTCCC  21636
+
+Query  1044   CTGCACCCGGTGGCCCTCAGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCAG  1103
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  21635  CTGCACCCGGTGGCCCTCAGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCAG  21576
+
+Query  1104   AGCCGGGGTACCTGCAGGACCAGTGTCATCTGA  1136
+              |||||||||||||||||||||||||||||||||
+Sbjct  21575  AGCCGGGGTACCTGCAGGACCAGTGTCATCTGA  21543
+
+
+
+
+Range 3: 46339 to 46496
+
+Score:251 bits(278), Expect:4e-64, 
+Identities:154/162(95%),  Gaps:4/162(2%), Strand: Plus/Minus
+
+Query  284    GGCCCTCGGCATCCTCTTTGCCTTTCGGAAGCTCCACTGCACCCGCAACTACATCCGCAT  343
+              ||||||  |||||||||   |||   ||||||||||||||||||||||||||||||||||
+Sbjct  46496  GGCCCT--GCATCCTCTC--CCTCCAGGAAGCTCCACTGCACCCGCAACTACATCCGCAT  46441
+
+Query  344    GCATCTCTTTGTGTCCTTCATCCTGCGTGCCCTGTCCAACTTCATCAAGGATGCCGTGCT  403
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46440  GCATCTCTTTGTGTCCTTCATCCTGCGTGCCCTGTCCAACTTCATCAAGGATGCCGTGCT  46381
+
+Query  404    CTTCTCCGACGACGACGTCGCCCGTTGTGATGCCCACAGGGT  445
+              ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  46380  CTTCTCCGACGACGACGTCGCCCGTTGTGATGCCCACAGGGT  46339
+
+
+
+
+Range 4: 27143 to 27270
+
+Score:232 bits(256), Expect:4e-58, 
+Identities:128/128(100%),  Gaps:0/128(0%), Strand: Plus/Minus
+
+Query  821    GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTT  880
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27270  GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTT  27211
+
+Query  881    TGCCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTTCTTTGAATTGGCCCTTGGCTC  940
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  27210  TGCCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTTCTTTGAATTGGCCCTTGGCTC  27151
+
+Query  941    GTTCCAGG  948
+              ||||||||
+Sbjct  27150  GTTCCAGG  27143
+
+
+
+
+Range 5: 58468 to 58577
+
+Score:199 bits(220), Expect:2e-48, 
+Identities:110/110(100%),  Gaps:0/110(0%), Strand: Plus/Minus
+
+Query  1      GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCACTGGGACAGACGG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  58577  GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCACTGGGACAGACGG  58518
+
+Query  61     TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGTTCGTGGGTAGAAACGGT  110
+              ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  58517  TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGTTCGTGGGTAGAAACGGT  58468
+
+
+
+
+Range 6: 53925 to 54029
+
+Score:190 bits(210), Expect:1e-45, 
+Identities:105/105(100%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  108    GGTTCCATATTTCGAAACTGCACTCAGGGCGGCTGGTCAGAGACCTTCCCCAGGCCTGAC  167
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54029  GGTTCCATATTTCGAAACTGCACTCAGGGCGGCTGGTCAGAGACCTTCCCCAGGCCTGAC  53970
+
+Query  168    CTGGCCTGTGGGGTGCACGTGAACGACTCCTCCAACGAGAAGAGG  212
+              |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  53969  CTGGCCTGTGGGGTGCACGTGAACGACTCCTCCAACGAGAAGAGG  53925
+
+
+
+
+Range 7: 47714 to 47813
+
+Score:181 bits(200), Expect:6e-43, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  212    GTATGAGTACCTCCTGAAGCTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGT  271
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  47813  GTATGAGTACCTCCTGAAGCTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGT  47754
+
+Query  272    GATGCTCCTGGTGGCCCTCGGCATCCTCTTTGCCTTTCGG  311
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  47753  GATGCTCCTGGTGGCCCTCGGCATCCTCTTTGCCTTTCGG  47714
+
+
+
+
+Range 8: 29023 to 29116
+
+Score:170 bits(188), Expect:1e-39, 
+Identities:94/94(100%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  728    GATTAATTTCATCCTTTTTATAAACATCCTAAGGATCCTGATGAGAAAACTGAGAACTCA  787
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  29116  GATTAATTTCATCCTTTTTATAAACATCCTAAGGATCCTGATGAGAAAACTGAGAACTCA  29057
+
+Query  788    AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  821
+              ||||||||||||||||||||||||||||||||||
+Sbjct  29056  AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  29023
+
+
+
+
+Range 9: 32574 to 32644
+
+Score:129 bits(142), Expect:3e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  658    GGTGCTGGGACATCAGTGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  717
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32644  GGTGCTGGGACATCAGTGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  32585
+
+Query  718    TCTCCATCCTG  728
+              |||||||||||
+Sbjct  32584  TCTCCATCCTG  32574
+
+
+
+
+Range 10: 34132 to 34202
+
+Score:117 bits(129), Expect:2e-23, 
+Identities:69/71(97%),  Gaps:2/71(2%), Strand: Plus/Minus
+
+Query  597    GGTTCCCCAGCCATTTTTGTTGCTTCGTGGGCTGTCACCAGGCACTTTCTGGAAGATGTC  656
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  34202  GGTTCCCCAGCCATTTTTGTTGCTTCGTGGGCTGTCACCAGGCACTTTCTGGAAGATGTC  34143
+
+Query  657    GGGT--GCTGG  665
+              ||||  |||||
+Sbjct  34142  GGGTAAGCTGG  34132
+
+
+
+
+Range 11: 22440 to 22487
+
+Score:87.8 bits(96), Expect:1e-14, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  945    CAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGTG  992
+              ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  22487  CAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGTG  22440
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1627, whole genome shotgun sequence
+Sequence ID: NW_006773748.1 Length: 26905
+Range 1: 23711 to 23867
+
+Score:270 bits(299), Expect:1e-69, 
+Identities:154/157(98%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  443    GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTG  502
+              ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  23711  GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGACAACTACTCCTG  23770
+
+Query  503    GCTGCTGGTGGAAGGCCTCTACCTTCACACACTCCTCGTCATCTCCTTCTTCTCAGAAAG  562
+              |||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+Sbjct  23771  GCTGCTGGTGGAAGGCCTCTACCTTCACACACCCCTCGTCATCTCCTTCTTCTCAGAAAG  23830
+
+Query  563    GAAATGGCTCCAGGGATTTATTGCCCTCGGATGGGGT  599
+              |||||||||||| ||||||||||||||||||||||||
+Sbjct  23831  GAAATGGCTCCAAGGATTTATTGCCCTCGGATGGGGT  23867
+
+
+
+
+Range 2: 21583 to 21733
+
+Score:214 bits(237), Expect:1e-52, 
+Identities:146/161(91%),  Gaps:10/161(6%), Strand: Plus/Plus
+
+Query  285    GCCCTCGGCATCCTCTTTGCCTTTCGGAAGCTCCACTGCACCCGCAACTACATCCGCATG  344
+              |||||  |||||||||   |||   |||||||||||||||||||||||||||||||||||
+Sbjct  21583  GCCCT--GCATCCTCTC--CCTCCAGGAAGCTCCACTGCACCCGCAACTACATCCGCATG  21638
+
+Query  345    CATCTCTTTGTGTCCTTCATCCTGCGTGCCCTGTCCAACTTCATCAAGGATGCCGTGCTC  404
+              |||||||||||||||   ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  21639  CATCTCTTTGTGTCC---ATCCTGCGTGCCCTGTCCAACTTCATCAAGGATGCCGTGCTC  21695
+
+Query  405    TTCTCCGACGACGACGTCGCCCGTTGTGATGCCCACAGGGT  445
+              || ||   |||||||||||||||||||||||||||||||||
+Sbjct  21696  TTATC---CGACGACGTCGCCCGTTGTGATGCCCACAGGGT  21733
+
+
+
+
+Range 3: 9530 to 9639
+
+Score:181 bits(200), Expect:6e-43, 
+Identities:106/110(96%),  Gaps:0/110(0%), Strand: Plus/Plus
+
+Query  1     GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCACTGGGACAGACGG  60
+             |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+Sbjct  9530  GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCGCTGGGACAGACGG  9589
+
+Query  61    TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGTTCGTGGGTAGAAACGGT  110
+             |||||||||||||||||||||||||||||||| ||||| | |||||||||
+Sbjct  9590  TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGCTCGTGAGCAGAAACGGT  9639
+
+
+
+
+Range 4: 14057 to 14161
+
+Score:177 bits(195), Expect:2e-41, 
+Identities:102/105(97%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  108    GGTTCCATATTTCGAAACTGCACTCAGGGCGGCTGGTCAGAGACCTTCCCCAGGCCTGAC  167
+              ||||||||||||||||||||||| |||||| |||||||||||||||||||||||||||||
+Sbjct  14057  GGTTCCATATTTCGAAACTGCACGCAGGGCTGCTGGTCAGAGACCTTCCCCAGGCCTGAC  14116
+
+Query  168    CTGGCCTGTGGGGTGCACGTGAACGACTCCTCCAACGAGAAGAGG  212
+              |||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  14117  CTGGCCTGTGGGGTCCACGTGAACGACTCCTCCAACGAGAAGAGG  14161
+
+
+
+
+Range 5: 20271 to 20370
+
+Score:150 bits(165), Expect:3e-33, 
+Identities:93/100(93%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  212    GTATGAGTACCTCCTGAAGCTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGT  271
+              ||| | ||||||||||||||||||||||||| ||||| ||||||| ||||||||||||||
+Sbjct  20271  GTACGCGTACCTCCTGAAGCTGAAGGTCATGCACACCATGGGCTATAGCTCCTCCCTGGT  20330
+
+Query  272    GATGCTCCTGGTGGCCCTCGGCATCCTCTTTGCCTTTCGG  311
+              |||||||||||||||||||| |||||||| ||||||||||
+Sbjct  20331  GATGCTCCTGGTGGCCCTCGTCATCCTCTGTGCCTTTCGG  20370
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1607, whole genome shotgun sequence
+Sequence ID: NW_006797504.1 Length: 904873
+Range 1: 902814 to 902969
+
+Score:267 bits(295), Expect:2e-68, 
+Identities:154/157(98%),  Gaps:1/157(0%), Strand: Plus/Plus
+
+Query  443     GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTG  502
+               ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  902814  GGTGGGCTGTAAGCTGGCCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTG  902873
+
+Query  503     GCTGCTGGTGGAAGGCCTCTACCTTCACACACTCCTCGTCATCTCCTTCTTCTCAGAAAG  562
+               |||||||||||||||| |||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  902874  GCTGCTGGTGGAAGGC-TCTACCTTCACACACTCCTCGTCATCTCCTCCTTCTCAGAAAG  902932
+
+Query  563     GAAATGGCTCCAGGGATTTATTGCCCTCGGATGGGGT  599
+               |||||||||||||||||||||||||||||||||||||
+Sbjct  902933  GAAATGGCTCCAGGGATTTATTGCCCTCGGATGGGGT  902969
+
+
+
+
+Range 2: 900689 to 900846
+
+Score:251 bits(278), Expect:4e-64, 
+Identities:154/162(95%),  Gaps:4/162(2%), Strand: Plus/Plus
+
+Query  284     GGCCCTCGGCATCCTCTTTGCCTTTCGGAAGCTCCACTGCACCCGCAACTACATCCGCAT  343
+               ||||||  |||||||||   |||   ||||||||||||||||||||||||||||||||||
+Sbjct  900689  GGCCCT--GCATCCTCTC--CCTCCAGGAAGCTCCACTGCACCCGCAACTACATCCGCAT  900744
+
+Query  344     GCATCTCTTTGTGTCCTTCATCCTGCGTGCCCTGTCCAACTTCATCAAGGATGCCGTGCT  403
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  900745  GCATCTCTTTGTGTCCTTCATCCTGCGTGCCCTGTCCAACTTCATCAAGGATGCCGTGCT  900804
+
+Query  404     CTTCTCCGACGACGACGTCGCCCGTTGTGATGCCCACAGGGT  445
+               ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  900805  CTTCTCCGACGACGACGTCGCCCGTTGTGATGCCCACAGGGT  900846
+
+
+
+
+Range 3: 893219 to 893321
+
+Score:182 bits(201), Expect:6e-43, 
+Identities:102/103(99%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  110     TTCCATATTTCGAAACTGCACTCAGGGCGGCTGGTCAGAGACCTTCCCCAGGCCTGACCT  169
+               ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  893219  TTCCATATTTCGAAACTGCACGCAGGGCGGCTGGTCAGAGACCTTCCCCAGGCCTGACCT  893278
+
+Query  170     GGCCTGTGGGGTGCACGTGAACGACTCCTCCAACGAGAAGAGG  212
+               |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  893279  GGCCTGTGGGGTGCACGTGAACGACTCCTCCAACGAGAAGAGG  893321
+
+
+
+
+Range 4: 888678 to 888787
+
+Score:172 bits(190), Expect:3e-40, 
+Identities:104/110(95%),  Gaps:0/110(0%), Strand: Plus/Plus
+
+Query  1       GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCACTGGGACAGACGG  60
+               ||||||||||||||||||||| |||||||||||||||||||||||| |||||||||||||
+Sbjct  888678  GCTGCCAGGGGCTGTGGGACAACACGAGCTGCTGGCCCTCCTCTGCGCTGGGACAGACGG  888737
+
+Query  61      TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGTTCGTGGGTAGAAACGGT  110
+               |||||||||||||||||||||||||||||||| ||||||  | |||||||
+Sbjct  888738  TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGCTCGTGGCCATAAACGGT  888787
+
+
+
+
+Range 5: 899377 to 899476
+
+Score:163 bits(180), Expect:2e-37, 
+Identities:96/100(96%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  212     GTATGAGTACCTCCTGAAGCTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGT  271
+               ||| |||||||| |||||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  899377  GTACGAGTACCTGCTGAAGCTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTAGT  899436
+
+Query  272     GATGCTCCTGGTGGCCCTCGGCATCCTCTTTGCCTTTCGG  311
+               ||||||||||||||||||||||||||||| ||||||||||
+Sbjct  899437  GATGCTCCTGGTGGCCCTCGGCATCCTCTGTGCCTTTCGG  899476
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1672, whole genome shotgun sequence
+Sequence ID: NW_006794904.1 Length: 45737
+Range 1: 15994 to 16143
+
+Score:233 bits(258), Expect:1e-58, 
+Identities:146/154(95%),  Gaps:5/154(3%), Strand: Plus/Plus
+
+Query  984    GGGGAGGTGCAGCTGGAGGTTCAGAAGAGGTGGCGGCAGTGGCACCTGCGTGAGNCTCCC  1043
+              ||| |||||||||||||||||||||||   |||||||| ||||||||||||||| |||||
+Sbjct  15994  GGGCAGGTGCAGCTGGAGGTTCAGAAG---TGGCGGCACTGGCACCTGCGTGAG-CTCCC  16049
+
+Query  1044   -CTGCACCCGGTGGCCCTCAGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCA  1102
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  16050  ACTGCACCCGGTGGCCCTCAGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCAGAGCA  16109
+
+Query  1103   GAGCCGGGGTACCTGCAGGACCAGTGTCATCTGA  1136
+              ||||||||||||||||||||||||||||||||||
+Sbjct  16110  GAGCCGGGGTACCTGCAGGACCAGTGTCATCTGA  16143
+
+
+
+
+Range 2: 10630 to 10757
+
+Score:205 bits(226), Expect:5e-50, 
+Identities:122/128(95%),  Gaps:0/128(0%), Strand: Plus/Plus
+
+Query  821    GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTT  880
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  10630  GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAACCTT  10689
+
+Query  881    TGCCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTTCTTTGAATTGGCCCTTGGCTC  940
+              |||||||||||||||| ||||||||||  ||||||||| |||||||||||||||||||||
+Sbjct  10690  TGCCTTCTCCCCGGAGTATGCCATGGAATCGCAGCTGTGCTTTGAATTGGCCCTTGGCTC  10749
+
+Query  941    GTTCCAGG  948
+               |||||||
+Sbjct  10750  ATTCCAGG  10757
+
+
+
+
+Range 3: 8714 to 8807
+
+Score:161 bits(178), Expect:5e-37, 
+Identities:92/94(98%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  728   GATTAATTTCATCCTTTTTATAAACATCCTAAGGATCCTGATGAGAAAACTGAGAACTCA  787
+             |||||||||||| |||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  8714  GATTAATTTCATGCTTTTTATAAACATCCTAAGGATCCTGATGAGAAAACTTAGAACTCA  8773
+
+Query  788   AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  821
+             ||||||||||||||||||||||||||||||||||
+Sbjct  8774  AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  8807
+
+
+
+
+Range 4: 5157 to 5227
+
+Score:115 bits(127), Expect:7e-23, 
+Identities:68/71(96%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  658   GGTGCTGGGACATCAGTGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  717
+             ||||||||||||||| ||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  5157  GGTGCTGGGACATCAATGCCAACACGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  5216
+
+Query  718   TCTCCATCCTG  728
+             ||||||| |||
+Sbjct  5217  TCTCCATTCTG  5227
+
+
+
+
+Range 5: 15199 to 15246
+
+Score:78.8 bits(86), Expect:5e-12, 
+Identities:46/48(96%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  945    CAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGTG  992
+              |||||||||||||||||||||| |||||| ||||||||||||||||||
+Sbjct  15199  CAGGGCCTGGTGGTGGCCATTCCCTACTGATTCCTCAATGGGGAGGTG  15246
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold2177, whole genome shotgun sequence
+Sequence ID: NW_006787327.1 Length: 19413
+Range 1: 12198 to 12347
+
+Score:224 bits(248), Expect:5e-56, 
+Identities:144/154(94%),  Gaps:5/154(3%), Strand: Plus/Minus
+
+Query  984    GGGGAGGTGCAGCTGGAGGTTCAGAAGAGGTGGCGGCAGTGGCACCTGCGTGAGNCTCCC  1043
+              ||| |||||||||||||||||||||||   |||||||||||||||||||||||| |||||
+Sbjct  12347  GGGCAGGTGCAGCTGGAGGTTCAGAAG---TGGCGGCAGTGGCACCTGCGTGAG-CTCCC  12292
+
+Query  1044   -CTGCACCCGGTGGCCCTCAGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCA  1102
+               ||||| |||||| ||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  12291  ACTGCAGCCGGTGTCCCTCGGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCA  12232
+
+Query  1103   GAGCCGGGGTACCTGCAGGACCAGTGTCATCTGA  1136
+              |||||||||||||||||| |||||||||||||||
+Sbjct  12231  GAGCCGGGGTACCTGCAGTACCAGTGTCATCTGA  12198
+
+
+
+
+Range 2: 17642 to 17769
+
+Score:218 bits(241), Expect:8e-54, 
+Identities:125/128(98%),  Gaps:0/128(0%), Strand: Plus/Minus
+
+Query  821    GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTT  880
+              |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  17769  GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAACCTT  17710
+
+Query  881    TGCCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTTCTTTGAATTGGCCCTTGGCTC  940
+              |||||||||||||||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  17709  TGCCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTGCTTTGAATTGGCCCTTGGCTC  17650
+
+Query  941    GTTCCAGG  948
+               |||||||
+Sbjct  17649  ATTCCAGG  17642
+
+
+
+
+Range 3: 13101 to 13148
+
+Score:69.8 bits(76), Expect:3e-09, 
+Identities:44/48(92%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  945    CAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGTG  992
+              |||||| ||||||||||| ||| |||||| ||||||||||||||||||
+Sbjct  13148  CAGGGCATGGTGGTGGCCGTTCCCTACTGATTCCTCAATGGGGAGGTG  13101
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1758, whole genome shotgun sequence
+Sequence ID: NW_006781537.1 Length: 23344
+Range 1: 11644 to 11793
+
+Score:224 bits(248), Expect:5e-56, 
+Identities:144/154(94%),  Gaps:5/154(3%), Strand: Plus/Plus
+
+Query  984    GGGGAGGTGCAGCTGGAGGTTCAGAAGAGGTGGCGGCAGTGGCACCTGCGTGAGNCTCCC  1043
+              ||| |||||||||||||||||||||||   |||||||||||||||||||||||| |||||
+Sbjct  11644  GGGCAGGTGCAGCTGGAGGTTCAGAAG---TGGCGGCAGTGGCACCTGCGTGAG-CTCCC  11699
+
+Query  1044   -CTGCACCCGGTGGCCCTCAGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCA  1102
+               |||||||||||| ||||| |||||||||||||||||||||||||||||||||| |||||
+Sbjct  11700  ACTGCACCCGGTGTCCCTCGGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCAGAGCA  11759
+
+Query  1103   GAGCCGGGGTACCTGCAGGACCAGTGTCATCTGA  1136
+              |||| |||||||||||||||||||||||||||||
+Sbjct  11760  GAGCTGGGGTACCTGCAGGACCAGTGTCATCTGA  11793
+
+
+
+
+Range 2: 6219 to 6344
+
+Score:210 bits(232), Expect:1e-51, 
+Identities:122/126(97%),  Gaps:0/126(0%), Strand: Plus/Plus
+
+Query  823   GCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTTTG  882
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||| |||||
+Sbjct  6219  GCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAACCTTTG  6278
+
+Query  883   CCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTTCTTTGAATTGGCCCTTGGCTCGT  942
+             ||||||||| |||||||||||||||||||||||||| ||||||||||||||||||||| |
+Sbjct  6279  CCTTCTCCCTGGAGGATGCCATGGAGACGCAGCTGTGCTTTGAATTGGCCCTTGGCTCAT  6338
+
+Query  943   TCCAGG  948
+             ||||||
+Sbjct  6339  TCCAGG  6344
+
+
+
+
+Range 3: 4352 to 4445
+
+Score:157 bits(173), Expect:2e-35, 
+Identities:91/94(97%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  728   GATTAATTTCATCCTTTTTATAAACATCCTAAGGATCCTGATGAGAAAACTGAGAACTCA  787
+             |||||||||||||||||||||||||| |||||||||||||||||||||||| ||| ||||
+Sbjct  4352  GATTAATTTCATCCTTTTTATAAACACCCTAAGGATCCTGATGAGAAAACTTAGAGCTCA  4411
+
+Query  788   AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  821
+             ||||||||||||||||||||||||||||||||||
+Sbjct  4412  AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  4445
+
+
+
+
+Range 4: 574 to 644
+
+Score:115 bits(127), Expect:7e-23, 
+Identities:68/71(96%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  658  GGTGCTGGGACATCAGTGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  717
+            ||||||||||||||| ||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  574  GGTGCTGGGACATCAATGCCAACACGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  633
+
+Query  718  TCTCCATCCTG  728
+            ||||||| |||
+Sbjct  634  TCTCCATTCTG  644
+
+
+
+
+Range 5: 10843 to 10890
+
+Score:74.3 bits(81), Expect:2e-10, 
+Identities:45/48(94%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  945    CAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGTG  992
+              |||||||||||||||||| ||| |||||| ||||||||||||||||||
+Sbjct  10843  CAGGGCCTGGTGGTGGCCGTTCCCTACTGATTCCTCAATGGGGAGGTG  10890
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1036, whole genome shotgun sequence
+Sequence ID: NW_006785237.1 Length: 498068
+Range 1: 10248 to 10397
+
+Score:215 bits(238), Expect:3e-53, 
+Identities:142/154(92%),  Gaps:5/154(3%), Strand: Plus/Plus
+
+Query  984    GGGGAGGTGCAGCTGGAGGTTCAGAAGAGGTGGCGGCAGTGGCACCTGCGTGAGNCTCCC  1043
+              ||| |||| ||||||||||||||||||   |||||||||||||||||||||||| |||||
+Sbjct  10248  GGGCAGGTTCAGCTGGAGGTTCAGAAG---TGGCGGCAGTGGCACCTGCGTGAG-CTCCC  10303
+
+Query  1044   -CTGCACCCGGTGGCCCTCAGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCA  1102
+               |||||||||||||| ||  ||||||||||||||||||||||||||||||||||||||||
+Sbjct  10304  ACTGCACCCGGTGGCTCTGGGCTCCTTCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCA  10363
+
+Query  1103   GAGCCGGGGTACCTGCAGGACCAGTGTCATCTGA  1136
+              |||||||||||||||||| |||||| ||||||||
+Sbjct  10364  GAGCCGGGGTACCTGCAGTACCAGTATCATCTGA  10397
+
+
+
+
+Range 2: 4807 to 4934
+
+Score:209 bits(231), Expect:4e-51, 
+Identities:123/128(96%),  Gaps:0/128(0%), Strand: Plus/Plus
+
+Query  821   GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTT  880
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  4807  GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAACCTT  4866
+
+Query  881   TGCCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTTCTTTGAATTGGCCCTTGGCTC  940
+             ||||||||||| ||||||||||||||||| |||||||| |||||||||||||||||||||
+Sbjct  4867  TGCCTTCTCCCTGGAGGATGCCATGGAGATGCAGCTGTGCTTTGAATTGGCCCTTGGCTC  4926
+
+Query  941   GTTCCAGG  948
+              |||||||
+Sbjct  4927  ATTCCAGG  4934
+
+
+
+
+Range 3: 2948 to 3041
+
+Score:161 bits(178), Expect:5e-37, 
+Identities:92/94(98%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  728   GATTAATTTCATCCTTTTTATAAACATCCTAAGGATCCTGATGAGAAAACTGAGAACTCA  787
+             |||||||||||||||| ||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  2948  GATTAATTTCATCCTTATTATAAACATCCTAAGGCTCCTGATGAGAAAACTGAGAACTCA  3007
+
+Query  788   AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  821
+             ||||||||||||||||||||||||||||||||||
+Sbjct  3008  AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  3041
+
+
+
+
+Range 4: 577 to 651
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:72/76(95%),  Gaps:1/76(1%), Strand: Plus/Plus
+
+Query  658  GGTGCTGGGACATCAGTGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  717
+            ||||||||||||||| |||||||| |||||||||||||||||||||||||||||||||| 
+Sbjct  577  GGTGCTGGGACATCAATGCCAACGTGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCA  636
+
+Query  718  TCTCCATCCTGATTAA  733
+            ||||||||||| ||||
+Sbjct  637  TCTCCATCCTG-TTAA  651
+
+
+
+
+Range 5: 9447 to 9494
+
+Score:78.8 bits(86), Expect:5e-12, 
+Identities:46/48(96%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  945   CAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGTG  992
+             |||||||||||||||||| |||||||||| ||||||||||||||||||
+Sbjct  9447  CAGGGCCTGGTGGTGGCCGTTCTCTACTGATTCCTCAATGGGGAGGTG  9494
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold2506, whole genome shotgun sequence
+Sequence ID: NW_006783000.1 Length: 12554
+Range 1: 7665 to 7792
+
+Score:214 bits(236), Expect:1e-52, 
+Identities:124/128(97%),  Gaps:0/128(0%), Strand: Plus/Plus
+
+Query  821   GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTT  880
+             |||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+Sbjct  7665  GCGCCTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAACCTT  7724
+
+Query  881   TGCCTTCTCCCCGGAGGATGCCATGGAGACGCAGCTGTTCTTTGAATTGGCCCTTGGCTC  940
+             ||||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||
+Sbjct  7725  TGCCTTCTCCCTGGAGGATGCCATGGAGACGCAGCTGTGCTTTGAATTGGCCCTTGGCTC  7784
+
+Query  941   GTTCCAGG  948
+              |||||||
+Sbjct  7785  ATTCCAGG  7792
+
+
+
+
+Range 2: 5797 to 5890
+
+Score:157 bits(173), Expect:2e-35, 
+Identities:91/94(97%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  728   GATTAATTTCATCCTTTTTATAAACATCCTAAGGATCCTGATGAGAAAACTGAGAACTCA  787
+             |||||||||||||||||||||||||| |||||||||||||||||||||||| ||| ||||
+Sbjct  5797  GATTAATTTCATCCTTTTTATAAACACCCTAAGGATCCTGATGAGAAAACTTAGAGCTCA  5856
+
+Query  788   AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  821
+             ||||||||||||||||||||||||||||||||||
+Sbjct  5857  AGAAACAAGAGGAAGTGAAGGGAACCATTATAAG  5890
+
+
+
+
+Range 3: 2017 to 2087
+
+Score:120 bits(132), Expect:2e-24, 
+Identities:69/71(97%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  658   GGTGCTGGGACATCAGTGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  717
+             ||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  2017  GGTGCTGGGACATCAATGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCA  2076
+
+Query  718   TCTCCATCCTG  728
+             |||||||||||
+Sbjct  2077  TCTCCATCCTG  2087
+
+
+
+
+Range 4: 12277 to 12324
+
+Score:60.8 bits(66), Expect:1e-06, 
+Identities:42/48(88%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  945    CAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGTG  992
+              |||||||||| |||| || ||| ||||||  |||||||||||||||||
+Sbjct  12277  CAGGGCCTGGCGGTGACCGTTCCCTACTGACTCCTCAATGGGGAGGTG  12324
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold3379, whole genome shotgun sequence
+Sequence ID: NW_006791196.1 Length: 1151
+Range 1: 165 to 274
+
+Score:190 bits(210), Expect:1e-45, 
+Identities:108/110(98%),  Gaps:0/110(0%), Strand: Plus/Plus
+
+Query  1    GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCACTGGGACAGACGG  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  165  GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCACTGGGACAGACGG  224
+
+Query  61   TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGTTCGTGGGTAGAAACGGT  110
+            |||||||||||||||||||||||||||||||| |||| ||||||||||||
+Sbjct  225  TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGCTCGTTGGTAGAAACGGT  274
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1466, whole genome shotgun sequence
+Sequence ID: NW_006796989.1 Length: 505404
+Range 1: 503332 to 503441
+
+Score:177 bits(195), Expect:2e-41, 
+Identities:105/110(95%),  Gaps:0/110(0%), Strand: Plus/Plus
+
+Query  1       GCTGCCAGGGGCTGTGGGACAGCACGAGCTGCTGGCCCTCCTCTGCACTGGGACAGACGG  60
+               ||||||||||||||||||||| || ||||||||||||||||||||| |||||||||||||
+Sbjct  503332  GCTGCCAGGGGCTGTGGGACAACATGAGCTGCTGGCCCTCCTCTGCGCTGGGACAGACGG  503391
+
+Query  61      TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGTTCGTGGGTAGAAACGGT  110
+               |||||||||||||||||||||||||||||||| ||||||| |||||||||
+Sbjct  503392  TGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGCTCGTGGGCAGAAACGGT  503441
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 C25578114, whole genome shotgun sequence
+Sequence ID: NW_006784386.1 Length: 254
+Range 1: 59 to 158
+
+Score:159 bits(175), Expect:6e-36, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  212  GTATGAGTACCTCCTGAAGCTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGT  271
+            ||| ||||||||||||||||||||||||||| ||||| ||||||||||||||||||||||
+Sbjct  59   GTACGAGTACCTCCTGAAGCTGAAGGTCATGCACACCATGGGCTACAGCTCCTCCCTGGT  118
+
+Query  272  GATGCTCCTGGTGGCCCTCGGCATCCTCTTTGCCTTTCGG  311
+            |||||||||||||||||||| |||||||| ||||||||||
+Sbjct  119  GATGCTCCTGGTGGCCCTCGTCATCCTCTGTGCCTTTCGG  158
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 C25678282, whole genome shotgun sequence
+Sequence ID: NW_006791198.1 Length: 278
+Range 1: 1 to 90
+
+Score:150 bits(165), Expect:3e-33, 
+Identities:87/90(97%),  Gaps:0/90(0%), Strand: Plus/Plus
+
+Query  123  AACTGCACTCAGGGCGGCTGGTCAGAGACCTTCCCCAGGCCTGACCTGGCCTGTGGGGTG  182
+            |||||||| |||||||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  1    AACTGCACGCAGGGCGGCTGGTCAGAGACCTTCCCCAGGCCTGACCTGGCCTGTGGGGTC  60
+
+Query  183  CACGTGAACGACTCCTCCAACGAGAAGAGG  212
+            ||| ||||||||||||||||||||||||||
+Sbjct  61   CACATGAACGACTCCTCCAACGAGAAGAGG  90
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1136, whole genome shotgun sequence
+Sequence ID: NW_006769631.1 Length: 2032200
+Range 1: 61772 to 61894
+
+Score:137 bits(151), Expect:2e-29, 
+Identities:104/123(85%),  Gaps:0/123(0%), Strand: Plus/Plus
+
+Query  443    GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTG  502
+              |||||||||||||   | | |||| || |||||||||||  |||||||||||| || |||
+Sbjct  61772  GGTGGGCTGTAAGGCTGCCGTGGTGTTATTCCAGTACTGTGTCATGGCCAACTTCTTCTG  61831
+
+Query  503    GCTGCTGGTGGAAGGCCTCTACCTTCACACACTCCTCGTCATCTCCTTCTTCTCAGAAAG  562
+              |||||||||||| ||||||||||| ||||| || |||| |||||| |||||||| || ||
+Sbjct  61832  GCTGCTGGTGGAGGGCCTCTACCTGCACACCCTGCTCGCCATCTCATTCTTCTCTGAGAG  61891
+
+Query  563    GAA  565
+              |||
+Sbjct  61892  GAA  61894
+
+
+
+
+Range 2: 66129 to 66199
+
+Score:84.2 bits(92), Expect:1e-13, 
+Identities:61/71(86%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  825    CTGGCCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACATAATCTTTGCC  884
+              ||||||||||||||||| |||||| ||||||| || ||||| |||||||| |  ||||||
+Sbjct  66129  CTGGCCAAGTCCACCCTTCTGCTGATCCCCCTGTTTGGAGTGCACTACATCACGTTTGCC  66188
+
+Query  885    TTCTCCCCGGA  895
+              |||| ||| ||
+Sbjct  66189  TTCTTCCCCGA  66199
+
+
+
+
+Range 3: 57405 to 57489
+
+Score:83.3 bits(91), Expect:4e-13, 
+Identities:72/89(81%),  Gaps:8/89(8%), Strand: Plus/Plus
+
+Query  310    GGAAGCTCCACTGCACCCGCAACTACATCCGCATGCATCTCTTTGTGTCCTTCATCCTGC  369
+              |||||||||||||||| || |||||||||| ||||||||||||  | |||||||||||| 
+Sbjct  57405  GGAAGCTCCACTGCACGCGGAACTACATCCACATGCATCTCTTCATATCCTTCATCCTGA  57464
+
+Query  370    GTGCC----CTGTCCAACTTCATCAAGGA  394
+              | |||    ||||    ||||||||| ||
+Sbjct  57465  GGGCCACCGCTGT----CTTCATCAAAGA  57489
+
+
+
+
+Range 4: 66481 to 66528
+
+Score:60.8 bits(66), Expect:1e-06, 
+Identities:42/48(88%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  944    CCAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGT  991
+              ||||||  | ||||||||||| ||||||||||||||||| || |||||
+Sbjct  66481  CCAGGGTTTTGTGGTGGCCATCCTCTACTGCTTCCTCAACGGCGAGGT  66528
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold2600, whole genome shotgun sequence
+Sequence ID: NW_006775796.1 Length: 461
+Range 1: 1 to 77
+
+Score:122 bits(134), Expect:5e-25, 
+Identities:73/77(95%),  Gaps:0/77(0%), Strand: Plus/Plus
+
+Query  34   GGCCCTCCTCTGCACTGGGACAGACGGTGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGT  93
+            ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||| 
+Sbjct  1    GGCCCTCCTCTGCGCTGGGACAGACGGTGGAAGTGGCCTGCCCGCGGTTCCTCTGGATGC  60
+
+Query  94   TCGTGGGTAGAAACGGT  110
+            ||| ||| |||||||||
+Sbjct  61   TCGAGGGCAGAAACGGT  77
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold345, whole genome shotgun sequence
+Sequence ID: NW_006789243.1 Length: 853326
+Range 1: 665639 to 665709
+
+Score:111 bits(122), Expect:8e-22, 
+Identities:67/71(94%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  658     GGTGCTGGGACATCAGTGCCAACGCGTCCATCTGGTGGGTCATTCGAGGGCCTGTGATCG  717
+               ||||||||||||||| ||||||||| ||||||||||||||||||||||||||||| ||| 
+Sbjct  665639  GGTGCTGGGACATCAATGCCAACGCATCCATCTGGTGGGTCATTCGAGGGCCTGTAATCA  665698
+
+Query  718     TCTCCATCCTG  728
+               |||||||||||
+Sbjct  665699  TCTCCATCCTG  665709
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold3373, whole genome shotgun sequence
+Sequence ID: NW_006788122.1 Length: 251
+Range 1: 189 to 251
+
+Score:110 bits(121), Expect:3e-21, 
+Identities:62/63(98%),  Gaps:0/63(0%), Strand: Plus/Minus
+
+Query  1069  TCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCAGAGCCGGGGTACCTGCAGGACCAGTG  1128
+             |||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+Sbjct  251   TCAGCAGCGGCACCAAGGCCAGCCCCTCGGAGCAGAGCCGGGGTACCTGCGGGACCAGTG  192
+
+Query  1129  TCA  1131
+             |||
+Sbjct  191   TCA  189
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold2094, whole genome shotgun sequence
+Sequence ID: NW_006790887.1 Length: 1718468
+Range 1: 1526228 to 1526323
+
+Score:102 bits(112), Expect:4e-19, 
+Identities:80/96(83%),  Gaps:0/96(0%), Strand: Plus/Minus
+
+Query  443      GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTG  502
+                ||||||||| ||||||  | |||||||||||||||||||||||| |||||||| || |||
+Sbjct  1526323  GGTGGGCTGCAAGCTGAGCCTGGTCTTCTTCCAGTACTGCATCACGGCCAACTTCTACTG  1526264
+
+Query  503      GCTGCTGGTGGAAGGCCTCTACCTTCACACACTCCT  538
+                | | |||||||| || ||  |||| | ||| |||||
+Sbjct  1526263  GTTCCTGGTGGAGGGGCTGCACCTCCGCACCCTCCT  1526228
+
+
+
+
+Range 2: 1532713 to 1532813
+
+Score:61.7 bits(67), Expect:1e-06, 
+Identities:74/101(73%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  310      GGAAGCTCCACTGCACCCGCAACTACATCCGCATGCATCTCTTTGTGTCCTTCATCCTGC  369
+                ||||||| || |||||| | |||||||| | | || | || ||  | |||||||||||||
+Sbjct  1532813  GGAAGCTGCATTGCACCAGGAACTACATTCACCTGAACCTGTTCCTCTCCTTCATCCTGC  1532754
+
+Query  370      GTGCCCTGTCCAACTTCATCAAGGATGCCGTGCTCTTCTCC  410
+                | ||| | ||    ||  ||||||| | ||| || | ||||
+Sbjct  1532753  GAGCCATCTCGGTGTTTGTCAAGGACGACGTACTGTACTCC  1532713
+
+
+
+
+Range 3: 1520707 to 1520752
+
+Score:57.2 bits(62), Expect:2e-05, 
+Identities:40/46(87%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  829      CCAAGTCCACCCTCCTGCTGGTCCCCCTCTTCGGAGTCCACTACAT  874
+                ||||||||||||| |||||  |||| ||||| ||||| ||||||||
+Sbjct  1520752  CCAAGTCCACCCTGCTGCTCATCCCTCTCTTTGGAGTACACTACAT  1520707
+
+
+
+
+Range 4: 1520514 to 1520554
+
+Score:48.2 bits(52), Expect:0.008, 
+Identities:35/41(85%),  Gaps:0/41(0%), Strand: Plus/Minus
+
+Query  942      TTCCAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAA  982
+                || |||||||||||||||||  | ||||||||||| || ||
+Sbjct  1520554  TTGCAGGGCCTGGTGGTGGCGGTCCTCTACTGCTTTCTGAA  1520514
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold942, whole genome shotgun sequence
+Sequence ID: NW_006798282.1 Length: 1419073
+Range 1: 813099 to 813203
+
+Score:100 bits(110), Expect:2e-18, 
+Identities:85/105(81%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  310     GGAAGCTCCACTGCACCCGCAACTACATCCGCATGCATCTCTTTGTGTCCTTCATCCTGC  369
+               ||| ||| |||||||| ||||||||||||| |||||| || ||  |||||||||| || |
+Sbjct  813099  GGAGGCTGCACTGCACACGCAACTACATCCACATGCACCTGTTCCTGTCCTTCATGCTTC  813158
+
+Query  370     GTGCCCTGTCCAACTTCATCAAGGATGCCGTGCTCTTCTCCGACG  414
+               | ||| ||  || |||| ||||||| || ||||||| ||||| ||
+Sbjct  813159  GCGCCGTGAGCATCTTCGTCAAGGACGCGGTGCTCTACTCCGGCG  813203
+
+
+
+
+Range 2: 813832 to 813964
+
+Score:85.1 bits(93), Expect:1e-13, 
+Identities:101/136(74%),  Gaps:6/136(4%), Strand: Plus/Plus
+
+Query  467     CTTCTTCCAGTACTGCATCATGGC---CAACTACTCCTGGCTGCTGGTGGAAGGCCTCTA  523
+               |||||||| |||||   || ||||   |||||||| |||| | |||||||| || || ||
+Sbjct  813832  CTTCTTCCTGTACT---TCCTGGCTACCAACTACTGCTGGATTCTGGTGGAGGGGCTGTA  813888
+
+Query  524     CCTTCACACACTCCTCGTCATCTCCTTCTTCTCAGAAAGGAAATGGCTCCAGGGATTTAT  583
+               ||| ||||  ||| || ||||  ||||||||||||| | ||| |  |||  ||| || | 
+Sbjct  813889  CCTGCACAGCCTCATCTTCATGGCCTTCTTCTCAGAGAAGAAGTACCTCTGGGGCTTCAC  813948
+
+Query  584     TGCCCTCGGATGGGGT  599
+                | | |||| ||||||
+Sbjct  813949  GGTCTTCGGCTGGGGT  813964
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold4, whole genome shotgun sequence
+Sequence ID: NW_006785876.1 Length: 7102288
+Range 1: 1143801 to 1143883
+
+Score:83.3 bits(91), Expect:4e-13, 
+Identities:68/83(82%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  315      CTCCACTGCACCCGCAACTACATCCGCATGCATCTCTTTGTGTCCTTCATCCTGCGTGCC  374
+                || ||||| ||||| |||||||||| | || | || ||||  ||||||||||| || || 
+Sbjct  1143801  CTGCACTGTACCCGAAACTACATCCACCTGAACCTGTTTGCATCCTTCATCCTCCGAGCA  1143860
+
+Query  375      CTGTCCAACTTCATCAAGGATGC  397
+                ||||||  |||||||||||||||
+Sbjct  1143861  CTGTCCGTCTTCATCAAGGATGC  1143883
+
+
+
+
+Range 2: 1144541 to 1144626
+
+Score:66.2 bits(72), Expect:3e-08, 
+Identities:66/86(77%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  474      CAGTACTGCATCATGGCCAACTACTCCTGGCTGCTGGTGGAAGGCCTCTACCTTCACACA  533
+                ||||||||| |   ||||||||||| |||||| |||||||| ||  | |||||  |||| 
+Sbjct  1144541  CAGTACTGCGTGGCGGCCAACTACTACTGGCTCCTGGTGGAGGGGGTGTACCTGTACACG  1144600
+
+Query  534      CTCCTCGTCATCTCCTTCTTCTCAGA  559
+                || || | | ||||  ||||||| ||
+Sbjct  1144601  CTGCTGGCCCTCTCTGTCTTCTCTGA  1144626
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold150, whole genome shotgun sequence
+Sequence ID: NW_006792921.1 Length: 7525025
+Range 1: 6417669 to 6417753
+
+Score:73.4 bits(80), Expect:2e-10, 
+Identities:67/85(79%),  Gaps:0/85(0%), Strand: Plus/Plus
+
+Query  310      GGAAGCTCCACTGCACCCGCAACTACATCCGCATGCATCTCTTTGTGTCCTTCATCCTGC  369
+                ||||||| ||||||||||| |||| ||||| | || | ||||||| ||| ||| | ||| 
+Sbjct  6417669  GGAAGCTGCACTGCACCCGTAACTTCATCCACGTGAACCTCTTTGCGTCGTTCGTGCTGA  6417728
+
+Query  370      GTGCCCTGTCCAACTTCATCAAGGA  394
+                | ||| | |||  ||||||||| ||
+Sbjct  6417729  GGGCCATCTCCGTCTTCATCAAAGA  6417753
+
+
+
+
+Range 2: 6435971 to 6436016
+
+Score:52.7 bits(57), Expect:7e-04, 
+Identities:39/46(85%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  946      AGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGT  991
+                ||||| | ||||||||  |||||||||| || || |||||||||||
+Sbjct  6435971  AGGGCTTTGTGGTGGCTGTTCTCTACTGTTTTCTGAATGGGGAGGT  6436016
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold1691, whole genome shotgun sequence
+Sequence ID: NW_006789046.1 Length: 4335523
+Range 1: 606308 to 606408
+
+Score:70.7 bits(77), Expect:3e-09, 
+Identities:76/101(75%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  464     GGTCTTCTTCCAGTACTGCATCATGGCCAACTACTCCTGGCTGCTGGTGGAAGGCCTCTA  523
+               ||| ||| | |||||| || || |||||||||||| ||||||||||||||| ||| | ||
+Sbjct  606408  GGTGTTCATGCAGTACGGCGTCGTGGCCAACTACTGCTGGCTGCTGGTGGAGGGCGTGTA  606349
+
+Query  524     CCTTCACACACTCCTCGTCATCTCCTTCTTCTCAGAAAGGA  564
+               | | ||||  || ||   | || ||  | || | |||||||
+Sbjct  606348  CTTGCACAGCCTGCTGAGCTTCGCCACCATCCCTGAAAGGA  606308
+
+
+
+
+Range 2: 604650 to 604698
+
+Score:58.1 bits(63), Expect:2e-05, 
+Identities:42/49(86%),  Gaps:0/49(0%), Strand: Plus/Minus
+
+Query  943     TCCAGGGCCTGGTGGTGGCCATTCTCTACTGCTTCCTCAATGGGGAGGT  991
+               ||||||||||| |||||||  |||||||||| ||||||||   ||||||
+Sbjct  604698  TCCAGGGCCTGCTGGTGGCTGTTCTCTACTGTTTCCTCAACAAGGAGGT  604650
+
+
+
+
+Range 3: 606764 to 606827
+
+Score:49.1 bits(53), Expect:0.008, 
+Identities:49/64(77%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  235     AGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGTGATGCTCCTGGTGGCCCTCGGCA  294
+               |||| ||||||||||||||||||  |   ||||||| |   || ||  ||||||| | ||
+Sbjct  606827  AGGTGATGTACACCGTGGGCTACTCCCTGTCCCTGGGGGCCCTGCTCCTGGCCCTGGCCA  606768
+
+Query  295     TCCT  298
+               ||||
+Sbjct  606767  TCCT  606764
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold371, whole genome shotgun sequence
+Sequence ID: NW_006786304.1 Length: 4749610
+Range 1: 1420667 to 1420735
+
+Score:67.1 bits(73), Expect:3e-08, 
+Identities:56/69(81%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  473      CCAGTACTGCATCATGGCCAACTACTCCTGGCTGCTGGTGGAAGGCCTCTACCTTCACAC  532
+                |||||||||| |    ||||||||| | |||||||||||||| ||| ||||||| |||| 
+Sbjct  1420735  CCAGTACTGCGTGGGTGCCAACTACACGTGGCTGCTGGTGGAGGGCATCTACCTGCACAG  1420676
+
+Query  533      ACTCCTCGT  541
+                 ||||| ||
+Sbjct  1420675  CCTCCTGGT  1420667
+
+
+
+
+Range 2: 1421614 to 1421673
+
+Score:46.4 bits(50), Expect:0.029, 
+Identities:46/60(77%),  Gaps:0/60(0%), Strand: Plus/Minus
+
+Query  314      GCTCCACTGCACCCGCAACTACATCCGCATGCATCTCTTTGTGTCCTTCATCCTGCGTGC  373
+                ||| | |||||| ||||||||||||| |||  | || ||   ||| ||||| ||||| ||
+Sbjct  1421673  GCTGCGCTGCACTCGCAACTACATCCACATCAACCTGTTCACGTCTTTCATGCTGCGGGC  1421614
+
+
+
+
+>Lipotes vexillifer unplaced genomic scaffold, Lipotes_vexillifer_v1 scaffold611, whole genome shotgun sequence
+Sequence ID: NW_006785619.1 Length: 3353470
+Range 1: 2713954 to 2714003
+
+Score:64.4 bits(70), Expect:1e-07, 
+Identities:44/50(88%),  Gaps:0/50(0%), Strand: Plus/Plus
+
+Query  489      GCCAACTACTCCTGGCTGCTGGTGGAAGGCCTCTACCTTCACACACTCCT  538
+                ||||| ||||| ||||||||||| |||||||| ||||| ||||| |||||
+Sbjct  2713954  GCCAATTACTCATGGCTGCTGGTTGAAGGCCTTTACCTCCACACGCTCCT  2714003
+
+
+
+
+Range 2: 2711279 to 2711344
+
+Score:57.2 bits(62), Expect:2e-05, 
+Identities:52/66(79%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  312      AAGCTCCACTGCACCCGCAACTACATCCGCATGCATCTCTTTGTGTCCTTCATCCTGCGT  371
+                || ||||||||||| |||||||| |||| |||| |  | ||||  || ||||||||| | 
+Sbjct  2711279  AAACTCCACTGCACACGCAACTATATCCACATGAACTTGTTTGCCTCTTTCATCCTGAGA  2711338
+
+Query  372      GCCCTG  377
+                || |||
+Sbjct  2711339  GCGCTG  2711344
+
+
+
+
+
+
+
+		
+
+

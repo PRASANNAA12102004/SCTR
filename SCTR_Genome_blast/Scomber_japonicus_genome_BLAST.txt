@@ -1,0 +1,500 @@
+RID: NEJA8A0F014	
+Job Title:XM_053314587.1:1-1368 PREDICTED: Scomber japonicus...				
+Program: BLASTN 
+Database: Genome (fScoJap1.pri) Scomber japonicus fScoJap1.pri [GCF_027409825.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_027409825.1-RS_2023_02)
+Query #1: XM_053314587.1:1-1368 PREDICTED: Scomber japonicus secretin receptor (LOC128354350), mRNA Query ID: lcl|Query_6111037 Length: 1368
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Scomber japonicus isolate fScoJap1 chromosome 24, fScoJap1.pri    Scomber japo... chub mackerel   13676      345    2543  100%  9e-93 100.00 18708008   NC_070601.1      
+Scomber japonicus isolate fScoJap1 chromosome 7, fScoJap1.pri     Scomber japo... chub mackerel   13676      95.1   335   19%   3e-17 77.05  37153179   NC_070584.1      
+Scomber japonicus isolate fScoJap1 chromosome 12, fScoJap1.pri    Scomber japo... chub mackerel   13676      89.7   345   13%   1e-15 75.19  36016775   NC_070589.1      
+Scomber japonicus isolate fScoJap1 chromosome 21, fScoJap1.pri    Scomber japo... chub mackerel   13676      78.8   78.8  6%    2e-12 79.55  28928886   NC_070598.1      
+Scomber japonicus isolate fScoJap1 chromosome 6, fScoJap1.pri     Scomber japo... chub mackerel   13676      69.8   69.8  8%    1e-09 74.77  40183386   NC_070583.1      
+Scomber japonicus isolate fScoJap1 chromosome 20, fScoJap1.pri    Scomber japo... chub mackerel   13676      68.9   117   5%    4e-09 83.08  29648155   NC_070597.1      
+Scomber japonicus isolate fScoJap1 chromosome 18, fScoJap1.pri    Scomber japo... chub mackerel   13676      60.8   60.8  7%    6e-07 74.19  31458150   NC_070595.1      
+
+
+Alignments:
+
+>Scomber japonicus isolate fScoJap1 chromosome 24, fScoJap1.pri
+Sequence ID: NC_070601.1 Length: 18708008
+Range 1: 12715155 to 12715345
+
+Score:345 bits(382), Expect:9e-93, 
+Identities:191/191(100%),  Gaps:0/191(0%), Strand: Plus/Plus
+
+Query  1178      AGGTGCAGCTTGAGATCCAGAGGAGGTGGAGGAGGTGGAAGCTGACTCAGCACTTGCCCA  1237
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12715155  AGGTGCAGCTTGAGATCCAGAGGAGGTGGAGGAGGTGGAAGCTGACTCAGCACTTGCCCA  12715214
+
+Query  1238      GTAGACCCAGGCAGTATCGTAGCTCCATCAGCCAGAGCGGGTCTCCTCACACACAGGTCT  1297
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12715215  GTAGACCCAGGCAGTATCGTAGCTCCATCAGCCAGAGCGGGTCTCCTCACACACAGGTCT  12715274
+
+Query  1298      CCCTGCTGCCTTGCTCTCCAGGCAGCCCGACTACCAGTGGGCTCCCTGTGGATACTCTGG  1357
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12715275  CCCTGCTGCCTTGCTCTCCAGGCAGCCCGACTACCAGTGGGCTCCCTGTGGATACTCTGG  12715334
+
+Query  1358      ACGTGATTTAA  1368
+                 |||||||||||
+Sbjct  12715335  ACGTGATTTAA  12715345
+
+
+
+
+Range 2: 12713889 to 12714045
+
+Score:284 bits(314), Expect:3e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  621       GGTGGCATGTAAAGTCGTGCTGATGTTTACAAACTACTCCATCCTGGCAAACTACAGCTG  680
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12713889  GGTGGCATGTAAAGTCGTGCTGATGTTTACAAACTACTCCATCCTGGCAAACTACAGCTG  12713948
+
+Query  681       GCTACTGGTGGAAGGTCACTTCCTGTTTACGCTGGTGAGCCGCTCATTCTTCTCCCTGAA  740
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12713949  GCTACTGGTGGAAGGTCACTTCCTGTTTACGCTGGTGAGCCGCTCATTCTTCTCCCTGAA  12714008
+
+Query  741       GAAACACTTCGTCTGGTACATCATCCTCAGCTGGGGT  777
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  12714009  GAAACACTTCGTCTGGTACATCATCCTCAGCTGGGGT  12714045
+
+
+
+
+Range 3: 12714797 to 12714939
+
+Score:254 bits(281), Expect:5e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  996       TAAGAGGCTGATCAAATCCACATTTTTCCTGGTGGCTCTTTTTGGTCTGCAGTACATCTT  1055
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12714797  TAGGAGGCTGATCAAATCCACATTTTTCCTGGTGGCTCTTTTTGGTCTGCAGTACATCTT  12714856
+
+Query  1056      GTTTGCTTTCATACCAGTTGAAGTCAGCAGCTTAATGTTTAAGATATGGAACTCTGCTGA  1115
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12714857  GTTTGCTTTCATACCAGTTGAAGTCAGCAGCTTAATGTTTAAGATATGGAACTCTGCTGA  12714916
+
+Query  1116      GCTGTCTCTGTCATCCACACAGG  1138
+                 |||||||||||||||||||||||
+Sbjct  12714917  GCTGTCTCTGTCATCCACACAGG  12714939
+
+
+
+
+Range 4: 12712844 to 12712989
+
+Score:251 bits(277), Expect:6e-64, 
+Identities:143/146(98%),  Gaps:0/146(0%), Strand: Plus/Plus
+
+Query  478       TGTCTGTTTAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCC  537
+                 ||| | | ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12712844  TGTTTCTCTAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCC  12712903
+
+Query  538       TTTATCCTGAAAGCGATCTTCATCTTCATCAGAGATGCTATGCTTTTTACCGATGAAGAG  597
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12712904  TTTATCCTGAAAGCGATCTTCATCTTCATCAGAGATGCTATGCTTTTTACCGATGAAGAG  12712963
+
+Query  598       CTCTACCACTGTGACTATTACCCGGT  623
+                 ||||||||||||||||||||||||||
+Sbjct  12712964  CTCTACCACTGTGACTATTACCCGGT  12712989
+
+
+
+
+Range 5: 12710886 to 12711000
+
+Score:208 bits(230), Expect:2e-51, 
+Identities:115/115(100%),  Gaps:0/115(0%), Strand: Plus/Plus
+
+Query  168       AGAAAACAATAGCATACACTGTAAGGGAATGTGGGATGACCTTAACTGCTGGCCACCTGC  227
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12710886  AGAAAACAATAGCATACACTGTAAGGGAATGTGGGATGACCTTAACTGCTGGCCACCTGC  12710945
+
+Query  228       TTCTCTCGGGGAAACTGTCTCTCAGCCATGCCCGGACTATTTCAACGCCAAAGGT  282
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12710946  TTCTCTCGGGGAAACTGTCTCTCAGCCATGCCCGGACTATTTCAACGCCAAAGGT  12711000
+
+
+
+
+Range 6: 12711396 to 12711504
+
+Score:197 bits(218), Expect:3e-48, 
+Identities:109/109(100%),  Gaps:0/109(0%), Strand: Plus/Plus
+
+Query  279       AGGTAAAGTGTATCGTAACTGCACTGCCAATGGATGGACAGACCCGCTTGTTCCGCATGA  338
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12711396  AGGTAAAGTGTATCGTAACTGCACTGCCAATGGATGGACAGACCCGCTTGTTCCGCATGA  12711455
+
+Query  339       AGACGCGTGTGTCTTCACTTTCAATGAGACACTCCACTTTGAGGTTGGT  387
+                 |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12711456  AGACGCGTGTGTCTTCACTTTCAATGAGACACTCCACTTTGAGGTTGGT  12711504
+
+
+
+
+Range 7: 12712611 to 12712715
+
+Score:190 bits(210), Expect:5e-46, 
+Identities:105/105(100%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  385       GGTTCTCATTTGTATTTCTCCTACGTGAAGACCATGTATACAGCCGGATACGCAATATCT  444
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12712611  GGTTCTCATTTGTATTTCTCCTACGTGAAGACCATGTATACAGCCGGATACGCAATATCT  12712670
+
+Query  445       CTCATCTCTCTCACCATTGCCATCACCATATTCTGTCTGTTTAGG  489
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12712671  CTCATCTCTCTCACCATTGCCATCACCATATTCTGTCTGTTTAGG  12712715
+
+
+
+
+Range 8: 12710162 to 12710263
+
+Score:185 bits(204), Expect:2e-44, 
+Identities:102/102(100%),  Gaps:0/102(0%), Strand: Plus/Plus
+
+Query  68        AGGCAAAGGTGTCATCAGGTTGCCAGCCTCATGTTCACCTCGTCAGAGAGGAGGAAAAGT  127
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12710162  AGGCAAAGGTGTCATCAGGTTGCCAGCCTCATGTTCACCTCGTCAGAGAGGAGGAAAAGT  12710221
+
+Query  128       GCAAGAGAGATCTGCTGCATTTTCAGTCACACCATGCAACAG  169
+                 ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12710222  GCAAGAGAGATCTGCTGCATTTTCAGTCACACCATGCAACAG  12710263
+
+
+
+
+Range 9: 12714492 to 12714584
+
+Score:168 bits(186), Expect:1e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  907       ATGAATCTCATCTTTTTCTTGGGCATTTTGAGGATACTGGTGAGCAAACTGAGAATGCCA  966
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12714492  ATGAATCTCATCTTTTTCTTGGGCATTTTGAGGATACTGGTGAGCAAACTGAGAATGCCA  12714551
+
+Query  967       GATGCACAGAGGAATGAATTCAGCCAGTATAAG  999
+                 |||||||||||||||||||||||||||||||||
+Sbjct  12714552  GATGCACAGAGGAATGAATTCAGCCAGTATAAG  12714584
+
+
+
+
+Range 10: 12714305 to 12714378
+
+Score:130 bits(143), Expect:1e-27, 
+Identities:73/74(99%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  833       AAGGCTGTTGGGAAACCAGGATACATGAATGGATATGGTGGATACTTCGAGTTCCAGTTT  892
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12714305  AAAGCTGTTGGGAAACCAGGATACATGAATGGATATGGTGGATACTTCGAGTTCCAGTTT  12714364
+
+Query  893       TGCTCAGTATATTT  906
+                 ||||||||||||||
+Sbjct  12714365  TGCTCAGTATATTT  12714378
+
+
+
+
+Range 11: 12710015 to 12710087
+
+Score:128 bits(141), Expect:5e-27, 
+Identities:72/73(99%),  Gaps:0/73(0%), Strand: Plus/Plus
+
+Query  1         ATGGGGAAAAGGAACTAGTCTGACACAATGAGAAAACTTGGACTTATTGGAGTGCTACTG  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12710015  ATGGGGAAAAGGAACTAGTCTGACACAATGAGAAAACTTGGACTTATTGGAGTGCTACTG  12710074
+
+Query  61        GCAGCCCAGGCAA  73
+                 |||||||||| ||
+Sbjct  12710075  GCAGCCCAGGTAA  12710087
+
+
+
+
+Range 12: 12714141 to 12714202
+
+Score:113 bits(124), Expect:1e-22, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Plus
+
+Query  775       GGTGTACCAATGATCATTATTCTCTCCTGGGGTTGTGCCAAGTATTTTTATGAGGATGAA  834
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12714141  GGTGTACCAATGATCATTATTCTCTCCTGGGGTTGTGCCAAGTATTTTTATGAGGATGAA  12714200
+
+Query  835       GG  836
+                 ||
+Sbjct  12714201  GG  12714202
+
+
+
+
+Range 13: 12715027 to 12715072
+
+Score:84.2 bits(92), Expect:5e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Plus
+
+Query  1136      AGGGTTTTGTGGTCGCTGTCCTCTACTCTTTCATGAACGGAGAGGT  1181
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12715027  AGGGTTTTGTGGTCGCTGTCCTCTACTCTTTCATGAACGGAGAGGT  12715072
+
+
+
+
+>Scomber japonicus isolate fScoJap1 chromosome 7, fScoJap1.pri
+Sequence ID: NC_070584.1 Length: 37153179
+Range 1: 31913546 to 31913667
+
+Score:95.1 bits(104), Expect:3e-17, 
+Identities:94/122(77%),  Gaps:0/122(0%), Strand: Plus/Plus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 |||||| | ||||| |||||||||||||| |||||| | |||||| |||| || ||||||
+Sbjct  31913546  AGGAAGTTTCACTGCACCAGGAACTACATCCACATCAACCTGTTCTTCTCTTTCATCCTG  31913605
+
+Query  547       AAAGCGATCTTCATCTTCATCAGAGATGCTATGCTTTTTACCGATGAAGAGCTCTACCAC  606
+                 | ||||| |  | ||||||| | |||||   | || ||  | |||||| | ||  |||||
+Sbjct  31913606  AGAGCGAGCGCCGTCTTCATTAAAGATGGAGTCCTCTTCTCTGATGAAAACCTGGACCAC  31913665
+
+Query  607       TG  608
+                 ||
+Sbjct  31913666  TG  31913667
+
+
+
+
+Range 2: 14535052 to 14535114
+
+Score:69.8 bits(76), Expect:1e-09, 
+Identities:53/63(84%),  Gaps:0/63(0%), Strand: Plus/Minus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 |||| |||||  ||| |||||||||  |||||||||||||| |||||  | |||||||||
+Sbjct  14535114  AGGAGGCTGCGTTGTGCCAGGAACTGTATTCACATCCAGCTCTTCATTACTTTTATCCTG  14535055
+
+Query  547       AAA  549
+                 |||
+Sbjct  14535054  AAA  14535052
+
+
+
+
+Range 3: 31951431 to 31951516
+
+Score:66.2 bits(72), Expect:1e-08, 
+Identities:66/86(77%),  Gaps:0/86(0%), Strand: Plus/Minus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 ||||||||||||||||||||||||| ||| || ||  | || ||  | || || ||| ||
+Sbjct  31951516  AGGAAGCTGCACTGTACCAGGAACTTCATCCATATGAACCTATTTGTGTCGTTCATCTTG  31951457
+
+Query  547       AAAGCGATCTTCATCTTCATCAGAGA  572
+                 | ||| || |   ||||||||| |||
+Sbjct  31951456  AGAGCTATTTCTGTCTTCATCAAAGA  31951431
+
+
+
+
+Range 4: 31951084 to 31951207
+
+Score:57.2 bits(62), Expect:7e-06, 
+Identities:93/130(72%),  Gaps:12/130(9%), Strand: Plus/Minus
+
+Query  655       TACTCCATCCTGGCAAACTACAGCTGGCTACTGGTGGAAGGTCACTTCCTGTTTACG---  711
+                 |||| | ||||  | ||||||  ||||||  |  | || |||| || ||| || |||   
+Sbjct  31951207  TACTGCGTCCTCTCCAACTACTTCTGGCTGTTCATCGAGGGTCTCTACCTCTTCACGTTA  31951148
+
+Query  712       CTGGTG-AGCCGCTCATTCTTCTCCCTGAA--GAAACACTTCGTCTGGTACATCATCCTC  768
+                 |||||| || |     ||||||  ||||||  || | |||||  ||||||||||||| ||
+Sbjct  31951147  CTGGTGGAGACC----TTCTTC--CCTGAAAAGAGATACTTCTACTGGTACATCATCATC  31951094
+
+Query  769       AGCTGGGGTG  778
+                  |||||||||
+Sbjct  31951093  GGCTGGGGTG  31951084
+
+
+
+
+Range 5: 15002600 to 15002632
+
+Score:47.3 bits(51), Expect:0.012, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  635       TCGTGCTGATGTTTACAAACTACTCCATCCTGG  667
+                 ||||||||||| ||||| ||||||||| |||||
+Sbjct  15002600  TCGTGCTGATGCTTACACACTACTCCAGCCTGG  15002632
+
+
+
+
+>Scomber japonicus isolate fScoJap1 chromosome 12, fScoJap1.pri
+Sequence ID: NC_070589.1 Length: 36016775
+Range 1: 22945960 to 22946088
+
+Score:89.7 bits(98), Expect:1e-15, 
+Identities:97/129(75%),  Gaps:0/129(0%), Strand: Plus/Minus
+
+Query  480       TCTGTTTAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTT  539
+                 |||||| |||||| | | ||| |||||||||||||| |||||| | ||||||  ||||||
+Sbjct  22946088  TCTGTTCAGGAAGTTTCGCTGCACCAGGAACTACATCCACATCAACCTGTTCTCCTCCTT  22946029
+
+Query  540       TATCCTGAAAGCGATCTTCATCTTCATCAGAGATGCTATGCTTTTTACCGATGAAGAGCT  599
+                   |||||| ||| | |  | | ||||| | ||| ||| | || ||| | |||||  | ||
+Sbjct  22946028  CGTCCTGAGAGCCAGCGCCGTTTTCATTAAAGACGCTGTACTGTTTGCTGATGAGAACCT  22945969
+
+Query  600       CTACCACTG  608
+                   |||||||
+Sbjct  22945968  GGACCACTG  22945960
+
+
+
+
+Range 2: 22912671 to 22912758
+
+Score:83.3 bits(91), Expect:2e-13, 
+Identities:71/88(81%),  Gaps:0/88(0%), Strand: Plus/Plus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 |||||||| |||||||||||||||| |||||||||  |  ||||  | ||||| ||||||
+Sbjct  22912671  AGGAAGCTCCACTGTACCAGGAACTTCATTCACATGAACTTGTTTGTGTCCTTCATCCTG  22912730
+
+Query  547       AAAGCGATCTTCATCTTCATCAGAGATG  574
+                 | ||| ||||   |||||||||  ||||
+Sbjct  22912731  AGAGCCATCTCAGTCTTCATCAAGGATG  22912758
+
+
+
+
+Range 3: 10124791 to 10124855
+
+Score:64.4 bits(70), Expect:5e-08, 
+Identities:53/65(82%),  Gaps:0/65(0%), Strand: Plus/Plus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 |||||||||||||| || || |||||||| ||||| || |||||  | || || || |||
+Sbjct  10124791  AGGAAGCTGCACTGCACAAGAAACTACATCCACATGCATCTGTTTGTGTCTTTCATACTG  10124850
+
+Query  547       AAAGC  551
+                 |||||
+Sbjct  10124851  AAAGC  10124855
+
+
+
+
+Range 4: 22921650 to 22921696
+
+Score:63.5 bits(69), Expect:2e-07, 
+Identities:42/47(89%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1135      CAGGGTTTTGTGGTCGCTGTCCTCTACTCTTTCATGAACGGAGAGGT  1181
+                 ||||| |||||||||||||||||||||| |||| | || ||||||||
+Sbjct  22921650  CAGGGCTTTGTGGTCGCTGTCCTCTACTGTTTCCTCAATGGAGAGGT  22921696
+
+
+
+
+Range 5: 20583678 to 20583736
+
+Score:44.6 bits(48), Expect:0.042, 
+Identities:45/59(76%),  Gaps:0/59(0%), Strand: Plus/Plus
+
+Query  496       CACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTGAAAGCGAT  554
+                 ||||| |||||||||||||| ||||| || || ||  | ||||  || || | ||| ||
+Sbjct  20583678  CACTGCACCAGGAACTACATCCACATGCACCTATTTGTGTCCTACATGCTAAGAGCTAT  20583736
+
+
+
+
+>Scomber japonicus isolate fScoJap1 chromosome 21, fScoJap1.pri
+Sequence ID: NC_070598.1 Length: 28928886
+Range 1: 12253146 to 12253233
+
+Score:78.8 bits(86), Expect:2e-12, 
+Identities:70/88(80%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 |||||||| ||||| || ||||||||||| ||||| || |||||  | || |||||||||
+Sbjct  12253233  AGGAAGCTCCACTGCACAAGGAACTACATCCACATGCATCTGTTTGTGTCATTTATCCTG  12253174
+
+Query  547       AAAGCGATCTTCATCTTCATCAGAGATG  574
+                 || || |||    | ||||||| |||||
+Sbjct  12253173  AAGGCCATCGCTGTGTTCATCAAAGATG  12253146
+
+
+
+
+>Scomber japonicus isolate fScoJap1 chromosome 6, fScoJap1.pri
+Sequence ID: NC_070583.1 Length: 40183386
+Range 1: 18388769 to 18388873
+
+Score:69.8 bits(76), Expect:1e-09, 
+Identities:80/107(75%),  Gaps:2/107(1%), Strand: Plus/Plus
+
+Query  475       TTCTGTCTGTTTAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATC  534
+                 || ||||||   |||||||||||||| |||||||||||||| |||| | |  ||||    
+Sbjct  18388769  TTATGTCTGC--AGGAAGCTGCACTGCACCAGGAACTACATCCACAGCAACTTGTTTGCA  18388826
+
+Query  535       TCCTTTATCCTGAAAGCGATCTTCATCTTCATCAGAGATGCTATGCT  581
+                 || || ||||||  |||  | |  ||||| | |||||||||  ||||
+Sbjct  18388827  TCGTTCATCCTGCGAGCTGTTTCAATCTTGAGCAGAGATGCCCTGCT  18388873
+
+
+
+
+>Scomber japonicus isolate fScoJap1 chromosome 20, fScoJap1.pri
+Sequence ID: NC_070597.1 Length: 29648155
+Range 1: 23482636 to 23482700
+
+Score:68.9 bits(75), Expect:4e-09, 
+Identities:54/65(83%),  Gaps:0/65(0%), Strand: Plus/Plus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 |||||||| ||||||||| ||||||||||||||||  | || ||  | || |||||||||
+Sbjct  23482636  AGGAAGCTCCACTGTACCCGGAACTACATTCACATGAATCTATTTGTGTCATTTATCCTG  23482695
+
+Query  547       AAAGC  551
+                 | |||
+Sbjct  23482696  AGAGC  23482700
+
+
+
+
+Range 2: 17306442 to 17306500
+
+Score:49.1 bits(53), Expect:0.003, 
+Identities:46/59(78%),  Gaps:0/59(0%), Strand: Plus/Plus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCT  545
+                 ||||| ||||| || || |||||||||||||||    | || ||||| ||||| || ||
+Sbjct  17306442  AGGAAACTGCATTGCACAAGGAACTACATTCACGCTAACCTCTTCATGTCCTTCATACT  17306500
+
+
+
+
+>Scomber japonicus isolate fScoJap1 chromosome 18, fScoJap1.pri
+Sequence ID: NC_070595.1 Length: 31458150
+Range 1: 22723487 to 22723579
+
+Score:60.8 bits(66), Expect:6e-07, 
+Identities:69/93(74%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  487       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTCATCTCCTTTATCCTG  546
+                 ||||| || ||||| |  |||||| |||| || ||  | |||||   |||||||||||||
+Sbjct  22723487  AGGAAACTACACTGCATGAGGAACAACATCCATATGAATCTGTTTGCCTCCTTTATCCTG  22723546
+
+Query  547       AAAGCGATCTTCATCTTCATCAGAGATGCTATG  579
+                   |||| | |  ||| |||||| ||| ||| ||
+Sbjct  22723547  CGAGCGCTGTCTATCCTCATCAAAGACGCTCTG  22723579
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,550 @@
+RID: NEN3BRRK014	
+Job Title:XM_074626628.1:140-1519 PREDICTED: Sebastes...				
+Program: BLASTN 
+Database: Genome (fSebFas1.pri) Sebastes fasciatus fSebFas1.pri [GCF_043250625.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_043250625.1-RS_2025_06)
+Query #1: XM_074626628.1:140-1519 PREDICTED: Sebastes fasciatus secretin receptor (sctr), mRNA Query ID: lcl|Query_712193 Length: 1380
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Sebastes fasciatus isolate fSebFas1 chromosome 24, fSebFas1.pri   Sebastes fas... Acadian redfish 394691     340    2554  100%  4e-91 100.00 18440880   NC_133818.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 3, fSebFas1.pri    Sebastes fas... Acadian redfish 394691     82.4   82.4  7%    2e-13 78.95  43251582   NC_133797.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 11, fSebFas1.pri   Sebastes fas... Acadian redfish 394691     81.5   402   20%   6e-13 81.71  36314571   NC_133805.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 5, fSebFas1.pri    Sebastes fas... Acadian redfish 394691     78.8   266   12%   2e-12 73.98  39236332   NC_133799.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 20, fSebFas1.pri   Sebastes fas... Acadian redfish 394691     77.0   77.0  5%    7e-12 85.07  28155129   NC_133814.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 7, fSebFas1.pri    Sebastes fas... Acadian redfish 394691     68.9   68.9  7%    4e-09 75.79  37291223   NC_133801.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 13, fSebFas1.pri   Sebastes fas... Acadian redfish 394691     65.3   65.3  7%    5e-08 75.27  35047861   NC_133807.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 21, fSebFas1.pri   Sebastes fas... Acadian redfish 394691     64.4   162   11%   5e-08 78.67  27207545   NC_133815.1      
+Sebastes fasciatus isolate fSebFas1 chromosome 18, fSebFas1.pri   Sebastes fas... Acadian redfish 394691     50.9   50.9  3%    0.001 84.44  30534446   NC_133812.1      
+
+
+Alignments:
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 24, fSebFas1.pri
+Sequence ID: NC_133818.1 Length: 18440880
+Range 1: 6617587 to 6617774
+
+Score:340 bits(376), Expect:4e-91, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Minus
+
+Query  1193     AGGTGCAGCAAGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCAGCACCTCCCCA  1252
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6617774  AGGTGCAGCAAGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCAGCACCTCCCCA  6617715
+
+Query  1253     GTCGGCGCAGGCAGCAACACGGCTCTATCAGCCACAGCGGGTCTCCCCACACACAGGTCT  1312
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6617714  GTCGGCGCAGGCAGCAACACGGCTCTATCAGCCACAGCGGGTCTCCCCACACACAGGTCT  6617655
+
+Query  1313     CCCTGCTGCCATGCTCTCCAGGCAGCCCGACAACCAGCGGACTCCCCGTGGATACTGTGG  1372
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6617654  CCCTGCTGCCATGCTCTCCAGGCAGCCCGACAACCAGCGGACTCCCCGTGGATACTGTGG  6617595
+
+Query  1373     AGATGTGA  1380
+                ||||||||
+Sbjct  6617594  AGATGTGA  6617587
+
+
+
+
+Range 2: 6619038 to 6619194
+
+Score:284 bits(314), Expect:3e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  636      GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6619194  GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  6619135
+
+Query  696      GCTGCTGGCAGAGGGCCACTTCCTCTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAA  755
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6619134  GCTGCTGGCAGAGGGCCACTTCCTCTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAA  6619075
+
+Query  756      GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGGT  792
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  6619074  GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGGT  6619038
+
+
+
+
+Range 3: 6617980 to 6618119
+
+Score:253 bits(280), Expect:5e-65, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  1014     GCGGTTAATCAAATCCACATTTTTTCTGGTGGCTCTGTTTGGTCTGCATTACATCCTGTT  1073
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6618119  GCGGTTAATCAAATCCACATTTTTTCTGGTGGCTCTGTTTGGTCTGCATTACATCCTGTT  6618060
+
+Query  1074     TGTGTTCTTGCCCGTTGAAGTCAGCAGCTTGGTGTTTAAGATATGTACTTTTGCAGAGCT  1133
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6618059  TGTGTTCTTGCCCGTTGAAGTCAGCAGCTTGGTGTTTAAGATATGTACTTTTGCAGAGCT  6618000
+
+Query  1134     GGCTCTGTCATCCACGCAGG  1153
+                ||||||||||||||||||||
+Sbjct  6617999  GGCTCTGTCATCCACGCAGG  6617980
+
+
+
+
+Range 4: 6619303 to 6619442
+
+Score:249 bits(275), Expect:2e-63, 
+Identities:139/140(99%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  499      TTTAGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATC  558
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6619442  TTCAGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATC  6619383
+
+Query  559      CTGAGGGCCATCTTCATCTTCATCAGAGACTCTCTGCTATTTACTAATGAAGAGCTCTAC  618
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6619382  CTGAGGGCCATCTTCATCTTCATCAGAGACTCTCTGCTATTTACTAATGAAGAGCTCTAC  6619323
+
+Query  619      CACTGCGACTACTACCCGGT  638
+                ||||||||||||||||||||
+Sbjct  6619322  CACTGCGACTACTACCCGGT  6619303
+
+
+
+
+Range 5: 6620841 to 6620958
+
+Score:214 bits(236), Expect:4e-53, 
+Identities:118/118(100%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  171      AGAAAACAATATCAGTGTCCACTGTAAGGGAATGTGGGATGACCTGAACTGCTGGCCACC  230
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6620958  AGAAAACAATATCAGTGTCCACTGTAAGGGAATGTGGGATGACCTGAACTGCTGGCCACC  6620899
+
+Query  231      TGCGTCTCTTGGCGAAACCGTCTCTCAGCCGTGTCCAGACTTCTTCAGTTCGGATGGT  288
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6620898  TGCGTCTCTTGGCGAAACCGTCTCTCAGCCGTGTCCAGACTTCTTCAGTTCGGATGGT  6620841
+
+
+
+
+Range 6: 6619511 to 6619622
+
+Score:203 bits(224), Expect:7e-50, 
+Identities:112/112(100%),  Gaps:0/112(0%), Strand: Plus/Minus
+
+Query  392      AGTCCTCAGATTCCCATCTGTATTTCTCCTACGTGAAGACGATGTACACGGCCGGGTACA  451
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6619622  AGTCCTCAGATTCCCATCTGTATTTCTCCTACGTGAAGACGATGTACACGGCCGGGTACA  6619563
+
+Query  452      CGCTCTCTCTCATTACCCTCACCATCGCCGTCACCATATTCTGCCTGTTTAG  503
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6619562  CGCTCTCTCTCATTACCCTCACCATCGCCGTCACCATATTCTGCCTGTTTAG  6619511
+
+
+
+
+Range 7: 6620271 to 6620378
+
+Score:196 bits(216), Expect:1e-47, 
+Identities:108/108(100%),  Gaps:0/108(0%), Strand: Plus/Minus
+
+Query  286      GGTAAAGTGCATCGTAACTGCACCGCCAGTGGCTGGACAGACCCGCTAATCCCACATGAA  345
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6620378  GGTAAAGTGCATCGTAACTGCACCGCCAGTGGCTGGACAGACCCGCTAATCCCACATGAA  6620319
+
+Query  346      GATGCATGTGGCTACTCTTTCAATGAGGCGTTCCACTTTCTTGGAGAG  393
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6620318  GATGCATGTGGCTACTCTTTCAATGAGGCGTTCCACTTTCTTGGAGAG  6620271
+
+
+
+
+Range 8: 6621745 to 6621845
+
+Score:183 bits(202), Expect:7e-44, 
+Identities:101/101(100%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  72       GGTAAAATCGTCATCAGGGTGTCATCCTCATGTTAGTCTTGTGAAAGAGGAAGAAAAGTG  131
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6621845  GGTAAAATCGTCATCAGGGTGTCATCCTCATGTTAGTCTTGTGAAAGAGGAAGAAAAGTG  6621786
+
+Query  132      CATGACAGACCTGCTACTTGTTAAGTCACACAAAGCAACAG  172
+                |||||||||||||||||||||||||||||||||||||||||
+Sbjct  6621785  CATGACAGACCTGCTACTTGTTAAGTCACACAAAGCAACAG  6621745
+
+
+
+
+Range 9: 6618402 to 6618494
+
+Score:168 bits(186), Expect:2e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  922      ATGAACCTCATCTTTTTCTTGGGCATTTTGAGGATACTGGTGAACAAACTCAGAATGCCG  981
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6618494  ATGAACCTCATCTTTTTCTTGGGCATTTTGAGGATACTGGTGAACAAACTCAGAATGCCG  6618435
+
+Query  982      GATGCACAGAGGAACGAATTCAGCCAATATAAG  1014
+                |||||||||||||||||||||||||||||||||
+Sbjct  6618434  GATGCACAGAGGAACGAATTCAGCCAATATAAG  6618402
+
+
+
+
+Range 10: 6618686 to 6618785
+
+Score:134 bits(148), Expect:3e-29, 
+Identities:92/102(90%),  Gaps:4/102(3%), Strand: Plus/Minus
+
+Query  850      AGCTGTTGGGAAACCAGGAGACATGGATGGATTTGGTGGATACTTCGAGTGCCAGTGCTT  909
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6618785  AGCTGTTGGGAAACCAGGAGACATGGATGGATTTGGTGGATACTTCGAGTGCCAGTGCTT  6618726
+
+Query  910      CTGACTATATC--TATGAACCTCATCTTTTTCTTGGGCATTT  949
+                |||||||||||  ||  ||| |  |||||| |||  ||||||
+Sbjct  6618725  CTGACTATATCTGTAAAAACTTTCTCTTTTACTT--GCATTT  6618686
+
+
+
+
+Range 11: 6621913 to 6621987
+
+Score:128 bits(141), Expect:5e-27, 
+Identities:74/75(99%),  Gaps:1/75(1%), Strand: Plus/Minus
+
+Query  1        ATGGAAAAAAGGAACCTGTCTGATACA-ACAATGaaaaaaaTTGGACTTCTTGGAGTGCT  59
+                ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  6621987  ATGGAAAAAAGGAACCTGTCTGATACACACAATGAAAAAAATTGGACTTCTTGGAGTGCT  6621928
+
+Query  60       GCTGTTACCCCTGGT  74
+                |||||||||||||||
+Sbjct  6621927  GCTGTTACCCCTGGT  6621913
+
+
+
+
+Range 12: 6618870 to 6618934
+
+Score:113 bits(125), Expect:1e-22, 
+Identities:64/65(98%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  790      GGTTTACCTGTGATTGTTATCGTCTCCTGGGGATGTGCCAAATATTTTTATGAAGACGAA  849
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6618934  GGTTTACCTGTGATTGTTATCGTCTCCTGGGGATGTGCCAAATATTTTTATGAAGACGAA  6618875
+
+Query  850      AGCTG  854
+                || ||
+Sbjct  6618874  AGGTG  6618870
+
+
+
+
+Range 13: 6617853 to 6617898
+
+Score:84.2 bits(92), Expect:5e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1151     AGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6617898  AGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  6617853
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 3, fSebFas1.pri
+Sequence ID: NC_133797.1 Length: 43251582
+Range 1: 13626008 to 13626102
+
+Score:82.4 bits(90), Expect:2e-13, 
+Identities:75/95(79%),  Gaps:0/95(0%), Strand: Plus/Plus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||||| |||||||  |||||| |||| |||||  | ||||| | |||||||||||||
+Sbjct  13626008  AGGAAGCTCCACTGTATGAGGAACAACATCCACATGAACCTGTTTGCCTCCTTCATCCTG  13626067
+
+Query  562       AGGGCCATCTTCATCTTCATCAGAGACTCTCTGCT  596
+                 || ||| | | |||| |  ||| |||| |||||||
+Sbjct  13626068  AGAGCCGTGTCCATCCTGGTCAAAGACGCTCTGCT  13626102
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 11, fSebFas1.pri
+Sequence ID: NC_133805.1 Length: 36314571
+Range 1: 23355340 to 23355421
+
+Score:81.5 bits(89), Expect:6e-13, 
+Identities:67/82(82%),  Gaps:0/82(0%), Strand: Plus/Minus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||||| ||||| |||||||||  ||| |||||  | ||||| || ||||||||||||
+Sbjct  23355421  AGGAAGCTCCACTGCACCAGGAACTTCATCCACATGAACCTGTTTGTGTCCTTCATCCTG  23355362
+
+Query  562       AGGGCCATCTTCATCTTCATCA  583
+                 || |||||||   |||||||||
+Sbjct  23355361  AGAGCCATCTCAGTCTTCATCA  23355340
+
+
+
+
+Range 2: 23335897 to 23335944
+
+Score:60.8 bits(66), Expect:6e-07, 
+Identities:42/48(88%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  1149      GCAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 ||||||||||||||| ||  |||| ||||| |||||||| ||||||||
+Sbjct  23335897  GCAGGGTTTTGTGGTGGCACTGCTTTACTGTTTCATGAATGGAGAGGT  23335944
+
+
+
+
+Range 3: 9228487 to 9228628
+
+Score:58.1 bits(63), Expect:7e-06, 
+Identities:100/143(70%),  Gaps:2/143(1%), Strand: Plus/Plus
+
+Query  636      GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                |||||  || ||||  ||| || | |||| | | |||    || |||| |  |||  |||
+Sbjct  9228487  GGTGGGCTGCAAGGCAGTGGTGGTCTTCTTCCAGTACGGGGTCATGGCGAGTTACTTCTG  9228546
+
+Query  696      GCTGCTGGCAGAGGGCCACTTCCTCTTCACCCTGGTGAGCCG-CTCCTTCTTCTCCCTGA  754
+                ||||||||  ||||||| ||  |||  ||| || || |||||  |||||||||||   ||
+Sbjct  9228547  GCTGCTGGTGGAGGGCCTCTATCTCCACACTCT-GTTAGCCGTTTCCTTCTTCTCTGAGA  9228605
+
+Query  755      AGAAGCACCTCGCCTGGTACATC  777
+                 |||| || |    |||||||||
+Sbjct  9228606  GGAAGTACTTGTGGTGGTACATC  9228628
+
+
+
+
+Range 4: 9226644 to 9226704
+
+Score:57.2 bits(62), Expect:7e-06, 
+Identities:49/61(80%),  Gaps:0/61(0%), Strand: Plus/Plus
+
+Query  502      AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                || ||||||||||| || || ||| |||| ||||| || ||||| || || ||||| |||
+Sbjct  9226644  AGGAAGCTGCACTGCACAAGAAACTACATCCACATGCATCTGTTTGTGTCTTTCATACTG  9226703
+
+Query  562      A  562
+                |
+Sbjct  9226704  A  9226704
+
+
+
+
+Range 5: 9231539 to 9231585
+
+Score:54.5 bits(59), Expect:8e-05, 
+Identities:40/47(85%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1150     CAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                ||||||||||| || |||||  | ||||||||  |||||||||||||
+Sbjct  9231539  CAGGGTTTTGTTGTTGCTGTTTTGTACTGCTTTCTGAACGGAGAGGT  9231585
+
+
+
+
+Range 6: 23353695 to 23353791
+
+Score:45.5 bits(49), Expect:0.043, 
+Identities:68/97(70%),  Gaps:0/97(0%), Strand: Plus/Minus
+
+Query  636       GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                 |||||||||||| |  ||| |||| |||| | | ||||   || || | ||||||  |||
+Sbjct  23353791  GGTGGCGTGTAAAGCAGTGATGATCTTCTTCCATTACTGTGTCATGTCCAACTACTTCTG  23353732
+
+Query  696       GCTGCTGGCAGAGGGCCACTTCCTCTTCACCCTGGTG  732
+                 |||| |    || || |  |  |||||||| ||| ||
+Sbjct  23353731  GCTGTTCATTGAAGGTCTGTATCTCTTCACTCTGCTG  23353695
+
+
+
+
+Range 7: 22112687 to 22112735
+
+Score:44.6 bits(48), Expect:0.043, 
+Identities:39/49(80%),  Gaps:0/49(0%), Strand: Plus/Minus
+
+Query  1149      GCAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGTG  1197
+                 |||||| ||  | ||  | ||| | ||||||||| ||||||||||||||
+Sbjct  22112735  GCAGGGGTTCTTTGTGTCAGTGTTTTACTGCTTCCTGAACGGAGAGGTG  22112687
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 5, fSebFas1.pri
+Sequence ID: NC_133799.1 Length: 39236332
+Range 1: 28704471 to 28704593
+
+Score:78.8 bits(86), Expect:2e-12, 
+Identities:91/123(74%),  Gaps:0/123(0%), Strand: Plus/Minus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||| | ||||| ||||||||| |||| |||||| |  ||||| ||||||||||||||
+Sbjct  28704593  AGGAAGTTTCACTGCACCAGGAACTACATCCACATCAACTTGTTCTTCTCCTTCATCCTG  28704534
+
+Query  562       AGGGCCATCTTCATCTTCATCAGAGACTCTCTGCTATTTACTAATGAAGAGCTCTACCAC  621
+                 || || |    | ||||||| | |||     | || ||| || ||||| | ||  |||||
+Sbjct  28704533  AGAGCGAGTGCCGTCTTCATTAAAGATGGCGTTCTTTTTTCTGATGAAAACCTGGACCAC  28704474
+
+Query  622       TGC  624
+                 |||
+Sbjct  28704473  TGC  28704471
+
+
+
+
+Range 2: 28683575 to 28683661
+
+Score:71.6 bits(78), Expect:3e-10, 
+Identities:70/88(80%),  Gaps:2/88(2%), Strand: Plus/Plus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || |||||||||||||||||||||  ||| |||||  | || || || || |||||  ||
+Sbjct  28683575  AGGAAGCTGCACTGTACCAGGAACTTCATCCACATGAACCTATTTGTGTCGTTCATATTG  28683634
+
+Query  562       AGGGCCATCTTCA-TCTTCATCAGAGAC  588
+                 || || || |||| ||||||||| ||||
+Sbjct  28683635  AGAGCTAT-TTCAGTCTTCATCAAAGAC  28683661
+
+
+
+
+Range 3: 28685873 to 28685919
+
+Score:59.0 bits(64), Expect:2e-06, 
+Identities:41/47(87%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1150      CAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 ||||| ||||| || ||||| |||||||||||| |||| ||||||||
+Sbjct  28685873  CAGGGCTTTGTCGTGGCTGTCCTCTACTGCTTCCTGAATGGAGAGGT  28685919
+
+
+
+
+Range 4: 19242609 to 19242664
+
+Score:57.2 bits(62), Expect:7e-06, 
+Identities:46/56(82%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  507       GCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTGA  562
+                 ||||| |||| ||||||||  |||||||||||| || ||| || | || |||||||
+Sbjct  19242609  GCTGCGCTGTGCCAGGAACTTCATTCACATCCAACTTTTCATCACATTTATCCTGA  19242664
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 20, fSebFas1.pri
+Sequence ID: NC_133814.1 Length: 28155129
+Range 1: 2307589 to 2307655
+
+Score:77.0 bits(84), Expect:7e-12, 
+Identities:57/67(85%),  Gaps:0/67(0%), Strand: Plus/Plus
+
+Query  502      AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                || ||||| ||||||||||||||| ||||||||||  | ||||| || || |||||||||
+Sbjct  2307589  AGGAAGCTCCACTGTACCAGGAACTACATTCACATGAATCTGTTTGTGTCGTTCATCCTG  2307648
+
+Query  562      AGGGCCA  568
+                || ||||
+Sbjct  2307649  AGAGCCA  2307655
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 7, fSebFas1.pri
+Sequence ID: NC_133801.1 Length: 37291223
+Range 1: 5714029 to 5714123
+
+Score:68.9 bits(75), Expect:4e-09, 
+Identities:72/95(76%),  Gaps:0/95(0%), Strand: Plus/Plus
+
+Query  502      AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                || ||||||||||| ||||| ||| |||| |||| | | ||||| |  || |||||||||
+Sbjct  5714029  AGGAAGCTGCACTGCACCAGAAACTACATCCACACCAACCTGTTTGCGTCGTTCATCCTG  5714088
+
+Query  562      AGGGCCATCTTCATCTTCATCAGAGACTCTCTGCT  596
+                 | ||  | | |||| | | ||||||  |||||||
+Sbjct  5714089  CGAGCTGTTTCCATCCTGACCAGAGATGCTCTGCT  5714123
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 13, fSebFas1.pri
+Sequence ID: NC_133807.1 Length: 35047861
+Range 1: 25761685 to 25761777
+
+Score:65.3 bits(71), Expect:5e-08, 
+Identities:70/93(75%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || || |||||||| |  |||||| |||| |||||  | || || | |||||||||||||
+Sbjct  25761685  AGGAAACTGCACTGCATGAGGAACAACATCCACATGAATCTCTTTGCCTCCTTCATCCTG  25761744
+
+Query  562       AGGGCCATCTTCATCTTCATCAGAGACTCTCTG  594
+                  | ||  | |  ||| |||||| |||| |||||
+Sbjct  25761745  CGAGCGCTGTCTATCCTCATCAAAGACGCTCTG  25761777
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 21, fSebFas1.pri
+Sequence ID: NC_133815.1 Length: 27207545
+Range 1: 1799536 to 1799610
+
+Score:64.4 bits(70), Expect:5e-08, 
+Identities:59/75(79%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  636      GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                |||||  ||||||| |   ||| |||||| |||||||| |||| |||| |||| |  |||
+Sbjct  1799610  GGTGGGCTGTAAGGCCAGCCTGGTGTTCTTCAACTACTTCATCATGGCCAACTTCTTCTG  1799551
+
+Query  696      GCTGCTGGCAGAGGG  710
+                ||||||||  |||||
+Sbjct  1799550  GCTGCTGGTGGAGGG  1799536
+
+
+
+
+Range 2: 26070071 to 26070102
+
+Score:50.0 bits(54), Expect:0.001, 
+Identities:30/32(94%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  1212      GAGGAGGTGGAGGAGGTGGAGGCTGACTCAGC  1243
+                 ||||||| |||||||| |||||||||||||||
+Sbjct  26070071  GAGGAGGAGGAGGAGGAGGAGGCTGACTCAGC  26070102
+
+
+
+
+Range 3: 10952048 to 10952093
+
+Score:48.2 bits(52), Expect:0.004, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1151      AGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 |||| |||||||| || || || ||||| ||| | |||||||||||
+Sbjct  10952093  AGGGCTTTGTGGTGGCAGTTCTTTACTGTTTCCTCAACGGAGAGGT  10952048
+
+
+
+
+>Sebastes fasciatus isolate fSebFas1 chromosome 18, fSebFas1.pri
+Sequence ID: NC_133812.1 Length: 30534446
+Range 1: 22170606 to 22170650
+
+Score:50.9 bits(55), Expect:0.001, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1189      GGAGAGGTGCAGCAAGAGTTTCAGAGGAGGTGGAGGAGGTGGAGG  1233
+                 |||||| |||||||  |||    ||||||||||||||||||||||
+Sbjct  22170650  GGAGAGCTGCAGCAGCAGTGGAGGAGGAGGTGGAGGAGGTGGAGG  22170606
+
+
+
+
+
+
+
+		
+
+

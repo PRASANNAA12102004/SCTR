@@ -1,0 +1,343 @@
+RID: NET19DA9014	
+Job Title:XM_042458584.1 PREDICTED: Sceloporus undulatus...				
+Program: BLASTN 
+Database: genomic/8520/GCF_019175285.1 SceUnd_v1.1 RefSeq assembly [GCF_019175285.1]
+Query #1: XM_042458584.1 PREDICTED: Sceloporus undulatus secretin receptor (SCTR), mRNA Query ID: lcl|Query_8167921 Length: 1275
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama...       Sceloporus u... fence lizard    8520       334    2353  100%  4e-89 100.00 382616321  NC_056522.1      
+Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama...       Sceloporus u... fence lizard    8520       220    220   11%   2e-54 95.71  2125       NW_024816992.1   
+Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama...       Sceloporus u... fence lizard    8520       125    125   9%    3e-26 87.07  2449       NW_024813753.1   
+Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama...       Sceloporus u... fence lizard    8520       53.6   252   17%   2e-04 81.48  170077623  NC_056527.1      
+
+
+Alignments:
+
+>Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama chromosome 1, SceUnd_v1.1, whole genome shotgun sequence
+Sequence ID: NC_056522.1 Length: 382616321
+Range 1: 236726177 to 236726361
+
+Score:334 bits(370), Expect:4e-89, 
+Identities:185/185(100%),  Gaps:0/185(0%), Strand: Plus/Minus
+
+Query  1091       AGGTCCAGCAGGAGATTCACAGGAAGTGGCAGCAGTGGCACTTAAGGAAACGGGTCCTTT  1150
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236726361  AGGTCCAGCAGGAGATTCACAGGAAGTGGCAGCAGTGGCACTTAAGGAAACGGGTCCTTT  236726302
+
+Query  1151       CACATAAGCATCACAGCAGCTCCTTTCATAATGAAGCCAGTGGGCTCACTCAGGTACTGC  1210
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236726301  CACATAAGCATCACAGCAGCTCCTTTCATAATGAAGCCAGTGGGCTCACTCAGGTACTGC  236726242
+
+Query  1211       AACTGCTGAAGCCCAGTCCTCAAGAGGAGAGGAGGCTCTCCATCCTAAATGTAAGTAATT  1270
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236726241  AACTGCTGAAGCCCAGTCCTCAAGAGGAGAGGAGGCTCTCCATCCTAAATGTAAGTAATT  236726182
+
+Query  1271       TGTAA  1275
+                  |||||
+Sbjct  236726181  TGTAA  236726177
+
+
+
+
+Range 2: 236728517 to 236728656
+
+Score:253 bits(280), Expect:1e-64, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  912        GAGACTTGCTAAATCAACACTTGTACTCATCCCTCTCTTTGGAGTCCATTACATCATATT  971
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236728656  GAGACTTGCTAAATCAACACTTGTACTCATCCCTCTCTTTGGAGTCCATTACATCATATT  236728597
+
+Query  972        TGCTTTTTTCCCATTTGATACCACAAATGGCACCATGGAGATCCAGGTTCTGTTTGAAAA  1031
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236728596  TGCTTTTTTCCCATTTGATACCACAAATGGCACCATGGAGATCCAGGTTCTGTTTGAAAA  236728537
+
+Query  1032       AGCCATAGGATCTTTTCAGG  1051
+                  ||||||||||||||||||||
+Sbjct  236728536  AGCCATAGGATCTTTTCAGG  236728517
+
+
+
+
+Range 3: 236743369 to 236743507
+
+Score:237 bits(262), Expect:7e-60, 
+Identities:138/140(99%),  Gaps:2/140(1%), Strand: Plus/Minus
+
+Query  501        CAGGAGACTTCGCTGTACAAGGAATTACATCCACATGCAGCTTTTG-ATCATCTTCATTT  559
+                  |||||||||||||||||||||||||||||||||||||||||||||| |||||||||||||
+Sbjct  236743507  CAGGAGACTTCGCTGTACAAGGAATTACATCCACATGCAGCTTTTGCATCATCTTCATTT  236743448
+
+Query  560        TGCGGGCTATTGCAAACTTCATTAAAGATNCTGTATTGACCAAGGACACAGACGATGATG  619
+                  ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  236743447  TGCGGGCTATTGCAAACTTCATTAAAGAT-CTGTATTGACCAAGGACACAGACGATGATG  236743389
+
+Query  620        TCTACTGTGAATAACGCACG  639
+                  ||||||||||||||||||||
+Sbjct  236743388  TCTACTGTGAATAACGCACG  236743369
+
+
+
+
+Range 4: 236755960 to 236756090
+
+Score:237 bits(262), Expect:7e-60, 
+Identities:131/131(100%),  Gaps:0/131(0%), Strand: Plus/Minus
+
+Query  46         CAGACCAGAGCCTTTATTTCATCATGTGAAATCAAGAAAATCATGAGGATGGAAGAAGAG  105
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236756090  CAGACCAGAGCCTTTATTTCATCATGTGAAATCAAGAAAATCATGAGGATGGAAGAAGAG  236756031
+
+Query  106        CTGTGCACTTTAGCCCTCTCCGAAGAAGAAGCAAACAGGACTGTGGACAATGAATTGTTG  165
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236756030  CTGTGCACTTTAGCCCTCTCCGAAGAAGAAGCAAACAGGACTGTGGACAATGAATTGTTG  236755971
+
+Query  166        GGCAGTTCAGG  176
+                  |||||||||||
+Sbjct  236755970  GGCAGTTCAGG  236755960
+
+
+
+
+Range 5: 236749776 to 236749899
+
+Score:224 bits(248), Expect:5e-56, 
+Identities:124/124(100%),  Gaps:0/124(0%), Strand: Plus/Minus
+
+Query  284        CAGGGTTTATATATCGTAACTGCACCAGGGAAGGCTGGTCAGAAAAATATCCAAGACCAT  343
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236749899  CAGGGTTTATATATCGTAACTGCACCAGGGAAGGCTGGTCAGAAAAATATCCAAGACCAT  236749840
+
+Query  344        ATATTGCCTGTGGCTTAAATGCAGATGAAATCAATGCCCCCATAATTGAGTGGGAACCTA  403
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236749839  ATATTGCCTGTGGCTTAAATGCAGATGAAATCAATGCCCCCATAATTGAGTGGGAACCTA  236749780
+
+Query  404        AGGT  407
+                  ||||
+Sbjct  236749779  AGGT  236749776
+
+
+
+
+Range 6: 236736451 to 236736564
+
+Score:206 bits(228), Expect:1e-50, 
+Identities:114/114(100%),  Gaps:0/114(0%), Strand: Plus/Minus
+
+Query  639        GCATGGCTACGACATTGGCTTCTTGTGGAAGGGCATTGTATCTTCAGAGCCTGCTGGCCT  698
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236736564  GCATGGCTACGACATTGGCTTCTTGTGGAAGGGCATTGTATCTTCAGAGCCTGCTGGCCT  236736505
+
+Query  699        TTCTTTCGTCTCAGATAGAAAGTACGTTCGGGGGTTGGTTGTGTCTGGGATGGG  752
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236736504  TTCTTTCGTCTCAGATAGAAAGTACGTTCGGGGGTTGGTTGTGTCTGGGATGGG  236736451
+
+
+
+
+Range 7: 236752091 to 236752204
+
+Score:206 bits(228), Expect:1e-50, 
+Identities:114/114(100%),  Gaps:0/114(0%), Strand: Plus/Minus
+
+Query  174        AGGCAGGTGCCTTGGAATGTGGGATAATATAACATGCTGGCTGTCTTCTTCGGTTGGCCA  233
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236752204  AGGCAGGTGCCTTGGAATGTGGGATAATATAACATGCTGGCTGTCTTCTTCGGTTGGCCA  236752145
+
+Query  234        GACTGTTAGCGTGCCTTGCCCCCAAGCCTTCCAAATCATAACTGGACAATCAGG  287
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236752144  GACTGTTAGCGTGCCTTGCCCCCAAGCCTTCCAAATCATAACTGGACAATCAGG  236752091
+
+
+
+
+Range 8: 236746899 to 236747002
+
+Score:184 bits(203), Expect:1e-43, 
+Identities:103/104(99%),  Gaps:0/104(0%), Strand: Plus/Minus
+
+Query  404        AGGTATCATATCTGATGAAGCTGGAGATTGTGTACACAGTTGGGACCAGTGTTTCCCTTG  463
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236747002  AGGTATCATATCTGATGAAGCTGGAGATTGTGTACACAGTTGGGACCAGTGTTTCCCTTG  236746943
+
+Query  464        TGGCACTGACAATTGCCTTGGTTATTCTGTCTTCTTTCAGGAGA  507
+                  ||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  236746942  TGGCACTGACAATTGCCTTGGTTATTCTGTCTTCTTTCAGGTGA  236746899
+
+
+
+
+Range 9: 236730314 to 236730406
+
+Score:168 bits(186), Expect:3e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  820        ATCAATTTTATTCTGTTTGTTAATATTGTAAGAATTTTGATGAGCAAGCTTCGATGGCCA  879
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236730406  ATCAATTTTATTCTGTTTGTTAATATTGTAAGAATTTTGATGAGCAAGCTTCGATGGCCA  236730347
+
+Query  880        GATGGAAGAGGCAAGGATTCTAATCAATACAAG  912
+                  |||||||||||||||||||||||||||||||||
+Sbjct  236730346  GATGGAAGAGGCAAGGATTCTAATCAATACAAG  236730314
+
+
+
+
+Range 10: 236730501 to 236730568
+
+Score:123 bits(136), Expect:1e-25, 
+Identities:68/68(100%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  752        GATGCTGGGATACTCATCTTACATATGCCCGGTGGATCATTCAAGGTCCTGTGGTGATCT  811
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236730568  GATGCTGGGATACTCATCTTACATATGCCCGGTGGATCATTCAAGGTCCTGTGGTGATCT  236730509
+
+Query  812        CTATTGTT  819
+                  ||||||||
+Sbjct  236730508  CTATTGTT  236730501
+
+
+
+
+Range 11: 236727487 to 236727536
+
+Score:91.5 bits(100), Expect:7e-16, 
+Identities:50/50(100%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  1045       TTTCAGGGCTTTGCTGTGGCTGTGCTTTACTGTTTCCTTAATGGTGAGGT  1094
+                  ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236727536  TTTCAGGGCTTTGCTGTGGCTGTGCTTTACTGTTTCCTTAATGGTGAGGT  236727487
+
+
+
+
+Range 12: 236764116 to 236764160
+
+Score:82.4 bits(90), Expect:4e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1          ATGTGGACCATCCTAATGATTATCCTTGCATCTTCAGCACTAAGT  45
+                  |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  236764160  ATGTGGACCATCCTAATGATTATCCTTGCATCTTCAGCACTAAGT  236764116
+
+
+
+
+>Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama unplaced genomic scaffold, SceUnd_v1.1 scaffold_14075, whole genome shotgun sequence
+Sequence ID: NW_024816992.1 Length: 2125
+Range 1: 1251 to 1389
+
+Score:220 bits(243), Expect:2e-54, 
+Identities:134/140(96%),  Gaps:2/140(1%), Strand: Plus/Minus
+
+Query  501   CAGGAGACTTCGCTGTACAAGGAATTACATCCACATGCAGCTTTTGATCATC-TTCATTT  559
+             |||||||||||||||||||||||||||||||||||||||||||||   |||| |||||||
+Sbjct  1389  CAGGAGACTTCGCTGTACAAGGAATTACATCCACATGCAGCTTTTTG-CATCATTCATTT  1331
+
+Query  560   TGCGGGCTATTGCAAACTTCATTAAAGATNCTGTATTGACCAAGGACACAGACGATGATG  619
+             ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  1330  TGCGGGCTATTGCAAACTTCATTAAAGATCCTGTATTGACCAAGGACACAGACGATGATG  1271
+
+Query  620   TCTACTGTGAATAACGCACG  639
+             |||||||||||| |||||||
+Sbjct  1270  TCTACTGTGAATTACGCACG  1251
+
+
+
+
+>Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama unplaced genomic scaffold, SceUnd_v1.1 scaffold_10835, whole genome shotgun sequence
+Sequence ID: NW_024813753.1 Length: 2449
+Range 1: 1138 to 1250
+
+Score:125 bits(138), Expect:3e-26, 
+Identities:101/116(87%),  Gaps:6/116(5%), Strand: Plus/Plus
+
+Query  640   CATGGCTA-CGACA-TTGGCTTCTTGTGGAAGGGCATTGTATCTTCAGAGCCTGCTGGCC  697
+             |||||||| | ||| |||||||||||||||||||| ||  ||||||| ||||||||||||
+Sbjct  1138  CATGGCTAACTACAGTTGGCTTCTTGTGGAAGGGCTTT--ATCTTCATAGCCTGCTGGCC  1195
+
+Query  698   -TTTCTTTCGTCTCAGATAGAAAGTACGTTCGGGGGTTGGTTGTGTCTGGGATGGG  752
+              |||||||| ||||||||||||||||| |  || |||| ||||| |||||||||||
+Sbjct  1196  ATTTCTTTCTTCTCAGATAGAAAGTACTTCTGGTGGTTTGTTGT-TCTGGGATGGG  1250
+
+
+
+
+>Sceloporus undulatus isolate JIND9_A2432 ecotype Alabama chromosome 6, SceUnd_v1.1, whole genome shotgun sequence
+Sequence ID: NC_056527.1 Length: 170077623
+Range 1: 13731675 to 13731728
+
+Score:53.6 bits(58), Expect:2e-04, 
+Identities:44/54(81%),  Gaps:0/54(0%), Strand: Plus/Minus
+
+Query  912       GAGACTTGCTAAATCAACACTTGTACTCATCCCTCTCTTTGGAGTCCATTACAT  965
+                 ||||||||| || ||||||||  | || || || ||||||||||| || |||||
+Sbjct  13731728  GAGACTTGCAAAGTCAACACTGCTGCTTATTCCACTCTTTGGAGTTCACTACAT  13731675
+
+
+
+
+Range 2: 6036289 to 6036336
+
+Score:51.8 bits(56), Expect:6e-04, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1047     TCAGGGCTTTGCTGTGGCTGTGCTTTACTGTTTCCTTAATGGTGAGGT  1094
+                |||||||||||  || ||||| |||||||| ||| | ||||| |||||
+Sbjct  6036336  TCAGGGCTTTGTGGTTGCTGTCCTTTACTGCTTCTTGAATGGGGAGGT  6036289
+
+
+
+
+Range 3: 6016483 to 6016557
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:56/75(75%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  909      CAAGAGACTTGCTAAATCAACACTTGTACTCATCCCTCTCTTTGGAGTCCATTACATCAT  968
+                || |||| | || ||||| ||  |  | |||||||||||||||||||  || ||| |  |
+Sbjct  6016483  CAGGAGATTGGCCAAATCGACGTTACTCCTCATCCCTCTCTTTGGAGCTCACTACGTTGT  6016542
+
+Query  969      ATTTGCTTTTTTCCC  983
+                 ||||| || |||||
+Sbjct  6016543  TTTTGCCTTCTTCCC  6016557
+
+
+
+
+Range 4: 3745715 to 3745770
+
+Score:49.1 bits(53), Expect:0.007, 
+Identities:45/56(80%),  Gaps:1/56(1%), Strand: Plus/Minus
+
+Query  918      TGCT-AAATCAACACTTGTACTCATCCCTCTCTTTGGAGTCCATTACATCATATTT  972
+                |||| ||||| || || || || || |||||||||||||| ||||| ||| | |||
+Sbjct  3745770  TGCTGAAATCGACTCTGGTCCTTATGCCTCTCTTTGGAGTTCATTATATCGTTTTT  3745715
+
+
+
+
+Range 5: 5725911 to 5725998
+
+Score:47.3 bits(51), Expect:0.026, 
+Identities:63/88(72%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  501      CAGGAGACTTCGCTGTACAAGGAATTACATCCACATGCAGCTTTTGATCATCTTCATTTT  560
+                ||||| ||| | ||| ||  ||||  | ||||||||||| || || ||   ||||||  |
+Sbjct  5725998  CAGGAAACTGCACTGCACTCGGAACCATATCCACATGCACCTCTTCATGTCCTTCATCAT  5725939
+
+Query  561      GCGGGCTATTGCAAACTTCATTAAAGAT  588
+                | | || |||||    ||||| ||||||
+Sbjct  5725938  GAGAGCGATTGCTGTTTTCATCAAAGAT  5725911
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,637 @@
+RID: NEKYG4AT014	
+Job Title:XM_069712835.1:40-1458 PREDICTED: Brachyistius...				
+Program: BLASTN 
+Database: Genome (ASM2903083v1) Brachyistius frenatus ASM2903083v1 [GCF_029030835.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_029030835.1-RS_2024_11)
+Query #1: XM_069712835.1:40-1458 PREDICTED: Brachyistius frenatus secretin receptor (sctr), mRNA Query ID: lcl|Query_325573 Length: 1419
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     340    2619  100%  3e-91 100.00 1352568    NW_027210711.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     107    345   22%   3e-21 79.03  344115     NW_027210915.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     94.2   207   16%   7e-17 76.61  7357162    NW_027210611.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     94.2   145   9%    7e-17 89.86  1969856    NW_027210678.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     85.1   85.1  5%    4e-14 86.96  1973506    NW_027210677.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     80.6   80.6  5%    4e-13 85.51  5858789    NW_027210617.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     75.2   129   15%   2e-11 81.71  3016794    NW_027210646.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     72.5   72.5  8%    2e-10 74.77  3379031    NW_027210642.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     72.5   136   12%   2e-10 76.29  2315870    NW_027210664.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     71.6   71.6  5%    2e-10 82.61  7682200    NW_027210610.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     71.6   71.6  5%    2e-10 81.08  95464      NW_027211115.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     70.7   70.7  5%    8e-10 81.69  4616457    NW_027210627.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     70.7   124   11%   8e-10 76.92  1511772    NW_027210698.1   
+Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplac... Brachyistius... kelp perch      100188     44.6   44.6  2%    0.032 90.91  11835495   NW_027210601.1   
+
+
+Alignments:
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_112
+Sequence ID: NW_027210711.1 Length: 1352568
+Range 1: 159349 to 159536
+
+Score:340 bits(376), Expect:3e-91, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Plus
+
+Query  1232    AGGTGCAGCACGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCGGCACCTGCCCA  1291
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159349  AGGTGCAGCACGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCGGCACCTGCCCA  159408
+
+Query  1292    GTCGGCGCAGGCAGCATCACGGCTCCATCAGCCACAGCGGGTCTCCTCACACGCAGGTCT  1351
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159409  GTCGGCGCAGGCAGCATCACGGCTCCATCAGCCACAGCGGGTCTCCTCACACGCAGGTCT  159468
+
+Query  1352    CCCTGCTGCCTTGCTCGGCGGGCGGCCCGGCGACCGGCGGACTCCCCGCGGACACCCTGG  1411
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159469  CCCTGCTGCCTTGCTCGGCGGGCGGCCCGGCGACCGGCGGACTCCCCGCGGACACCCTGG  159528
+
+Query  1412    AGACGTGA  1419
+               ||||||||
+Sbjct  159529  AGACGTGA  159536
+
+
+
+
+Range 2: 157825 to 157980
+
+Score:282 bits(312), Expect:7e-74, 
+Identities:156/156(100%),  Gaps:0/156(0%), Strand: Plus/Plus
+
+Query  675     GGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTG  734
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157825  GGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTG  157884
+
+Query  735     GCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAG  794
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  157885  GCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAG  157944
+
+Query  795     GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGG  830
+               ||||||||||||||||||||||||||||||||||||
+Sbjct  157945  GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGG  157980
+
+
+
+
+Range 3: 159008 to 159150
+
+Score:254 bits(281), Expect:3e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1050    CAAGAGGCTGATCAAGTCCACCTTCTTCCTGGTGGCTCTGTTCGGTCTGCATTACATCCT  1109
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159008  CAGGAGGCTGATCAAGTCCACCTTCTTCCTGGTGGCTCTGTTCGGTCTGCATTACATCCT  159067
+
+Query  1110    GTTTGTCTTCTTACCTGTTGAAGTCAGCAGCTCCGTGTTCAAGATCTGGACCTTTGCGGA  1169
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159068  GTTTGTCTTCTTACCTGTTGAAGTCAGCAGCTCCGTGTTCAAGATCTGGACCTTTGCGGA  159127
+
+Query  1170    GCTGGCTCTGTCGTCCACACAGG  1192
+               |||||||||||||||||||||||
+Sbjct  159128  GCTGGCTCTGTCGTCCACACAGG  159150
+
+
+
+
+Range 4: 156731 to 156868
+
+Score:250 bits(276), Expect:4e-64, 
+Identities:138/138(100%),  Gaps:0/138(0%), Strand: Plus/Plus
+
+Query  540     CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156731  CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  156790
+
+Query  600     GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCAATGAAGAGCTCTACCA  659
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156791  GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCAATGAAGAGCTCTACCA  156850
+
+Query  660     CTGCGACTACTACCCGGT  677
+               ||||||||||||||||||
+Sbjct  156851  CTGCGACTACTACCCGGT  156868
+
+
+
+
+Range 5: 155072 to 155191
+
+Score:217 bits(240), Expect:2e-54, 
+Identities:120/120(100%),  Gaps:0/120(0%), Strand: Plus/Plus
+
+Query  204     AGAAAACAACACCAACGTACACTGTACAGGAATGTGGGACAACCTGAACTGCTGGCCGCC  263
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  155072  AGAAAACAACACCAACGTACACTGTACAGGAATGTGGGACAACCTGAACTGCTGGCCGCC  155131
+
+Query  264     TGCATCTCTCGGGGAAACCGTCTCTCAGCCCTGTCCGGAGTTTTTTAATACAGAAAGTAA  323
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  155132  TGCATCTCTCGGGGAAACCGTCTCTCAGCCCTGTCCGGAGTTTTTTAATACAGAAAGTAA  155191
+
+
+
+
+Range 6: 156463 to 156575
+
+Score:205 bits(226), Expect:2e-50, 
+Identities:113/113(100%),  Gaps:0/113(0%), Strand: Plus/Plus
+
+Query  431     AGTCCTCAGACTCCCATTTGTACTTCTCCTACGTGAAGACCATGTACACGGCCGGATACA  490
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156463  AGTCCTCAGACTCCCATTTGTACTTCTCCTACGTGAAGACCATGTACACGGCCGGATACA  156522
+
+Query  491     CGCTCTCCCTCATCTCCCTGACCGTCGCCGTCACCATATTCTGCCTGTTCAGG  543
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  156523  CGCTCTCCCTCATCTCCCTGACCGTCGCCGTCACCATATTCTGCCTGTTCAGG  156575
+
+
+
+
+Range 7: 155684 to 155792
+
+Score:197 bits(218), Expect:2e-48, 
+Identities:109/109(100%),  Gaps:0/109(0%), Strand: Plus/Plus
+
+Query  324     AGGCGAAGTGCATCGTAACTGCACCATCAGTGGCTGGACGGACCCGCTCGTCCCCCACGA  383
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  155684  AGGCGAAGTGCATCGTAACTGCACCATCAGTGGCTGGACGGACCCGCTCGTCCCCCACGA  155743
+
+Query  384     AGATGCTTGCGGCTACACTTTCAACGAGACGCTGCACTTTCTCGCAGAG  432
+               |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  155744  AGATGCTTGCGGCTACACTTTCAACGAGACGCTGCACTTTCTCGCAGAG  155792
+
+
+
+
+Range 8: 154556 to 154658
+
+Score:187 bits(206), Expect:4e-45, 
+Identities:103/103(100%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  103     CAGGCAAAGTCGTCCCCTGGTTGTCACCCTCATGTGAATCTTTTGAAAGAGGAAGACAAG  162
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  154556  CAGGCAAAGTCGTCCCCTGGTTGTCACCCTCATGTGAATCTTTTGAAAGAGGAAGACAAG  154615
+
+Query  163     TGCATGAAAGATCTGCTACTTTCAAAGTCACACAAAGCAACAG  205
+               |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  154616  TGCATGAAAGATCTGCTACTTTCAAAGTCACACAAAGCAACAG  154658
+
+
+
+
+Range 9: 154338 to 154444
+
+Score:186 bits(205), Expect:1e-44, 
+Identities:106/107(99%),  Gaps:1/107(0%), Strand: Plus/Plus
+
+Query  1       ATGCGCCTTGGGGCTTGGACGTACGTAACACATC-TGATGGGGAAAAGAAACCTGTTTGA  59
+               |||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  154338  ATGCGCCTTGGGGCTTGGACGTACGTAACACATCCTGATGGGGAAAAGAAACCTGTTTGA  154397
+
+Query  60      CATCATGAAAAAAGTTGGACTACTTGGGGTGTTACTGTTACCCCAGG  106
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  154398  CATCATGAAAAAAGTTGGACTACTTGGGGTGTTACTGTTACCCCAGG  154444
+
+
+
+
+Range 10: 158700 to 158792
+
+Score:168 bits(186), Expect:1e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  961     ATGAACCTCATCTTCTTCTTGGGGATTTTGAGGATACTGGTGAGCAAACTCCGGATGCCA  1020
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  158700  ATGAACCTCATCTTCTTCTTGGGGATTTTGAGGATACTGGTGAGCAAACTCCGGATGCCA  158759
+
+Query  1021    GACGCACAGAGGAATGAATTCAGCCAGTACAAG  1053
+               |||||||||||||||||||||||||||||||||
+Sbjct  158760  GACGCACAGAGGAATGAATTCAGCCAGTACAAG  158792
+
+
+
+
+Range 11: 158227 to 158300
+
+Score:130 bits(143), Expect:1e-27, 
+Identities:73/74(99%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  887     AAGGCTGTTGGGAAACCAGGAGACACGAGTGGATTTGGTGGATTCTTCGAGTGCCGGTTC  946
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  158227  AAAGCTGTTGGGAAACCAGGAGACACGAGTGGATTTGGTGGATTCTTCGAGTGCCGGTTC  158286
+
+Query  947     TTCTCACCATATCT  960
+               ||||||||||||||
+Sbjct  158287  TTCTCACCATATCT  158300
+
+
+
+
+Range 12: 158081 to 158142
+
+Score:113 bits(124), Expect:7e-23, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Plus
+
+Query  829     GGCTTACCGTTGGTTGTTGTCGTCTGCTGGGGGTGCGCAAAGTATTTTTATGAAGATGAA  888
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  158081  GGCTTACCGTTGGTTGTTGTCGTCTGCTGGGGGTGCGCAAAGTATTTTTATGAAGATGAA  158140
+
+Query  889     GG  890
+               ||
+Sbjct  158141  GG  158142
+
+
+
+
+Range 13: 159229 to 159275
+
+Score:86.0 bits(94), Expect:1e-14, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1189    CAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGGT  1235
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  159229  CAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGGT  159275
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_316
+Sequence ID: NW_027210915.1 Length: 344115
+Range 1: 46720 to 46843
+
+Score:107 bits(118), Expect:3e-21, 
+Identities:98/124(79%),  Gaps:0/124(0%), Strand: Plus/Plus
+
+Query  540    CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+              |||||||||||||||||| ||||||| ||| |||||  | |||||||| |||||||| ||
+Sbjct  46720  CAGGAAGCTGCACTGCACGAGGAACTTCATCCACATGAACCTGTTCGTGTCCTTCATGCT  46779
+
+Query  600    GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCAATGAAGAGCTCTACCA  659
+              ||||||| | |   ||||||||  ||||| | ||||||  ||||| || ||   | | ||
+Sbjct  46780  GAGAGCCATTTCTGTCTTCATCAAAGACGGCGTGCTGTACGCCAAAGACGACAGCGAGCA  46839
+
+Query  660    CTGC  663
+              ||||
+Sbjct  46840  CTGC  46843
+
+
+
+
+Range 2: 62745 to 62878
+
+Score:107 bits(118), Expect:3e-21, 
+Identities:104/134(78%),  Gaps:0/134(0%), Strand: Plus/Minus
+
+Query  530    TCTGCCTGTTCAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCT  589
+              ||||| | | ||||||| | ||||||||||||||||||||||||||| | || ||| |||
+Sbjct  62878  TCTGCTTCTGCAGGAAGTTTCACTGCACCAGGAACTACATTCACATCAACCTCTTCTTCT  62819
+
+Query  590    CCTTCATCCTGAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCAATGAAG  649
+              ||||||||||||||||   |  | ||||||||  ||||| | | || ||| |  | ||| 
+Sbjct  62818  CCTTCATCCTGAGAGCGAGCGCCGTCTTCATCAAAGACGGCGTCCTTTTTTCAGACGAAA  62759
+
+Query  650    AGCTCTACCACTGC  663
+              |  |  ||||||||
+Sbjct  62758  ACTTGGACCACTGC  62745
+
+
+
+
+Range 3: 61769 to 61885
+
+Score:72.5 bits(79), Expect:2e-10, 
+Identities:86/117(74%),  Gaps:0/117(0%), Strand: Plus/Minus
+
+Query  714    CATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAG  773
+              ||||||||||||||||  ||||||||||||||||||    | ||||   || ||| |   
+Sbjct  61885  CATCCTGGCCAACTACTTCTGGCTGCTGGTGGAGGGCATGTACCTGCAGACGCTGCTCGC  61826
+
+Query  774    CCGCTCCTTCTTCTCCCTGAGGAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGG  830
+              || | ||||| ||| || || |||  || ||   ||||||||| || |  |||||||
+Sbjct  61825  CCTCACCTTCGTCTTCCAGAAGAAATACTTCTGGTGGTACATCCTCATCGGCTGGGG  61769
+
+
+
+
+Range 4: 49055 to 49114
+
+Score:58.1 bits(63), Expect:5e-06, 
+Identities:50/61(82%),  Gaps:1/61(1%), Strand: Plus/Plus
+
+Query  1175   CTCTGTCGTCCACACAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGG  1234
+              |||||| |||  | ||||| || ||||| ||  |||||||||||||| ||||||| ||||
+Sbjct  49055  CTCTGT-GTCTCCTCAGGGCTTCGTGGTGGCCGTCCTCTACTGCTTCCTGAACGGAGAGG  49113
+
+Query  1235   T  1235
+              |
+Sbjct  49114  T  49114
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_12
+Sequence ID: NW_027210611.1 Length: 7357162
+Range 1: 3858154 to 3858277
+
+Score:94.2 bits(103), Expect:7e-17, 
+Identities:95/124(77%),  Gaps:0/124(0%), Strand: Plus/Minus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                ||||||||| |||||||||||||||| |||||||||  |  |||| || |||||||| ||
+Sbjct  3858277  CAGGAAGCTCCACTGCACCAGGAACTTCATTCACATGAATTTGTTTGTGTCCTTCATGCT  3858218
+
+Query  600      GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCAATGAAGAGCTCTACCA  659
+                ||||||| |||   ||||||||   || |   ||||||  ||  | |||||   | ||||
+Sbjct  3858217  GAGAGCCATCTCAGTCTTCATCAAGGATGGTGTGCTGTACGCGCAGGAAGACAGCGACCA  3858158
+
+Query  660      CTGC  663
+                ||||
+Sbjct  3858157  CTGC  3858154
+
+
+
+
+Range 2: 2889889 to 2889944
+
+Score:61.7 bits(67), Expect:4e-07, 
+Identities:47/56(84%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  550      CACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCTGAGAGC  605
+                |||||||||||||||||||| ||||| || || || || |||| ||| || |||||
+Sbjct  2889944  CACTGCACCAGGAACTACATCCACATGCACCTATTTGTTTCCTACATGCTAAGAGC  2889889
+
+
+
+
+Range 3: 3835391 to 3835493
+
+Score:51.8 bits(56), Expect:2e-04, 
+Identities:73/103(71%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  714      CATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAG  773
+                |||||||||||| ||    ||| |||||||||||||    |  |||   |||||| ||  
+Sbjct  3835391  CATCCTGGCCAATTATTTTTGGTTGCTGGTGGAGGGCATGTATCTGCAGACCCTGCTGGC  3835450
+
+Query  774      CCGCTCCTTCTTCTCCCTGAGGAAGCACCTCGCCTGGTACATC  816
+                 | | ||||| |||| | ||||||  || ||   |||||||||
+Sbjct  3835451  TCTCACCTTCGTCTCGCAGAGGAAATACTTCTGGTGGTACATC  3835493
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_79
+Sequence ID: NW_027210678.1 Length: 1969856
+Range 1: 1935842 to 1935910
+
+Score:94.2 bits(103), Expect:7e-17, 
+Identities:62/69(90%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                ||||||||| |||||||||||||||||||| ||| || | || ||| |||||||||||||
+Sbjct  1935842  CAGGAAGCTTCACTGCACCAGGAACTACATCCACCTCAACCTCTTCTTCTCCTTCATCCT  1935901
+
+Query  600      GAGAGCCGT  608
+                |||||||||
+Sbjct  1935902  GAGAGCCGT  1935910
+
+
+
+
+Range 2: 1936557 to 1936609
+
+Score:51.8 bits(56), Expect:2e-04, 
+Identities:43/53(81%),  Gaps:0/53(0%), Strand: Plus/Plus
+
+Query  698      TGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGT  750
+                |||| | | | || | |||| ||||||||| |  |||||||||||||||||||
+Sbjct  1936557  TGTTTTTCCAGTATTTCATCATGGCCAACTTCTTCTGGCTGCTGGTGGAGGGT  1936609
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_78
+Sequence ID: NW_027210677.1 Length: 1973506
+Range 1: 111410 to 111478
+
+Score:85.1 bits(93), Expect:4e-14, 
+Identities:60/69(87%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  540     CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+               ||||||||| |||||||||||||||||||| |||||  | |||||| | || ||||||||
+Sbjct  111410  CAGGAAGCTCCACTGCACCAGGAACTACATCCACATGAATCTGTTCATGTCATTCATCCT  111469
+
+Query  600     GAGAGCCGT  608
+               |||||| ||
+Sbjct  111470  GAGAGCTGT  111478
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_18
+Sequence ID: NW_027210617.1 Length: 5858789
+Range 1: 5140880 to 5140948
+
+Score:80.6 bits(88), Expect:4e-13, 
+Identities:59/69(86%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                ||||||||||| |||  ||||||||| |||||||||||||||||| ||  | ||||||||
+Sbjct  5140948  CAGGAAGCTGCGCTGTGCCAGGAACTTCATTCACATCCAGCTGTTTGTTACTTTCATCCT  5140889
+
+Query  600      GAGAGCCGT  608
+                 | ||||||
+Sbjct  5140888  AAAAGCCGT  5140880
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_47
+Sequence ID: NW_027210646.1 Length: 3016794
+Range 1: 1252636 to 1252715
+
+Score:75.2 bits(82), Expect:2e-11, 
+Identities:67/82(82%),  Gaps:3/82(3%), Strand: Plus/Minus
+
+Query  529      TTCTGCCTGTTC-AGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGT  587
+                |||||  ||||| |||||||| |||||||| ||||||||||| ||||| || ||||| ||
+Sbjct  1252715  TTCTG--TGTTCTAGGAAGCTCCACTGCACAAGGAACTACATCCACATGCATCTGTTTGT  1252658
+
+Query  588      CTCCTTCATCCTGAGAGCCGTC  609
+                 || || |||||||  ||| ||
+Sbjct  1252657  GTCATTTATCCTGAAGGCCATC  1252636
+
+
+
+
+Range 2: 1249260 to 1249392
+
+Score:54.5 bits(59), Expect:6e-05, 
+Identities:95/135(70%),  Gaps:4/135(2%), Strand: Plus/Minus
+
+Query  672      CCCGGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAG  731
+                || ||| | ||| || |  ||| |  |||||| | | ||||  ||  ||||||  | |  
+Sbjct  1249392  CCAGGTTGGCTGCAAAGCCGTGATTGTGTTCTTCCAGTACTGTATAATGGCCAGTTTCTT  1249333
+
+Query  732      CTGGCTGCTGGTGGAGGGTCACTTCCTGTTCAC-CCTGGTGAGCCG-CTCCTTCTTCTCC  789
+                |||||||||||| || |||  |||  | ||||| | | ||  |||| ||| |||||||||
+Sbjct  1249332  CTGGCTGCTGGTCGAAGGT--CTTTATCTTCACGCGTTGTTGGCCGTCTCTTTCTTCTCC  1249275
+
+Query  790      CTGAGGAAGCACCTC  804
+                  ||||||| || ||
+Sbjct  1249274  GAGAGGAAGTACTTC  1249260
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_43
+Sequence ID: NW_027210642.1 Length: 3379031
+Range 1: 2754646 to 2754752
+
+Score:72.5 bits(79), Expect:2e-10, 
+Identities:80/107(75%),  Gaps:0/107(0%), Strand: Plus/Minus
+
+Query  538      TTCAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATC  597
+                || ||||| || |||||||  |||||| |||| |||||  | ||||| | ||||||||||
+Sbjct  2754752  TTTAGGAAACTACACTGCATGAGGAACAACATCCACATGAATCTGTTTGCCTCCTTCATC  2754693
+
+Query  598      CTGAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCAA  644
+                ||| ||||  | |  ||| | |||  ||||||  || || | |||||
+Sbjct  2754692  CTGCGAGCACTGTCTATCCTTATCAAAGACGCTCTGTTGGTGGCCAA  2754646
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_65
+Sequence ID: NW_027210664.1 Length: 2315870
+Range 1: 1563587 to 1563683
+
+Score:72.5 bits(79), Expect:2e-10, 
+Identities:74/97(76%),  Gaps:0/97(0%), Strand: Plus/Minus
+
+Query  675      GGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTG  734
+                ||||| ||||||||     ||  |||||| |||||||| |||| ||||||||| |   ||
+Sbjct  1563683  GGTGGGCTGTAAGGCCAGCCTGGTGTTCTTCAACTACTTCATCATGGCCAACTTCTTGTG  1563624
+
+Query  735      GCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTG  771
+                |||||||||||| || | || ||||  ||| ||| ||
+Sbjct  1563623  GCTGCTGGTGGAAGGCCTCTACCTGCACACGCTGCTG  1563587
+
+
+
+
+Range 2: 1563843 to 1563914
+
+Score:63.5 bits(69), Expect:1e-07, 
+Identities:57/72(79%),  Gaps:0/72(0%), Strand: Plus/Minus
+
+Query  536      TGTTCAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCA  595
+                ||| ||||||||| |||||||  ||||||||||| ||  |  |  |||| || |||||||
+Sbjct  1563914  TGTGCAGGAAGCTCCACTGCATGAGGAACTACATCCATCTGAACTTGTTTGTGTCCTTCA  1563855
+
+Query  596      TCCTGAGAGCCG  607
+                | ||| ||||||
+Sbjct  1563854  TGCTGCGAGCCG  1563843
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_11
+Sequence ID: NW_027210610.1 Length: 7682200
+Range 1: 2461818 to 2461886
+
+Score:71.6 bits(78), Expect:2e-10, 
+Identities:57/69(83%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                |||||| ||||| |||||||| ||||||||||| ||  | || ||| | |||||||||||
+Sbjct  2461886  CAGGAAACTGCATTGCACCAGAAACTACATTCATATTAACCTCTTCCTGTCCTTCATCCT  2461827
+
+Query  600      GAGAGCCGT  608
+                | |||| ||
+Sbjct  2461826  GCGAGCTGT  2461818
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_516
+Sequence ID: NW_027211115.1 Length: 95464
+Range 1: 79016 to 79089
+
+Score:71.6 bits(78), Expect:2e-10, 
+Identities:60/74(81%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  541    AGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  600
+              |||||||| ||||| |  |||||| |||| |||||  | ||||| | ||| |||||||||
+Sbjct  79016  AGGAAGCTCCACTGTATGAGGAACAACATCCACATGAACCTGTTTGCCTCTTTCATCCTG  79075
+
+Query  601    AGAGCCGTCTTCAT  614
+              |||||||| | |||
+Sbjct  79076  AGAGCCGTGTCCAT  79089
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_28
+Sequence ID: NW_027210627.1 Length: 4616457
+Range 1: 3810282 to 3810352
+
+Score:70.7 bits(77), Expect:8e-10, 
+Identities:58/71(82%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  547      CTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCTGAGAGCC  606
+                || |||||||||||||||||||| ||||| || ||||| || ||||||||  || | || 
+Sbjct  3810352  CTTCACTGCACCAGGAACTACATCCACATGCACCTGTTTGTTTCCTTCATGTTGCGGGCG  3810293
+
+Query  607      GTCTTCATCTT  617
+                |||  ||||||
+Sbjct  3810292  GTCAGCATCTT  3810282
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_99
+Sequence ID: NW_027210698.1 Length: 1511772
+Range 1: 1243402 to 1243503
+
+Score:70.7 bits(77), Expect:8e-10, 
+Identities:80/104(77%),  Gaps:4/104(3%), Strand: Plus/Plus
+
+Query  715      ATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGTCACTTCCTGTTCACCCT-GGTGAG  773
+                ||| ||||||  |||  ||||||||||||||||||   |||  | ||||| ||  || ||
+Sbjct  1243402  ATCATGGCCAGTTACTTCTGGCTGCTGGTGGAGGG--CCTTTATCTTCACGCTCTGTTAG  1243459
+
+Query  774      CCG-CTCCTTCTTCTCCCTGAGGAAGCACCTCGCCTGGTACATC  816
+                ||| ||||||||||||   ||||||| || ||   |||||||||
+Sbjct  1243460  CCGTCTCCTTCTTCTCTGAGAGGAAGTACTTCTGGTGGTACATC  1243503
+
+
+
+
+Range 2: 1247612 to 1247660
+
+Score:53.6 bits(58), Expect:6e-05, 
+Identities:41/49(84%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1188     ACAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGGTG  1236
+                ||||||||||||||| ||  || | ||||||||  ||||||| ||||||
+Sbjct  1247612  ACAGGGTTTTGTGGTTGCAGTCTTGTACTGCTTTCTGAACGGAGAGGTG  1247660
+
+
+
+
+>Brachyistius frenatus isolate BFR_SWC_R1_liver_20210118 unplaced genomic scaffold, ASM2903083v1 Contig_2
+Sequence ID: NW_027210601.1 Length: 11835495
+Range 1: 9911243 to 9911275
+
+Score:44.6 bits(48), Expect:0.032, 
+Identities:30/33(91%),  Gaps:2/33(6%), Strand: Plus/Plus
+
+Query  1251     GAGGAGGTGGAGGAGGTGGAGG--CTGACTCGG  1281
+                ||||||||||||||||||||||  |||||| ||
+Sbjct  9911243  GAGGAGGTGGAGGAGGTGGAGGATCTGACTGGG  9911275
+
+
+
+
+
+
+
+		
+
+

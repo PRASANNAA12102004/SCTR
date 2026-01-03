@@ -1,0 +1,591 @@
+RID: NETBRY9Z014	
+Job Title:XM_026363535.1:1-1395 PREDICTED: Anabas testudineus...				
+Program: BLASTN 
+Database: Genome (fAnaTes1.2) fAnaTes1.2 RefSeq assembly [GCF_900324465.2]
+Query #1: XM_026363535.1:1-1395 PREDICTED: Anabas testudineus secretin receptor (LOC113164297), mRNA Query ID: lcl|Query_2044005 Length: 1395
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Anabas testudineus chromosome 2, fAnaTes1.2, whole genome...      Anabas testu... climbing perch  64144      340    2780  100%  3e-91 100.00 34285027   NC_046611.1      
+Anabas testudineus chromosome 17, fAnaTes1.2, whole genome...     Anabas testu... climbing perch  64144      90.6   499   12%   8e-16 82.76  23416631   NC_046626.1      
+Anabas testudineus chromosome 19, fAnaTes1.2, whole genome...     Anabas testu... climbing perch  64144      83.3   129   5%    1e-13 86.76  18693732   NC_046628.1      
+Anabas testudineus chromosome 4, fAnaTes1.2, whole genome...      Anabas testu... climbing perch  64144      81.5   303   12%   4e-13 81.71  26090302   NC_046613.1      
+Anabas testudineus chromosome 21, fAnaTes1.2, whole genome...     Anabas testu... climbing perch  64144      68.0   68.0  6%    3e-09 79.22  24496341   NC_046629.1      
+Anabas testudineus chromosome 8, fAnaTes1.2, whole genome...      Anabas testu... climbing perch  64144      64.4   64.4  7%    3e-08 74.74  21832553   NC_046617.1      
+Anabas testudineus chromosome 1, fAnaTes1.2, whole genome...      Anabas testu... climbing perch  64144      62.6   62.6  5%    1e-07 78.38  27357120   NC_046610.1      
+Anabas testudineus chromosome 13, fAnaTes1.2, whole genome...     Anabas testu... climbing perch  64144      56.3   56.3  7%    2e-05 73.12  25912841   NC_046622.1      
+
+
+Alignments:
+
+>Anabas testudineus chromosome 2, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046611.1 Length: 34285027
+Range 1: 7642333 to 7642520
+
+Score:340 bits(376), Expect:3e-91, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Minus
+
+Query  1208     AGGTGCAGCATGAGATTCAGAGGAGATGGAGGAGATGGAAGCTCACCCAGCACCTTCCCA  1267
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7642520  AGGTGCAGCATGAGATTCAGAGGAGATGGAGGAGATGGAAGCTCACCCAGCACCTTCCCA  7642461
+
+Query  1268     GTCGGCCCAGGCAGCATCACAGCTCCATCAGCCACAGTGGGCCTCCTCACACACAGGTGT  1327
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7642460  GTCGGCCCAGGCAGCATCACAGCTCCATCAGCCACAGTGGGCCTCCTCACACACAGGTGT  7642401
+
+Query  1328     CCCTGCTGCCCTGCTCTCCAGGCAGCCACACAACCACCGGACTCCCTGTGGATACTGTGG  1387
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7642400  CCCTGCTGCCCTGCTCTCCAGGCAGCCACACAACCACCGGACTCCCTGTGGATACTGTGG  7642341
+
+Query  1388     AGATGTGA  1395
+                ||||||||
+Sbjct  7642340  AGATGTGA  7642333
+
+
+
+
+Range 2: 7644138 to 7644295
+
+Score:286 bits(316), Expect:5e-75, 
+Identities:158/158(100%),  Gaps:0/158(0%), Strand: Plus/Minus
+
+Query  651      GGTGGCCTGTAAGCTTGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  710
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7644295  GGTGGCCTGTAAGCTTGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  7644236
+
+Query  711      GCTGCTGGTGGAAGGTCACTTCCTGTTCACCTTAGTAAGCCGCTCCTTCTTCTCCCTGAA  770
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7644235  GCTGCTGGTGGAAGGTCACTTCCTGTTCACCTTAGTAAGCCGCTCCTTCTTCTCCCTGAA  7644176
+
+Query  771      GAAACACCTCGCCTGGTACATCGTCCTGAGCTGGGGTA  808
+                ||||||||||||||||||||||||||||||||||||||
+Sbjct  7644175  GAAACACCTCGCCTGGTACATCGTCCTGAGCTGGGGTA  7644138
+
+
+
+
+Range 3: 7642875 to 7643017
+
+Score:254 bits(281), Expect:3e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Minus
+
+Query  1026     CAAGAGGCTGATTAAATCCACATTTTTTCTTGTGGCACTGTTTGGTCTGCATTACATCCT  1085
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7643017  CAGGAGGCTGATTAAATCCACATTTTTTCTTGTGGCACTGTTTGGTCTGCATTACATCCT  7642958
+
+Query  1086     GTTTGTTTTCTTACCTGTCGAAGTCAGCAGCTCCGTGTTTAAGATATGGACCTTTGCAGA  1145
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7642957  GTTTGTTTTCTTACCTGTCGAAGTCAGCAGCTCCGTGTTTAAGATATGGACCTTTGCAGA  7642898
+
+Query  1146     GCTGGCTCTGTCATCCACACAGG  1168
+                |||||||||||||||||||||||
+Sbjct  7642897  GCTGGCTCTGTCATCCACACAGG  7642875
+
+
+
+
+Range 4: 7644481 to 7644620
+
+Score:249 bits(275), Expect:1e-63, 
+Identities:139/140(99%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  514      TTAAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATC  573
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7644620  TTTAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATC  7644561
+
+Query  574      CTGAGAGCCATCTTCATCTTCATTAGGGATTCTCTGTTATTTACTAATGAGGAATTCTAC  633
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7644560  CTGAGAGCCATCTTCATCTTCATTAGGGATTCTCTGTTATTTACTAATGAGGAATTCTAC  7644501
+
+Query  634      CACTGTGACCACTACCCGGT  653
+                ||||||||||||||||||||
+Sbjct  7644500  CACTGTGACCACTACCCGGT  7644481
+
+
+
+
+Range 5: 7645941 to 7646058
+
+Score:214 bits(236), Expect:3e-53, 
+Identities:118/118(100%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  204      AGAAAACAATATCAGTGTGCACTGTGAGGGAATGTGGGATGACCTGAACTGTTGGCCACC  263
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7646058  AGAAAACAATATCAGTGTGCACTGTGAGGGAATGTGGGATGACCTGAACTGTTGGCCACC  7645999
+
+Query  264      TGCTTCTCTGGGGGAGATTGTCTCTCAACCATGTCCAGATTTCTTCAATTCAGAAAGT  321
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7645998  TGCTTCTCTGGGGGAGATTGTCTCTCAACCATGTCCAGATTTCTTCAATTCAGAAAGT  7645941
+
+
+
+
+Range 6: 7646392 to 7646497
+
+Score:192 bits(212), Expect:9e-47, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  100      CCACAGGCAAAGTCATCATCGGGTTGTCACCCTCACTTAAATCTTGTGAAAGAGGAGGAA  159
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7646497  CCACAGGCAAAGTCATCATCGGGTTGTCACCCTCACTTAAATCTTGTGAAAGAGGAGGAA  7646438
+
+Query  160      AAATGTATGAACGACCTGCTGCTTTTTAAGTTACACAAAGCGACAG  205
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7646437  AAATGTATGAACGACCTGCTGCTTTTTAAGTTACACAAAGCGACAG  7646392
+
+
+
+
+Range 7: 7646569 to 7646674
+
+Score:192 bits(212), Expect:9e-47, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  1        ATGCGGCTTGAAGTTTGGACATAGGTACATATCTTGATGGAAAAATTGAACCTGTTGGAC  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7646674  ATGCGGCTTGAAGTTTGGACATAGGTACATATCTTGATGGAAAAATTGAACCTGTTGGAC  7646615
+
+Query  61       AAAATGGAAAAAGTTGGCCTCATCGCAGTGTTACTGCTCCCACAGG  106
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7646614  AAAATGGAAAAAGTTGGCCTCATCGCAGTGTTACTGCTCCCACAGG  7646569
+
+
+
+
+Range 8: 7644739 to 7644839
+
+Score:183 bits(202), Expect:5e-44, 
+Identities:101/101(100%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  419      AGTCATTGTACTTCTTCTACGTGAAGACCATGTACACAGCCGGATACACActctctctca  478
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7644839  AGTCATTGTACTTCTTCTACGTGAAGACCATGTACACAGCCGGATACACACTCTCTCTCA  7644780
+
+Query  479      tctctctcACAATCGCCATCACCATATTTTGTCTGTTAAGG  519
+                |||||||||||||||||||||||||||||||||||||||||
+Sbjct  7644779  TCTCTCTCACAATCGCCATCACCATATTTTGTCTGTTAAGG  7644739
+
+
+
+
+Range 9: 7645449 to 7645549
+
+Score:183 bits(202), Expect:5e-44, 
+Identities:101/101(100%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  320      GTAAAGTACATCGTAATTGCACTGCTGACGGCTGGTCAGACCCACTCTTCCCACACACGG  379
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7645549  GTAAAGTACATCGTAATTGCACTGCTGACGGCTGGTCAGACCCACTCTTCCCACACACGG  7645490
+
+Query  380      AAGCATGTGGTTACACTTTCAATGAGAGTGTTGTTGAAGAG  420
+                |||||||||||||||||||||||||||||||||||||||||
+Sbjct  7645489  AAGCATGTGGTTACACTTTCAATGAGAGTGTTGTTGAAGAG  7645449
+
+
+
+
+Range 10: 7643165 to 7643257
+
+Score:168 bits(186), Expect:1e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  937      ATGAATCTGATCTTCTTCTTGGGCATTTTGAGGATATTGGTGAACAAACTGAGAATGCCA  996
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7643257  ATGAATCTGATCTTCTTCTTGGGCATTTTGAGGATATTGGTGAACAAACTGAGAATGCCA  7643198
+
+Query  997      TATGCACAGAGGAATGAATTCAGCCAGTACAAG  1029
+                |||||||||||||||||||||||||||||||||
+Sbjct  7643197  TATGCACAGAGGAATGAATTCAGCCAGTACAAG  7643165
+
+
+
+
+Range 11: 7643823 to 7643893
+
+Score:129 bits(142), Expect:9e-28, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  866      GGTGCTGGGAAACCAGGACACATGAATGGATTTGGTGGATACTTCGAGTGCCAGTTCTTC  925
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7643893  GGTGCTGGGAAACCAGGACACATGAATGGATTTGGTGGATACTTCGAGTGCCAGTTCTTC  7643834
+
+Query  926      TGACTATATCT  936
+                |||||||||||
+Sbjct  7643833  TGACTATATCT  7643823
+
+
+
+
+Range 12: 7643984 to 7644047
+
+Score:116 bits(128), Expect:6e-24, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  805      GGTATACCATTAATTGTTATTGTTTCCTGGGGATGTGCCAAGTATTTTTATGAAGATGAA  864
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7644047  GGTATACCATTAATTGTTATTGTTTCCTGGGGATGTGCCAAGTATTTTTATGAAGATGAA  7643988
+
+Query  865      GGGT  868
+                ||||
+Sbjct  7643987  GGGT  7643984
+
+
+
+
+Range 13: 7642618 to 7642663
+
+Score:84.2 bits(92), Expect:3e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1166     AGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGT  1211
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7642663  AGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGT  7642618
+
+
+
+
+Range 14: 23588102 to 23588172
+
+Score:67.1 bits(73), Expect:9e-09, 
+Identities:58/71(82%),  Gaps:1/71(1%), Strand: Plus/Minus
+
+Query  508       TGTCTGT-TAAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTC  566
+                 ||| ||| | |||||||| ||||| || ||||||||||| ||||| || |||||| | ||
+Sbjct  23588172  TGTGTGTCTTAGGAAGCTCCACTGCACGAGGAACTACATCCACATGCATCTGTTTGTGTC  23588113
+
+Query  567       CTTCATCCTGA  577
+                  || |||||||
+Sbjct  23588112  ATTTATCCTGA  23588102
+
+
+
+
+Range 15: 16647952 to 16648026
+
+Score:63.5 bits(69), Expect:1e-07, 
+Identities:61/76(80%),  Gaps:2/76(2%), Strand: Plus/Minus
+
+Query  651       GGTGGCCTGTAA-GCTTGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCT  709
+                 ||||| |||||| ||  || ||| | |||| |||||||| |||| |||| |||| |  ||
+Sbjct  16648026  GGTGGGCTGTAAAGCCAGT-CTGGTTTTCTTCAACTACTTCATCATGGCCAACTTCTTCT  16647968
+
+Query  710       GGCTGCTGGTGGAAGG  725
+                 ||||||||||||| ||
+Sbjct  16647967  GGCTGCTGGTGGAGGG  16647952
+
+
+
+
+Range 16: 23580381 to 23580427
+
+Score:54.5 bits(59), Expect:6e-05, 
+Identities:40/47(85%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1165      CAGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGT  1211
+                 ||||| |||||||||||| |||| ||||||||  | || ||||||||
+Sbjct  23580427  CAGGGCTTTGTGGTCGCTGTCCTTTACTGCTTCCTCAACGGAGAGGT  23580381
+
+
+
+
+>Anabas testudineus chromosome 17, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046626.1 Length: 23416631
+Range 1: 14958423 to 14958509
+
+Score:90.6 bits(99), Expect:8e-16, 
+Identities:72/87(83%),  Gaps:0/87(0%), Strand: Plus/Minus
+
+Query  517       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                 |||||||| ||||| ||||| |||| |||||||||  | |||||| | ||||| ||||||
+Sbjct  14958509  AGGAAGCTCCACTGCACCAGAAACTTCATTCACATGAATCTGTTTGTGTCCTTTATCCTG  14958450
+
+Query  577       AGAGCCATCTTCATCTTCATTAGGGAT  603
+                 ||||||||||   ||||||| | ||||
+Sbjct  14958449  AGAGCCATCTCGGTCTTCATCAAGGAT  14958423
+
+
+
+
+Range 2: 20210478 to 20210558
+
+Score:75.2 bits(82), Expect:2e-11, 
+Identities:65/81(80%),  Gaps:0/81(0%), Strand: Plus/Minus
+
+Query  502       ATATTTTGTCTGTTAAGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTT  561
+                 ||||  ||| |||  ||||| || ||||| |||||||||||||| ||  |  | || || 
+Sbjct  20210558  ATATACTGTGTGTGCAGGAAACTCCACTGCACCAGGAACTACATCCATCTGAACCTCTTC  20210499
+
+Query  562       ATCTCCTTCATCCTGAGAGCC  582
+                 |||||||||||||||||||||
+Sbjct  20210498  ATCTCCTTCATCCTGAGAGCC  20210478
+
+
+
+
+Range 3: 5593641 to 5593706
+
+Score:61.7 bits(67), Expect:4e-07, 
+Identities:53/66(80%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  517      AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                || ||||||||||| || || |||||||| ||||| || |||||| | || || || |||
+Sbjct  5593641  AGAAAGCTGCACTGCACAAGAAACTACATCCACATGCACCTGTTTGTATCTTTTATACTG  5593700
+
+Query  577      AGAGCC  582
+                | ||||
+Sbjct  5593701  AAAGCC  5593706
+
+
+
+
+Range 4: 14169055 to 14169115
+
+Score:61.7 bits(67), Expect:4e-07, 
+Identities:50/61(82%),  Gaps:0/61(0%), Strand: Plus/Minus
+
+Query  524       TGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTGAGAGCCA  583
+                 ||||||| |||||||||||||| ||||| || || ||| | |||| ||| || ||||| |
+Sbjct  14169115  TGCACTGCACCAGGAACTACATCCACATGCACCTATTTGTGTCCTACATGCTAAGAGCTA  14169056
+
+Query  584       T  584
+                 |
+Sbjct  14169055  T  14169055
+
+
+
+
+Range 5: 14937874 to 14937970
+
+Score:54.5 bits(59), Expect:6e-05, 
+Identities:70/97(72%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  528       CTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTGAGAGCCATCTT  587
+                 ||| || || || ||||| |||||| | |||||   ||||||  |||||||||||| |  
+Sbjct  14937874  CTGCACTAGAAATTACATCCACATCAACCTGTTCTCCTCCTTTGTCCTGAGAGCCAGCGC  14937933
+
+Query  588       CATCTTCATTAGGGATTCTCTGTTATTTACTAATGAG  624
+                 | | ||||| |  ||  || || | ||| || |||||
+Sbjct  14937934  CGTTTTCATCAAAGACACTGTGCTGTTTGCTGATGAG  14937970
+
+
+
+
+Range 6: 5598909 to 5598957
+
+Score:53.6 bits(58), Expect:6e-05, 
+Identities:41/49(84%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1164     ACAGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGTG  1212
+                |||||||||||| || ||  |  | ||||||||| ||||||||||||||
+Sbjct  5598909  ACAGGGTTTTGTTGTTGCGGTTTTGTACTGCTTTCTGAATGGAGAGGTG  5598957
+
+
+
+
+Range 7: 14952574 to 14952619
+
+Score:52.7 bits(57), Expect:2e-04, 
+Identities:39/46(85%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1166      AGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGT  1211
+                 |||| |||||||| ||| | |||||||| ||| | |||||||||||
+Sbjct  14952619  AGGGCTTTGTGGTGGCTGTACTCTACTGTTTTCTAAATGGAGAGGT  14952574
+
+
+
+
+Range 8: 14943858 to 14943904
+
+Score:50.0 bits(54), Expect:7e-04, 
+Identities:39/47(83%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1165      CAGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGT  1211
+                 ||||| |||||||| ||  | || ||||| || ||||||||||||||
+Sbjct  14943858  CAGGGGTTTGTGGTGGCACTACTTTACTGTTTCATGAATGGAGAGGT  14943904
+
+
+
+
+>Anabas testudineus chromosome 19, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046628.1 Length: 18693732
+Range 1: 3013592 to 3013659
+
+Score:83.3 bits(91), Expect:1e-13, 
+Identities:59/68(87%),  Gaps:0/68(0%), Strand: Plus/Minus
+
+Query  517      AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                |||||||| ||||||||||| |||||||| |||||  | |||||| | || |||||||||
+Sbjct  3013659  AGGAAGCTCCACTGTACCAGAAACTACATCCACATGAATCTGTTTGTGTCGTTCATCCTG  3013600
+
+Query  577      AGAGCCAT  584
+                ||||||||
+Sbjct  3013599  AGAGCCAT  3013592
+
+
+
+
+Range 2: 7686061 to 7686125
+
+Score:46.4 bits(50), Expect:0.008, 
+Identities:49/65(75%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  517      AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                |||||| |||| || |||||||||||||| ||     | || ||  | ||||| ||||||
+Sbjct  7686125  AGGAAGTTGCATTGCACCAGGAACTACATCCATGCTAATCTCTTCCTGTCCTTTATCCTG  7686066
+
+Query  577      AGAGC  581
+                 ||||
+Sbjct  7686065  CGAGC  7686061
+
+
+
+
+>Anabas testudineus chromosome 4, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046613.1 Length: 26090302
+Range 1: 23750337 to 23750418
+
+Score:81.5 bits(89), Expect:4e-13, 
+Identities:67/82(82%),  Gaps:0/82(0%), Strand: Plus/Minus
+
+Query  517       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                 || ||| | ||||| |||||||||||||| |||||| | |||||  ||||||||||||||
+Sbjct  23750418  AGAAAGTTTCACTGCACCAGGAACTACATCCACATCAACCTGTTCTTCTCCTTCATCCTG  23750359
+
+Query  577       AGAGCCATCTTCATCTTCATTA  598
+                 ||||| | |    |||||||||
+Sbjct  23750358  AGAGCGAGCGCTGTCTTCATTA  23750337
+
+
+
+
+Range 2: 23735183 to 23735262
+
+Score:77.9 bits(85), Expect:5e-12, 
+Identities:65/80(81%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  517       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                 |||||||||||||| |||||||||| ||| |||||  | |||||| | || |||||||| 
+Sbjct  23735183  AGGAAGCTGCACTGCACCAGGAACTTCATCCACATGAACCTGTTTGTATCGTTCATCCTA  23735242
+
+Query  577       AGAGCCATCTTCATCTTCAT  596
+                 ||||| || |   |||||||
+Sbjct  23735243  AGAGCTATTTCTGTCTTCAT  23735262
+
+
+
+
+Range 3: 23737849 to 23737895
+
+Score:50.0 bits(54), Expect:7e-04, 
+Identities:39/47(83%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1165      CAGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGT  1211
+                 ||||| || ||||| ||  |||||||||||||  | |||||||||||
+Sbjct  23737849  CAGGGCTTCGTGGTGGCCGTCCTCTACTGCTTCCTCAATGGAGAGGT  23737895
+
+
+
+
+Range 4: 23745781 to 23745826
+
+Score:48.2 bits(52), Expect:0.002, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1166      AGGGTTTTGTGGTCGCTATCCTCTACTGCTTTATGAATGGAGAGGT  1211
+                 |||| ||||| || ||| | |||||||||||  ||||||| |||||
+Sbjct  23745826  AGGGATTTGTTGTGGCTCTGCTCTACTGCTTCTTGAATGGTGAGGT  23745781
+
+
+
+
+Range 5: 23747984 to 23748018
+
+Score:46.4 bits(50), Expect:0.008, 
+Identities:31/35(89%),  Gaps:0/35(0%), Strand: Plus/Minus
+
+Query  691       ATCCTGGCAAACTACAGCTGGCTGCTGGTGGAAGG  725
+                 |||||||| ||||||  ||||||||||||||| ||
+Sbjct  23748018  ATCCTGGCCAACTACTTCTGGCTGCTGGTGGAGGG  23747984
+
+
+
+
+>Anabas testudineus chromosome 21, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046629.1 Length: 24496341
+Range 1: 23856762 to 23856838
+
+Score:68.0 bits(74), Expect:3e-09, 
+Identities:61/77(79%),  Gaps:0/77(0%), Strand: Plus/Minus
+
+Query  517       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                 ||| | || ||||| |||||||||||||| ||||| || |||||| | ||||||||  ||
+Sbjct  23856838  AGGCATCTTCACTGCACCAGGAACTACATCCACATGCACCTGTTTGTTTCCTTCATGTTG  23856779
+
+Query  577       AGAGCCATCTTCATCTT  593
+                  ||||  ||  ||||||
+Sbjct  23856778  CGAGCAGTCAGCATCTT  23856762
+
+
+
+
+>Anabas testudineus chromosome 8, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046617.1 Length: 21832553
+Range 1: 11987729 to 11987823
+
+Score:64.4 bits(70), Expect:3e-08, 
+Identities:71/95(75%),  Gaps:0/95(0%), Strand: Plus/Plus
+
+Query  517       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                 || || |||||||| |  |||||  |||| |||||  | ||||||  |||||||||||||
+Sbjct  11987729  AGAAAACTGCACTGCATGAGGAATAACATCCACATGAATCTGTTTGCCTCCTTCATCCTG  11987788
+
+Query  577       AGAGCCATCTTCATCTTCATTAGGGATTCTCTGTT  611
+                  ||||  | | |||| |||| |  ||| |||| ||
+Sbjct  11987789  CGAGCGCTGTCCATCCTCATAAAAGATGCTCTTTT  11987823
+
+
+
+
+>Anabas testudineus chromosome 1, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046610.1 Length: 27357120
+Range 1: 18926164 to 18926237
+
+Score:62.6 bits(68), Expect:1e-07, 
+Identities:58/74(78%),  Gaps:0/74(0%), Strand: Plus/Minus
+
+Query  517       AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                 |||||||| || ||||  |||||| |||| |||||  | || |||  |||||||||||||
+Sbjct  18926237  AGGAAGCTCCATTGTATGAGGAACAACATCCACATGAACCTTTTTGCCTCCTTCATCCTG  18926178
+
+Query  577       AGAGCCATCTTCAT  590
+                 || ||| | | |||
+Sbjct  18926177  AGGGCCGTGTCCAT  18926164
+
+
+
+
+>Anabas testudineus chromosome 13, fAnaTes1.2, whole genome shotgun sequence
+Sequence ID: NC_046622.1 Length: 25912841
+Range 1: 3588973 to 3589065
+
+Score:56.3 bits(61), Expect:2e-05, 
+Identities:68/93(73%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  517      AGGAAGCTGCACTGTACCAGGAACTACATTCACATCCAGCTGTTTATCTCCTTCATCCTG  576
+                |||||||||||||| ||||| |||||||| |||| | |  | |||   || || ||||| 
+Sbjct  3588973  AGGAAGCTGCACTGCACCAGAAACTACATCCACACCAACTTATTTGCGTCATTTATCCTA  3589032
+
+Query  577      AGAGCCATCTTCATCTTCATTAGGGATTCTCTG  609
+                 ||||  | | |||| | |  || ||| |||||
+Sbjct  3589033  CGAGCTGTTTCCATCCTGACCAGAGATGCTCTG  3589065
+
+
+
+
+
+
+
+		
+
+

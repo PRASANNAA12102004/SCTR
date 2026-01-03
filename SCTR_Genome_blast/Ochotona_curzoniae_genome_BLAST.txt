@@ -1,0 +1,521 @@
+RID: NCB3996F014	
+Job Title:XM_040979158.1 PREDICTED: Ochotona curzoniae...				
+Program: BLASTN 
+Database: Genome (NIBS_Ocur_1.0) NIBS_Ocur_1.0 RefSeq assembly [GCF_017591425.1]
+Query #1: XM_040979158.1 PREDICTED: Ochotona curzoniae secretin receptor (SCTR), mRNA Query ID: lcl|Query_8330685 Length: 1341
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     324    2506  100%  8e-86 100.00 7510143    NW_024465699.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     111    407   28%   9e-22 84.16  37824714   NW_024466607.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     87.8   87.8  6%    1e-14 83.13  59604595   NW_024466004.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     85.1   160   15%   1e-13 78.79  13458458   NW_024466129.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     77.9   203   16%   2e-11 81.25  38008838   NW_024467114.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     70.7   70.7  5%    3e-09 83.33  33361047   NW_024467094.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     64.4   64.4  4%    1e-07 83.33  119348     NW_024466192.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     62.6   62.6  5%    4e-07 81.25  611081     NW_024466818.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     62.6   62.6  5%    4e-07 81.25  10871873   NW_024465561.1   
+Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold... Ochotona cur... black-lipped... 130825     51.8   51.8  5%    7e-04 77.78  12760024   NW_024466459.1   
+
+
+Alignments:
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_3037, whole genome shotgun sequence
+Sequence ID: NW_024465699.1 Length: 7510143
+Range 1: 4409576 to 4409754
+
+Score:324 bits(358), Expect:8e-86, 
+Identities:179/179(100%),  Gaps:0/179(0%), Strand: Plus/Minus
+
+Query  1163     AGGTGCAGCTAGAAGTTCAGAAGAAGTGGCGGCAGTGGCACCTCTAGGAGCTGGCGCTGC  1222
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4409754  AGGTGCAGCTAGAAGTTCAGAAGAAGTGGCGGCAGTGGCACCTCTAGGAGCTGGCGCTGC  4409695
+
+Query  1223     GCCCGGTGGCTCTCAGCTCTTCCTACAGCAATGGCACAGGTGGCTTCATCCCTGGCATCA  1282
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4409694  GCCCGGTGGCTCTCAGCTCTTCCTACAGCAATGGCACAGGTGGCTTCATCCCTGGCATCA  4409635
+
+Query  1283     AGGCCTGCCCTGCAGAGCACAGCCAGGACACCCACAAAGCCAACAGGGCTTTCATGTGA  1341
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4409634  AGGCCTGCCCTGCAGAGCACAGCCAGGACACCCACAAAGCCAACAGGGCTTTCATGTGA  4409576
+
+
+
+
+Range 2: 4431684 to 4431837
+
+Score:279 bits(308), Expect:3e-72, 
+Identities:154/154(100%),  Gaps:0/154(0%), Strand: Plus/Minus
+
+Query  621      GGTAGGCTGTAAGCTCGTCATGATCTTCTTCCAGTACTGCATCATGGCCAATTATGCCTG  680
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4431837  GGTAGGCTGTAAGCTCGTCATGATCTTCTTCCAGTACTGCATCATGGCCAATTATGCCTG  4431778
+
+Query  681      GCTGCTAGTGGAAGGCCTCTATCTCCACACTCTCCTCGTCGTCTCCTTCTCAGAAAGAAA  740
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4431777  GCTGCTAGTGGAAGGCCTCTATCTCCACACTCTCCTCGTCGTCTCCTTCTCAGAAAGAAA  4431718
+
+Query  741      GTGCCTCCAAGGATTTGTGGTCCTGGGATGGGGT  774
+                ||||||||||||||||||||||||||||||||||
+Sbjct  4431717  GTGCCTCCAAGGATTTGTGGTCCTGGGATGGGGT  4431684
+
+
+
+
+Range 3: 4433676 to 4433812
+
+Score:248 bits(274), Expect:5e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  488      GGAGGCTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGC  547
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4433812  GGAGGCTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGC  4433753
+
+Query  548      GTGCCCTGTCTAACTTCATCAAGGATGCTGTGCTCTTCTCCTCCGATGATGTCATGTACT  607
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4433752  GTGCCCTGTCTAACTTCATCAAGGATGCTGTGCTCTTCTCCTCCGATGATGTCATGTACT  4433693
+
+Query  608      GCGATGCCCACAGGGTA  624
+                |||||||||||||||||
+Sbjct  4433692  GCGATGCCCACAGGGTA  4433676
+
+
+
+
+Range 4: 4412635 to 4412765
+
+Score:233 bits(257), Expect:4e-58, 
+Identities:130/131(99%),  Gaps:0/131(0%), Strand: Plus/Minus
+
+Query  993      CAAGCGTCTGGCCAGGTCCACCCTCCTGCTGATCCCGCTCTTCGGCATCCACTACGTGGT  1052
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4412765  CAGGCGTCTGGCCAGGTCCACCCTCCTGCTGATCCCGCTCTTCGGCATCCACTACGTGGT  4412706
+
+Query  1053     CTTCGCCTTCTCCCCTGAGGATGCGATGGAGGTCCAGCTGTTCTTTGAACTAGCCCTTGG  1112
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4412705  CTTCGCCTTCTCCCCTGAGGATGCGATGGAGGTCCAGCTGTTCTTTGAACTAGCCCTTGG  4412646
+
+Query  1113     CTCCTTCCAGG  1123
+                |||||||||||
+Sbjct  4412645  CTCCTTCCAGG  4412635
+
+
+
+
+Range 5: 4454286 to 4454408
+
+Score:223 bits(246), Expect:2e-55, 
+Identities:123/123(100%),  Gaps:0/123(0%), Strand: Plus/Minus
+
+Query  57       GGTGGGCAACCTGCCCCGACTGTGTGACGTGCTGTGGGTGCTGCAGGAGGAGCGAGACCA  116
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4454408  GGTGGGCAACCTGCCCCGACTGTGTGACGTGCTGTGGGTGCTGCAGGAGGAGCGAGACCA  4454349
+
+Query  117      GTGTCTGCAGGAGCTCTCCAAAGAGCAGCCGGGAGCCCTGGATGAGGAGCCACTGGTGCC  176
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4454348  GTGTCTGCAGGAGCTCTCCAAAGAGCAGCCGGGAGCCCTGGATGAGGAGCCACTGGTGCC  4454289
+
+Query  177      AGG  179
+                |||
+Sbjct  4454288  AGG  4454286
+
+
+
+
+Range 6: 4442484 to 4442596
+
+Score:205 bits(226), Expect:5e-50, 
+Identities:113/113(100%),  Gaps:0/113(0%), Strand: Plus/Minus
+
+Query  176      CAGGCTGCCAGGGGCTGTGGGACAACGTGAGCTGCTGGCCGTCCTCTGCCCCGGGGAGGA  235
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4442596  CAGGCTGCCAGGGGCTGTGGGACAACGTGAGCTGCTGGCCGTCCTCTGCCCCGGGGAGGA  4442537
+
+Query  236      CAGTAGAGGTGGCCTGCCCCAGATTCCTGCAGATGCTCTCCAGCAGAAACGGT  288
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4442536  CAGTAGAGGTGGCCTGCCCCAGATTCCTGCAGATGCTCTCCAGCAGAAACGGT  4442484
+
+
+
+
+Range 7: 4439442 to 4439546
+
+Score:190 bits(210), Expect:1e-45, 
+Identities:105/105(100%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  286      GGTTCCCTGTTCCGAAACTGCACCCCGGATGGCTGGTCGGACACCTTCCCCAGGCCGGAC  345
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4439546  GGTTCCCTGTTCCGAAACTGCACCCCGGATGGCTGGTCGGACACCTTCCCCAGGCCGGAC  4439487
+
+Query  346      CTGGCCTGTGGGGTAAGCGTGAATGACTCTTCCAATGAGAGACGG  390
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4439486  CTGGCCTGTGGGGTAAGCGTGAATGACTCTTCCAATGAGAGACGG  4439442
+
+
+
+
+Range 8: 4435060 to 4435159
+
+Score:181 bits(200), Expect:6e-43, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  390      GCACGCCTACCTGCTGAAGTTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGT  449
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4435159  GCACGCCTACCTGCTGAAGTTGAAGGTCATGTACACCGTGGGCTACAGCTCCTCCCTGGT  4435100
+
+Query  450      GATGCTCCTGATCGCCCTGGCTATCCTCTGTGCTTTCCGG  489
+                ||||||||||||||||||||||||||||||||||||||||
+Sbjct  4435099  GATGCTCCTGATCGCCCTGGCTATCCTCTGTGCTTTCCGG  4435060
+
+
+
+
+Range 9: 4416263 to 4416356
+
+Score:170 bits(188), Expect:1e-39, 
+Identities:94/94(100%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  903      GGTGAATTTCATCCTCTTTATAAACATTCTGAGAATCCTGCTGAGAAAACTCAGAACCCA  962
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4416356  GGTGAATTTCATCCTCTTTATAAACATTCTGAGAATCCTGCTGAGAAAACTCAGAACCCA  4416297
+
+Query  963      GGAGACAAGAGGAAATGAAGTGAATCATTACAAG  996
+                ||||||||||||||||||||||||||||||||||
+Sbjct  4416296  GGAGACAAGAGGAAATGAAGTGAATCATTACAAG  4416263
+
+
+
+
+Range 10: 4417722 to 4417796
+
+Score:136 bits(150), Expect:2e-29, 
+Identities:75/75(100%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  833      GGTGCTGGGACATCAACACCAATGCATCCATCTGGTGGGTCATTCGAGGACCTGTGATCC  892
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4417796  GGTGCTGGGACATCAACACCAATGCATCCATCTGGTGGGTCATTCGAGGACCTGTGATCC  4417737
+
+Query  893      TCTCCATCCTGGTGA  907
+                |||||||||||||||
+Sbjct  4417736  TCTCCATCCTGGTGA  4417722
+
+
+
+
+Range 11: 4419353 to 4419416
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  772      GGTTCTCCAGCTGTTTTTGTGGCTTCGTGGGCTGTTGCCAGGCATTTTCTGGAAGATGCT  831
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4419416  GGTTCTCCAGCTGTTTTTGTGGCTTCGTGGGCTGTTGCCAGGCATTTTCTGGAAGATGCT  4419357
+
+Query  832      GGGT  835
+                ||||
+Sbjct  4419356  GGGT  4419353
+
+
+
+
+Range 12: 4460744 to 4460803
+
+Score:109 bits(120), Expect:3e-21, 
+Identities:60/60(100%),  Gaps:0/60(0%), Strand: Plus/Minus
+
+Query  1        ATGCGCCCGCTGTGGCTGTTGCTGCTACTGTCGCTTCTTGCCCGAGCTGTGCACACGGTG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4460803  ATGCGCCCGCTGTGGCTGTTGCTGCTACTGTCGCTTCTTGCCCGAGCTGTGCACACGGTG  4460744
+
+
+
+
+Range 13: 4410502 to 4410549
+
+Score:87.8 bits(96), Expect:1e-14, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1120     CAGGGGCTGGTGGTCGCCGTACTCTATTGTTTCCTCAATGGAGAGGTG  1167
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4410549  CAGGGGCTGGTGGTCGCCGTACTCTATTGTTTCCTCAATGGAGAGGTG  4410502
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_908, whole genome shotgun sequence
+Sequence ID: NW_024466607.1 Length: 37824714
+Range 1: 14063993 to 14064093
+
+Score:111 bits(122), Expect:9e-22, 
+Identities:85/101(84%),  Gaps:0/101(0%), Strand: Plus/Plus
+
+Query  488       GGAGGCTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGC  547
+                 || ||||||||||||| || |||||||| ||||||||||| ||| |||||||||| ||||
+Sbjct  14063993  GGCGGCTGCACTGCACACGCAACTACATCCACATGCACCTTTTCCTGTCCTTCATGCTGC  14064052
+
+Query  548       GTGCCCTGTCTAACTTCATCAAGGATGCTGTGCTCTTCTCC  588
+                 ||||  ||   | |||  |||||||||||||||||| ||||
+Sbjct  14064053  GTGCTGTGAGCATCTTTGTCAAGGATGCTGTGCTCTACTCC  14064093
+
+
+
+
+Range 2: 11946137 to 11946246
+
+Score:91.5 bits(100), Expect:8e-16, 
+Identities:86/110(78%),  Gaps:0/110(0%), Strand: Plus/Plus
+
+Query  621       GGTAGGCTGTAAGCTCGTCATGATCTTCTTCCAGTACTGCATCATGGCCAATTATGCCTG  680
+                 ||| ||||| ||| | | | || |||| |||||||||||  |||||||||| |    |||
+Sbjct  11946137  GGTGGGCTGCAAGGTGGCCGTGGTCTTTTTCCAGTACTGTGTCATGGCCAACTTCTTCTG  11946196
+
+Query  681       GCTGCTAGTGGAAGGCCTCTATCTCCACACTCTCCTCGTCGTCTCCTTCT  730
+                 |||||| ||||| |||||||| || ||||| || || |  ||||||||||
+Sbjct  11946197  GCTGCTCGTGGAGGGCCTCTACCTACACACCCTGCTTGCTGTCTCCTTCT  11946246
+
+
+
+
+Range 3: 11949817 to 11949943
+
+Score:79.7 bits(87), Expect:5e-12, 
+Identities:94/127(74%),  Gaps:3/127(2%), Strand: Plus/Plus
+
+Query  1000      CTGGCCAGGTCCACCCTCCTGCTGATCCCGCTCTTCGGCATCCACTACGTGGTCTTCGCC  1059
+                 ||||||| |||||| || |||||||||||||| |||||  | |||||| |  | ||||||
+Sbjct  11949817  CTGGCCAAGTCCACGCTGCTGCTGATCCCGCTGTTCGGAGTGCACTACATCATGTTCGCC  11949876
+
+Query  1060      TTCTCCCCTGAGGATGCGATG---GAGGTCCAGCTGTTCTTTGAACTAGCCCTTGGCTCC  1116
+                 |||| ||||||  ||   | |   || ||| | ||| ||||||| || |   | || || 
+Sbjct  11949877  TTCTTCCCTGACAATTTCAAGGCTGAAGTCAAACTGGTCTTTGAGCTGGTGGTGGGATCT  11949936
+
+Query  1117      TTCCAGG  1123
+                 |||||||
+Sbjct  11949937  TTCCAGG  11949943
+
+
+
+
+Range 4: 11943905 to 11943984
+
+Score:77.9 bits(85), Expect:2e-11, 
+Identities:65/80(81%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  493       CTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGCGTGCC  552
+                 ||||||||||| || |||||||| ||||||||||| ||| | |||||||||||| | |||
+Sbjct  11943905  CTGCACTGCACACGGAACTACATCCACATGCACCTCTTCATATCCTTCATCCTGAGGGCC  11943964
+
+Query  553       CTGTCTAACTTCATCAAGGA  572
+                     ||  ||||||||| ||
+Sbjct  11943965  GCCGCTGTCTTCATCAAAGA  11943984
+
+
+
+
+Range 5: 11950178 to 11950225
+
+Score:47.3 bits(51), Expect:0.030, 
+Identities:39/48(81%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  1119      CCAGGGGCTGGTGGTCGCCGTACTCTATTGTTTCCTCAATGGAGAGGT  1166
+                 ||||||  | || || ||||| ||||| || ||||||||||| |||||
+Sbjct  11950178  CCAGGGCTTTGTCGTGGCCGTCCTCTACTGCTTCCTCAATGGTGAGGT  11950225
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_3819, whole genome shotgun sequence
+Sequence ID: NW_024466004.1 Length: 59604595
+Range 1: 4831912 to 4831994
+
+Score:87.8 bits(96), Expect:1e-14, 
+Identities:69/83(83%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  493      CTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGCGTGCC  552
+                |||||||||||||| |||||||| ||| |  ||||||| | |||||||||||| || || 
+Sbjct  4831912  CTGCACTGCACCCGGAACTACATCCACCTAAACCTGTTTGCGTCCTTCATCCTTCGAGCG  4831971
+
+Query  553      CTGTCTAACTTCATCAAGGATGC  575
+                 |||||   ||||||||||||||
+Sbjct  4831972  TTGTCTGTGTTCATCAAGGATGC  4831994
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_4105, whole genome shotgun sequence
+Sequence ID: NW_024466129.1 Length: 13458458
+Range 1: 7629648 to 7629746
+
+Score:85.1 bits(93), Expect:1e-13, 
+Identities:78/99(79%),  Gaps:0/99(0%), Strand: Plus/Plus
+
+Query  621      GGTAGGCTGTAAGCTCGTCATGATCTTCTTCCAGTACTGCATCATGGCCAATTATGCCTG  680
+                ||| ||||| || ||   | || |||||||||||||||||||||||||||| |    |||
+Sbjct  7629648  GGTTGGCTGCAAACTGAGCCTGGTCTTCTTCCAGTACTGCATCATGGCCAACTTCTACTG  7629707
+
+Query  681      GCTGCTAGTGGAAGGCCTCTATCTCCACACTCTCCTCGT  719
+                ||| || ||||| || ||||| || ||||| ||||| ||
+Sbjct  7629708  GCTCCTCGTGGAGGGACTCTACCTGCACACCCTCCTGGT  7629746
+
+
+
+
+Range 2: 7624486 to 7624586
+
+Score:75.2 bits(82), Expect:6e-11, 
+Identities:77/101(76%),  Gaps:0/101(0%), Strand: Plus/Plus
+
+Query  488      GGAGGCTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGC  547
+                ||| ||||||||||||| | ||||| || ||| || |||||||| | |||||||||||| 
+Sbjct  7624486  GGAAGCTGCACTGCACCAGGAACTATATCCACCTGAACCTGTTCCTCTCCTTCATCCTGA  7624545
+
+Query  548      GTGCCCTGTCTAACTTCATCAAGGATGCTGTGCTCTTCTCC  588
+                | ||| | ||    ||  |||||||||   | |||| ||||
+Sbjct  7624546  GAGCCATTTCAGTGTTGGTCAAGGATGACATCCTCTACTCC  7624586
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 scaffold_3835, whole genome shotgun sequence
+Sequence ID: NW_024467114.1 Length: 38008838
+Range 1: 23307640 to 23307719
+
+Score:77.9 bits(85), Expect:2e-11, 
+Identities:65/80(81%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  493       CTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGCGTGCC  552
+                 |||||||||||||| || | ||| |||||| | ||||||||||||||||| ||| | |||
+Sbjct  23307719  CTGCACTGCACCCGGAATTTCATCCACATGAATCTGTTCGTGTCCTTCATGCTGAGGGCC  23307660
+
+Query  553       CTGTCTAACTTCATCAAGGA  572
+                  | |||   |||||||| ||
+Sbjct  23307659  ATCTCTGTTTTCATCAAAGA  23307640
+
+
+
+
+Range 2: 23384199 to 23384256
+
+Score:74.3 bits(81), Expect:2e-10, 
+Identities:51/58(88%),  Gaps:0/58(0%), Strand: Plus/Minus
+
+Query  488       GGAGGCTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCT  545
+                 |||||||||||||| |||| |||||||| |||| ||| ||||||||  ||||||||||
+Sbjct  23384256  GGAGGCTGCACTGCCCCCGGAACTACATCCACACGCAGCTGTTCGTCACCTTCATCCT  23384199
+
+
+
+
+Range 3: 23381434 to 23381564
+
+Score:50.9 bits(55), Expect:0.002, 
+Identities:90/131(69%),  Gaps:3/131(2%), Strand: Plus/Minus
+
+Query  996       GCGTCTGGCCAGGTCCACCCTCCTGCTGATCCCGCTCTTCGGCATCCACTACGTGGTCTT  1055
+                 ||||||  ||| |||||| ||||| || ||||| || || || || || ||| |  ||||
+Sbjct  23381564  GCGTCTCTCCAAGTCCACACTCCTTCTCATCCCACTGTTTGGAATTCATTACATCATCTT  23381505
+
+Query  1056      CGCCTTCTCCCCTGAGGATGCGA---TGGAGGTCCAGCTGTTCTTTGAACTAGCCCTTGG  1112
+                 |  ||||   |||||  |  |     |||  ||||  |||  | | || || | ||| ||
+Sbjct  23381504  CAACTTCCTGCCTGACCACACAGGCCTGGGCGTCCGTCTGCCCCTGGAGCTGGGCCTGGG  23381445
+
+Query  1113      CTCCTTCCAGG  1123
+                 |||||||||||
+Sbjct  23381444  CTCCTTCCAGG  23381434
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 scaffold_2453, whole genome shotgun sequence
+Sequence ID: NW_024467094.1 Length: 33361047
+Range 1: 6072757 to 6072822
+
+Score:70.7 bits(77), Expect:3e-09, 
+Identities:55/66(83%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  493      CTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGCGTGCC  552
+                || |||||||| || ||||||||||||||| ||||||| |  |||||||||||| | |||
+Sbjct  6072822  CTCCACTGCACACGCAACTACATTCACATGAACCTGTTTGCTTCCTTCATCCTGAGAGCC  6072763
+
+Query  553      CTGTCT  558
+                 || ||
+Sbjct  6072762  ATGGCT  6072757
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_4254, whole genome shotgun sequence
+Sequence ID: NW_024466192.1 Length: 119348
+Range 1: 93072 to 93131
+
+Score:64.4 bits(70), Expect:1e-07, 
+Identities:50/60(83%),  Gaps:0/60(0%), Strand: Plus/Plus
+
+Query  493    CTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGCGTGCC  552
+              || |||||||| |  ||||||||||||||| ||||||| |  |||||||||||| | |||
+Sbjct  93072  CTCCACTGCACACACAACTACATTCACATGAACCTGTTTGCTTCCTTCATCCTGAGAGCC  93131
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 patch260, whole genome shotgun sequence
+Sequence ID: NW_024466818.1 Length: 611081
+Range 1: 272683 to 272746
+
+Score:62.6 bits(68), Expect:4e-07, 
+Identities:52/64(81%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  488     GGAGGCTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGC  547
+               ||||||||||||||||||| || ||||| |||||  |||| |||   || ||||| ||||
+Sbjct  272683  GGAGGCTGCACTGCACCCGGAATTACATCCACATCAACCTCTTCACATCTTTCATGCTGC  272742
+
+Query  548     GTGC  551
+               | ||
+Sbjct  272743  GGGC  272746
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_2699, whole genome shotgun sequence
+Sequence ID: NW_024465561.1 Length: 10871873
+Range 1: 230884 to 230947
+
+Score:62.6 bits(68), Expect:4e-07, 
+Identities:52/64(81%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  488     GGAGGCTGCACTGCACCCGTAACTACATTCACATGCACCTGTTCGTGTCCTTCATCCTGC  547
+               ||||||||||||||||||| || ||||| |||||  |||| |||   || ||||| ||||
+Sbjct  230947  GGAGGCTGCACTGCACCCGGAATTACATCCACATCAACCTCTTCACATCTTTCATGCTGC  230888
+
+Query  548     GTGC  551
+               | ||
+Sbjct  230887  GGGC  230884
+
+
+
+
+>Ochotona curzoniae isolate NIBS_2020 unplaced genomic scaffold, NIBS_Ocur_1.0 contig_523, whole genome shotgun sequence
+Sequence ID: NW_024466459.1 Length: 12760024
+Range 1: 10234895 to 10234957
+
+Score:51.8 bits(56), Expect:7e-04, 
+Identities:49/63(78%),  Gaps:0/63(0%), Strand: Plus/Minus
+
+Query  1000      CTGGCCAGGTCCACCCTCCTGCTGATCCCGCTCTTCGGCATCCACTACGTGGTCTTCGCC  1059
+                 ||||||| |||||| ||   ||| ||||| ||  | ||| ||||| | ||||||||||| 
+Sbjct  10234957  CTGGCCAAGTCCACGCTGACGCTCATCCCCCTACTGGGCGTCCACGAGGTGGTCTTCGCT  10234898
+
+Query  1060      TTC  1062
+                 |||
+Sbjct  10234897  TTC  10234895
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,529 @@
+RID: NDSEK0U1014	
+Job Title:XM_031893891.1:1-1344 PREDICTED: Xenopus tropicalis...				
+Program: BLASTN 
+Database: SRA 
+Query #1: XM_031893891.1:1-1344 PREDICTED: Xenopus tropicalis secretin receptor (sctr), mRNA Query ID: lcl|Query_886435 Length: 1344
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001808... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001808... 
+DRX001274                                                                                         0          66.2   66.2  3%    2e-09 100.00 36         SRA:DRR001808... 
+DRX001274                                                                                         0          61.7   61.7  3%    1e-07 97.22  36         SRA:DRR001809... 
+DRX001274                                                                                         0          59.0   59.0  2%    3e-07 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          57.2   57.2  2%    1e-06 100.00 36         SRA:DRR001808... 
+DRX001274                                                                                         0          55.4   55.4  2%    4e-06 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          53.6   53.6  2%    1e-05 100.00 36         SRA:DRR001808... 
+DRX001274                                                                                         0          52.7   52.7  3%    5e-05 91.67  36         SRA:DRR001809... 
+DRX001274                                                                                         0          47.3   47.3  2%    0.002 90.91  36         SRA:DRR001809... 
+DRX001274                                                                                         0          46.4   46.4  2%    0.002 100.00 36         SRA:DRR001809... 
+DRX001274                                                                                         0          45.5   45.5  2%    0.008 90.62  36         SRA:DRR001809... 
+DRX001274                                                                                         0          44.6   44.6  2%    0.008 93.10  36         SRA:DRR001809... 
+DRX001274                                                                                         0          43.7   43.7  2%    0.027 96.43  36         SRA:DRR001809... 
+DRX001274                                                                                         0          42.8   42.8  2%    0.027 92.86  36         SRA:DRR001809... 
+
+
+Alignments:
+
+>DRX001274
+Sequence ID: SRA:DRR001809.15511721.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  1258  ACCATGCTTACACAGGTTTTGCCAGTCAGCCGGGGA  1293
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1     ACCATGCTTACACAGGTTTTGCCAGTCAGCCGGGGA  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.13217748.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  1166  AAAGCGAGATCCATAGGAAGTGGCTCCGATGGCATT  1201
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  36    AAAGCGAGATCCATAGGAAGTGGCTCCGATGGCATT  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.12730186.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  767  TTTTCATCATTGCCTGGGCTGTGTGCCGCCATCTTT  802
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   TTTTCATCATTGCCTGGGCTGTGTGCCGCCATCTTT  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.11933842.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  1042  GCCTTCTTCCCAGAAGATGTGAGCAGTGGGACGGTG  1077
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  36    GCCTTCTTCCCAGAAGATGTGAGCAGTGGGACGGTG  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.10754536.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  682  CTCCATACCCTGCTGGTCATCTCCTTCTTCTCAGAG  717
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   CTCCATACCCTGCTGGTCATCTCCTTCTTCTCAGAG  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.10423887.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  398  TGTACAGCACCGGCTATGGCACCTCCCTGGCCTCCC  433
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   TGTACAGCACCGGCTATGGCACCTCCCTGGCCTCCC  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.10375098.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  524  TACGGGCAATGTCCATCTTCATCAAGGACGCGGTTC  559
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   TACGGGCAATGTCCATCTTCATCAAGGACGCGGTTC  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.10195888.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  379  TTCATGCACCTAAAGACCCTGTACAGCACCGGCTAT  414
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   TTCATGCACCTAAAGACCCTGTACAGCACCGGCTAT  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.8914779.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  839  CCAGTGTCTGGTGGATCATCCGAGGTCCAATCATTC  874
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   CCAGTGTCTGGTGGATCATCCGAGGTCCAATCATTC  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.6502513.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  779  CCTGGGCTGTGTGCCGCCATCTTTATGATGACTTTG  814
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   CCTGGGCTGTGTGCCGCCATCTTTATGATGACTTTG  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.6481147.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  989   CGAGATCCACTTTGCTGCTCATCCCACTCTTCGGGG  1024
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  36    CGAGATCCACTTTGCTGCTCATCCCACTCTTCGGGG  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.4072810.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  498  CATGCACCTGTTTGCGTCCTTCATCCTACGGGCAAT  533
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   CATGCACCTGTTTGCGTCCTTCATCCTACGGGCAAT  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.3913035.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  213  CCACGGGGAGACTGCGAGGATCCCCTGCCCCGAGAT  248
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   CCACGGGGAGACTGCGAGGATCCCCTGCCCCGAGAT  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.3284125.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  487  AACTACATCCACATGCACCTGTTTGCGTCCTTCATC  522
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  36   AACTACATCCACATGCACCTGTTTGCGTCCTTCATC  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.2022535.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  1273  GTTTTGCCAGTCAGCCGGGGAAGCAACAAGGAGCAG  1308
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1     GTTTTGCCAGTCAGCCGGGGAAGCAACAAGGAGCAG  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.1957791.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  214  CACGGGGAGACTGCGAGGATCCCCTGCCCCGAGATC  249
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  1    CACGGGGAGACTGCGAGGATCCCCTGCCCCGAGATC  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.1260625.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  1217  TGTTACGGCAACAGAAGAACTCAACAGTGAGCAATG  1252
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1     TGTTACGGCAACAGAAGAACTCAACAGTGAGCAATG  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.1091754.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  1298  ACAAGGAGCAGAGGAAGGCGCCAGCCCAGAAATCCA  1333
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1     ACAAGGAGCAGAGGAAGGCGCCAGCCCAGAAATCCA  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.181875.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  1064  GCAGTGGGACGGTGAAGATCCGCCTGACATTCGAGT  1099
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  36    GCAGTGGGACGGTGAAGATCCGCCTGACATTCGAGT  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001808.3103558.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  1187  GGCTCCGATGGCATTTTAGGGAATATTTCTTGTTAC  1222
+             ||||||||||||||||||||||||||||||||||||
+Sbjct  1     GGCTCCGATGGCATTTTAGGGAATATTTCTTGTTAC  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001808.1489570.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  216  CGGGGAGACTGCGAGGATCCCCTGCCCCGAGATCCT  251
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  1    CGGGGAGACTGCGAGGATCCCCTGCCCCGAGATCCT  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001808.1489227.1 Length: 36
+Range 1: 1 to 36
+
+Score:66.2 bits(72), Expect:2e-09, 
+Identities:36/36(100%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  216  CGGGGAGACTGCGAGGATCCCCTGCCCCGAGATCCT  251
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  1    CGGGGAGACTGCGAGGATCCCCTGCCCCGAGATCCT  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.1920350.1 Length: 36
+Range 1: 1 to 36
+
+Score:61.7 bits(67), Expect:1e-07, 
+Identities:35/36(97%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  978   CAAGAGGCTGGCGAGATCCACTTTGCTGCTCATCCC  1013
+             || |||||||||||||||||||||||||||||||||
+Sbjct  1     CAGGAGGCTGGCGAGATCCACTTTGCTGCTCATCCC  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.11601384.1 Length: 36
+Range 1: 5 to 36
+
+Score:59.0 bits(64), Expect:3e-07, 
+Identities:32/32(100%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  467  GTCGGCTGCGTTGCACCCGCAACTACATCCAC  498
+            ||||||||||||||||||||||||||||||||
+Sbjct  5    GTCGGCTGCGTTGCACCCGCAACTACATCCAC  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001808.4296389.1 Length: 36
+Range 1: 1 to 31
+
+Score:57.2 bits(62), Expect:1e-06, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  726  CTTCTGCTGGTACATTGCCCTGGGCTGGGGT  756
+            |||||||||||||||||||||||||||||||
+Sbjct  1    CTTCTGCTGGTACATTGCCCTGGGCTGGGGT  31
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.14214963.1 Length: 36
+Range 1: 1 to 30
+
+Score:55.4 bits(60), Expect:4e-06, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  815  GGTGCTGGGACATTAATTCCAACGCCAGTG  844
+            ||||||||||||||||||||||||||||||
+Sbjct  30   GGTGCTGGGACATTAATTCCAACGCCAGTG  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001808.3832317.1 Length: 36
+Range 1: 1 to 29
+
+Score:53.6 bits(58), Expect:1e-05, 
+Identities:29/29(100%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1116  TCAGGGCTTTGTGGTCGCCGTGCTCTACT  1144
+             |||||||||||||||||||||||||||||
+Sbjct  29    TCAGGGCTTTGTGGTCGCCGTGCTCTACT  1
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.7682009.1 Length: 36
+Range 1: 1 to 36
+
+Score:52.7 bits(57), Expect:5e-05, 
+Identities:33/36(92%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  632  AGTACTGCATCATGGCCAACTACAGCTGGCTGCTGG  667
+            ||||||||||||||||||||| |  |||||||||||
+Sbjct  1    AGTACTGCATCATGGCCAACTTCTTCTGGCTGCTGG  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.1777345.1 Length: 36
+Range 1: 4 to 36
+
+Score:47.3 bits(51), Expect:0.002, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  478  TGCACCCGCAACTACATCCACATGCACCTGTTT  510
+            ||||| || |||||||||||||||||||| |||
+Sbjct  4    TGCACGCGGAACTACATCCACATGCACCTCTTT  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.4607238.1 Length: 36
+Range 1: 12 to 36
+
+Score:46.4 bits(50), Expect:0.002, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  467  GTCGGCTGCGTTGCACCCGCAACTA  491
+            |||||||||||||||||||||||||
+Sbjct  12   GTCGGCTGCGTTGCACCCGCAACTA  36
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.8529585.1 Length: 36
+Range 1: 5 to 36
+
+Score:45.5 bits(49), Expect:0.008, 
+Identities:29/32(91%),  Gaps:0/32(0%), Strand: Plus/Minus
+
+Query  479  GCACCCGCAACTACATCCACATGCACCTGTTT  510
+            |||| || |||||||||||||||||||| |||
+Sbjct  36   GCACGCGGAACTACATCCACATGCACCTCTTT  5
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.1663413.1 Length: 36
+Range 1: 3 to 31
+
+Score:44.6 bits(48), Expect:0.008, 
+Identities:27/29(93%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  1136  TGCTCTACTGTTTCCTCAATGGAGAGGTG  1164
+             |||| ||||| ||||||||||||||||||
+Sbjct  31    TGCTGTACTGCTTCCTCAATGGAGAGGTG  3
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.13633588.1 Length: 36
+Range 1: 3 to 29
+
+Score:43.7 bits(47), Expect:0.027, 
+Identities:27/28(96%),  Gaps:1/28(3%), Strand: Plus/Plus
+
+Query  135  TGAGAGGTCCGGCTGGCCACGGTGCCCC  162
+            |||||||||||||||| |||||||||||
+Sbjct  3    TGAGAGGTCCGGCTGG-CACGGTGCCCC  29
+
+
+
+
+>DRX001274
+Sequence ID: SRA:DRR001809.2513186.1 Length: 36
+Range 1: 3 to 30
+
+Score:42.8 bits(46), Expect:0.027, 
+Identities:26/28(93%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  623  TCTTCTTCCAGTACTGCATCATGGCCAA  650
+            ||||||||||||||| | ||||||||||
+Sbjct  30   TCTTCTTCCAGTACTTCTTCATGGCCAA  3
+
+
+
+
+
+
+
+		
+
+

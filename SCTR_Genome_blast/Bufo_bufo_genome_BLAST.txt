@@ -1,0 +1,366 @@
+RID: NDTEMDJV014	
+Job Title:XM_040413079.1:16-987 PREDICTED: Bufo bufo...				
+Program: BLASTN 
+Database: genomic/8384/GCF_905171765.1 aBufBuf1.1 RefSeq assembly [GCF_905171765.1]
+Query #1: XM_040413079.1:16-987 PREDICTED: Bufo bufo secretin receptor (SCTR), mRNA Query ID: lcl|Query_1106213 Length: 972
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Bufo bufo chromosome 7 unlocalized genomic scaffold, aBufBuf1.... Bufo bufo       common toad     8384       331    1787  100%  9e-88 100.00 157191     NW_024400007.1   
+Bufo bufo chromosome 5, aBufBuf1.1, whole genome shotgun sequence Bufo bufo       common toad     8384       138    275   24%   1e-29 83.21  567300182  NC_053393.1      
+Bufo bufo chromosome 6, aBufBuf1.1, whole genome shotgun sequence Bufo bufo       common toad     8384       73.4   325   28%   4e-10 82.86  439630435  NC_053394.1      
+Bufo bufo chromosome 8, aBufBuf1.1, whole genome shotgun sequence Bufo bufo       common toad     8384       72.5   72.5  7%    1e-09 81.94  231667822  NC_053396.1      
+Bufo bufo chromosome 4, aBufBuf1.1, whole genome shotgun sequence Bufo bufo       common toad     8384       72.5   72.5  7%    1e-09 81.94  635713434  NC_053392.1      
+
+
+Alignments:
+
+>Bufo bufo chromosome 7 unlocalized genomic scaffold, aBufBuf1.1 SUPER_7_unloc_5, whole genome shotgun sequence
+Sequence ID: NW_024400007.1 Length: 157191
+Range 1: 122000 to 122182
+
+Score:331 bits(366), Expect:9e-88, 
+Identities:183/183(100%),  Gaps:0/183(0%), Strand: Plus/Minus
+
+Query  790     GTGCAGTTCGAGGTCCGGAGGAAGTGGGGCAGATATCACCTACGGAAATACTTCTGGCTG  849
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122182  GTGCAGTTCGAGGTCCGGAGGAAGTGGGGCAGATATCACCTACGGAAATACTTCTGGCTG  122123
+
+Query  850     CGGCAGAACAAGCACTCGATGGTCAGTAATGGCGGCAGCGTCCTGACACAGGTGGTCCAG  909
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122122  CGGCAGAACAAGCACTCGATGGTCAGTAATGGCGGCAGCGTCCTGACACAGGTGGTCCAG  122063
+
+Query  910     GTCAGCCGGAGCAGCCAGCGGGAGGCGAGGAACAGCTCCGCCCCTATGACCAGCCTCATC  969
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122062  GTCAGCCGGAGCAGCCAGCGGGAGGCGAGGAACAGCTCCGCCCCTATGACCAGCCTCATC  122003
+
+Query  970     TGA  972
+               |||
+Sbjct  122002  TGA  122000
+
+
+
+
+Range 2: 129945 to 130100
+
+Score:282 bits(312), Expect:4e-73, 
+Identities:156/156(100%),  Gaps:0/156(0%), Strand: Plus/Minus
+
+Query  231     GAAGGACTGTCACTACGTCCTGATCTTCTTCCAGTACTGCATCATGGCCAATTACAGCTG  290
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130100  GAAGGACTGTCACTACGTCCTGATCTTCTTCCAGTACTGCATCATGGCCAATTACAGCTG  130041
+
+Query  291     GCTGCTGGTGGAGGGGCTCTACCTGCACACACTGCTCGTCGTCTCCTTCTTCTCCGAGTG  350
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130040  GCTGCTGGTGGAGGGGCTCTACCTGCACACACTGCTCGTCGTCTCCTTCTTCTCCGAGTG  129981
+
+Query  351     GAAGTATTTCTGCTGGTACATCGCCCTCGGGTGGGG  386
+               ||||||||||||||||||||||||||||||||||||
+Sbjct  129980  GAAGTATTTCTGCTGGTACATCGCCCTCGGGTGGGG  129945
+
+
+
+
+Range 3: 124575 to 124718
+
+Score:248 bits(274), Expect:8e-63, 
+Identities:142/144(99%),  Gaps:1/144(0%), Strand: Plus/Minus
+
+Query  606     CAAGAGATTGGCCAGGTCTACCCTCTCCTCATCCCGCTCTTCGGGGGTCCATTACATCAT  665
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  124718  CAGGAGATTGGCCAGGTCTACCCTCTCCTCATCCCGCTCTTCGGGGGTCCATTACATCAT  124659
+
+Query  666     CTTCGCATTCTTCCCGGAGGATGTGAGCAGCGGCACGGTGGAGATACGCTTA-TCCTTCG  724
+               |||||||||||||||||||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  124658  CTTCGCATTCTTCCCGGAGGATGTGAGCAGCGGCACGGTGGAGATACGCTTATTCCTTCG  124599
+
+Query  725     AGCTGGCGCTTGGCTCTTTCCAGG  748
+               ||||||||||||||||||||||||
+Sbjct  124598  AGCTGGCGCTTGGCTCTTTCCAGG  124575
+
+
+
+
+Range 4: 130264 to 130407
+
+Score:248 bits(274), Expect:8e-63, 
+Identities:143/146(98%),  Gaps:2/146(1%), Strand: Plus/Minus
+
+Query  86      TCCTGTCATTCAGGCGGCTGCGCTGTACTCGGAATTACATCCACATGAACCTCTTCTCTT  145
+               ||||||  | ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130407  TCCTGT--TGCAGGCGGCTGCGCTGTACTCGGAATTACATCCACATGAACCTCTTCTCTT  130350
+
+Query  146     CCTTCATTCTGCGCGCCATGTCCATCTTCATCAAGGACGCCGTGCTCTTTTCTGCAGATG  205
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  130349  CCTTCATTCTGCGCGCCATGTCCATCTTCATCAAGGACGCCGTGCTCTTTTCTGCAGATG  130290
+
+Query  206     ATGTCAAGCACTGCAGCGTCTACCTG  231
+               ||||||||||||||||||||||||||
+Sbjct  130289  ATGTCAAGCACTGCAGCGTCTACCTG  130264
+
+
+
+
+Range 5: 132496 to 132606
+
+Score:179 bits(198), Expect:3e-42, 
+Identities:107/111(96%),  Gaps:1/111(0%), Strand: Plus/Minus
+
+Query  3       GGAGTATTACATGCACCTGAAGACCCTGTACACTGTGGGATATGGGACGTCGCTCGGCGC  62
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  132606  GGAGTATTACATGCACCTGAAGACCCTGTACACTGTGGGATATGGGACGTCGCTCGGCGC  132547
+
+Query  63      TCTGCTCCTCGCCATCCTCCTCCTCCTGTCATTCAGGCG-GCTGCGCTGTA  112
+               ||||||||||||||||||||||||||||||||||||| | || ||||| ||
+Sbjct  132546  TCTGCTCCTCGCCATCCTCCTCCTCCTGTCATTCAGGTGAGCAGCGCTTTA  132496
+
+
+
+
+Range 6: 125145 to 125240
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:95/96(99%),  Gaps:0/96(0%), Strand: Plus/Minus
+
+Query  517     ATCAACTTCATTCTGTTTGTGAGAATCATCCGGATTCTGGTGAAAAAGCTCCGCACCGCG  576
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  125240  ATCAACTTCATTCTGTTTGTGAGAATCATCCGGATTCTGGTGAAAAAGCTCCGCACCGCG  125181
+
+Query  577     CGGCCCCCGGGGAGCGACCTCCACCAGTACAAGAGA  612
+               ||||||||||||||||||||||||||||||||| ||
+Sbjct  125180  CGGCCCCCGGGGAGCGACCTCCACCAGTACAAGTGA  125145
+
+
+
+
+Range 7: 127254 to 127325
+
+Score:123 bits(135), Expect:8e-25, 
+Identities:71/72(99%),  Gaps:1/72(1%), Strand: Plus/Minus
+
+Query  446     GCTGCTGGAACATTAACTCCGACCCCAGCGTCTGGTGGATCATCCGG-GGCCCCATCATC  504
+               ||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||||
+Sbjct  127325  GCTGCTGGAACATTAACTCCGACCCCAGCGTCTGGTGGATCATCCGGCGGCCCCATCATC  127266
+
+Query  505     CTCTCCATATTT  516
+               ||||||||||||
+Sbjct  127265  CTCTCCATATTT  127254
+
+
+
+
+Range 8: 129815 to 129876
+
+Score:113 bits(124), Expect:4e-22, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  385     GGCTCCCCTCTGGTCTTCATCATCGCCTGGTCCGTGTGCCGACAGCTGTACGAGAACACG  444
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  129876  GGCTCCCCTCTGGTCTTCATCATCGCCTGGTCCGTGTGCCGACAGCTGTACGAGAACACG  129817
+
+Query  445     GG  446
+               ||
+Sbjct  129816  GG  129815
+
+
+
+
+Range 9: 123873 to 123933
+
+Score:91.5 bits(100), Expect:1e-15, 
+Identities:57/61(93%),  Gaps:3/61(4%), Strand: Plus/Minus
+
+Query  734     TTGGCTCTTTC---CAGGGCTTTGTGGTCGCCGTCCTCTACTGCTTCCTGAACGGTGAAG  790
+               || ||||||||   ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  123933  TTTGCTCTTTCTTGCAGGGCTTTGTGGTCGCCGTCCTCTACTGCTTCCTGAACGGTGAAG  123874
+
+Query  791     T  791
+               |
+Sbjct  123873  T  123873
+
+
+
+
+>Bufo bufo chromosome 5, aBufBuf1.1, whole genome shotgun sequence
+Sequence ID: NC_053393.1 Length: 567300182
+Range 1: 543411250 to 543411380
+
+Score:138 bits(152), Expect:1e-29, 
+Identities:109/131(83%),  Gaps:0/131(0%), Strand: Plus/Minus
+
+Query  256        TTCTTCCAGTACTGCATCATGGCCAATTACAGCTGGCTGCTGGTGGAGGGGCTCTACCTG  315
+                  |||||||||||||||||||||||||| | |  |||||||||||||||||| |||||||| 
+Sbjct  543411380  TTCTTCCAGTACTGCATCATGGCCAACTTCTTCTGGCTGCTGGTGGAGGGTCTCTACCTT  543411321
+
+Query  316        CACACACTGCTCGTCGTCTCCTTCTTCTCCGAGTGGAAGTATTTCTGCTGGTACATCGCC  375
+                  || |||||  | ||| |||| || ||||| ||  ||||||||||||| |||||||||   
+Sbjct  543411320  CATACACTCTTGGTCATCTCTTTTTTCTCGGAAAGGAAGTATTTCTGGTGGTACATCTTG  543411261
+
+Query  376        CTCGGGTGGGG  386
+                   |||| |||||
+Sbjct  543411260  ATCGGATGGGG  543411250
+
+
+
+
+Range 2: 553981309 to 553981410
+
+Score:81.5 bits(89), Expect:3e-12, 
+Identities:79/102(77%),  Gaps:0/102(0%), Strand: Plus/Plus
+
+Query  96         CAGGCGGCTGCGCTGTACTCGGAATTACATCCACATGAACCTCTTCTCTTCCTTCATTCT  155
+                  |||||| |||| ||| ||| ||||||||||||||||| |||||||    |||||||| ||
+Sbjct  553981309  CAGGCGCCTGCACTGCACTAGGAATTACATCCACATGCACCTCTTTGTGTCCTTCATGCT  553981368
+
+Query  156        GCGCGCCATGTCCATCTTCATCAAGGACGCCGTGCTCTTTTC  197
+                  ||| ||| |    |||||| | || ||||| || || | |||
+Sbjct  553981369  GCGAGCCGTCAGTATCTTCGTGAAAGACGCAGTTCTGTATTC  553981410
+
+
+
+
+Range 3: 543420582 to 543420681
+
+Score:55.4 bits(60), Expect:1e-04, 
+Identities:72/100(72%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  96         CAGGCGGCTGCGCTGTACTCGGAATTACATCCACATGAACCTCTTCTCTTCCTTCATTCT  155
+                  ||||  ||| | ||| ||  |||| ||||| |||||| | ||||||   || || ||  |
+Sbjct  543420681  CAGGAAGCTCCACTGCACAAGGAACTACATTCACATGCATCTCTTCATGTCATTTATCAT  543420622
+
+Query  156        GCGCGCCATGTCCATCTTCATCAAGGACGCCGTGCTCTTT  195
+                  | | |||||  || | ||||||||||||   || ||||||
+Sbjct  543420621  GAGAGCCATCGCCGTGTTCATCAAGGACATTGTCCTCTTT  543420582
+
+
+
+
+>Bufo bufo chromosome 6, aBufBuf1.1, whole genome shotgun sequence
+Sequence ID: NC_053394.1 Length: 439630435
+Range 1: 276924987 to 276925056
+
+Score:73.4 bits(80), Expect:4e-10, 
+Identities:58/70(83%),  Gaps:0/70(0%), Strand: Plus/Minus
+
+Query  84         CCTCCTGTCATTCAGGCGGCTGCGCTGTACTCGGAATTACATCCACATGAACCTCTTCTC  143
+                  |||||  |||| ||||||||| | |||||| || ||||||||||| ||  |||||||| |
+Sbjct  276925056  CCTCCACTCATGCAGGCGGCTACACTGTACACGAAATTACATCCATATTCACCTCTTCAC  276924997
+
+Query  144        TTCCTTCATT  153
+                   |||||||||
+Sbjct  276924996  ATCCTTCATT  276924987
+
+
+
+
+Range 2: 293803182 to 293803312
+
+Score:70.7 bits(77), Expect:5e-09, 
+Identities:94/131(72%),  Gaps:0/131(0%), Strand: Plus/Minus
+
+Query  256        TTCTTCCAGTACTGCATCATGGCCAATTACAGCTGGCTGCTGGTGGAGGGGCTCTACCTG  315
+                  |||||||||||||  ||| | || |||| |   ||||| |||||||||||  | || || 
+Sbjct  293803312  TTCTTCCAGTACTCTATCCTTGCGAATTTCTCTTGGCTCCTGGTGGAGGGAATGTATCTA  293803253
+
+Query  316        CACACACTGCTCGTCGTCTCCTTCTTCTCCGAGTGGAAGTATTTCTGCTGGTACATCGCC  375
+                  ||||| ||||||  | || | ||   |||  ||  |  |||||| || ||||| |||| |
+Sbjct  293803252  CACACTCTGCTCACCCTCACATTTACCTCACAGAAGCGGTATTTTTGGTGGTATATCGTC  293803193
+
+Query  376        CTCGGGTGGGG  386
+                   | || |||||
+Sbjct  293803192  ATTGGCTGGGG  293803182
+
+
+
+
+Range 3: 433436985 to 433437083
+
+Score:67.1 bits(73), Expect:6e-08, 
+Identities:80/104(77%),  Gaps:10/104(9%), Strand: Plus/Plus
+
+Query  288        CTGGCTGCTGGTGGAGGGGCTCTACCTGCACACACTGCTCGTCGTCT-CCTTCTTC--TC  344
+                  ||||||||||||||||||| |||||||||||||   |  | |||||| |||  |||  | 
+Sbjct  433436985  CTGGCTGCTGGTGGAGGGGATCTACCTGCACAC---GACCATCGTCTCCCTGGTTCTGTG  433437041
+
+Query  345        CGAGTGGAAGTATTTCTGCT--GGTACATCGCCCTCGGGTGGGG  386
+                  |||| ||| |   | |||||  ||||||| ||| |||| |||||
+Sbjct  433437042  CGAGAGGAGG--ATGCTGCTGAGGTACATGGCCATCGGCTGGGG  433437083
+
+
+
+
+Range 4: 433436612 to 433436674
+
+Score:65.3 bits(71), Expect:2e-07, 
+Identities:52/63(83%),  Gaps:0/63(0%), Strand: Plus/Plus
+
+Query  94         TTCAGGCGGCTGCGCTGTACTCGGAATTACATCCACATGAACCTCTTCTCTTCCTTCATT  153
+                  ||||||  ||| | ||| || |||||||||||||||||||||||||||   ||||| |||
+Sbjct  433436612  TTCAGGAAGCTCCACTGCACCCGGAATTACATCCACATGAACCTCTTCGGCTCCTTTATT  433436671
+
+Query  154        CTG  156
+                   ||
+Sbjct  433436672  ATG  433436674
+
+
+
+
+Range 5: 293804132 to 293804244
+
+Score:49.1 bits(53), Expect:0.015, 
+Identities:79/113(70%),  Gaps:2/113(1%), Strand: Plus/Minus
+
+Query  118        AATTACATCCACATGAACCTCTTCTCTTCCTTCATTCTGCGCGCCATGTCCATCTTCATC  177
+                  ||||| |||||||||||||||||    || |||||| | || |     ||| | ||||| 
+Sbjct  293804244  AATTATATCCACATGAACCTCTTTGTGTCTTTCATTATACGGGGAGCTTCCGTGTTCATT  293804185
+
+Query  178        AAGGACGCCGTGCTCTTTTCTGCAGATGATGTCAAGCACTGCAGC--GTCTAC  228
+                  || || ||| | || ||| |||  ||  || |  | ||||||| |  ||||||
+Sbjct  293804184  AAAGATGCCATTCTTTTTGCTGATGAGAATATTGATCACTGCACCATGTCTAC  293804132
+
+
+
+
+>Bufo bufo chromosome 8, aBufBuf1.1, whole genome shotgun sequence
+Sequence ID: NC_053396.1 Length: 231667822
+Range 1: 230968994 to 230969065
+
+Score:72.5 bits(79), Expect:1e-09, 
+Identities:59/72(82%),  Gaps:0/72(0%), Strand: Plus/Minus
+
+Query  277        GCCAATTACAGCTGGCTGCTGGTGGAGGGGCTCTACCTGCACACACTGCTCGTCGTCTCC  336
+                  |||||||||  ||||||||||||||||||||| ||||||||||  |||||  ||||    
+Sbjct  230969065  GCCAATTACTACTGGCTGCTGGTGGAGGGGCTGTACCTGCACAACCTGCTGCTCGTGCTG  230969006
+
+Query  337        TTCTTCTCCGAG  348
+                  | |||||| |||
+Sbjct  230969005  TCCTTCTCGGAG  230968994
+
+
+
+
+>Bufo bufo chromosome 4, aBufBuf1.1, whole genome shotgun sequence
+Sequence ID: NC_053392.1 Length: 635713434
+Range 1: 625500175 to 625500246
+
+Score:72.5 bits(79), Expect:1e-09, 
+Identities:59/72(82%),  Gaps:0/72(0%), Strand: Plus/Minus
+
+Query  277        GCCAATTACAGCTGGCTGCTGGTGGAGGGGCTCTACCTGCACACACTGCTCGTCGTCTCC  336
+                  || || |||  ||||||||||||||||||  ||||||||||||| ||||| ||  | || 
+Sbjct  625500246  GCGAACTACTACTGGCTGCTGGTGGAGGGCATCTACCTGCACACCCTGCTGGTGCTGTCT  625500187
+
+Query  337        TTCTTCTCCGAG  348
+                   |||||||||||
+Sbjct  625500186  GTCTTCTCCGAG  625500175
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,591 @@
+RID: NERA76Y9016	
+Job Title:XM_052736743.1:239-1618 PREDICTED: Peromyscus...				
+Program: BLASTN 
+Database: Genome (ASM782708v3) Peromyscus californicus insignis ASM782708v3 [GCF_007827085.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_007827085.1-RS_2023_02)
+Query #1: XM_052736743.1:239-1618 PREDICTED: Peromyscus californicus insignis secretin receptor (Sctr), mRNA Query ID: lcl|Query_7578157 Length: 1380
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     313    2596  100%  2e-82 100.00 80346014   NW_026294436.1   
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     135    500   26%   9e-29 81.75  118956291  NW_026294402.1   
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     112    182   13%   1e-21 87.64  69161283   NW_026294491.1   
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     91.5   274   21%   1e-15 78.26  86483967   NW_026294447.1   
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     88.7   287   21%   1e-14 78.70  162567913  NW_026294584.1   
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     71.6   71.6  6%    9e-10 79.75  65335641   NW_026294514.1   
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     65.3   166   8%    1e-07 75.82  106647218  NW_026294551.1   
+Peromyscus californicus insignis strain IS unplaced genomic...    Peromyscus c... NA              564181     54.5   54.5  4%    2e-04 81.36  199733345  NW_026294562.1   
+
+
+Alignments:
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_14__1_contigs__length_90479793_seg_2
+Sequence ID: NW_026294436.1 Length: 80346014
+Range 1: 7322153 to 7322325
+
+Score:313 bits(346), Expect:2e-82, 
+Identities:173/173(100%),  Gaps:0/173(0%), Strand: Plus/Plus
+
+Query  1208     AGGTGCAGCTGGAAGTTCAGAAAAAATGGCGCCAGTGGTACCTGCAAGGGTTCCCGCTGC  1267
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7322153  AGGTGCAGCTGGAAGTTCAGAAAAAATGGCGCCAGTGGTACCTGCAAGGGTTCCCGCTGC  7322212
+
+Query  1268     GCCCTGTGGCCCTCAGCAGCTCCTTCAGCCACGCCGCCAGTGGTCCCACCCACAGCACCA  1327
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7322213  GCCCTGTGGCCCTCAGCAGCTCCTTCAGCCACGCCGCCAGTGGTCCCACCCACAGCACCA  7322272
+
+Query  1328     AGGCCAGCACCTCGGAGCAGAGCCGGAGCACTCCCAGGGCCAGTGTCATCTGA  1380
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7322273  AGGCCAGCACCTCGGAGCAGAGCCGGAGCACTCCCAGGGCCAGTGTCATCTGA  7322325
+
+
+
+
+Range 2: 7305969 to 7306125
+
+Score:284 bits(314), Expect:8e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Plus
+
+Query  663      ggggggCTGTAAACTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACGCGTG  722
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7305969  GGGGGGCTGTAAACTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACGCGTG  7306028
+
+Query  723      GCTGCTGGTGGAGGGCCTCTACCTGCACACGCTCCTCGCCATCTCCTTCTTCTCAGAAAG  782
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7306029  GCTGCTGGTGGAGGGCCTCTACCTGCACACGCTCCTCGCCATCTCCTTCTTCTCAGAAAG  7306088
+
+Query  783      GAAGAGCCTGCAGGCGTTTGTGCTCCTCGGATGGGGT  819
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  7306089  GAAGAGCCTGCAGGCGTTTGTGCTCCTCGGATGGGGT  7306125
+
+
+
+
+Range 3: 7304359 to 7304493
+
+Score:244 bits(270), Expect:7e-62, 
+Identities:135/135(100%),  Gaps:0/135(0%), Strand: Plus/Plus
+
+Query  530      GGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTTCATCCTGC  589
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7304359  GGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTTCATCCTGC  7304418
+
+Query  590      GCGCCCTGTCCATCTTCATCAAGGATGCTGTCCTCTTCCCCTCCGATGACGTCACCTACT  649
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7304419  GCGCCCTGTCCATCTTCATCAAGGATGCTGTCCTCTTCCCCTCCGATGACGTCACCTACT  7304478
+
+Query  650      GTAACGCCCATAggg  664
+                |||||||||||||||
+Sbjct  7304479  GTAACGCCCATAGGG  7304493
+
+
+
+
+Range 4: 7316057 to 7316184
+
+Score:232 bits(256), Expect:4e-58, 
+Identities:128/128(100%),  Gaps:0/128(0%), Strand: Plus/Plus
+
+Query  1041     GCGCCTGGCCAAGTCCACCCTCCTGCTGATCCCCCTCTTCGGCATCCACTACATTGTCTT  1100
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7316057  GCGCCTGGCCAAGTCCACCCTCCTGCTGATCCCCCTCTTCGGCATCCACTACATTGTCTT  7316116
+
+Query  1101     CGCCTTCTCCACAGAGGACGCCATGGAGGTCCGGCTGTTCTTTGAATTGGCCCTGGGCTC  1160
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7316117  CGCCTTCTCCACAGAGGACGCCATGGAGGTCCGGCTGTTCTTTGAATTGGCCCTGGGCTC  7316176
+
+Query  1161     CTTCCAGG  1168
+                ||||||||
+Sbjct  7316177  CTTCCAGG  7316184
+
+
+
+
+Range 5: 7283146 to 7283264
+
+Score:215 bits(238), Expect:3e-53, 
+Identities:119/119(100%),  Gaps:0/119(0%), Strand: Plus/Plus
+
+Query  103      GCCGGAGCTCTGCCCCGACTGTGTGACGTGCTCCGAGTGCTGCAAGAGGAACGGGCCCAG  162
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7283146  GCCGGAGCTCTGCCCCGACTGTGTGACGTGCTCCGAGTGCTGCAAGAGGAACGGGCCCAG  7283205
+
+Query  163      TGCCTGCAGGAACTCTCCTCAGAGAAGACAGGAGACCTGGGGCTGGAGACAGTATCAGG  221
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7283206  TGCCTGCAGGAACTCTCCTCAGAGAAGACAGGAGACCTGGGGCTGGAGACAGTATCAGG  7283264
+
+
+
+
+Range 6: 7291601 to 7291713
+
+Score:196 bits(217), Expect:3e-47, 
+Identities:112/113(99%),  Gaps:1/113(0%), Strand: Plus/Plus
+
+Query  218      CAGGCTGTGAGGGGCTGTGGGACAACATGAACTGCTGGCCCTCCGCGG-CACCAGCACAG  276
+                |||||||||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  7291601  CAGGCTGTGAGGGGCTGTGGGACAACATGAACTGCTGGCCCTCCGCGGGCACCAGCACAG  7291660
+
+Query  277      ACCGTGGAAGTGCAGTGTCCGAAGTTCCTCCAGATGCTCACGGGCAGAAACGG  329
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7291661  ACCGTGGAAGTGCAGTGTCCGAAGTTCCTCCAGATGCTCACGGGCAGAAACGG  7291713
+
+
+
+
+Range 7: 7298340 to 7298444
+
+Score:190 bits(210), Expect:1e-45, 
+Identities:105/105(100%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  328      GGGTCTCTGTTCAGGAACTGCACATGGGATGGCTGGTCAGAAACCTTCCCCAGGCCTGAC  387
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7298340  GGGTCTCTGTTCAGGAACTGCACATGGGATGGCTGGTCAGAAACCTTCCCCAGGCCTGAC  7298399
+
+Query  388      CTGGCCTGCGGGGTCAACATGAATGACTCCTCTAATGAGAAACGG  432
+                |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7298400  CTGGCCTGCGGGGTCAACATGAATGACTCCTCTAATGAGAAACGG  7298444
+
+
+
+
+Range 8: 7271099 to 7271201
+
+Score:187 bits(206), Expect:2e-44, 
+Identities:103/103(100%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  1        ATGCCAGGCACCGTGAGCCCCTGGCCGTCATCGTGGCGGTCATCGTGGGGGCCACGGTCG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7271099  ATGCCAGGCACCGTGAGCCCCTGGCCGTCATCGTGGCGGTCATCGTGGGGGCCACGGTCG  7271158
+
+Query  61       CTGCTTCTGTTGCTGCTGCTGCTCGCCGGAGCAGCGCACACAG  103
+                |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7271159  CTGCTTCTGTTGCTGCTGCTGCTCGCCGGAGCAGCGCACACAG  7271201
+
+
+
+
+Range 9: 7303223 to 7303322
+
+Score:181 bits(200), Expect:7e-43, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  432      GCATGCATACCTGCTGAAACTCAAGGTCATGTACACTGTAGGCTACAGTTCCTCCTTGGC  491
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7303223  GCATGCATACCTGCTGAAACTCAAGGTCATGTACACTGTAGGCTACAGTTCCTCCTTGGC  7303282
+
+Query  492      CATGCTCCTGGTCGCCCTCAGCATCCTGTGCTCTTTCCGG  531
+                ||||||||||||||||||||||||||||||||||||||||
+Sbjct  7303283  CATGCTCCTGGTCGCCCTCAGCATCCTGTGCTCTTTCCGG  7303322
+
+
+
+
+Range 10: 7314971 to 7315064
+
+Score:170 bits(188), Expect:1e-39, 
+Identities:94/94(100%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  948      GATCAATTTCATCTTTTTTATAAACATTCTAAGAATCCTGATGAGAAAACTCAGAAGCCA  1007
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7314971  GATCAATTTCATCTTTTTTATAAACATTCTAAGAATCCTGATGAGAAAACTCAGAAGCCA  7315030
+
+Query  1008     AGAAACAAGAGGAAATGAAGTGAACCAGTATAAG  1041
+                ||||||||||||||||||||||||||||||||||
+Sbjct  7315031  AGAAACAAGAGGAAATGAAGTGAACCAGTATAAG  7315064
+
+
+
+
+Range 11: 7313917 to 7313987
+
+Score:129 bits(142), Expect:4e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  878      GATGCTGGGACATCAACTCCAACACTTATATCTGGTGGCTTATTCGAGGGCCTGTGATTC  937
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7313917  GATGCTGGGACATCAACTCCAACACTTATATCTGGTGGCTTATTCGAGGGCCTGTGATTC  7313976
+
+Query  938      TGTCCATCCTG  948
+                |||||||||||
+Sbjct  7313977  TGTCCATCCTG  7313987
+
+
+
+
+Range 12: 7313298 to 7313359
+
+Score:113 bits(124), Expect:3e-22, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Plus
+
+Query  817      GGTTCTCCGGCCATTTTTGTTGCTTCATGGGCTATCTCCAGGCACTTCCTAGAAGATATC  876
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7313298  GGTTCTCCGGCCATTTTTGTTGCTTCATGGGCTATCTCCAGGCACTTCCTAGAAGATATC  7313357
+
+Query  877      GG  878
+                ||
+Sbjct  7313358  GG  7313359
+
+
+
+
+Range 13: 7320946 to 7321002
+
+Score:88.7 bits(97), Expect:1e-14, 
+Identities:54/57(95%),  Gaps:3/57(5%), Strand: Plus/Plus
+
+Query  1159     TCCTTC---CAGGGGCTGGTGGTAGCCATCCTTTACTGCTTCCTCAATGGTGAGGTG  1212
+                ||||||   ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7320946  TCCTTCTGGCAGGGGCTGGTGGTAGCCATCCTTTACTGCTTCCTCAATGGTGAGGTG  7321002
+
+
+
+
+Range 14: 80198814 to 80198845
+
+Score:48.2 bits(52), Expect:0.010, 
+Identities:31/33(94%),  Gaps:1/33(3%), Strand: Plus/Minus
+
+Query  974       TTCTAAGAATCCTGATGAGAAAACTCAGAAGCC  1006
+                 |||||| ||||||||||| ||||||||||||||
+Sbjct  80198845  TTCTAA-AATCCTGATGACAAAACTCAGAAGCC  80198814
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_11__1_contigs__length_118956290
+Sequence ID: NW_026294402.1 Length: 118956291
+Range 1: 116240530 to 116240666
+
+Score:135 bits(149), Expect:9e-29, 
+Identities:112/137(82%),  Gaps:0/137(0%), Strand: Plus/Plus
+
+Query  683        TGGTCTTCTTCCAGTACTGCATCATGGCCAACTACGCGTGGCTGCTGGTGGAGGGCCTCT  742
+                  |||||||||||||||| |||||||||||||||| |   ||||||||||||||||||||||
+Sbjct  116240530  TGGTCTTCTTCCAGTATTGCATCATGGCCAACTTCTTCTGGCTGCTGGTGGAGGGCCTCT  116240589
+
+Query  743        ACCTGCACACGCTCCTCGCCATCTCCTTCTTCTCAGAAAGGAAGAGCCTGCAGGCGTTTG  802
+                  |||| ||||| || || ||| ||||||||||||| ||| |||||  | |   || ||   
+Sbjct  116240590  ACCTACACACCCTGCTGGCCGTCTCCTTCTTCTCCGAACGGAAGTACTTCTGGGGGTACA  116240649
+
+Query  803        TGCTCCTCGGATGGGGT  819
+                  | ||| |||| ||||||
+Sbjct  116240650  TACTCATCGGCTGGGGT  116240666
+
+
+
+
+Range 2: 116236505 to 116236608
+
+Score:97.8 bits(107), Expect:2e-17, 
+Identities:86/105(82%),  Gaps:2/105(1%), Strand: Plus/Plus
+
+Query  524        CTTTCCGGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTTCA  583
+                  ||| | ||| ||||||||||||||||||||||||||||||||| || ||  |||||||| 
+Sbjct  116236505  CTTGCAGGAAGCTGCACTGTACCCGAAACTACATCCACATGCATCTCTTTATGTCCTTCG  116236564
+
+Query  584        TCCTGCGCGCC-CTGTCCATCTTCATCAAGGATGCTGTCCTCTTC  627
+                  ||||| | ||| ||| |  |||||||||||||    | |||||||
+Sbjct  116236565  TCCTGAGGGCCACTG-CTGTCTTCATCAAGGACCTGGCCCTCTTC  116236608
+
+
+
+
+Range 3: 105005011 to 105005106
+
+Score:88.7 bits(97), Expect:1e-14, 
+Identities:77/96(80%),  Gaps:0/96(0%), Strand: Plus/Minus
+
+Query  530        GGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTTCATCCTGC  589
+                  || |||||||||| || || |||||||||||||||||| ||||| |||| || || ||||
+Sbjct  105005106  GGCGGCTGCACTGCACGCGCAACTACATCCACATGCACATGTTCCTGTCGTTTATGCTGC  105005047
+
+Query  590        GCGCCCTGTCCATCTTCATCAAGGATGCTGTCCTCT  625
+                  |||||     ||||||| | ||||| || || ||||
+Sbjct  105005046  GCGCCGCCAGCATCTTCGTGAAGGACGCAGTGCTCT  105005011
+
+
+
+
+Range 4: 116244408 to 116244471
+
+Score:62.6 bits(68), Expect:5e-07, 
+Identities:52/64(81%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  1045       CTGGCCAAGTCCACCCTCCTGCTGATCCCCCTCTTCGGCATCCACTACATTGTCTTCGCC  1104
+                  ||||| |||||||| || |||||||||||||| || ||  |||||||| |  | || |||
+Sbjct  116244408  CTGGCTAAGTCCACGCTTCTGCTGATCCCCCTGTTTGGAGTCCACTACGTCATGTTTGCC  116244467
+
+Query  1105       TTCT  1108
+                  ||||
+Sbjct  116244468  TTCT  116244471
+
+
+
+
+Range 5: 105004430 to 105004529
+
+Score:61.7 bits(67), Expect:2e-06, 
+Identities:76/103(74%),  Gaps:6/103(5%), Strand: Plus/Minus
+
+Query  687        CTTCTTCCAGTACTGCATCATGGCCA---ACTACGCGTGGCTGCTGGTGGAGGGCCTCTA  743
+                  ||||||||  ||||   || ||||||   |||||   ||| | ||||||||||| || ||
+Sbjct  105004529  CTTCTTCCTTTACT---TCCTGGCCACCAACTACTACTGGATTCTGGTGGAGGGGCTGTA  105004473
+
+Query  744        CCTGCACACGCTCCTCGCCATCTCCTTCTTCTCAGAAAGGAAG  786
+                  | ||||||  ||| ||  |||  |||| |||||||| | ||||
+Sbjct  105004472  CTTGCACAGCCTCATCTTCATGGCCTTTTTCTCAGAGAAGAAG  105004430
+
+
+
+
+Range 6: 116244744 to 116244797
+
+Score:54.5 bits(59), Expect:2e-04, 
+Identities:45/54(83%),  Gaps:1/54(1%), Strand: Plus/Plus
+
+Query  1159       TCCTTC-CAGGGGCTGGTGGTAGCCATCCTTTACTGCTTCCTCAATGGTGAGGT  1211
+                  |||||| |||||  | ||||| |||||||| || || ||||||||||| |||||
+Sbjct  116244744  TCCTTCTCAGGGTTTTGTGGTGGCCATCCTCTATTGTTTCCTCAATGGCGAGGT  116244797
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_19__1_contigs__length_69161282
+Sequence ID: NW_026294491.1 Length: 69161283
+Range 1: 7695094 to 7695182
+
+Score:112 bits(123), Expect:1e-21, 
+Identities:78/89(88%),  Gaps:0/89(0%), Strand: Plus/Plus
+
+Query  536      TGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTTCATCCTGCGCGCCC  595
+                ||||||| ||||| |||||||||||| || ||||||| |  ||||||||||| || ||||
+Sbjct  7695094  TGCACTGCACCCGGAACTACATCCACCTGAACCTGTTTGCATCCTTCATCCTCCGAGCCC  7695153
+
+Query  596      TGTCCATCTTCATCAAGGATGCTGTCCTC  624
+                ||||| |||||||||||||||||| ||||
+Sbjct  7695154  TGTCCGTCTTCATCAAGGATGCTGCCCTC  7695182
+
+
+
+
+Range 2: 7696032 to 7696117
+
+Score:70.7 bits(77), Expect:3e-09, 
+Identities:67/86(78%),  Gaps:0/86(0%), Strand: Plus/Plus
+
+Query  694      CAGTACTGCATCATGGCCAACTACGCGTGGCTGCTGGTGGAGGGCCTCTACCTGCACACG  753
+                ||||||||| |   || |||||||   |||||||||||||||||  | |||||| |||||
+Sbjct  7696032  CAGTACTGCGTGGCGGTCAACTACTACTGGCTGCTGGTGGAGGGTGTGTACCTGTACACG  7696091
+
+Query  754      CTCCTCGCCATCTCCTTCTTCTCAGA  779
+                || || ||| ||||  | ||||| ||
+Sbjct  7696092  CTGCTGGCCTTCTCAGTGTTCTCGGA  7696117
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_15__1_contigs__length_86483966
+Sequence ID: NW_026294447.1 Length: 86483967
+Range 1: 64484679 to 64484791
+
+Score:91.5 bits(100), Expect:1e-15, 
+Identities:90/115(78%),  Gaps:5/115(4%), Strand: Plus/Plus
+
+Query  667       ggCTGTAAACTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTACGCGTGGCTG  726
+                 ||||| || ||   | |||| ||||||||||| || |||||||| |||| |   ||||| 
+Sbjct  64484679  GGCTGCAAGCTCAGCCTGGTATTCTTCCAGTATTGTATCATGGCGAACTTCTACTGGCTT  64484738
+
+Query  727       CTGGTGGAGGGCCTCTACCTGCACACGCTCC---TCGCCATCTCCTTCTTCTCAG  778
+                 ||||||||||| |||||||||||||| ||||   | ||||  |||||| || |||
+Sbjct  64484739  CTGGTGGAGGGTCTCTACCTGCACACCCTCCTGGTGGCCA--TCCTTCCTCCCAG  64484791
+
+
+
+
+Range 2: 64476527 to 64476595
+
+Score:67.1 bits(73), Expect:4e-08, 
+Identities:56/69(81%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  526       TTCCGGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTTCATC  585
+                 ||| ||| ||||||||| ||| | |||||||||||| || | |||||| | |||||||| 
+Sbjct  64476527  TTCAGGAAGCTGCACTGCACCAGGAACTACATCCACCTGAATCTGTTCCTCTCCTTCATG  64476586
+
+Query  586       CTGCGCGCC  594
+                 ||| | |||
+Sbjct  64476587  CTGAGAGCC  64476595
+
+
+
+
+Range 3: 64490366 to 64490424
+
+Score:62.6 bits(68), Expect:5e-07, 
+Identities:49/59(83%),  Gaps:0/59(0%), Strand: Plus/Plus
+
+Query  1045      CTGGCCAAGTCCACCCTCCTGCTGATCCCCCTCTTCGGCATCCACTACATTGTCTTCGC  1103
+                 || ||||||||||| || ||||| ||||| || |||||| |||||||||| || || ||
+Sbjct  64490366  CTCGCCAAGTCCACACTGCTGCTAATCCCACTGTTCGGCGTCCACTACATGGTGTTTGC  64490424
+
+
+
+
+Range 4: 64490548 to 64490601
+
+Score:53.6 bits(58), Expect:2e-04, 
+Identities:44/54(81%),  Gaps:0/54(0%), Strand: Plus/Plus
+
+Query  1158      CTCCTTCCAGGGGCTGGTGGTAGCCATCCTTTACTGCTTCCTCAATGGTGAGGT  1211
+                 ||| || ||||| |||||||||||  | || ||||||||||| ||  |||||||
+Sbjct  64490548  CTCTTTGCAGGGCCTGGTGGTAGCAGTGCTATACTGCTTCCTGAACAGTGAGGT  64490601
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_6__1_contigs__length_162567912
+Sequence ID: NW_026294584.1 Length: 162567913
+Range 1: 73189032 to 73189138
+
+Score:88.7 bits(97), Expect:1e-14, 
+Identities:85/108(79%),  Gaps:1/108(0%), Strand: Plus/Plus
+
+Query  507       CCTCAGCATCCTGTGCTCTTTCCGGAGGCTGCACTGTACCCGAAACTACATCCACATGCA  566
+                 ||||  ||||||| | ||   | |||  |||||||| || || |||| |||||||||| |
+Sbjct  73189032  CCTCCCCATCCTG-GTTCACGCAGGAAACTGCACTGCACTCGCAACTTCATCCACATGAA  73189090
+
+Query  567       CCTGTTCGTGTCCTTCATCCTGCGCGCCCTGTCCATCTTCATCAAGGA  614
+                 |||||| ||||||||||| ||| | ||| | ||| |||||||||| ||
+Sbjct  73189091  CCTGTTTGTGTCCTTCATGCTGAGGGCCATCTCCGTCTTCATCAAAGA  73189138
+
+
+
+
+Range 2: 73086436 to 73086548
+
+Score:77.9 bits(85), Expect:2e-11, 
+Identities:89/118(75%),  Gaps:9/118(7%), Strand: Plus/Plus
+
+Query  515       TCCTGTGCTCTTTCCGGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCG  574
+                 |||||| | ||| | ||||||| |||||  | || ||||||||||||||||| |||||||
+Sbjct  73086436  TCCTGTCC-CTTCCAGGAGGCTCCACTGCCCTCGGAACTACATCCACATGCAGCTGTTCG  73086494
+
+Query  575       TGTCCTTCATCCT----GCGCGCCCTGTCCATCTTCATCAAGGATGCTGTCCTCTTCC  628
+                    | ||||||||    ||  || |||    | ||| | |||||||||| ||||||||
+Sbjct  73086495  CCACTTTCATCCTCAAGGCCAGCGCTG----TGTTCCTGAAGGATGCTGCCCTCTTCC  73086548
+
+
+
+
+Range 3: 73204873 to 73205002
+
+Score:71.6 bits(78), Expect:9e-10, 
+Identities:94/130(72%),  Gaps:3/130(2%), Strand: Plus/Plus
+
+Query  1042      CGCCTGGCCAAGTCCACCCTCCTGCTGATCCCCCTCTTCGGCATCCACTACATTGTCTTC  1101
+                 ||||||||    |||||| | ||||| ||||| || || || ||||||||||  || |||
+Sbjct  73204873  CGCCTGGCTCGCTCCACCTTGCTGCTCATCCCACTGTTTGGAATCCACTACACAGTATTC  73204932
+
+Query  1102      GCCTTCTCCACAGAG---GACGCCATGGAGGTCCGGCTGTTCTTTGAATTGGCCCTGGGC  1158
+                 ||||||||  |||||   | |  || |  ||  || ||  | |||||  | |  ||||||
+Sbjct  73204933  GCCTTCTCTCCAGAGAATGTCAGCAAGAGGGAACGACTTGTGTTTGAGCTTGGGCTGGGC  73204992
+
+Query  1159      TCCTTCCAGG  1168
+                 ||||||||||
+Sbjct  73204993  TCCTTCCAGG  73205002
+
+
+
+
+Range 4: 73206353 to 73206406
+
+Score:49.1 bits(53), Expect:0.010, 
+Identities:43/54(80%),  Gaps:0/54(0%), Strand: Plus/Plus
+
+Query  1158      CTCCTTCCAGGGGCTGGTGGTAGCCATCCTTTACTGCTTCCTCAATGGTGAGGT  1211
+                 ||| | ||||||  | ||||| ||| | || ||||||||||| ||||| |||||
+Sbjct  73206353  CTCTTCCCAGGGCTTTGTGGTGGCCGTGCTCTACTGCTTCCTGAATGGGGAGGT  73206406
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_21__1_contigs__length_65335640
+Sequence ID: NW_026294514.1 Length: 65335641
+Range 1: 18890062 to 18890140
+
+Score:71.6 bits(78), Expect:9e-10, 
+Identities:63/79(80%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  536       TGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTTCATCCTGCGCGCCC  595
+                 ||||||| ||  | ||||| |||||| |||| ||||| ||||||||||| ||| | ||| 
+Sbjct  18890062  TGCACTGCACTAGGAACTATATCCACCTGCATCTGTTTGTGTCCTTCATGCTGAGAGCCG  18890121
+
+Query  596       TGTCCATCTTCATCAAGGA  614
+                 ||  ||||||  |||||||
+Sbjct  18890122  TGAGCATCTTTGTCAAGGA  18890140
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_3__1_contigs__length_106647218
+Sequence ID: NW_026294551.1 Length: 106647218
+Range 1: 55131041 to 55131131
+
+Score:65.3 bits(71), Expect:1e-07, 
+Identities:69/91(76%),  Gaps:4/91(4%), Strand: Plus/Plus
+
+Query  519       GTGCTCTTT----CCGGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCG  574
+                 |||||||||    | | | ||||||||| || || || |||||||||||| || |||| |
+Sbjct  55131041  GTGCTCTTTTGTGCAGAAAGCTGCACTGCACACGCAATTACATCCACATGAACTTGTTTG  55131100
+
+Query  575       TGTCCTTCATCCTGCGCGCCCTGTCCATCTT  605
+                   || ||||||||| | || ||| || ||||
+Sbjct  55131101  CTTCGTTCATCCTGAGAGCGCTGGCCGTCTT  55131131
+
+
+
+
+Range 2: 1636251 to 1636302
+
+Score:54.5 bits(59), Expect:2e-04, 
+Identities:43/52(83%),  Gaps:0/52(0%), Strand: Plus/Minus
+
+Query  530      GGAGGCTGCACTGTACCCGAAACTACATCCACATGCACCTGTTCGTGTCCTT  581
+                ||| ||||||||| ||||||||||| ||||||  | ||||||| |  |||||
+Sbjct  1636302  GGAAGCTGCACTGCACCCGAAACTATATCCACGGGAACCTGTTTGCATCCTT  1636251
+
+
+
+
+Range 3: 74463964 to 74463993
+
+Score:46.4 bits(50), Expect:0.037, 
+Identities:28/30(93%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  88        GGAGCAGCGCACACAGCCGGAGCTCTGCCC  117
+                 |||||||||||||||||  |||||||||||
+Sbjct  74463993  GGAGCAGCGCACACAGCATGAGCTCTGCCC  74463964
+
+
+
+
+>Peromyscus californicus insignis strain IS unplaced genomic scaffold, ASM782708v3 Scaffold_4__1_contigs__length_199733344
+Sequence ID: NW_026294562.1 Length: 199733345
+Range 1: 169039969 to 169040027
+
+Score:54.5 bits(59), Expect:2e-04, 
+Identities:48/59(81%),  Gaps:1/59(1%), Strand: Plus/Minus
+
+Query  693        CCAGTACTGCATCATG-GCCAACTACGCGTGGCTGCTGGTGGAGGGCCTCTACCTGCAC  750
+                  |||||||||| |   | ||||||||| | ||||||||||| |||||  | |||||||||
+Sbjct  169040027  CCAGTACTGCGTGGGGTGCCAACTACACCTGGCTGCTGGTAGAGGGTGTGTACCTGCAC  169039969
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,864 @@
+RID: NCPR3J2K014	
+Job Title:XM_054574920.1 PREDICTED: Pteronotus mesoamericanus...				
+Program: BLASTN 
+Database: Genome (CSHL_Meso_final) Pteronotus mesoamericanus CSHL_Meso_final [GCF_021234165.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_021234165.1-RS_2024_03)
+Query #1: XM_054574920.1 PREDICTED: Pteronotus mesoamericanus secretin receptor (SCTR), mRNA Query ID: lcl|Query_5964155 Length: 1356
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    313    2585  99%   1e-82 100.00 27879384   NW_026555115.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    127    460   24%   1e-26 82.40  9328898    NW_026555320.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    116    324   20%   2e-23 85.86  2656224    NW_026555113.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    100    215   10%   2e-18 85.88  10135831   NW_026555091.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    91.5   139   9%    8e-16 83.53  100913694  NW_026555085.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    72.5   134   9%    8e-10 83.58  9783585    NW_026555090.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    65.3   181   13%   1e-07 86.79  7791477    NW_026555315.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    58.1   104   8%    2e-05 79.69  6953309    NW_026555306.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    51.8   51.8  4%    7e-04 83.02  79696256   NW_026555329.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   48.2  2%    0.009 93.55  1083580    NW_026555129.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   143   3%    0.009 88.89  10481605   NW_026555152.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   48.2  2%    0.009 93.55  10000268   NW_026555205.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   48.2  2%    0.009 93.55  3174030    NW_026555230.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   96.3  2%    0.009 93.55  12767194   NW_026555303.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   96.3  2%    0.009 93.55  13184205   NW_026555304.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   48.2  2%    0.009 93.55  29226364   NW_026555311.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   48.2  2%    0.009 93.55  79847383   NW_026555321.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   48.2  2%    0.009 93.55  47466703   NW_026555325.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    48.2   48.2  2%    0.009 93.55  18187083   NW_026555326.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    47.3   47.3  2%    0.030 90.91  9400148    NW_026555051.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    47.3   47.3  2%    0.030 90.91  4105561    NW_026555237.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    47.3   47.3  2%    0.030 90.91  36778869   NW_026555312.1   
+Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican...   Pteronotus m... NA              1884717    47.3   47.3  2%    0.030 90.91  28541321   NW_026555313.1   
+
+
+Alignments:
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_27
+Sequence ID: NW_026555115.1 Length: 27879384
+Range 1: 7383251 to 7383423
+
+Score:313 bits(346), Expect:1e-82, 
+Identities:173/173(100%),  Gaps:0/173(0%), Strand: Plus/Minus
+
+Query  1184     AGGTACAGCTGGAGGTTCAGAAGAAGTGGCGGCAGTGGCACCTGCCTGAGTTCCTACTGT  1243
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7383423  AGGTACAGCTGGAGGTTCAGAAGAAGTGGCGGCAGTGGCACCTGCCTGAGTTCCTACTGT  7383364
+
+Query  1244     GCCCCGTGGCCTTCAGCGACTCCTTCAGCAACGGCACCAGCGGCCTCACCCACAGCACCA  1303
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7383363  GCCCCGTGGCCTTCAGCGACTCCTTCAGCAACGGCACCAGCGGCCTCACCCACAGCACCA  7383304
+
+Query  1304     AGGCCAGCCCTTCGGAGCCGAGCCCAGGCACCTGCAGGGCCAGCATCATCTGA  1356
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7383303  AGGCCAGCCCTTCGGAGCCGAGCCCAGGCACCTGCAGGGCCAGCATCATCTGA  7383251
+
+
+
+
+Range 2: 7406473 to 7406629
+
+Score:284 bits(314), Expect:7e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  639      GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTATGCCTG  698
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7406629  GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTATGCCTG  7406570
+
+Query  699      GCTGCTGGTGGAAGGCCTCTACCTCCACACGCTGCTCGTCATCTCCTTCTTCTCAGAAAG  758
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7406569  GCTGCTGGTGGAAGGCCTCTACCTCCACACGCTGCTCGTCATCTCCTTCTTCTCAGAAAG  7406510
+
+Query  759      GAAGTGCCTCCAGAGATGTGTTGCCCTTGGATGGGGT  795
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  7406509  GAAGTGCCTCCAGAGATGTGTTGCCCTTGGATGGGGT  7406473
+
+
+
+
+Range 3: 7408239 to 7408371
+
+Score:241 bits(266), Expect:7e-61, 
+Identities:133/133(100%),  Gaps:0/133(0%), Strand: Plus/Minus
+
+Query  509      GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGC  568
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7408371  GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGC  7408312
+
+Query  569      GTGCCCTGTCCATCTTCATCAAAGATGCTGTGCTCTTCTCAGATGATGGTGTCCACTGCG  628
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7408311  GTGCCCTGTCCATCTTCATCAAAGATGCTGTGCTCTTCTCAGATGATGGTGTCCACTGCG  7408252
+
+Query  629      ATACCCACAGGGT  641
+                |||||||||||||
+Sbjct  7408251  ATACCCACAGGGT  7408239
+
+
+
+
+Range 4: 7389283 to 7389410
+
+Score:232 bits(256), Expect:4e-58, 
+Identities:128/128(100%),  Gaps:0/128(0%), Strand: Plus/Minus
+
+Query  1017     GCGTCTGGCCAAGTCCACCCTCCTGCTGATCCCTCTCTTTGGCGCCCACTATATCATCTT  1076
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7389410  GCGTCTGGCCAAGTCCACCCTCCTGCTGATCCCTCTCTTTGGCGCCCACTATATCATCTT  7389351
+
+Query  1077     TGCCTTTTCATCAGATGATGTTATGGAGATCCAGCTGTTTTTTGAACTGGCTCTTGGCTC  1136
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7389350  TGCCTTTTCATCAGATGATGTTATGGAGATCCAGCTGTTTTTTGAACTGGCTCTTGGCTC  7389291
+
+Query  1137     ATTCCAGG  1144
+                ||||||||
+Sbjct  7389290  ATTCCAGG  7389283
+
+
+
+
+Range 5: 7449283 to 7449408
+
+Score:228 bits(252), Expect:4e-57, 
+Identities:126/126(100%),  Gaps:0/126(0%), Strand: Plus/Minus
+
+Query  18       GCAGGTTAGAGCCTTCCCTCGACTATGTGATGTGCTACGAGTGCTGCGGGAGGAACAAGA  77
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7449408  GCAGGTTAGAGCCTTCCCTCGACTATGTGATGTGCTACGAGTGCTGCGGGAGGAACAAGA  7449349
+
+Query  78       CCAGTGCCTGCAGGAACTCTCCAAAGAGAGGACAGGAGACCTAGGCATGGTGCAGCCAGT  137
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7449348  CCAGTGCCTGCAGGAACTCTCCAAAGAGAGGACAGGAGACCTAGGCATGGTGCAGCCAGT  7449289
+
+Query  138      CCCAGG  143
+                ||||||
+Sbjct  7449288  CCCAGG  7449283
+
+
+
+
+Range 6: 7416869 to 7416982
+
+Score:206 bits(228), Expect:1e-50, 
+Identities:114/114(100%),  Gaps:0/114(0%), Strand: Plus/Minus
+
+Query  250      GGTTACATGTTCCGAAACTGCACACAGGGCGGCTGGTCAGAAACCTTCCCCAGGCCTGAC  309
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7416982  GGTTACATGTTCCGAAACTGCACACAGGGCGGCTGGTCAGAAACCTTCCCCAGGCCTGAC  7416923
+
+Query  310      CTGGCCTGTGGTGTTAATGTGAACGATTTGTCCAACGAGACCAACCAGAAGCGG  363
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7416922  CTGGCCTGTGGTGTTAATGTGAACGATTTGTCCAACGAGACCAACCAGAAGCGG  7416869
+
+
+
+
+Range 7: 7422013 to 7422128
+
+Score:205 bits(227), Expect:5e-50, 
+Identities:115/116(99%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  140      CAGGCTGCAAGGGACTGTGGGACAACATGAGCTGCTGGCCCTCGTCTGAGCTGGGACAGA  199
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7422128  CAGGCTGCAAGGGACTGTGGGACAACATGAGCTGCTGGCCCTCGTCTGAGCTGGGACAGA  7422069
+
+Query  200      CTGTGGAAATGGAATGTCCACAATTCTTCCGGGTGCTCACGGGCAAAAACGGTTAC  255
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  7422068  CTGTGGAAATGGAATGTCCACAATTCTTCCGGGTGCTCACGGGCAAAAACGGTAAC  7422013
+
+
+
+
+Range 8: 7409647 to 7409748
+
+Score:180 bits(199), Expect:2e-42, 
+Identities:101/102(99%),  Gaps:0/102(0%), Strand: Plus/Minus
+
+Query  360      GCGGCACCAGTACCTGCTGAAGCTGAAGGTCGTGTATACCGTGGGCTATAGCTCTTCCCT  419
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7409748  GCAGCACCAGTACCTGCTGAAGCTGAAGGTCGTGTATACCGTGGGCTATAGCTCTTCCCT  7409689
+
+Query  420      GGTGATGCTCCTGGTTGCCCTCAGCATCCTCTGTTCTTTCCG  461
+                ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7409688  GGTGATGCTCCTGGTTGCCCTCAGCATCCTCTGTTCTTTCCG  7409647
+
+
+
+
+Range 9: 7390772 to 7390865
+
+Score:170 bits(188), Expect:1e-39, 
+Identities:94/94(100%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  924      GATTAATTTCATCCTTTTTATAAACATTCTAAGAATCCTGATGAGAAAACTTAGAACTCA  983
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7390865  GATTAATTTCATCCTTTTTATAAACATTCTAAGAATCCTGATGAGAAAACTTAGAACTCA  7390806
+
+Query  984      AGAAACAAGAGGAAATGAAGTAAACCATTTTAAG  1017
+                ||||||||||||||||||||||||||||||||||
+Sbjct  7390805  AGAAACAAGAGGAAATGAAGTAAACCATTTTAAG  7390772
+
+
+
+
+Range 10: 7393304 to 7393374
+
+Score:129 bits(142), Expect:3e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  854      GGTGCTGGGACATCAACACCAATGCATCTGTCTGGTGGGTCATTCGAGGGCCTGTGATCC  913
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7393374  GGTGCTGGGACATCAACACCAATGCATCTGTCTGGTGGGTCATTCGAGGGCCTGTGATCC  7393315
+
+Query  914      TCTCCATCCTG  924
+                |||||||||||
+Sbjct  7393314  TCTCCATCCTG  7393304
+
+
+
+
+Range 11: 7394587 to 7394650
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  793      GGTTCCCCTGCCATTTTTGTTGCTTCGTGGGCTATCACCAGGCACTTTCTGGAAGATGCT  852
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7394650  GGTTCCCCTGCCATTTTTGTTGCTTCGTGGGCTATCACCAGGCACTTTCTGGAAGATGCT  7394591
+
+Query  853      GGGT  856
+                ||||
+Sbjct  7394590  GGGT  7394587
+
+
+
+
+Range 12: 7409078 to 7409140
+
+Score:93.3 bits(102), Expect:2e-16, 
+Identities:59/63(94%),  Gaps:1/63(1%), Strand: Plus/Minus
+
+Query  458      TCCGATAGGCTTTCTGCAGGGGAGGCAGAGATGACTGCCAGCAACTGCACGGG-AGGCTC  516
+                || |||||||||||||||||||||||||||||||||||||||||||||||||| ||| ||
+Sbjct  7409140  TCAGATAGGCTTTCTGCAGGGGAGGCAGAGATGACTGCCAGCAACTGCACGGGTAGGTTC  7409081
+
+Query  517      CAC  519
+                 ||
+Sbjct  7409080  TAC  7409078
+
+
+
+
+Range 13: 7384503 to 7384549
+
+Score:86.0 bits(94), Expect:3e-14, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1141     CAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGT  1187
+                |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  7384549  CAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGT  7384503
+
+
+
+
+Range 14: 13561682 to 13561712
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983       AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||||||||||||||||| |||| ||||
+Sbjct  13561682  AAGAAACAAGAGGAAATGAAGAAAACTATTT  13561712
+
+
+
+
+Range 15: 16180348 to 16180378
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983       AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||||||||||||||||| | |||||||
+Sbjct  16180348  AAGAAACAAGAGGAAATGAAGAATACCATTT  16180378
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_533
+Sequence ID: NW_026555320.1 Length: 9328898
+Range 1: 314080 to 314204
+
+Score:127 bits(140), Expect:1e-26, 
+Identities:103/125(82%),  Gaps:0/125(0%), Strand: Plus/Plus
+
+Query  639     GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTATGCCTG  698
+               |||||||||||||   ||| ||||||| |||||||||||  ||||||||||||    |||
+Sbjct  314080  GGTGGGCTGTAAGGCAGTCGTGGTCTTATTCCAGTACTGTGTCATGGCCAACTTCTTCTG  314139
+
+Query  699     GCTGCTGGTGGAAGGCCTCTACCTCCACACGCTGCTCGTCATCTCCTTCTTCTCAGAAAG  758
+               |||||||||||| |||||||||||  |||| ||||||    ||||||||||||| ||  |
+Sbjct  314140  GCTGCTGGTGGAGGGCCTCTACCTGTACACCCTGCTCACGGTCTCCTTCTTCTCCGAGCG  314199
+
+Query  759     GAAGT  763
+               |||||
+Sbjct  314200  GAAGT  314204
+
+
+
+
+Range 2: 2808595 to 2808690
+
+Score:106 bits(117), Expect:4e-20, 
+Identities:81/96(84%),  Gaps:0/96(0%), Strand: Plus/Plus
+
+Query  509      GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGC  568
+                || |||| |||||||| ||||||||||||||||||||||||||  |||||||||| || |
+Sbjct  2808595  GGCGGCTGCACTGCACACGCAACTACATCCACATGCACCTGTTCCTGTCCTTCATGCTTC  2808654
+
+Query  569      GTGCCCTGTCCATCTTCATCAAAGATGCTGTGCTCT  604
+                | ||| ||  ||||||| |||| || || |||||||
+Sbjct  2808655  GGGCCGTGAGCATCTTCGTCAAGGACGCGGTGCTCT  2808690
+
+
+
+
+Range 3: 311711 to 311795
+
+Score:96.0 bits(105), Expect:7e-17, 
+Identities:72/85(85%),  Gaps:0/85(0%), Strand: Plus/Plus
+
+Query  509     GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGC  568
+               ||| ||||||||||||||| |||||||||||||||||||| ||  |||||||||||||| 
+Sbjct  311711  GGAAGCTCCACTGCACCCGGAACTACATCCACATGCACCTCTTCATGTCCTTCATCCTGA  311770
+
+Query  569     GTGCCCTGTCCATCTTCATCAAAGA  593
+               | ||  | ||| || ||||||| ||
+Sbjct  311771  GGGCTGTCTCCGTCCTCATCAAGGA  311795
+
+
+
+
+Range 4: 317661 to 317722
+
+Score:68.0 bits(74), Expect:9e-09, 
+Identities:52/62(84%),  Gaps:0/62(0%), Strand: Plus/Plus
+
+Query  1021    CTGGCCAAGTCCACCCTCCTGCTGATCCCTCTCTTTGGCGCCCACTATATCATCTTTGCC  1080
+               |||||||||||||| || ||||||||||| ||||| || |  ||||| | ||| ||||||
+Sbjct  317661  CTGGCCAAGTCCACGCTGCTGCTGATCCCCCTCTTCGGAGTGCACTACACCATGTTTGCC  317720
+
+Query  1081    TT  1082
+               ||
+Sbjct  317721  TT  317722
+
+
+
+
+Range 5: 318010 to 318058
+
+Score:62.6 bits(68), Expect:4e-07, 
+Identities:43/49(88%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1140    CCAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGTA  1188
+               ||||||  | ||||||||||| || ||||||||||||||||| ||||||
+Sbjct  318010  CCAGGGTTTCGTGGTGGCTGTGCTGTACTGCTTCCTCAATGGCGAGGTA  318058
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_265
+Sequence ID: NW_026555113.1 Length: 2656224
+Range 1: 2581307 to 2581405
+
+Score:116 bits(128), Expect:2e-23, 
+Identities:85/99(86%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  639      GGTGGGCTGTAAGCTGGTCATGGTCTTCTTCCAGTACTGCATCATGGCCAACTATGCCTG  698
+                ||||||||| ||||||  | |||| ||||||||||||||||||||||||||||    |||
+Sbjct  2581405  GGTGGGCTGCAAGCTGAGCCTGGTGTTCTTCCAGTACTGCATCATGGCCAACTTCTACTG  2581346
+
+Query  699      GCTGCTGGTGGAAGGCCTCTACCTCCACACGCTGCTCGT  737
+                |||||||||||| || |||||||| ||||| ||||| ||
+Sbjct  2581345  GCTGCTGGTGGAGGGGCTCTACCTGCACACCCTGCTGGT  2581307
+
+
+
+
+Range 2: 2581896 to 2581965
+
+Score:82.4 bits(90), Expect:4e-13, 
+Identities:60/70(86%),  Gaps:0/70(0%), Strand: Plus/Minus
+
+Query  509      GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGC  568
+                || |||| ||||||||||| |||||||||||| || |||||||  | |||||||||||||
+Sbjct  2581965  GGCGGCTGCACTGCACCCGGAACTACATCCACCTGAACCTGTTCCTCTCCTTCATCCTGC  2581906
+
+Query  569      GTGCCCTGTC  578
+                | ||||| ||
+Sbjct  2581905  GCGCCCTCTC  2581896
+
+
+
+
+Range 3: 2579017 to 2579076
+
+Score:68.9 bits(75), Expect:9e-09, 
+Identities:51/60(85%),  Gaps:0/60(0%), Strand: Plus/Minus
+
+Query  1021     CTGGCCAAGTCCACCCTCCTGCTGATCCCTCTCTTTGGCGCCCACTATATCATCTTTGCC  1080
+                ||| ||||||||||||| ||||| |||||||| ||||||| |||||| ||  | ||||||
+Sbjct  2579076  CTGACCAAGTCCACCCTGCTGCTCATCCCTCTGTTTGGCGTCCACTACATGGTGTTTGCC  2579017
+
+
+
+
+Range 4: 2578789 to 2578836
+
+Score:56.3 bits(61), Expect:6e-05, 
+Identities:41/48(85%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1141     CAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGTA  1188
+                ||||||||||||||||| || || |||||||| |||||  | ||||||
+Sbjct  2578836  CAGGGCCTGGTGGTGGCGGTGCTGTACTGCTTTCTCAACAGCGAGGTA  2578789
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_220
+Sequence ID: NW_026555091.1 Length: 10135831
+Range 1: 523906 to 523990
+
+Score:100 bits(110), Expect:2e-18, 
+Identities:73/85(86%),  Gaps:0/85(0%), Strand: Plus/Plus
+
+Query  509     GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGC  568
+               ||| ||| |||||||||||||||| |||||||||| ||||||| ||||| ||||| ||||
+Sbjct  523906  GGAAGCTGCACTGCACCCGCAACTTCATCCACATGAACCTGTTCGTGTCGTTCATGCTGC  523965
+
+Query  569     GTGCCCTGTCCATCTTCATCAAAGA  593
+               | ||| | ||| |||||||||| ||
+Sbjct  523966  GGGCCATCTCCGTCTTCATCAAGGA  523990
+
+
+
+
+Range 2: 543619 to 543667
+
+Score:58.1 bits(63), Expect:2e-05, 
+Identities:42/49(86%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1140    CCAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGTA  1188
+               ||||||| | |||||||| || ||||||||||| || || |||||||||
+Sbjct  543619  CCAGGGCTTTGTGGTGGCCGTTCTCTACTGCTTTCTGAACGGGGAGGTA  543667
+
+
+
+
+Range 3: 438833 to 438880
+
+Score:57.2 bits(62), Expect:2e-05, 
+Identities:43/50(86%),  Gaps:2/50(4%), Strand: Plus/Plus
+
+Query  502     CTGCACGGGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTT  551
+               |||||  |||||||||||||| |||| |||||||||||||  || |||||
+Sbjct  438833  CTGCA--GGAGGCTCCACTGCCCCCGGAACTACATCCACACCCAGCTGTT  438880
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_20
+Sequence ID: NW_026555085.1 Length: 100913694
+Range 1: 8977931 to 8978015
+
+Score:91.5 bits(100), Expect:8e-16, 
+Identities:71/85(84%),  Gaps:0/85(0%), Strand: Plus/Plus
+
+Query  514      CTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGCGTGCC  573
+                || ||||||||||| |||||||||||| || |||||||||  ||||||||||| || || 
+Sbjct  8977931  CTGCACTGCACCCGGAACTACATCCACCTGAACCTGTTTGCATCCTTCATCCTCCGAGCA  8977990
+
+Query  574      CTGTCCATCTTCATCAAAGATGCTG  598
+                |||||| ||||| | || || ||||
+Sbjct  8977991  CTGTCCGTCTTCGTGAAGGACGCTG  8978015
+
+
+
+
+Range 2: 18473711 to 18473741
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983       AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||||||||||||||||| | |||||||
+Sbjct  18473711  AAGAAACAAGAGGAAATGAAGAATACCATTT  18473741
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_22
+Sequence ID: NW_026555090.1 Length: 9783585
+Range 1: 8850807 to 8850873
+
+Score:72.5 bits(79), Expect:8e-10, 
+Identities:56/67(84%),  Gaps:0/67(0%), Strand: Plus/Minus
+
+Query  503      TGCACGGGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCA  562
+                ||||| | |  ||||||||||| ||| |||||||||||||| || ||||||  || ||||
+Sbjct  8850873  TGCACAGAAAACTCCACTGCACACGCTACTACATCCACATGAACTTGTTTGCTTCTTTCA  8850814
+
+Query  563      TCCTGCG  569
+                |||||||
+Sbjct  8850813  TCCTGCG  8850807
+
+
+
+
+Range 2: 8849199 to 8849249
+
+Score:61.7 bits(67), Expect:1e-06, 
+Identities:44/51(86%),  Gaps:0/51(0%), Strand: Plus/Minus
+
+Query  684      GGCCAACTATGCCTGGCTGCTGGTGGAAGGCCTCTACCTCCACACGCTGCT  734
+                |||||| |   ||||||| |||||||||||||| |||||||||| ||||||
+Sbjct  8849249  GGCCAATTCCTCCTGGCTCCTGGTGGAAGGCCTTTACCTCCACAAGCTGCT  8849199
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_408
+Sequence ID: NW_026555315.1 Length: 7791477
+Range 1: 801340 to 801392
+
+Score:65.3 bits(71), Expect:1e-07, 
+Identities:46/53(87%),  Gaps:0/53(0%), Strand: Plus/Minus
+
+Query  509     GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTC  561
+               ||||||| |||||||| || |||||||||||| || ||||||| | |||||||
+Sbjct  801392  GGAGGCTGCACTGCACGCGGAACTACATCCACGTGAACCTGTTCGCGTCCTTC  801340
+
+
+
+
+Range 2: 801033 to 801107
+
+Score:59.9 bits(65), Expect:5e-06, 
+Identities:58/75(77%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  660     GGTCTTCTTCCAGTACTGCATCATGGCCAACTATGCCTGGCTGCTGGTGGAAGGCCTCTA  719
+               ||| ||| | |||||| |  || | ||||||||   ||||||||||||||| ||| | ||
+Sbjct  801107  GGTGTTCATGCAGTACGGAGTCGTCGCCAACTACTGCTGGCTGCTGGTGGAGGGCGTGTA  801048
+
+Query  720     CCTCCACACGCTGCT  734
+               ||| ||||  |||||
+Sbjct  801047  CCTGCACAGCCTGCT  801033
+
+
+
+
+Range 3: 799832 to 799879
+
+Score:56.3 bits(61), Expect:6e-05, 
+Identities:41/48(85%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1141    CAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGTA  1188
+               ||||| ||| ||||||| ||||| ||||||||||||||   |||||||
+Sbjct  799879  CAGGGTCTGCTGGTGGCCGTCCTGTACTGCTTCCTCAACAAGGAGGTA  799832
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_137
+Sequence ID: NW_026555306.1 Length: 6953309
+Range 1: 2973552 to 2973615
+
+Score:58.1 bits(63), Expect:2e-05, 
+Identities:51/64(80%),  Gaps:0/64(0%), Strand: Plus/Plus
+
+Query  509      GGAGGCTCCACTGCACCCGCAACTACATCCACATGCACCTGTTTGTGTCCTTCATCCTGC  568
+                || |||| |||||||| || ||||||||||||||  |||||||    || ||||| ||||
+Sbjct  2973552  GGCGGCTGCACTGCACTCGAAACTACATCCACATCAACCTGTTCACATCTTTCATGCTGC  2973611
+
+Query  569      GTGC  572
+                | ||
+Sbjct  2973612  GGGC  2973615
+
+
+
+
+Range 2: 2977881 to 2977928
+
+Score:46.4 bits(50), Expect:0.030, 
+Identities:41/49(84%),  Gaps:2/49(4%), Strand: Plus/Plus
+
+Query  1141     CAGGGCCTGGTGGT-GGCTGTCCTCTACTGCTTCCTCAATGGGGAGGTA  1188
+                |||||| || |||| |||| |||||||||||||| | |||  |||||||
+Sbjct  2977881  CAGGGCTTGCTGGTCGGCT-TCCTCTACTGCTTCATGAATAAGGAGGTA  2977928
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_85
+Sequence ID: NW_026555329.1 Length: 79696256
+Range 1: 50678176 to 50678228
+
+Score:51.8 bits(56), Expect:7e-04, 
+Identities:44/53(83%),  Gaps:5/53(9%), Strand: Plus/Plus
+
+Query  966       GAGAAA--ACTTAGAA---CTCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||  || |||||   ||||||| |||||||||||||||| | |||||||
+Sbjct  50678176  GAGAAAGGACATAGAAACTCTCAAGACACAAGAGGAAATGAAGAATACCATTT  50678228
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_301
+Sequence ID: NW_026555129.1 Length: 1083580
+Range 1: 801815 to 801845
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983     AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+               |||| |||||||||||||||| |||||||||
+Sbjct  801815  AAGACACAAGAGGAAATGAAGAAAACCATTT  801845
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_41
+Sequence ID: NW_026555152.1 Length: 10481605
+Range 1: 4866432 to 4866467
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:32/36(89%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  978      AACTCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||  |||||||||||||||||||| | |||||||
+Sbjct  4866432  AACTATAGAAACAAGAGGAAATGAAGAATACCATTT  4866467
+
+
+
+
+Range 2: 4924860 to 4924895
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:32/36(89%),  Gaps:0/36(0%), Strand: Plus/Plus
+
+Query  978      AACTCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||  |||||||||||||||||||| | |||||||
+Sbjct  4924860  AACTATAGAAACAAGAGGAAATGAAGAATACCATTT  4924895
+
+
+
+
+Range 3: 3384567 to 3384599
+
+Score:47.3 bits(51), Expect:0.030, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  981      TCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||||||||||||||||||||| | || ||||
+Sbjct  3384567  TCAAGAAACAAGAGGAAATGAAGAATACAATTT  3384599
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_58
+Sequence ID: NW_026555205.1 Length: 10000268
+Range 1: 1788955 to 1788985
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983      AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||||||||||||||||||| | |||||||
+Sbjct  1788955  AAGAAACAAGAGGAAATGAAGAACACCATTT  1788985
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_66
+Sequence ID: NW_026555230.1 Length: 3174030
+Range 1: 1713434 to 1713464
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  983      AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||||||||||||||||||| | |||||||
+Sbjct  1713464  AAGAAACAAGAGGAAATGAAGAATACCATTT  1713434
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_12
+Sequence ID: NW_026555303.1 Length: 12767194
+Range 1: 4052019 to 4052049
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983      AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||||||||||||||||||||| || ||||
+Sbjct  4052019  AAGAAACAAGAGGAAATGAAGTATACAATTT  4052049
+
+
+
+
+Range 2: 8658367 to 8658397
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983      AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||||||||||||||||||| | |||||||
+Sbjct  8658367  AAGAAACAAGAGGAAATGAAGAATACCATTT  8658397
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_125
+Sequence ID: NW_026555304.1 Length: 13184205
+Range 1: 4822371 to 4822401
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983      AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||||||||||||||||||| | |||||||
+Sbjct  4822371  AAGAAACAAGAGGAAATGAAGAATACCATTT  4822401
+
+
+
+
+Range 2: 7809370 to 7809400
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  983      AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                ||||||||||||||||||||| | |||||||
+Sbjct  7809400  AAGAAACAAGAGGAAATGAAGAATACCATTT  7809370
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_232
+Sequence ID: NW_026555311.1 Length: 29226364
+Range 1: 2822023 to 2822053
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  983      AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                |||| |||||||||||||||| |||||||||
+Sbjct  2822053  AAGAGACAAGAGGAAATGAAGAAAACCATTT  2822023
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_54
+Sequence ID: NW_026555321.1 Length: 79847383
+Range 1: 56348181 to 56348211
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983       AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||||||||||||||||| | |||||||
+Sbjct  56348181  AAGAAACAAGAGGAAATGAAGAATACCATTT  56348211
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_651
+Sequence ID: NW_026555325.1 Length: 47466703
+Range 1: 43102196 to 43102226
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  983       AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||||||||||||||||| | |||||||
+Sbjct  43102226  AAGAAACAAGAGGAAATGAAGAATACCATTT  43102196
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_705
+Sequence ID: NW_026555326.1 Length: 18187083
+Range 1: 10611748 to 10611778
+
+Score:48.2 bits(52), Expect:0.009, 
+Identities:29/31(94%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  983       AAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||||||||||||||||| | |||||||
+Sbjct  10611748  AAGAAACAAGAGGAAATGAAGAATACCATTT  10611778
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_124
+Sequence ID: NW_026555051.1 Length: 9400148
+Range 1: 77915 to 77947
+
+Score:47.3 bits(51), Expect:0.030, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  981    TCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+              |||||| |||||||||||||||| | |||||||
+Sbjct  77915  TCAAGACACAAGAGGAAATGAAGAATACCATTT  77947
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final contig_69
+Sequence ID: NW_026555237.1 Length: 4105561
+Range 1: 2057890 to 2057922
+
+Score:47.3 bits(51), Expect:0.030, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  981      TCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                |||||| |||||||||||||||| | |||||||
+Sbjct  2057890  TCAAGAGACAAGAGGAAATGAAGAATACCATTT  2057922
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_31
+Sequence ID: NW_026555312.1 Length: 36778869
+Range 1: 25951443 to 25951475
+
+Score:47.3 bits(51), Expect:0.030, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  981       TCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 |||||| |||||||||||||||| |||| ||||
+Sbjct  25951443  TCAAGACACAAGAGGAAATGAAGAAAACAATTT  25951475
+
+
+
+
+>Pteronotus mesoamericanus isolate MK-2021 breed Mesoamerican mustached bat unplaced genomic scaffold, CSHL_Meso_final scaffold_36
+Sequence ID: NW_026555313.1 Length: 28541321
+Range 1: 14588491 to 14588523
+
+Score:47.3 bits(51), Expect:0.030, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  981       TCAAGAAACAAGAGGAAATGAAGTAAACCATTT  1013
+                 ||||||||||||||||||||||| | || ||||
+Sbjct  14588491  TCAAGAAACAAGAGGAAATGAAGAATACAATTT  14588523
+
+
+
+
+
+
+
+		
+
+

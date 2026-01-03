@@ -1,0 +1,141 @@
+
+RID: NCRBRU2G014	
+Job Title:XM_054574920.1 PREDICTED: Pteronotus mesoamericanus...				
+Program: BLASTN 
+Database: SRA 
+Query #1: XM_054574920.1 PREDICTED: Pteronotus mesoamericanus secretin receptor (SCTR), mRNA Query ID: lcl|Query_4466551 Length: 1356
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+AV230402:2322614993:2322614993:2:10305:3357:2934                                                  0          139    139   6%    4e-30 100.00 75         SRA:SRR345565... 
+AV230402:2322614993:2322614993:1:20804:1947:1046                                                  0          139    139   6%    4e-30 100.00 75         SRA:SRR345565... 
+AV230402:2322614993:2322614993:1:20801:3305:3248                                                  0          134    134   6%    2e-28 98.67  75         SRA:SRR345565... 
+AV230402:2322614993:2322614993:1:10201:1889:0471                                                  0          121    121   5%    1e-24 100.00 75         SRA:SRR345565... 
+AV230402:2322614993:2322614993:2:11004:1157:2374                                                  0          87.9   87.9  3%    2e-14 100.00 75         SRA:SRR345565... 
+AV230402:2322614993:2322614993:2:21301:4112:0501                                                  0          80.5   80.5  3%    3e-12 100.00 75         SRA:SRR345565... 
+AV230402:2322614993:2322614993:1:20301:0226:0808                                                  0          75.0   75.0  3%    1e-10 100.00 75         SRA:SRR345565... 
+
+
+Alignments:
+
+>AV230402:2322614993:2322614993:2:10305:3357:2934
+Sequence ID: SRA:SRR34556526.7326830.1 Length: 75
+Range 1: 1 to 75
+
+Score:139 bits(75), Expect:4e-30, 
+Identities:75/75(100%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  1271  GCAACGGCACCAGCGGCCTCACCCACAGCACCAAGGCCAGCCCTTCGGAGCCGAGCCCAG  1330
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1     GCAACGGCACCAGCGGCCTCACCCACAGCACCAAGGCCAGCCCTTCGGAGCCGAGCCCAG  60
+
+Query  1331  GCACCTGCAGGGCCA  1345
+             |||||||||||||||
+Sbjct  61    GCACCTGCAGGGCCA  75
+
+
+
+
+>AV230402:2322614993:2322614993:1:20804:1947:1046
+Sequence ID: SRA:SRR34556523.1699959.1 Length: 75
+Range 1: 1 to 75
+
+Score:139 bits(75), Expect:4e-30, 
+Identities:75/75(100%),  Gaps:0/75(0%), Strand: Plus/Minus
+
+Query  983   AAGAAACAAGAGGAAATGAAGTAAACCATTTTAAGCGTCTGGCCAAGTCCACCCTCCTGC  1042
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  75    AAGAAACAAGAGGAAATGAAGTAAACCATTTTAAGCGTCTGGCCAAGTCCACCCTCCTGC  16
+
+Query  1043  TGATCCCTCTCTTTG  1057
+             |||||||||||||||
+Sbjct  15    TGATCCCTCTCTTTG  1
+
+
+
+
+>AV230402:2322614993:2322614993:1:20801:3305:3248
+Sequence ID: SRA:SRR34556524.2318995.1 Length: 75
+Range 1: 1 to 75
+
+Score:134 bits(72), Expect:2e-28, 
+Identities:74/75(99%),  Gaps:0/75(0%), Strand: Plus/Plus
+
+Query  1212  GCGGCAGTGGCACCTGCCTGAGTTCCTACTGTGCCCCGTGGCCTTCAGCGACTCCTTCAG  1271
+             ||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  1     GCGGCAGTGGCACCTGCCTGAGTTCCTACTGTGCCCCGTGGCCTTCAGCAACTCCTTCAG  60
+
+Query  1272  CAACGGCACCAGCGG  1286
+             |||||||||||||||
+Sbjct  61    CAACGGCACCAGCGG  75
+
+
+
+
+>AV230402:2322614993:2322614993:1:10201:1889:0471
+Sequence ID: SRA:SRR34556524.201598.1 Length: 75
+Range 1: 11 to 75
+
+Score:121 bits(65), Expect:1e-24, 
+Identities:65/65(100%),  Gaps:0/65(0%), Strand: Plus/Plus
+
+Query  1184  AGGTACAGCTGGAGGTTCAGAAGAAGTGGCGGCAGTGGCACCTGCCTGAGTTCCTACTGT  1243
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  11    AGGTACAGCTGGAGGTTCAGAAGAAGTGGCGGCAGTGGCACCTGCCTGAGTTCCTACTGT  70
+
+Query  1244  GCCCC  1248
+             |||||
+Sbjct  71    GCCCC  75
+
+
+
+
+>AV230402:2322614993:2322614993:2:11004:1157:2374
+Sequence ID: SRA:SRR34556526.9461653.1 Length: 75
+Range 1: 28 to 74
+
+Score:87.9 bits(47), Expect:2e-14, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1141  CAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGT  1187
+             |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  28    CAGGGCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGT  74
+
+
+
+
+>AV230402:2322614993:2322614993:2:21301:4112:0501
+Sequence ID: SRA:SRR34556524.11337134.1 Length: 75
+Range 1: 1 to 43
+
+Score:80.5 bits(43), Expect:3e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Plus
+
+Query  1145  GCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGT  1187
+             |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1     GCCTGGTGGTGGCTGTCCTCTACTGCTTCCTCAATGGGGAGGT  43
+
+
+
+
+>AV230402:2322614993:2322614993:1:20301:0226:0808
+Sequence ID: SRA:SRR34556526.522710.1 Length: 75
+Range 1: 36 to 75
+
+Score:75.0 bits(40), Expect:1e-10, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Plus
+
+Query  1184  AGGTACAGCTGGAGGTTCAGAAGAAGTGGCGGCAGTGGCA  1223
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  36    AGGTACAGCTGGAGGTTCAGAAGAAGTGGCGGCAGTGGCA  75
+
+
+
+
+
+
+
+		
+
+

@@ -1,0 +1,518 @@
+RID: NC9VZFRP016	
+Job Title:XM_007938163.2 PREDICTED: Orycteropus afer...				
+Program: BLASTN 
+Database: Genome (OryAfe1.0) OryAfe1.0 RefSeq assembly [GCF_000298275.1]
+Query #1: XM_007938163.2 PREDICTED: Orycteropus afer afer secretin receptor (SCTR), mRNA Query ID: lcl|Query_2597943 Length: 1341
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    314    2497  100%  3e-82 98.89  35520712   NW_006921591.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    93.3   300   24%   5e-16 90.91  5330780    NW_006921837.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    92.4   146   12%   2e-15 79.61  4283029    NW_006921898.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    81.5   270   19%   3e-12 75.42  26637743   NW_006921595.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    76.1   135   12%   1e-10 76.77  4968996    NW_006921858.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    74.3   122   10%   5e-10 79.52  13420349   NW_006921646.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    57.2   57.2  4%    4e-05 84.31  38460149   NW_006921589.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    55.4   55.4  4%    1e-04 81.82  22291249   NW_006921605.1   
+Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced...      Orycteropus ... NA              1230840    50.9   50.9  3%    0.005 91.43  19208098   NW_006921617.1   
+
+
+Alignments:
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00004, whole genome shotgun sequence
+Sequence ID: NW_006921591.1 Length: 35520712
+Range 1: 15568982 to 15569161
+
+Score:314 bits(347), Expect:3e-82, 
+Identities:178/180(99%),  Gaps:2/180(1%), Strand: Plus/Minus
+
+Query  1164      TGGGGA--GGTGCAGCTGGAGGTTCAGAAGAAGTGGCAGCAGTGGCACCTCCGTGAGTTC  1221
+                 ||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15569161  TGGGGACAGGTGCAGCTGGAGGTTCAGAAGAAGTGGCAGCAGTGGCACCTCCGTGAGTTC  15569102
+
+Query  1222      CCCCTGCGCCCCATGATGCCCAGCTCCTCCTTCAGCAATGGCACTAGTGCCCTCACCCAC  1281
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15569101  CCCCTGCGCCCCATGATGCCCAGCTCCTCCTTCAGCAATGGCACTAGTGCCCTCACCCAC  15569042
+
+Query  1282      AGCACGAAGGCTAGCCCCTCAGAGCAAAGCTGGGGCACCTGCTGAGCCAGTGTCATCTGA  1341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15569041  AGCACGAAGGCTAGCCCCTCAGAGCAAAGCTGGGGCACCTGCTGAGCCAGTGTCATCTGA  15568982
+
+
+
+
+Range 2: 15610534 to 15610690
+
+Score:284 bits(314), Expect:1e-73, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  624       GGTGGGCTGCAAGCTTGTCATGGTCTTCTTCCAGTACTGCATCGTGGCAAATTACACCTG  683
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15610690  GGTGGGCTGCAAGCTTGTCATGGTCTTCTTCCAGTACTGCATCGTGGCAAATTACACCTG  15610631
+
+Query  684       GTTGCTAGTAGAAGGCCTCTACCTCCACACACTCCTGGTTATCTCCTTCTTCTCTGAGAG  743
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15610630  GTTGCTAGTAGAAGGCCTCTACCTCCACACACTCCTGGTTATCTCCTTCTTCTCTGAGAG  15610571
+
+Query  744       GAAGTGCCTCCAGGGATTTGTTGCCCTTGGATGGGGT  780
+                 |||||||||||||||||||||||||||||||||||||
+Sbjct  15610570  GAAGTGCCTCCAGGGATTTGTTGCCCTTGGATGGGGT  15610534
+
+
+
+
+Range 3: 15613029 to 15613168
+
+Score:249 bits(275), Expect:1e-62, 
+Identities:139/140(99%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  487       TTCCGGAGGCTTCACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATT  546
+                 ||| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15613168  TTCAGGAGGCTTCACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATT  15613109
+
+Query  547       CTGCGTGCCATCTCCAACTTCATCAAGGATGCTGTGCTCTTCTCCTCGGATGATGTCACC  606
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15613108  CTGCGTGCCATCTCCAACTTCATCAAGGATGCTGTGCTCTTCTCCTCGGATGATGTCACC  15613049
+
+Query  607       TACTGTGATGCCCACAGGGT  626
+                 ||||||||||||||||||||
+Sbjct  15613048  TACTGTGATGCCCACAGGGT  15613029
+
+
+
+
+Range 4: 15577542 to 15577672
+
+Score:233 bits(257), Expect:8e-58, 
+Identities:130/131(99%),  Gaps:0/131(0%), Strand: Plus/Minus
+
+Query  999       CAAGCGGCTGGCCAAGTCCACCCTGCTGCTGATCCCCCTCTTTGGAGTCCACTACATCAT  1058
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15577672  CAGGCGGCTGGCCAAGTCCACCCTGCTGCTGATCCCCCTCTTTGGAGTCCACTACATCAT  15577613
+
+Query  1059      CTTTGCCTTCTCCCCAGAGGATGCCATGGAGATCCAGCTGTTTTTTGAATTGGCCCTTGG  1118
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15577612  CTTTGCCTTCTCCCCAGAGGATGCCATGGAGATCCAGCTGTTTTTTGAATTGGCCCTTGG  15577553
+
+Query  1119      CTCCTTCCAGG  1129
+                 |||||||||||
+Sbjct  15577552  CTCCTTCCAGG  15577542
+
+
+
+
+Range 5: 15670417 to 15670538
+
+Score:221 bits(244), Expect:1e-54, 
+Identities:122/122(100%),  Gaps:0/122(0%), Strand: Plus/Minus
+
+Query  61        GTTGGACCCCTTCCTCGACTATGTGATGTGCTCCAGGTACTGTGGGCAGAGCGAGACCAG  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15670538  GTTGGACCCCTTCCTCGACTATGTGATGTGCTCCAGGTACTGTGGGCAGAGCGAGACCAG  15670479
+
+Query  121       TGCCTGCAAGATCTCTCCAGGGAGTGGACAGAAGACCTGCGCAAGGAGCAGCCAACACCA  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15670478  TGCCTGCAAGATCTCTCCAGGGAGTGGACAGAAGACCTGCGCAAGGAGCAGCCAACACCA  15670419
+
+Query  181       GG  182
+                 ||
+Sbjct  15670418  GG  15670417
+
+
+
+
+Range 6: 15633063 to 15633178
+
+Score:205 bits(227), Expect:1e-49, 
+Identities:115/116(99%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  176       CACCAGGCTGTGAGGGACTGTGGGACAACATGAGTTGCTGGCCCTCCACCACACCAGGCC  235
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15633178  CAGCAGGCTGTGAGGGACTGTGGGACAACATGAGTTGCTGGCCCTCCACCACACCAGGCC  15633119
+
+Query  236       AGACCGTGGAAGTGGATTGTCCGCGATTCCTCCAGATGCTCACAGGCAGAAATGGT  291
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15633118  AGACCGTGGAAGTGGATTGTCCGCGATTCCTCCAGATGCTCACAGGCAGAAATGGT  15633063
+
+
+
+
+Range 7: 15624324 to 15624428
+
+Score:190 bits(210), Expect:2e-45, 
+Identities:105/105(100%),  Gaps:0/105(0%), Strand: Plus/Minus
+
+Query  289       GGTTCCATATTTCGAAACTGTACACAAGACGGCTGGTCTGAAACCTTCCCCAAGCCCGAC  348
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15624428  GGTTCCATATTTCGAAACTGTACACAAGACGGCTGGTCTGAAACCTTCCCCAAGCCCGAC  15624369
+
+Query  349       GTGGCCTGTGGGGTTAACGTGAATGACTTGTCCAATGAGAAGCGG  393
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15624368  GTGGCCTGTGGGGTTAACGTGAATGACTTGTCCAATGAGAAGCGG  15624324
+
+
+
+
+Range 8: 15616241 to 15616343
+
+Score:182 bits(201), Expect:1e-42, 
+Identities:102/103(99%),  Gaps:0/103(0%), Strand: Plus/Minus
+
+Query  390       GCGGCACACATACCTGCTGAAGCTGAAAGTCATGTACACCGTGGGCTACAGCTCCTCCCT  449
+                 || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15616343  GCAGCACACATACCTGCTGAAGCTGAAAGTCATGTACACCGTGGGCTACAGCTCCTCCCT  15616284
+
+Query  450       GGTGATGCTCCTGGTTGCCCTCAGCATCCTCTGTGCTTTCCGG  492
+                 |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15616283  GGTGATGCTCCTGGTTGCCCTCAGCATCCTCTGTGCTTTCCGG  15616241
+
+
+
+
+Range 9: 15584829 to 15584922
+
+Score:170 bits(188), Expect:2e-39, 
+Identities:94/94(100%),  Gaps:0/94(0%), Strand: Plus/Minus
+
+Query  909       GATTAATTTCATCCTTTTTATAAACATTCTAAGAATCCTGATGAAAAAACTTAGAACCCA  968
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15584922  GATTAATTTCATCCTTTTTATAAACATTCTAAGAATCCTGATGAAAAAACTTAGAACCCA  15584863
+
+Query  969       GGAAACAAGAGGAAATGAAGTGCACCATTACAAG  1002
+                 ||||||||||||||||||||||||||||||||||
+Sbjct  15584862  GGAAACAAGAGGAAATGAAGTGCACCATTACAAG  15584829
+
+
+
+
+Range 10: 15597545 to 15597615
+
+Score:129 bits(142), Expect:7e-27, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  839       GGTGCTGGGACATCAATGCCAATGCATCTGTCTGGTGGGTCATCCGAGGTCCTGTGATCC  898
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15597615  GGTGCTGGGACATCAATGCCAATGCATCTGTCTGGTGGGTCATCCGAGGTCCTGTGATCC  15597556
+
+Query  899       TCACTATCCTG  909
+                 |||||||||||
+Sbjct  15597555  TCACTATCCTG  15597545
+
+
+
+
+Range 11: 15598869 to 15598932
+
+Score:116 bits(128), Expect:4e-23, 
+Identities:64/64(100%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  778       GGTTCCCCAGCTATCTTTGTTACTTCGTGGGCTATCACCAGGCACTTTCTGGAAGATGTT  837
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15598932  GGTTCCCCAGCTATCTTTGTTACTTCGTGGGCTATCACCAGGCACTTTCTGGAAGATGTT  15598873
+
+Query  838       GGGT  841
+                 ||||
+Sbjct  15598872  GGGT  15598869
+
+
+
+
+Range 12: 15750747 to 15750808
+
+Score:113 bits(124), Expect:5e-22, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  1         ATGCGCCACCACCCGTTGTTGCCCTCGCTGCTTCTGCTGCTAGTCTGCGCCGCGCACCTT  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15750808  ATGCGCCACCACCCGTTGTTGCCCTCGCTGCTTCTGCTGCTAGTCTGCGCCGCGCACCTT  15750749
+
+Query  61        GT  62
+                 ||
+Sbjct  15750748  GT  15750747
+
+
+
+
+Range 13: 15572096 to 15572142
+
+Score:86.0 bits(94), Expect:7e-14, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1127      AGGGCCTGGTGGTGGCCATCCTCTACTGCTTCCTCAATGGGGAGGTG  1173
+                 |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  15572142  AGGGCCTGGTGGTGGCCATCCTCTACTGCTTCCTCAATGGGGAGGTG  15572096
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00250, whole genome shotgun sequence
+Sequence ID: NW_006921837.1 Length: 5330780
+Range 1: 3837563 to 3837628
+
+Score:93.3 bits(102), Expect:5e-16, 
+Identities:60/66(91%),  Gaps:0/66(0%), Strand: Plus/Minus
+
+Query  1004     GGCTGGCCAAGTCCACCCTGCTGCTGATCCCCCTCTTTGGAGTCCACTACATCATCTTTG  1063
+                |||||||||||||||| || |||||||||||||| ||||||||||||||||| || || |
+Sbjct  3837628  GGCTGGCCAAGTCCACACTCCTGCTGATCCCCCTGTTTGGAGTCCACTACATTATGTTCG  3837569
+
+Query  1064     CCTTCT  1069
+                ||||||
+Sbjct  3837568  CCTTCT  3837563
+
+
+
+
+Range 2: 3841733 to 3841854
+
+Score:76.1 bits(83), Expect:1e-10, 
+Identities:92/125(74%),  Gaps:3/125(2%), Strand: Plus/Minus
+
+Query  624      GGTGGGCTGCAAGCTTGTCATGGTCTTCTTCCAGTACTGCATCGTGGCAAATTACACCTG  683
+                ||||||||| |||   | | | ||||| |||||||||||  |  |||| || | |  |||
+Sbjct  3841854  GGTGGGCTGTAAGGCAGCCGTTGTCTTATTCCAGTACTGTGTGATGGCCAACTTCTTCTG  3841795
+
+Query  684      GTTGCTAGTAGAAGGCCTCTACCTCCACACACTCCTGGTTATCTCCTTCTTCTCTGAGAG  743
+                | |||| || || || |||||||| |||||  | || |   ||||   ||||||||||||
+Sbjct  3841794  GCTGCTGGTGGAGGGACTCTACCTACACACCTTGCTTGCAGTCTC---CTTCTCTGAGAG  3841738
+
+Query  744      GAAGT  748
+                |||||
+Sbjct  3841737  GAAGT  3841733
+
+
+
+
+Range 3: 3837225 to 3837273
+
+Score:67.1 bits(73), Expect:7e-08, 
+Identities:44/49(90%),  Gaps:0/49(0%), Strand: Plus/Minus
+
+Query  1124     TCCAGGGCCTGGTGGTGGCCATCCTCTACTGCTTCCTCAATGGGGAGGT  1172
+                |||||||  | |||||||||||||| ||||||||||||||||| |||||
+Sbjct  3837273  TCCAGGGTTTTGTGGTGGCCATCCTATACTGCTTCCTCAATGGTGAGGT  3837225
+
+
+
+
+Range 4: 3844258 to 3844342
+
+Score:64.4 bits(70), Expect:2e-07, 
+Identities:65/85(76%),  Gaps:0/85(0%), Strand: Plus/Minus
+
+Query  491      GGAGGCTTCACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATTCTGC  550
+                ||| ||| ||||||||  | ||||| ||||||||||| || ||  |||||||||| ||| 
+Sbjct  3844342  GGAAGCTCCACTGCACGAGGAACTACATCCACATGCACCTCTTCATGTCCTTCATCCTGA  3844283
+
+Query  551      GTGCCATCTCCAACTTCATCAAGGA  575
+                | ||   | ||  ||||||||| ||
+Sbjct  3844282  GGGCTGCCGCCGTCTTCATCAAAGA  3844258
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00311, whole genome shotgun sequence
+Sequence ID: NW_006921898.1 Length: 4283029
+Range 1: 2156973 to 2157075
+
+Score:92.4 bits(101), Expect:2e-15, 
+Identities:82/103(80%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  488      TCCGGAGGCTTCACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATTC  547
+                || ||||||| |||||||| |||||||| ||||||||||| |||||  |||||||||| |
+Sbjct  2156973  TCAGGAGGCTGCACTGCACACGCAACTACATCCACATGCACCTGTTCCTGTCCTTCATGC  2157032
+
+Query  548      TGCGTGCCATCTCCAACTTCATCAAGGATGCTGTGCTCTTCTC  590
+                |||| ||  |   || |||  |||| ||||| || |||| |||
+Sbjct  2157033  TGCGAGCGGTGAGCATCTTTGTCAAAGATGCAGTACTCTACTC  2157075
+
+
+
+
+Range 2: 2160889 to 2160945
+
+Score:54.5 bits(59), Expect:4e-04, 
+Identities:46/57(81%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  1005     GCTGGCCAAGTCCACCCTGCTGCTGATCCCCCTCTTTGGAGTCCACTACATCATCTT  1061
+                ||||  ||| ||||| ||| |||| || || |||||||| |||||||||||  ||||
+Sbjct  2160889  GCTGCTCAAATCCACGCTGGTGCTCATGCCGCTCTTTGGCGTCCACTACATTGTCTT  2160945
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00008, whole genome shotgun sequence
+Sequence ID: NW_006921595.1 Length: 26637743
+Range 1: 2138514 to 2138631
+
+Score:81.5 bits(89), Expect:3e-12, 
+Identities:89/118(75%),  Gaps:3/118(2%), Strand: Plus/Minus
+
+Query  1015     TCCACCCTGCTGCTGATCCCCCTCTTTGGAGTCCACTACATCATCTTTGCCTTCTCCCCA  1074
+                ||||| |||||||| ||||| || |||||| |||||||||   |||| ||||||||||||
+Sbjct  2138631  TCCACTCTGCTGCTCATCCCACTATTTGGAATCCACTACACAGTCTTCGCCTTCTCCCCA  2138572
+
+Query  1075     GAGGATGCCATGGAGATCCAG---CTGTTTTTTGAATTGGCCCTTGGCTCCTTCCAGG  1129
+                ||| | | ||   |||   ||   ||  | |||||  |||  || |||||||||||||
+Sbjct  2138571  GAGAACGTCAGCAAGAGGGAGAGACTCGTGTTTGAGCTGGGGCTGGGCTCCTTCCAGG  2138514
+
+
+
+
+Range 2: 2157665 to 2157749
+
+Score:77.9 bits(85), Expect:4e-11, 
+Identities:68/85(80%),  Gaps:0/85(0%), Strand: Plus/Minus
+
+Query  491      GGAGGCTTCACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATTCTGC  550
+                ||| ||| |||||||| |||||||  ||||| ||| | ||||||||||| |||||  || 
+Sbjct  2157749  GGAAGCTGCACTGCACTCGCAACTTCATCCATATGAACCTGTTTGTGTCGTTCATGTTGA  2157690
+
+Query  551      GTGCCATCTCCAACTTCATCAAGGA  575
+                | || ||||||  ||||||||| ||
+Sbjct  2157689  GGGCGATCTCCGTCTTCATCAAAGA  2157665
+
+
+
+
+Range 3: 2296711 to 2296774
+
+Score:62.6 bits(68), Expect:8e-07, 
+Identities:52/64(81%),  Gaps:0/64(0%), Strand: Plus/Minus
+
+Query  999      CAAGCGGCTGGCCAAGTCCACCCTGCTGCTGATCCCCCTCTTTGGAGTCCACTACATCAT  1058
+                || ||| ||  ||||||| ||||| || || ||||| || |||||| | |||||||||||
+Sbjct  2296774  CAGGCGTCTCTCCAAGTCAACCCTTCTTCTCATCCCTCTGTTTGGAATTCACTACATCAT  2296715
+
+Query  1059     CTTT  1062
+                ||||
+Sbjct  2296714  CTTT  2296711
+
+
+
+
+Range 4: 2136361 to 2136406
+
+Score:48.2 bits(52), Expect:0.018, 
+Identities:38/46(83%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1127     AGGGCCTGGTGGTGGCCATCCTCTACTGCTTCCTCAATGGGGAGGT  1172
+                ||||| | ||||||||  | |||||||| || || |||||||||||
+Sbjct  2136406  AGGGCTTTGTGGTGGCTGTTCTCTACTGTTTTCTGAATGGGGAGGT  2136361
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00271, whole genome shotgun sequence
+Sequence ID: NW_006921858.1 Length: 4968996
+Range 1: 941900 to 941998
+
+Score:76.1 bits(83), Expect:1e-10, 
+Identities:76/99(77%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  624     GGTGGGCTGCAAGCTTGTCATGGTCTTCTTCCAGTACTGCATCGTGGCAAATTACACCTG  683
+               ||| |||||||||||     |||| |||||||||||||||||| ||||||| |     ||
+Sbjct  941998  GGTTGGCTGCAAGCTGAGTTTGGTGTTCTTCCAGTACTGCATCATGGCAAACTTTTATTG  941939
+
+Query  684     GTTGCTAGTAGAAGGCCTCTACCTCCACACACTCCTGGT  722
+               | |  |||| ||||| || |||||||| || ||||| ||
+Sbjct  941938  GCTCTTAGTGGAAGGACTTTACCTCCATACCCTCCTTGT  941900
+
+
+
+
+Range 2: 932116 to 932177
+
+Score:59.0 bits(64), Expect:1e-05, 
+Identities:50/62(81%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  1004    GGCTGGCCAAGTCCACCCTGCTGCTGATCCCCCTCTTTGGAGTCCACTACATCATCTTTG  1063
+               |||||||||||||||| ||||| || |||||  | ||||| || ||||| ||  | ||||
+Sbjct  932177  GGCTGGCCAAGTCCACACTGCTACTCATCCCATTGTTTGGGGTTCACTATATGGTGTTTG  932118
+
+Query  1064    CC  1065
+               ||
+Sbjct  932117  CC  932116
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00059, whole genome shotgun sequence
+Sequence ID: NW_006921646.1 Length: 13420349
+Range 1: 8750343 to 8750425
+
+Score:74.3 bits(81), Expect:5e-10, 
+Identities:66/83(80%),  Gaps:0/83(0%), Strand: Plus/Plus
+
+Query  496      CTTCACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATTCTGCGTGCC  555
+                || ||||||||||| ||||| || ||| || | |||||||  ||||||||||| || || 
+Sbjct  8750343  CTACACTGCACCCGGAACTACATTCACCTGAACCTGTTTGCATCCTTCATTCTCCGAGCT  8750402
+
+Query  556      ATCTCCAACTTCATCAAGGATGC  578
+                 | ||   |||||||||||||||
+Sbjct  8750403  TTGTCTGTCTTCATCAAGGATGC  8750425
+
+
+
+
+Range 2: 8757391 to 8757441
+
+Score:48.2 bits(52), Expect:0.018, 
+Identities:41/51(80%),  Gaps:0/51(0%), Strand: Plus/Plus
+
+Query  1122     CTTCCAGGGCCTGGTGGTGGCCATCCTCTACTGCTTCCTCAATGGGGAGGT  1172
+                ||| ||||| ||| ||||||||||| | ||||||||  ||||  | |||||
+Sbjct  8757391  CTTTCAGGGGCTGATGGTGGCCATCTTGTACTGCTTTGTCAACAGTGAGGT  8757441
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00002, whole genome shotgun sequence
+Sequence ID: NW_006921589.1 Length: 38460149
+Range 1: 23746905 to 23746955
+
+Score:57.2 bits(62), Expect:4e-05, 
+Identities:43/51(84%),  Gaps:0/51(0%), Strand: Plus/Minus
+
+Query  499       CACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATTCTG  549
+                 || |||||| | |||||||||||||||||  | |||||||| ||||| |||
+Sbjct  23746955  CATTGCACCAGGAACTATATCCACATGCACTTATTTGTGTCTTTCATGCTG  23746905
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00018, whole genome shotgun sequence
+Sequence ID: NW_006921605.1 Length: 22291249
+Range 1: 1488303 to 1488357
+
+Score:55.4 bits(60), Expect:1e-04, 
+Identities:45/55(82%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  495      GCTTCACTGCACCCGCAACTATATCCACATGCATCTGTTTGTGTCCTTCATTCTG  549
+                ||| ||||||||||| ||||| ||||||||  | |||||||  |||||| | |||
+Sbjct  1488357  GCTGCACTGCACCCGAAACTACATCCACATCAACCTGTTTGCTTCCTTCGTGCTG  1488303
+
+
+
+
+>Orycteropus afer afer isolate SDZICR_OR568_19922 unplaced genomic scaffold, OryAfe1.0 scaffold00030, whole genome shotgun sequence
+Sequence ID: NW_006921617.1 Length: 19208098
+Range 1: 627919 to 627953
+
+Score:50.9 bits(55), Expect:0.005, 
+Identities:32/35(91%),  Gaps:0/35(0%), Strand: Plus/Minus
+
+Query  963     AACCCAGGAAACAAGAGGAAATGAAGTGCACCATT  997
+               |||| | |||||||| |||||||||||||||||||
+Sbjct  627953  AACCAAAGAAACAAGTGGAAATGAAGTGCACCATT  627919
+
+
+
+
+
+
+
+		
+
+

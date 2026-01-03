@@ -1,0 +1,38 @@
+RID: NENU1X1X014	
+Job Title:XM_076152433.1 PREDICTED: Genypterus blacodes...				
+Program: BLASTN 
+Database: SRA 
+Query #1: XM_076152433.1 PREDICTED: Genypterus blacodes secretin receptor (sctr), mRNA Query ID: lcl|Query_7110407 Length: 1365
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+SRX1056881                                                                                        0          59.9   59.9  7%    1e-06 73.68  251        SRA:SRR206084... 
+
+
+Alignments:
+
+>SRX1056881
+Sequence ID: SRA:SRR2060847.1123703.1 Length: 251
+Range 1: 1 to 95
+
+Score:59.9 bits(65), Expect:1e-06, 
+Identities:70/95(74%),  Gaps:0/95(0%), Strand: Plus/Minus
+
+Query  1114  GAGCTGGCACTGTCCTCCGTACAGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAAT  1173
+             || ||||  |||  |||| | |||||  | ||||| || ||||||||||||||| | || 
+Sbjct  95    GATCTGGGCCTGGGCTCCTTCCAGGGCCTGGTGGTGGCGATCCTCTACTGCTTCCTCAAC  36
+
+Query  1174  GGAGAGGTGCAGAATGAGATCCAGAGGAGGTGGAG  1208
+              | ||||| |||  |||| |   ||||| ||||||
+Sbjct  35    AGCGAGGTCCAGTGTGAGCTGAGGAGGATGTGGAG  1
+
+
+
+
+
+
+
+		
+
+

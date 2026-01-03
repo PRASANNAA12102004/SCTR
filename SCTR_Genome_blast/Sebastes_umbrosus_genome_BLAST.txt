@@ -1,0 +1,610 @@
+RID: NEHWDXEC016	
+Job Title:XM_037761750.1:1-1380 PREDICTED: Sebastes...				
+Program: BLASTN 
+Database: Genome (fSebUmb1.pri) fSebUmb1.pri RefSeq assembly [GCF_015220745.1]
+Query #1: XM_037761750.1:1-1380 PREDICTED: Sebastes umbrosus secretin receptor (LOC119483535), mRNA Query ID: lcl|Query_8135441 Length: 1380
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Sebastes umbrosus isolate fSebUmb1 chromosome 24, fSebUmb1.pri... Sebastes umb... honeycomb ro... 72105      340    2553  100%  4e-91 100.00 16640398   NC_051292.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 12, fSebUmb1.pri... Sebastes umb... honeycomb ro... 72105      81.5   505   20%   6e-13 81.71  34196205   NC_051280.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 3, fSebUmb1.pri,... Sebastes umb... honeycomb ro... 72105      77.9   77.9  7%    7e-12 77.89  41172918   NC_051271.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 20, fSebUmb1.pri... Sebastes umb... honeycomb ro... 72105      77.0   122   7%    7e-12 85.07  27725676   NC_051288.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 5, fSebUmb1.pri,... Sebastes umb... honeycomb ro... 72105      74.3   262   12%   9e-11 73.17  38607003   NC_051273.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 7, fSebUmb1.pri,... Sebastes umb... honeycomb ro... 72105      68.9   68.9  7%    4e-09 75.79  36146424   NC_051275.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 21, fSebUmb1.pri... Sebastes umb... honeycomb ro... 72105      68.0   216   15%   4e-09 75.26  27312080   NC_051289.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 14, fSebUmb1.pri... Sebastes umb... honeycomb ro... 72105      65.3   65.3  7%    4e-08 75.27  32625488   NC_051282.1      
+Sebastes umbrosus isolate fSebUmb1 chromosome 18, fSebUmb1.pri... Sebastes umb... honeycomb ro... 72105      50.9   50.9  3%    0.001 84.44  29458520   NC_051286.1      
+
+
+Alignments:
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 24, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051292.1 Length: 16640398
+Range 1: 4894763 to 4894950
+
+Score:340 bits(376), Expect:4e-91, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Minus
+
+Query  1193     AGGTGCAGCAAGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCAGCACCTCCCCA  1252
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4894950  AGGTGCAGCAAGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCAGCACCTCCCCA  4894891
+
+Query  1253     GTCGGCGCAGGCAGCAACACGGCTCTATCAGCCACAGCGGGTCTCCCCACACACAGGTTT  1312
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4894890  GTCGGCGCAGGCAGCAACACGGCTCTATCAGCCACAGCGGGTCTCCCCACACACAGGTTT  4894831
+
+Query  1313     CCCTGCTGCCCTGCTCTCCAGGCAGCCCGACAACCAGCGGACTCCCCGTGGATACTGTGG  1372
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4894830  CCCTGCTGCCCTGCTCTCCAGGCAGCCCGACAACCAGCGGACTCCCCGTGGATACTGTGG  4894771
+
+Query  1373     AGATGTGA  1380
+                ||||||||
+Sbjct  4894770  AGATGTGA  4894763
+
+
+
+
+Range 2: 4896066 to 4896222
+
+Score:284 bits(314), Expect:3e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  636      GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4896222  GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  4896163
+
+Query  696      GCTGCTGGCGGAGGGCCACTTCCTCTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAA  755
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4896162  GCTGCTGGCGGAGGGCCACTTCCTCTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAA  4896103
+
+Query  756      GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGGT  792
+                |||||||||||||||||||||||||||||||||||||
+Sbjct  4896102  GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGGT  4896066
+
+
+
+
+Range 3: 4895156 to 4895295
+
+Score:253 bits(280), Expect:4e-65, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  1014     GCGGCTGATCAAATCCACATTTTTTCTGGTGGCTCTGTTTGGTCTGCATTACATCCTGTT  1073
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4895295  GCGGCTGATCAAATCCACATTTTTTCTGGTGGCTCTGTTTGGTCTGCATTACATCCTGTT  4895236
+
+Query  1074     TGTGTTCTTGCCCGTTGAAGTCAGCAGCTTGGTGTTTAAGATATGGACTTTTGCAGAGCT  1133
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4895235  TGTGTTCTTGCCCGTTGAAGTCAGCAGCTTGGTGTTTAAGATATGGACTTTTGCAGAGCT  4895176
+
+Query  1134     GGCTCTGTCATCCACGCAGG  1153
+                ||||||||||||||||||||
+Sbjct  4895175  GGCTCTGTCATCCACGCAGG  4895156
+
+
+
+
+Range 4: 4896330 to 4896469
+
+Score:249 bits(275), Expect:2e-63, 
+Identities:139/140(99%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  499      TTTAGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATC  558
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4896469  TTCAGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATC  4896410
+
+Query  559      CTGAGGGCCATCTTCATCTTCATCAGAGACTCTCTGCTATTTACTAATGAAGAGTTCTAC  618
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4896409  CTGAGGGCCATCTTCATCTTCATCAGAGACTCTCTGCTATTTACTAATGAAGAGTTCTAC  4896350
+
+Query  619      CACTGCGACTACTACCCGGT  638
+                ||||||||||||||||||||
+Sbjct  4896349  CACTGCGACTACTACCCGGT  4896330
+
+
+
+
+Range 5: 4897524 to 4897641
+
+Score:214 bits(236), Expect:4e-53, 
+Identities:118/118(100%),  Gaps:0/118(0%), Strand: Plus/Minus
+
+Query  171      AGAAAACAATATCAGTGTCCACTGTAAGGGAATGTGGGATGACCTGAACTGCTGGCCTCC  230
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4897641  AGAAAACAATATCAGTGTCCACTGTAAGGGAATGTGGGATGACCTGAACTGCTGGCCTCC  4897582
+
+Query  231      TGCGTCTCTTGGCGAAACCGTCTCTCAGCCGTGTCCAGACTTCTTCAGTTCGGATGGT  288
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4897581  TGCGTCTCTTGGCGAAACCGTCTCTCAGCCGTGTCCAGACTTCTTCAGTTCGGATGGT  4897524
+
+
+
+
+Range 6: 4896548 to 4896659
+
+Score:203 bits(224), Expect:7e-50, 
+Identities:112/112(100%),  Gaps:0/112(0%), Strand: Plus/Minus
+
+Query  392      AGTCCTCAGATTCCCATCTGTATTTCTCCTACGTAAAGACGATGTACACGGCCGGATACA  451
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4896659  AGTCCTCAGATTCCCATCTGTATTTCTCCTACGTAAAGACGATGTACACGGCCGGATACA  4896600
+
+Query  452      CGCTCTCTCTCATCACCCTCACCATCGCTGTCACCATATTCTGTCTGTTTAG  503
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4896599  CGCTCTCTCTCATCACCCTCACCATCGCTGTCACCATATTCTGTCTGTTTAG  4896548
+
+
+
+
+Range 7: 4896954 to 4897061
+
+Score:196 bits(216), Expect:1e-47, 
+Identities:108/108(100%),  Gaps:0/108(0%), Strand: Plus/Minus
+
+Query  286      GGTAAAGTGCATCGTAACTGCACCGCCAGTGGCTGGACAGACCCACTAATCCCACATGAA  345
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4897061  GGTAAAGTGCATCGTAACTGCACCGCCAGTGGCTGGACAGACCCACTAATCCCACATGAA  4897002
+
+Query  346      GATGCATGTGGCTACTCTTTCAATGAGGCGTTCCACTTTCTTGGAGAG  393
+                ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4897001  GATGCATGTGGCTACTCTTTCAATGAGGCGTTCCACTTTCTTGGAGAG  4896954
+
+
+
+
+Range 8: 4898426 to 4898526
+
+Score:183 bits(202), Expect:7e-44, 
+Identities:101/101(100%),  Gaps:0/101(0%), Strand: Plus/Minus
+
+Query  72       GGTAAAATCGTCATCAGGGTGTCATCCTCATGTTAGTCTTGTGAAAGAGGAAGAAAAGTG  131
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4898526  GGTAAAATCGTCATCAGGGTGTCATCCTCATGTTAGTCTTGTGAAAGAGGAAGAAAAGTG  4898467
+
+Query  132      CATGACAGACCTGCTACTTGTTAAGTCACACAAAGCAACAG  172
+                |||||||||||||||||||||||||||||||||||||||||
+Sbjct  4898466  CATGACAGACCTGCTACTTGTTAAGTCACACAAAGCAACAG  4898426
+
+
+
+
+Range 9: 4895430 to 4895522
+
+Score:168 bits(186), Expect:1e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  922      ATGAACCTCATCTTTTTCTTGGGCATTTTGAGGATACTGGTGAACAAACTCAGAATGCCG  981
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4895522  ATGAACCTCATCTTTTTCTTGGGCATTTTGAGGATACTGGTGAACAAACTCAGAATGCCG  4895463
+
+Query  982      GATGCACAGAGGAACGAATTCAGCCAGTATAAG  1014
+                |||||||||||||||||||||||||||||||||
+Sbjct  4895462  GATGCACAGAGGAACGAATTCAGCCAGTATAAG  4895430
+
+
+
+
+Range 10: 4895714 to 4895812
+
+Score:132 bits(146), Expect:1e-28, 
+Identities:91/101(90%),  Gaps:4/101(3%), Strand: Plus/Minus
+
+Query  851      GCTGTTGGGAAACCAGGAGACATGGATGGATTTGGTGGATACTTCGAGTGCCAGTGCTTC  910
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4895812  GCTGTTGGGAAACCAGGAGACATGGATGGATTTGGTGGATACTTCGAGTGCCAGTGCTTC  4895753
+
+Query  911      TGACTATATT--TATGAACCTCATCTTTTTCTTGGGCATTT  949
+                ||||||||||  ||  ||| |  |||||| |||  ||||||
+Sbjct  4895752  TGACTATATTTGTAAAAACTTTCTCTTTTACTT--GCATTT  4895714
+
+
+
+
+Range 11: 4898594 to 4898668
+
+Score:128 bits(141), Expect:4e-27, 
+Identities:74/75(99%),  Gaps:1/75(1%), Strand: Plus/Minus
+
+Query  1        ATGGAAAAAAGGAACCTGTCTGATACA-ACAATGAAAAAAGTTGGACTTCTTGGAGTGCT  59
+                ||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  4898668  ATGGAAAAAAGGAACCTGTCTGATACACACAATGAAAAAAGTTGGACTTCTTGGAGTGCT  4898609
+
+Query  60       GCTGTTACCCATGGT  74
+                |||||||||||||||
+Sbjct  4898608  GCTGTTACCCATGGT  4898594
+
+
+
+
+Range 12: 4895898 to 4895962
+
+Score:113 bits(125), Expect:1e-22, 
+Identities:64/65(98%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  790      GGTTTACCTGTGATTGTTATCGTCTCCTGGGGATGTGCCAAATATTTTTATGAAGACGAA  849
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4895962  GGTTTACCTGTGATTGTTATCGTCTCCTGGGGATGTGCCAAATATTTTTATGAAGACGAA  4895903
+
+Query  850      GGCTG  854
+                || ||
+Sbjct  4895902  GGGTG  4895898
+
+
+
+
+Range 13: 4895029 to 4895074
+
+Score:84.2 bits(92), Expect:5e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1151     AGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4895074  AGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  4895029
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 12, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051280.1 Length: 34196205
+Range 1: 12857394 to 12857475
+
+Score:81.5 bits(89), Expect:6e-13, 
+Identities:67/82(82%),  Gaps:0/82(0%), Strand: Plus/Plus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||||| ||||| |||||||||  ||| |||||  | ||||| || ||||||||||||
+Sbjct  12857394  AGGAAGCTCCACTGCACCAGGAACTTCATCCACATGAACCTGTTTGTGTCCTTCATCCTG  12857453
+
+Query  562       AGGGCCATCTTCATCTTCATCA  583
+                 || |||||||   |||||||||
+Sbjct  12857454  AGAGCCATCTCAGTCTTCATCA  12857475
+
+
+
+
+Range 2: 26999607 to 26999748
+
+Score:62.6 bits(68), Expect:2e-07, 
+Identities:101/143(71%),  Gaps:2/143(1%), Strand: Plus/Minus
+
+Query  636       GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                 |||||  || ||||  ||| || | |||| | | |||    || |||| |  |||  |||
+Sbjct  26999748  GGTGGGCTGCAAGGCAGTGGTGGTCTTCTTCCAGTACGGGGTCATGGCGAGTTACTTCTG  26999689
+
+Query  696       GCTGCTGGCGGAGGGCCACTTCCTCTTCACCCTGGTGAGCCGCT-CCTTCTTCTCCCTGA  754
+                 |||||||| |||||||| ||  |||  ||| ||| | ||||| | ||||||||||   ||
+Sbjct  26999688  GCTGCTGGTGGAGGGCCTCTATCTCCACACTCTGTT-AGCCGTTTCCTTCTTCTCTGAGA  26999630
+
+Query  755       AGAAGCACCTCGCCTGGTACATC  777
+                  |||| || |    |||||||||
+Sbjct  26999629  GGAAGTACTTGTGGTGGTACATC  26999607
+
+
+
+
+Range 3: 12877401 to 12877448
+
+Score:60.8 bits(66), Expect:5e-07, 
+Identities:42/48(88%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1149      GCAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 ||||||||||||||| ||  |||| ||||| |||||||| ||||||||
+Sbjct  12877448  GCAGGGTTTTGTGGTGGCACTGCTTTACTGTTTCATGAATGGAGAGGT  12877401
+
+
+
+
+Range 4: 27001465 to 27001525
+
+Score:57.2 bits(62), Expect:7e-06, 
+Identities:49/61(80%),  Gaps:0/61(0%), Strand: Plus/Minus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||||||||||| || || ||| |||| ||||| || ||||| || || ||||| |||
+Sbjct  27001525  AGGAAGCTGCACTGCACAAGAAACTACATCCACATGCATCTGTTTGTGTCTTTCATACTG  27001466
+
+Query  562       A  562
+                 |
+Sbjct  27001465  A  27001465
+
+
+
+
+Range 5: 26996665 to 26996711
+
+Score:54.5 bits(59), Expect:8e-05, 
+Identities:40/47(85%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1150      CAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 ||||||||||| || |||||  | ||||||||  |||||||||||||
+Sbjct  26996711  CAGGGTTTTGTTGTTGCTGTTTTGTACTGCTTTCTGAACGGAGAGGT  26996665
+
+
+
+
+Range 6: 12867264 to 12867310
+
+Score:50.0 bits(54), Expect:0.001, 
+Identities:39/47(83%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1150      CAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 ||||||||||| || || || |||||||| ||| | || ||||||||
+Sbjct  12867264  CAGGGTTTTGTCGTAGCGGTCCTCTACTGTTTCCTCAATGGAGAGGT  12867310
+
+
+
+
+Range 7: 31248765 to 31248858
+
+Score:49.1 bits(53), Expect:0.003, 
+Identities:67/94(71%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  636       GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                 |||||  ||||| | |   ||| |||| | | | |||| |||| |||| |||| |  |||
+Sbjct  31248765  GGTGGGATGTAAAGCCAGCCTGGTGTTTTTCCAGTACTTCATCATGGCCAACTTCTTCTG  31248824
+
+Query  696       GCTGCTGGCGGAGGGCCACTTCCTCTTCACCCTG  729
+                 ||||||||  ||||| |  | ||||  ||| |||
+Sbjct  31248825  GCTGCTGGTTGAGGGTCTGTACCTCCACACTCTG  31248858
+
+
+
+
+Range 8: 12859033 to 12859129
+
+Score:45.5 bits(49), Expect:0.041, 
+Identities:68/97(70%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  636       GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                 |||||||||||| |  ||| |||| |||| | | ||||   || || | ||||||  |||
+Sbjct  12859033  GGTGGCGTGTAAAGCAGTGATGATCTTCTTCCATTACTGTGTCATGTCCAACTACTTCTG  12859092
+
+Query  696       GCTGCTGGCGGAGGGCCACTTCCTCTTCACCCTGGTG  732
+                 |||| |    || || |  |  |||||||| ||| ||
+Sbjct  12859093  GCTGTTCATTGAAGGTCTGTATCTCTTCACTCTGCTG  12859129
+
+
+
+
+Range 9: 14087278 to 14087326
+
+Score:44.6 bits(48), Expect:0.041, 
+Identities:39/49(80%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1149      GCAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGTG  1197
+                 |||||| ||  | ||  | ||| | ||||||||| ||||||||||||||
+Sbjct  14087278  GCAGGGGTTCTTTGTGTCAGTGTTTTACTGCTTCCTGAACGGAGAGGTG  14087326
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 3, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051271.1 Length: 41172918
+Range 1: 28105496 to 28105590
+
+Score:77.9 bits(85), Expect:7e-12, 
+Identities:74/95(78%),  Gaps:0/95(0%), Strand: Plus/Minus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||||| |||||||  |||||| |||| |||||  | ||||| | |||||||||||||
+Sbjct  28105590  AGGAAGCTCCACTGTATGAGGAACAACATCCACATGAACCTGTTTGCCTCCTTCATCCTG  28105531
+
+Query  562       AGGGCCATCTTCATCTTCATCAGAGACTCTCTGCT  596
+                 || ||| | | |||| |  ||| |||| | |||||
+Sbjct  28105530  AGAGCCGTGTCCATCCTGGTCAAAGACGCCCTGCT  28105496
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 20, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051288.1 Length: 27725676
+Range 1: 2306616 to 2306682
+
+Score:77.0 bits(84), Expect:7e-12, 
+Identities:57/67(85%),  Gaps:0/67(0%), Strand: Plus/Plus
+
+Query  502      AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                || ||||| ||||||||||||||| ||||||||||  | ||||| || || |||||||||
+Sbjct  2306616  AGGAAGCTCCACTGTACCAGGAACTACATTCACATGAATCTGTTTGTGTCGTTCATCCTG  2306675
+
+Query  562      AGGGCCA  568
+                || ||||
+Sbjct  2306676  AGAGCCA  2306682
+
+
+
+
+Range 2: 11813577 to 11813608
+
+Score:45.5 bits(49), Expect:0.041, 
+Identities:29/32(91%),  Gaps:0/32(0%), Strand: Plus/Minus
+
+Query  1149      GCAGGGTTTTGTGGTCGCTGTGCTCTACTGCT  1180
+                 |||||| ||| |||| ||||||||||||||||
+Sbjct  11813608  GCAGGGCTTTCTGGTGGCTGTGCTCTACTGCT  11813577
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 5, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051273.1 Length: 38607003
+Range 1: 27906657 to 27906779
+
+Score:74.3 bits(81), Expect:9e-11, 
+Identities:90/123(73%),  Gaps:0/123(0%), Strand: Plus/Minus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||| | ||||| ||||||||| |||| |||||| |  ||||| ||||||||||||||
+Sbjct  27906779  AGGAAGTTTCACTGCACCAGGAACTACATCCACATCAACTTGTTCTTCTCCTTCATCCTG  27906720
+
+Query  562       AGGGCCATCTTCATCTTCATCAGAGACTCTCTGCTATTTACTAATGAAGAGTTCTACCAC  621
+                 || || |    | ||||||| | |||     | || ||| || ||||| |  |  |||||
+Sbjct  27906719  AGAGCGAGTGCCGTCTTCATTAAAGATGGCGTTCTTTTTTCTGATGAAAACCTGGACCAC  27906660
+
+Query  622       TGC  624
+                 |||
+Sbjct  27906659  TGC  27906657
+
+
+
+
+Range 2: 27885904 to 27885990
+
+Score:71.6 bits(78), Expect:3e-10, 
+Identities:70/88(80%),  Gaps:2/88(2%), Strand: Plus/Plus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || |||||||||||||||||||||  ||| |||||  | || || || || |||||  ||
+Sbjct  27885904  AGGAAGCTGCACTGTACCAGGAACTTCATCCACATGAACCTATTTGTGTCGTTCATATTG  27885963
+
+Query  562       AGGGCCATCTTCA-TCTTCATCAGAGAC  588
+                 || || || |||| ||||||||| ||||
+Sbjct  27885964  AGAGCTAT-TTCAGTCTTCATCAAAGAC  27885990
+
+
+
+
+Range 3: 27888198 to 27888244
+
+Score:59.0 bits(64), Expect:2e-06, 
+Identities:41/47(87%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1150      CAGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 ||||| ||||| || ||||| |||||||||||| |||| ||||||||
+Sbjct  27888198  CAGGGCTTTGTCGTGGCTGTCCTCTACTGCTTCCTGAATGGAGAGGT  27888244
+
+
+
+
+Range 4: 18580165 to 18580220
+
+Score:57.2 bits(62), Expect:7e-06, 
+Identities:46/56(82%),  Gaps:0/56(0%), Strand: Plus/Plus
+
+Query  507       GCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTGA  562
+                 ||||| |||| ||||||||  |||||||||||| || ||| || | || |||||||
+Sbjct  18580165  GCTGCGCTGTGCCAGGAACTTCATTCACATCCAACTTTTCATCACATTTATCCTGA  18580220
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 7, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051275.1 Length: 36146424
+Range 1: 31236104 to 31236198
+
+Score:68.9 bits(75), Expect:4e-09, 
+Identities:72/95(76%),  Gaps:0/95(0%), Strand: Plus/Minus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || ||||||||||| ||||| ||| |||| |||| | | ||||| |  || |||||||||
+Sbjct  31236198  AGGAAGCTGCACTGCACCAGAAACTACATCCACACCAACCTGTTTGCGTCGTTCATCCTG  31236139
+
+Query  562       AGGGCCATCTTCATCTTCATCAGAGACTCTCTGCT  596
+                  | ||  | | |||| | | ||||||  |||||||
+Sbjct  31236138  CGAGCTGTTTCCATCCTGACCAGAGATGCTCTGCT  31236104
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 21, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051289.1 Length: 27312080
+Range 1: 1716333 to 1716429
+
+Score:68.0 bits(74), Expect:4e-09, 
+Identities:73/97(75%),  Gaps:0/97(0%), Strand: Plus/Minus
+
+Query  636      GGTGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTG  695
+                |||||  ||||||| |   ||| |||||| ||||||||  ||| |||| |||| |  |||
+Sbjct  1716429  GGTGGGCTGTAAGGCCAGCCTGGTGTTCTTCAACTACTTTATCATGGCCAACTTCTTCTG  1716370
+
+Query  696      GCTGCTGGCGGAGGGCCACTTCCTCTTCACCCTGGTG  732
+                |||||||| |||||| | || |||   ||| ||| ||
+Sbjct  1716369  GCTGCTGGTGGAGGGTCTCTACCTGCACACGCTGCTG  1716333
+
+
+
+
+Range 2: 10879255 to 10879300
+
+Score:52.7 bits(57), Expect:3e-04, 
+Identities:39/46(85%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1151      AGGGTTTTGTGGTCGCTGTGCTCTACTGCTTCATGAACGGAGAGGT  1196
+                 |||| ||||||||||| || || ||||| ||| | |||||||||||
+Sbjct  10879300  AGGGCTTTGTGGTCGCAGTTCTTTACTGTTTCCTCAACGGAGAGGT  10879255
+
+
+
+
+Range 3: 25860461 to 25860492
+
+Score:50.0 bits(54), Expect:0.001, 
+Identities:30/32(94%),  Gaps:0/32(0%), Strand: Plus/Plus
+
+Query  1212      GAGGAGGTGGAGGAGGTGGAGGCTGACTCAGC  1243
+                 ||||||| |||||||| |||||||||||||||
+Sbjct  25860461  GAGGAGGAGGAGGAGGAGGAGGCTGACTCAGC  25860492
+
+
+
+
+Range 4: 10883762 to 10883888
+
+Score:45.5 bits(49), Expect:0.041, 
+Identities:92/131(70%),  Gaps:7/131(5%), Strand: Plus/Minus
+
+Query  638       TGGCGTGTAAGGTCGTGCTGATGTTCTCCAACTACTCCATCCTGGCAAACTACAGCTGGC  697
+                 |||| || || |||||| |  |||||| | | || |  ||  |||| |  | |  |||||
+Sbjct  10883888  TGGC-TGCAAAGTCGTGATTGTGTTCTTCCAGTATTGTATAATGGCCAGTTTCTTCTGGC  10883830
+
+Query  698       TGCTGGCGGAGGGCCACTTCCTCTTCA--CCCTGGTGAGCCG-CTCCTTCTTCTCCCTGA  754
+                 |||||| |||||||  |||  ||||||  | ||  || || | ||| |||||||||  ||
+Sbjct  10883829  TGCTGGTGGAGGGC--CTTTATCTTCACGCACTTTTG-GCTGTCTCTTTCTTCTCCGAGA  10883773
+
+Query  755       AGAAGCACCTC  765
+                  |||| || ||
+Sbjct  10883772  GGAAGTACTTC  10883762
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 14, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051282.1 Length: 32625488
+Range 1: 24667799 to 24667891
+
+Score:65.3 bits(71), Expect:4e-08, 
+Identities:70/93(75%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  502       AGAAAGCTGCACTGTACCAGGAACCACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  561
+                 || || |||||||| |  |||||| |||| |||||  | ||||| | |||||||||||||
+Sbjct  24667799  AGGAAACTGCACTGCATGAGGAACAACATCCACATGAATCTGTTTGCCTCCTTCATCCTG  24667858
+
+Query  562       AGGGCCATCTTCATCTTCATCAGAGACTCTCTG  594
+                  | ||  | |  ||  |||||| |||| |||||
+Sbjct  24667859  CGAGCGCTGTCTATACTCATCAAAGACGCTCTG  24667891
+
+
+
+
+>Sebastes umbrosus isolate fSebUmb1 chromosome 18, fSebUmb1.pri, whole genome shotgun sequence
+Sequence ID: NC_051286.1 Length: 29458520
+Range 1: 7907729 to 7907773
+
+Score:50.9 bits(55), Expect:0.001, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1189     GGAGAGGTGCAGCAAGAGTTTCAGAGGAGGTGGAGGAGGTGGAGG  1233
+                |||||| |||||||  |||    ||||||||||||||||||||||
+Sbjct  7907729  GGAGAGCTGCAGCAGCAGTGGAGGAGGAGGTGGAGGAGGTGGAGG  7907773
+
+
+
+
+
+
+
+		
+
+

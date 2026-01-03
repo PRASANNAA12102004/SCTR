@@ -1,0 +1,650 @@
+RID: NEJJ0FYG014	
+Job Title:XM_069166332.1:40-1458 PREDICTED: Embiotoca...				
+Program: BLASTN 
+Database: Genome (fEmbJac1.0.p) Embiotoca jacksoni fEmbJac1.0.p [GCF_022577435.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_022577435.1-RS_2024_10)
+Query #1: XM_069166332.1:40-1458 PREDICTED: Embiotoca jacksoni secretin receptor (sctr), mRNA Query ID: lcl|Query_6179357 Length: 1419
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     340    2619  100%  3e-91 100.00 3287704    NW_027185390.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     112    345   22%   3e-22 78.36  11900900   NW_027185329.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     94.2   207   16%   7e-17 76.61  11489829   NW_027185363.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     94.2   145   9%    7e-17 89.86  1618596    NW_027185422.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     85.1   156   5%    4e-14 86.96  11725433   NW_027185341.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     76.1   120   8%    2e-11 84.06  14719797   NW_027185296.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     75.2   129   15%   2e-11 81.71  7168751    NW_027185376.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     72.5   136   12%   2e-10 76.29  808064     NW_027185456.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     71.6   71.6  5%    2e-10 81.08  1054804    NW_027185442.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     70.7   124   11%   8e-10 76.92  5444686    NW_027185383.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     68.9   68.9  7%    3e-09 74.29  15510158   NW_027185285.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     66.2   66.2  5%    1e-08 80.28  25741652   NW_027185340.1   
+Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic...      Embiotoca ja... black perch     100190     61.7   61.7  5%    4e-07 80.30  7070250    NW_027185377.1   
+
+
+Alignments:
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_38
+Sequence ID: NW_027185390.1 Length: 3287704
+Range 1: 2385340 to 2385527
+
+Score:340 bits(376), Expect:3e-91, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Plus
+
+Query  1232     AGGTGCAGCACGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCGGCACCTGCCCA  1291
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2385340  AGGTGCAGCACGAGTTTCAGAGGAGGTGGAGGAGGTGGAGGCTGACTCGGCACCTGCCCA  2385399
+
+Query  1292     GTCGGCGCAGGCAGCATCACGGCTCCATCAGCCACAGCGGGTCTCCTCACACGCAGGTCT  1351
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2385400  GTCGGCGCAGGCAGCATCACGGCTCCATCAGCCACAGCGGGTCTCCTCACACGCAGGTCT  2385459
+
+Query  1352     CCCTGCTGCCTTGCTCGGCGACCGGCCCGGCGACCGGCGGACTCCCCGCGGACACCCTGG  1411
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2385460  CCCTGCTGCCTTGCTCGGCGACCGGCCCGGCGACCGGCGGACTCCCCGCGGACACCCTGG  2385519
+
+Query  1412     AGACGTGA  1419
+                ||||||||
+Sbjct  2385520  AGACGTGA  2385527
+
+
+
+
+Range 2: 2383779 to 2383934
+
+Score:282 bits(312), Expect:7e-74, 
+Identities:156/156(100%),  Gaps:0/156(0%), Strand: Plus/Plus
+
+Query  675      GGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTG  734
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2383779  GGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTG  2383838
+
+Query  735      GCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAG  794
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2383839  GCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAGCCGCTCCTTCTTCTCCCTGAG  2383898
+
+Query  795      GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGG  830
+                ||||||||||||||||||||||||||||||||||||
+Sbjct  2383899  GAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGG  2383934
+
+
+
+
+Range 3: 2384999 to 2385141
+
+Score:254 bits(281), Expect:4e-65, 
+Identities:142/143(99%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  1050     CAAGAGGCTGATCAAATCCACCTTCTTCCTGGTGGCTCTGTTCGGTCTGCATTACATCCT  1109
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2384999  CAGGAGGCTGATCAAATCCACCTTCTTCCTGGTGGCTCTGTTCGGTCTGCATTACATCCT  2385058
+
+Query  1110     GTTTGTCTTCTTACCTGTTGAAGTCAGCAGCTCCGTGTTCAAGATCTGGACCTTTGCGGA  1169
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2385059  GTTTGTCTTCTTACCTGTTGAAGTCAGCAGCTCCGTGTTCAAGATCTGGACCTTTGCGGA  2385118
+
+Query  1170     GCTGGCTCTGTCGTCCACACAGG  1192
+                |||||||||||||||||||||||
+Sbjct  2385119  GCTGGCTCTGTCGTCCACACAGG  2385141
+
+
+
+
+Range 4: 2382690 to 2382827
+
+Score:250 bits(276), Expect:4e-64, 
+Identities:138/138(100%),  Gaps:0/138(0%), Strand: Plus/Plus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2382690  CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  2382749
+
+Query  600      GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCGATGAAGAGCTCTACCA  659
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2382750  GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCGATGAAGAGCTCTACCA  2382809
+
+Query  660      CTGCGACTACTACCCGGT  677
+                ||||||||||||||||||
+Sbjct  2382810  CTGCGACTACTACCCGGT  2382827
+
+
+
+
+Range 5: 2380879 to 2380998
+
+Score:217 bits(240), Expect:3e-54, 
+Identities:120/120(100%),  Gaps:0/120(0%), Strand: Plus/Plus
+
+Query  204      AGAAAACAACACCAACGTACACTGTACAGGAATGTGGGACAACCTGAACTGCTGGCCGCC  263
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2380879  AGAAAACAACACCAACGTACACTGTACAGGAATGTGGGACAACCTGAACTGCTGGCCGCC  2380938
+
+Query  264      TGCATCTCTCGGGGAAACCGTCTCTCAGCCCTGTCCGGAGTTTTTTAATACAGAAAGTAA  323
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2380939  TGCATCTCTCGGGGAAACCGTCTCTCAGCCCTGTCCGGAGTTTTTTAATACAGAAAGTAA  2380998
+
+
+
+
+Range 6: 2382422 to 2382534
+
+Score:205 bits(226), Expect:2e-50, 
+Identities:113/113(100%),  Gaps:0/113(0%), Strand: Plus/Plus
+
+Query  431      AGTCCTCAGACTCCCATTTGTACTTCTCCTACGTGAAGACCATGTACACGGCCGGATACA  490
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2382422  AGTCCTCAGACTCCCATTTGTACTTCTCCTACGTGAAGACCATGTACACGGCCGGATACA  2382481
+
+Query  491      CGCTCTCCCTCATCTCCCTGACCGTCGCCGTCACCATATTCTGCCTGTTCAGG  543
+                |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2382482  CGCTCTCCCTCATCTCCCTGACCGTCGCCGTCACCATATTCTGCCTGTTCAGG  2382534
+
+
+
+
+Range 7: 2381476 to 2381584
+
+Score:197 bits(218), Expect:2e-48, 
+Identities:109/109(100%),  Gaps:0/109(0%), Strand: Plus/Plus
+
+Query  324      AGGCGAAGTGCATCGTAACTGCACCATCAGTGGCTGGACGGACCCGCTCGTCCCCCACGA  383
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2381476  AGGCGAAGTGCATCGTAACTGCACCATCAGTGGCTGGACGGACCCGCTCGTCCCCCACGA  2381535
+
+Query  384      AGATGCTTGCGGCTACACTTTCAACGAGACGCTGCACTTTCTCGCAGAG  432
+                |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2381536  AGATGCTTGCGGCTACACTTTCAACGAGACGCTGCACTTTCTCGCAGAG  2381584
+
+
+
+
+Range 8: 2380365 to 2380467
+
+Score:187 bits(206), Expect:4e-45, 
+Identities:103/103(100%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  103      CAGGCAAAGTCGTCCCCTGGTTGTCACCCTCATGTGAATCTTTTGAAAGAGGAAGACAAG  162
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2380365  CAGGCAAAGTCGTCCCCTGGTTGTCACCCTCATGTGAATCTTTTGAAAGAGGAAGACAAG  2380424
+
+Query  163      TGCATGAAAGATCTGCTACTTTCAAAGTCACACAAAGCAACAG  205
+                |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2380425  TGCATGAAAGATCTGCTACTTTCAAAGTCACACAAAGCAACAG  2380467
+
+
+
+
+Range 9: 2380132 to 2380238
+
+Score:186 bits(205), Expect:2e-44, 
+Identities:106/107(99%),  Gaps:1/107(0%), Strand: Plus/Plus
+
+Query  1        ATGCGCCTTGGGGCTTGGACGTACGTAACACATC-TGATGGGGAAAAGGAACCTGTTTGA  59
+                |||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  2380132  ATGCGCCTTGGGGCTTGGACGTACGTAACACATCCTGATGGGGAAAAGGAACCTGTTTGA  2380191
+
+Query  60       CATCATGAAAAAAGTTGGACTACTTGGGGTGTTACTGTTACCCCAGG  106
+                |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2380192  CATCATGAAAAAAGTTGGACTACTTGGGGTGTTACTGTTACCCCAGG  2380238
+
+
+
+
+Range 10: 2384691 to 2384783
+
+Score:168 bits(186), Expect:1e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Plus
+
+Query  961      ATGAACCTCATCTTCTTCTTGGGGATTTTGAGGATACTGGTGAGCAAACTCCGGATGCCA  1020
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2384691  ATGAACCTCATCTTCTTCTTGGGGATTTTGAGGATACTGGTGAGCAAACTCCGGATGCCA  2384750
+
+Query  1021     GACGCACAGAGGAATGAATTCAGCCAGTACAAG  1053
+                |||||||||||||||||||||||||||||||||
+Sbjct  2384751  GACGCACAGAGGAATGAATTCAGCCAGTACAAG  2384783
+
+
+
+
+Range 11: 2384212 to 2384285
+
+Score:130 bits(143), Expect:1e-27, 
+Identities:73/74(99%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  887      AAGGCTGTTGGGAAACCAGGAGACACGAGTGGATTTGGTGGATTCTTCGAGTGCCGGTTC  946
+                || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2384212  AAAGCTGTTGGGAAACCAGGAGACACGAGTGGATTTGGTGGATTCTTCGAGTGCCGGTTC  2384271
+
+Query  947      TTCTCACCATATCT  960
+                ||||||||||||||
+Sbjct  2384272  TTCTCACCATATCT  2384285
+
+
+
+
+Range 12: 2384066 to 2384127
+
+Score:113 bits(124), Expect:8e-23, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Plus
+
+Query  829      GGCTTACCGTTGGTTGTTGTCATCTGCTGGGGGTGCGCAAAGTATTTTTATGAAGATGAA  888
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2384066  GGCTTACCGTTGGTTGTTGTCATCTGCTGGGGGTGCGCAAAGTATTTTTATGAAGATGAA  2384125
+
+Query  889      GG  890
+                ||
+Sbjct  2384126  GG  2384127
+
+
+
+
+Range 13: 2385220 to 2385266
+
+Score:86.0 bits(94), Expect:1e-14, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1189     CAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGGT  1235
+                |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2385220  CAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGGT  2385266
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_19
+Sequence ID: NW_027185329.1 Length: 11900900
+Range 1: 911271 to 911404
+
+Score:112 bits(123), Expect:3e-22, 
+Identities:105/134(78%),  Gaps:0/134(0%), Strand: Plus/Plus
+
+Query  530     TCTGCCTGTTCAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCT  589
+               ||||| | | ||||||| | ||||||||||||||||||||||||||| | || ||| |||
+Sbjct  911271  TCTGCTTCTGCAGGAAGTTTCACTGCACCAGGAACTACATTCACATCAACCTCTTCTTCT  911330
+
+Query  590     CCTTCATCCTGAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCGATGAAG  649
+               ||||||||||||||||   |  | ||||||||  ||||| | | || ||| | || ||| 
+Sbjct  911331  CCTTCATCCTGAGAGCGAGCGCCGTCTTCATCAAAGACGGCGTCCTTTTTTCAGACGAAA  911390
+
+Query  650     AGCTCTACCACTGC  663
+               |  |  ||||||||
+Sbjct  911391  ACTTGGACCACTGC  911404
+
+
+
+
+Range 2: 928197 to 928320
+
+Score:103 bits(113), Expect:1e-19, 
+Identities:97/124(78%),  Gaps:0/124(0%), Strand: Plus/Minus
+
+Query  540     CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+               |||||||||||||||||| ||||||| ||| |||||  | |||||||| |||||||| ||
+Sbjct  928320  CAGGAAGCTGCACTGCACGAGGAACTTCATCCACATGAACCTGTTCGTGTCCTTCATGCT  928261
+
+Query  600     GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCGATGAAGAGCTCTACCA  659
+               ||||||| | |   ||||||||  ||||| | ||||||  ||| | || ||   | | ||
+Sbjct  928260  GAGAGCCATTTCTGTCTTCATCAAAGACGGCGTGCTGTACGCCAAAGAGGACAGCGAGCA  928201
+
+Query  660     CTGC  663
+               ||||
+Sbjct  928200  CTGC  928197
+
+
+
+
+Range 3: 912283 to 912399
+
+Score:72.5 bits(79), Expect:2e-10, 
+Identities:86/117(74%),  Gaps:0/117(0%), Strand: Plus/Plus
+
+Query  714     CATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAG  773
+               ||||||||||||||||  ||||||||||||||||||    | ||||   || ||| |   
+Sbjct  912283  CATCCTGGCCAACTACTTCTGGCTGCTGGTGGAGGGCATGTACCTGCAGACGCTGCTCGC  912342
+
+Query  774     CCGCTCCTTCTTCTCCCTGAGGAAGCACCTCGCCTGGTACATCGTCCTGAGCTGGGG  830
+               || | ||||| ||| || || |||  || ||   ||||||||| || |  |||||||
+Sbjct  912343  CCTCACCTTCGTCTTCCAGAAGAAATACTTCTGGTGGTACATCCTCATCGGCTGGGG  912399
+
+
+
+
+Range 4: 925927 to 925986
+
+Score:58.1 bits(63), Expect:5e-06, 
+Identities:50/61(82%),  Gaps:1/61(1%), Strand: Plus/Minus
+
+Query  1175    CTCTGTCGTCCACACAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGG  1234
+               |||||| |||  | ||||| || ||||| ||  |||||||||||||| ||||||| ||||
+Sbjct  925986  CTCTGT-GTCTCCTCAGGGCTTCGTGGTGGCCGTCCTCTACTGCTTCCTGAACGGAGAGG  925928
+
+Query  1235    T  1235
+               |
+Sbjct  925927  T  925927
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_22
+Sequence ID: NW_027185363.1 Length: 11489829
+Range 1: 7919436 to 7919559
+
+Score:94.2 bits(103), Expect:7e-17, 
+Identities:95/124(77%),  Gaps:0/124(0%), Strand: Plus/Minus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                ||||||||| |||||||||||||||| |||||||||  |  |||| || |||||||| ||
+Sbjct  7919559  CAGGAAGCTCCACTGCACCAGGAACTTCATTCACATGAATTTGTTTGTGTCCTTCATGCT  7919500
+
+Query  600      GAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCCGATGAAGAGCTCTACCA  659
+                ||||||| |||   ||||||||   || |   ||||||  ||  | |||||   | ||||
+Sbjct  7919499  GAGAGCCATCTCAGTCTTCATCAAGGATGGTGTGCTGTACGCGCAGGAAGACAGCGACCA  7919440
+
+Query  660      CTGC  663
+                ||||
+Sbjct  7919439  CTGC  7919436
+
+
+
+
+Range 2: 6946848 to 6946903
+
+Score:61.7 bits(67), Expect:4e-07, 
+Identities:47/56(84%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  550      CACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCTGAGAGC  605
+                |||||||||||||||||||| ||||| || || || || |||| ||| || |||||
+Sbjct  6946903  CACTGCACCAGGAACTACATCCACATGCACCTATTTGTTTCCTACATGCTAAGAGC  6946848
+
+
+
+
+Range 3: 7896678 to 7896780
+
+Score:51.8 bits(56), Expect:2e-04, 
+Identities:73/103(71%),  Gaps:0/103(0%), Strand: Plus/Plus
+
+Query  714      CATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTGAG  773
+                |||||||||||| ||    ||| |||||||||||||    |  |||   |||||| ||  
+Sbjct  7896678  CATCCTGGCCAATTATTTTTGGTTGCTGGTGGAGGGCATGTATCTGCAGACCCTGCTGGC  7896737
+
+Query  774      CCGCTCCTTCTTCTCCCTGAGGAAGCACCTCGCCTGGTACATC  816
+                 | | ||||| |||| | ||||||  || ||   |||||||||
+Sbjct  7896738  TCTCACCTTCGTCTCGCAGAGGAAATACTTCTGGTGGTACATC  7896780
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_67
+Sequence ID: NW_027185422.1 Length: 1618596
+Range 1: 1305606 to 1305674
+
+Score:94.2 bits(103), Expect:7e-17, 
+Identities:62/69(90%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                ||||||||| |||||||||||||||||||| ||| || | || ||| |||||||||||||
+Sbjct  1305606  CAGGAAGCTTCACTGCACCAGGAACTACATCCACCTCAACCTCTTCTTCTCCTTCATCCT  1305665
+
+Query  600      GAGAGCCGT  608
+                |||||||||
+Sbjct  1305666  GAGAGCCGT  1305674
+
+
+
+
+Range 2: 1306320 to 1306372
+
+Score:51.8 bits(56), Expect:2e-04, 
+Identities:43/53(81%),  Gaps:0/53(0%), Strand: Plus/Plus
+
+Query  698      TGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGT  750
+                |||| | | | || | |||| ||||||||| |  |||||||||||||||||||
+Sbjct  1306320  TGTTTTTCCAGTATTTCATCATGGCCAACTTCTTCTGGCTGCTGGTGGAGGGT  1306372
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_20
+Sequence ID: NW_027185341.1 Length: 11725433
+Range 1: 10745703 to 10745771
+
+Score:85.1 bits(93), Expect:4e-14, 
+Identities:60/69(87%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  540       CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                 ||||||||| |||||||||||||||||||| |||||  | |||||| | || ||||||||
+Sbjct  10745703  CAGGAAGCTCCACTGCACCAGGAACTACATCCACATGAATCTGTTCATGTCATTCATCCT  10745762
+
+Query  600       GAGAGCCGT  608
+                 |||||| ||
+Sbjct  10745763  GAGAGCTGT  10745771
+
+
+
+
+Range 2: 4895224 to 4895292
+
+Score:71.6 bits(78), Expect:2e-10, 
+Identities:57/69(83%),  Gaps:0/69(0%), Strand: Plus/Plus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                |||||| ||||| |||||||| ||||||||||| ||  | || ||| | |||||||||||
+Sbjct  4895224  CAGGAAACTGCATTGCACCAGAAACTACATTCATATTAACCTCTTCCTGTCCTTCATCCT  4895283
+
+Query  600      GAGAGCCGT  608
+                | |||| ||
+Sbjct  4895284  GCGAGCTGT  4895292
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_16
+Sequence ID: NW_027185296.1 Length: 14719797
+Range 1: 3943739 to 3943807
+
+Score:76.1 bits(83), Expect:2e-11, 
+Identities:58/69(84%),  Gaps:0/69(0%), Strand: Plus/Minus
+
+Query  540      CAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCT  599
+                ||||||||||| |||  ||||||||| ||||||||||||||| || ||  | ||||||||
+Sbjct  3943807  CAGGAAGCTGCGCTGTGCCAGGAACTTCATTCACATCCAGCTCTTTGTTACTTTCATCCT  3943748
+
+Query  600      GAGAGCCGT  608
+                 | ||||||
+Sbjct  3943747  AAAAGCCGT  3943739
+
+
+
+
+Range 2: 2868663 to 2868706
+
+Score:44.6 bits(48), Expect:0.034, 
+Identities:36/44(82%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  1251     GAGGAGGTGGAGGAGGTGGAGGCTGACTCGGCACCTGCCCAGTC  1294
+                ||||||||||||||||||||||  | |||  | ||  |||||||
+Sbjct  2868706  GAGGAGGTGGAGGAGGTGGAGGAGGGCTCCCCCCCCCCCCAGTC  2868663
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_25
+Sequence ID: NW_027185376.1 Length: 7168751
+Range 1: 255447 to 255526
+
+Score:75.2 bits(82), Expect:2e-11, 
+Identities:67/82(82%),  Gaps:3/82(3%), Strand: Plus/Plus
+
+Query  529     TTCTGCCTGTTC-AGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGT  587
+               |||||  ||||| |||||||| |||||||| ||||||||||| ||||| || ||||| ||
+Sbjct  255447  TTCTG--TGTTCTAGGAAGCTCCACTGCACAAGGAACTACATCCACATGCATCTGTTTGT  255504
+
+Query  588     CTCCTTCATCCTGAGAGCCGTC  609
+                || || |||||||  ||| ||
+Sbjct  255505  GTCATTTATCCTGAAGGCCATC  255526
+
+
+
+
+Range 2: 258793 to 258925
+
+Score:54.5 bits(59), Expect:7e-05, 
+Identities:95/135(70%),  Gaps:4/135(2%), Strand: Plus/Plus
+
+Query  672     CCCGGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAG  731
+               || ||| | ||| || |  ||| |  |||||| | | ||||  ||  ||||||  | |  
+Sbjct  258793  CCAGGTTGGCTGCAAAGCCGTGATTGTGTTCTTCCAGTACTGTATAATGGCCAGTTTCTT  258852
+
+Query  732     CTGGCTGCTGGTGGAGGGTCACTTCCTGTTCAC-CCTGGTGAGCCG-CTCCTTCTTCTCC  789
+               |||||||||||| || |||  |||  | ||||| | | ||  |||| ||| |||||||||
+Sbjct  258853  CTGGCTGCTGGTCGAAGGT--CTTTATCTTCACGCGTTGTTGGCCGTCTCTTTCTTCTCC  258910
+
+Query  790     CTGAGGAAGCACCTC  804
+                 ||||||| || ||
+Sbjct  258911  GAGAGGAAGTACTTC  258925
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_98
+Sequence ID: NW_027185456.1 Length: 808064
+Range 1: 737359 to 737455
+
+Score:72.5 bits(79), Expect:2e-10, 
+Identities:74/97(76%),  Gaps:0/97(0%), Strand: Plus/Plus
+
+Query  675     GGTGGCCTGTAAGGTGGTGCTCATGTTCTCCAACTACTCCATCCTGGCCAACTACAGCTG  734
+               ||||| ||||||||     ||  |||||| |||||||| |||| ||||||||| |   ||
+Sbjct  737359  GGTGGGCTGTAAGGCCAGCCTGGTGTTCTTCAACTACTTCATCATGGCCAACTTCTTGTG  737418
+
+Query  735     GCTGCTGGTGGAGGGTCACTTCCTGTTCACCCTGGTG  771
+               |||||||||||| || | || ||||  ||| ||| ||
+Sbjct  737419  GCTGCTGGTGGAAGGCCTCTACCTGCACACGCTGCTG  737455
+
+
+
+
+Range 2: 737125 to 737196
+
+Score:63.5 bits(69), Expect:1e-07, 
+Identities:57/72(79%),  Gaps:0/72(0%), Strand: Plus/Plus
+
+Query  536     TGTTCAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCA  595
+               ||| ||||||||| |||||||  ||||||||||| ||  |  |  |||| || |||||||
+Sbjct  737125  TGTGCAGGAAGCTCCACTGCATGAGGAACTACATCCATCTGAACTTGTTTGTGTCCTTCA  737184
+
+Query  596     TCCTGAGAGCCG  607
+               | ||| ||||||
+Sbjct  737185  TGCTGCGAGCCG  737196
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_85
+Sequence ID: NW_027185442.1 Length: 1054804
+Range 1: 22615 to 22688
+
+Score:71.6 bits(78), Expect:2e-10, 
+Identities:60/74(81%),  Gaps:0/74(0%), Strand: Plus/Minus
+
+Query  541    AGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCTG  600
+              |||||||| ||||| |  |||||| |||| |||||  | ||||| | ||| |||||||||
+Sbjct  22688  AGGAAGCTCCACTGTATGAGGAACAACATCCACATGAACCTGTTTGCCTCTTTCATCCTG  22629
+
+Query  601    AGAGCCGTCTTCAT  614
+              |||||||| | |||
+Sbjct  22628  AGAGCCGTGTCCAT  22615
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_31
+Sequence ID: NW_027185383.1 Length: 5444686
+Range 1: 3224855 to 3224956
+
+Score:70.7 bits(77), Expect:8e-10, 
+Identities:80/104(77%),  Gaps:4/104(3%), Strand: Plus/Plus
+
+Query  715      ATCCTGGCCAACTACAGCTGGCTGCTGGTGGAGGGTCACTTCCTGTTCACCCT-GGTGAG  773
+                ||| ||||||  |||  ||||||||||||||||||   |||  | ||||| ||  || ||
+Sbjct  3224855  ATCATGGCCAGTTACTTCTGGCTGCTGGTGGAGGG--CCTTTATCTTCACGCTCTGTTAG  3224912
+
+Query  774      CCG-CTCCTTCTTCTCCCTGAGGAAGCACCTCGCCTGGTACATC  816
+                ||| ||||||||||||   ||||||| || ||   |||||||||
+Sbjct  3224913  CCGTCTCCTTCTTCTCTGAGAGGAAGTACTTCTGGTGGTACATC  3224956
+
+
+
+
+Range 2: 3229055 to 3229103
+
+Score:53.6 bits(58), Expect:7e-05, 
+Identities:41/49(84%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  1188     ACAGGGTTTTGTGGTCGCGATCCTCTACTGCTTCGTGAACGGCGAGGTG  1236
+                ||||||||||||||| ||  || | ||||||||  ||||||| ||||||
+Sbjct  3229055  ACAGGGTTTTGTGGTTGCAGTCTTGTACTGCTTTCTGAACGGAGAGGTG  3229103
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_15
+Sequence ID: NW_027185285.1 Length: 15510158
+Range 1: 4042347 to 4042451
+
+Score:68.9 bits(75), Expect:3e-09, 
+Identities:78/105(74%),  Gaps:0/105(0%), Strand: Plus/Plus
+
+Query  538      TTCAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATC  597
+                || ||||| || |||||||  |||||| |||| |||||  | ||||| | ||||||||||
+Sbjct  4042347  TTTAGGAAACTACACTGCATGAGGAACAACATCCACATGAATCTGTTTGCCTCCTTCATC  4042406
+
+Query  598      CTGAGAGCCGTCTTCATCTTCATCCGAGACGCCATGCTGTTTGCC  642
+                ||| ||||  | |  ||| | |||  ||||||  || || | |||
+Sbjct  4042407  CTGCGAGCACTGTCTATCCTTATCAAAGACGCTCTGTTGGTGGCC  4042451
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_2
+Sequence ID: NW_027185340.1 Length: 25741652
+Range 1: 16063798 to 16063868
+
+Score:66.2 bits(72), Expect:1e-08, 
+Identities:57/71(80%),  Gaps:0/71(0%), Strand: Plus/Plus
+
+Query  547       CTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATCCTGAGAGCC  606
+                 || |||||||||||||||||||| ||||| || ||||| || ||||||||  |  | || 
+Sbjct  16063798  CTTCACTGCACCAGGAACTACATCCACATGCACCTGTTTGTTTCCTTCATGTTACGGGCG  16063857
+
+Query  607       GTCTTCATCTT  617
+                 |||  ||||||
+Sbjct  16063858  GTCAGCATCTT  16063868
+
+
+
+
+>Embiotoca jacksoni isolate LCO1_2020_lvr unplaced genomic scaffold, fEmbJac1.0.p SCAF_26
+Sequence ID: NW_027185377.1 Length: 7070250
+Range 1: 1969810 to 1969875
+
+Score:61.7 bits(67), Expect:4e-07, 
+Identities:53/66(80%),  Gaps:0/66(0%), Strand: Plus/Plus
+
+Query  538      TTCAGGAAGCTGCACTGCACCAGGAACTACATTCACATCCAGCTGTTCGTCTCCTTCATC  597
+                ||||||||||||| ||||||  | |||||||| ||| |||| ||||||  |  |||||| 
+Sbjct  1969810  TTCAGGAAGCTGCTCTGCACACGCAACTACATCCACCTCCACCTGTTCACCAGCTTCATG  1969869
+
+Query  598      CTGAGA  603
+                || |||
+Sbjct  1969870  CTCAGA  1969875
+
+
+
+
+
+
+
+		
+
+

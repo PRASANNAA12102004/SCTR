@@ -1,0 +1,378 @@
+RID: NEEV3K7D014	
+Job Title:XM_032794021.1 PREDICTED: Chelonoidis abingdonii...				
+Program: BLASTN 
+Database: Genome (CheloAbing_2.0) Chelonoidis abingdonii CheloAbing_2.0 [GCF_003597395.2] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_003597395.2-RS_2025_06)
+Query #1: XM_032794021.1 PREDICTED: Chelonoidis abingdonii secretin receptor (SCTR), mRNA Query ID: lcl|Query_7298787 Length: 1365
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Chelonoidis abingdonii isolate Lonesome George chromosome 10,...  Chelonoidis ... Abingdon isl... 106734     334    2499  100%  5e-89 100.00 81918166   NC_133778.1      
+Chelonoidis abingdonii isolate Lonesome George unplaced genomi... Chelonoidis ... Abingdon isl... 106734     169    169   12%   4e-39 87.43  1668       NW_027427756.1   
+Chelonoidis abingdonii isolate Lonesome George chromosome 2,...   Chelonoidis ... Abingdon isl... 106734     78.8   294   19%   6e-12 76.36  303627116  NC_133770.1      
+Chelonoidis abingdonii isolate Lonesome George chromosome 21,...  Chelonoidis ... Abingdon isl... 106734     62.6   108   8%    4e-07 85.19  16314543   NC_133789.1      
+Chelonoidis abingdonii isolate Lonesome George chromosome 6,...   Chelonoidis ... Abingdon isl... 106734     47.3   47.3  2%    0.033 96.43  138478029  NC_133774.1      
+
+
+Alignments:
+
+>Chelonoidis abingdonii isolate Lonesome George chromosome 10, CheloAbing_2.0
+Sequence ID: NC_133778.1 Length: 81918166
+Range 1: 67463455 to 67463639
+
+Score:334 bits(370), Expect:5e-89, 
+Identities:185/185(100%),  Gaps:0/185(0%), Strand: Plus/Minus
+
+Query  1181      AGGTTCAATTGGAAATTCACAGAAAATGGAGGCAGTGGCATTTAAGCCAACACGTCCACT  1240
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67463639  AGGTTCAATTGGAAATTCACAGAAAATGGAGGCAGTGGCATTTAAGCCAACACGTCCACT  67463580
+
+Query  1241      TGAATCAGCACCTTAGCTTTTCATCCAGTAATGAAGGAAGTGGTTTCACCCAGGTGATGC  1300
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67463579  TGAATCAGCACCTTAGCTTTTCATCCAGTAATGAAGGAAGTGGTTTCACCCAGGTGATGC  67463520
+
+Query  1301      AGATGATGAAGCCCAGCCCTCAAGAGCAAAAGAGGCAGACTATCCAGAAGTCAAGTGTAA  1360
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67463519  AGATGATGAAGCCCAGCCCTCAAGAGCAAAAGAGGCAGACTATCCAGAAGTCAAGTGTAA  67463460
+
+Query  1361      TTTAG  1365
+                 |||||
+Sbjct  67463459  TTTAG  67463455
+
+
+
+
+Range 2: 67470041 to 67470207
+
+Score:282 bits(312), Expect:3e-73, 
+Identities:165/169(98%),  Gaps:4/169(2%), Strand: Plus/Minus
+
+Query  618       GAGTGTGGGTTGTAAAATCGTCATGATCTTTTTCAGTNNATTGCTTCAGGCTAACTACAG  677
+                 |||||||||||||||||||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  67470207  GAGTGTGGGTTGTAAAATCGTCATGATCTTTTTCAGT--ATTGCTTCAGGCTAACTACAG  67470150
+
+Query  678       TTGGCTTCTTGTGGAAGGACTA--TATCTCCAACCCTTTGGTATGTTTTCTTGTTTCTCG  735
+                 ||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||
+Sbjct  67470149  TTGGCTTCTTGTGGAAGGACTAGCTATCTCCAACCCTTTGGTATGTTTTCTTGTTTCTCG  67470090
+
+Query  736       GAAAGGAAGTTCTTTTGGTGTCATCCGCCCTTGGGATGGGTACTGTTTG  784
+                 |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67470089  GAAAGGAAGTTCTTTTGGTGTCATCCGCCCTTGGGATGGGTACTGTTTG  67470041
+
+
+
+
+Range 3: 67464995 to 67465134
+
+Score:253 bits(280), Expect:1e-64, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  1002      GAGACTTGCAAAATCTACACTCCTTCTCATCCCACTTTTTGGAATTCACTATATCATCTT  1061
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67465134  GAGACTTGCAAAATCTACACTCCTTCTCATCCCACTTTTTGGAATTCACTATATCATCTT  67465075
+
+Query  1062      TGCTTTTTTCCCTGAGGACGTGAACAGCGGCACGATGGAAATTCAGCTTGTTTTTGAATT  1121
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67465074  TGCTTTTTTCCCTGAGGACGTGAACAGCGGCACGATGGAAATTCAGCTTGTTTTTGAATT  67465015
+
+Query  1122      AGCACTTGGATCATTCCAGG  1141
+                 ||||||||||||||||||||
+Sbjct  67465014  AGCACTTGGATCATTCCAGG  67464995
+
+
+
+
+Range 4: 67472588 to 67472722
+
+Score:244 bits(270), Expect:6e-62, 
+Identities:135/135(100%),  Gaps:0/135(0%), Strand: Plus/Minus
+
+Query  484       AGAAGACTCCATTGTACGAGGAACTACATCCACATGCATCTGTTTACATCCTTCATTTTC  543
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67472722  AGAAGACTCCATTGTACGAGGAACTACATCCACATGCATCTGTTTACATCCTTCATTTTC  67472663
+
+Query  544       CGAGCCTTGTCAAACTTAATCAAAGACGCCGTTTTGTTTTCTTCTGAGGACGTTAACTAC  603
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67472662  CGAGCCTTGTCAAACTTAATCAAAGACGCCGTTTTGTTTTCTTCTGAGGACGTTAACTAC  67472603
+
+Query  604       TGCGGGACACACACG  618
+                 |||||||||||||||
+Sbjct  67472602  TGCGGGACACACACG  67472588
+
+
+
+
+Range 5: 67485536 to 67485669
+
+Score:233 bits(258), Expect:1e-58, 
+Identities:132/134(99%),  Gaps:0/134(0%), Strand: Plus/Minus
+
+Query  46        ATCAAGGCTACCCCACCAGTATGTGACTTGCTGTTTGTCCTGAGGAAAGAAGAAGAACTC  105
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67485669  ATCAAGGCTACCCCACCAGTATGTGACTTGCTGTTTGTCCTGAGGAAAGAAGAAGAACTC  67485610
+
+Query  106       TGTGCTGAGATGCTGTCCCAGGAAGGACAGAACAAAACATTTGAAAATGACCAGTTCATG  165
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67485609  TGTGCTGAGATGCTGTCCCAGGAAGGACAGAACAAAACATTTGAAAATGACCAGTTCATG  67485550
+
+Query  166       AGTTCAGGCACATG  179
+                 |||||||| | |||
+Sbjct  67485549  AGTTCAGGTAAATG  67485536
+
+
+
+
+Range 6: 67467294 to 67467421
+
+Score:232 bits(256), Expect:4e-58, 
+Identities:128/128(100%),  Gaps:0/128(0%), Strand: Plus/Minus
+
+Query  784       GTTGGCATTTGGGGGTCTAAAAAGTACATCttttttttttCTTATTATTATTACAGGTGT  843
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67467421  GTTGGCATTTGGGGGTCTAAAAAGTACATCTTTTTTTTTTCTTATTATTATTACAGGTGT  67467362
+
+Query  844       TGGGACATTAATACCAATGTTGCTATCTGGTGGATCATTAGAGGCCCTGTAGTCCTGTCT  903
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67467361  TGGGACATTAATACCAATGTTGCTATCTGGTGGATCATTAGAGGCCCTGTAGTCCTGTCT  67467302
+
+Query  904       ATTTTTGT  911
+                 ||||||||
+Sbjct  67467301  ATTTTTGT  67467294
+
+
+
+
+Range 7: 67480385 to 67480499
+
+Score:208 bits(230), Expect:5e-51, 
+Identities:115/115(100%),  Gaps:0/115(0%), Strand: Plus/Minus
+
+Query  171       AGGCACATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCTTCGTCAATTGGACA  230
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67480499  AGGCACATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCTTCGTCAATTGGACA  67480440
+
+Query  231       GACTGTCAGTGCTCATTGTCCAGAATTCTTCCAAATGCTTACTGGaaaaaaaGGT  285
+                 |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67480439  GACTGTCAGTGCTCATTGTCCAGAATTCTTCCAAATGCTTACTGGAAAAAAAGGT  67480385
+
+
+
+
+Range 8: 67474226 to 67474331
+
+Score:192 bits(212), Expect:4e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  282       aGGTTTTGTGCATCGAAACTGCACTAGTGAAGGTTGGTCAGAGACATTCCCGAGACCCGA  341
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67474331  AGGTTTTGTGCATCGAAACTGCACTAGTGAAGGTTGGTCAGAGACATTCCCGAGACCCGA  67474272
+
+Query  342       TGTTGCTTGTGGCTATGACGTGAACAACACTGCCAATGAGGAGAGA  387
+                 ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67474271  TGTTGCTTGTGGCTATGACGTGAACAACACTGCCAATGAGGAGAGA  67474226
+
+
+
+
+Range 9: 67473756 to 67473853
+
+Score:178 bits(196), Expect:8e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  388       CGTGTCTACTTCATGAAACTGAAGACAATGTACACAGTTGGATATAGTACCTCCCTTGGG  447
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67473853  CGTGTCTACTTCATGAAACTGAAGACAATGTACACAGTTGGATATAGTACCTCCCTTGGG  67473794
+
+Query  448       ACTCTGACAGTAGCCGTAGGAATCCTGGCCTCATTTAG  485
+                 ||||||||||||||||||||||||||||||||||||||
+Sbjct  67473793  ACTCTGACAGTAGCCGTAGGAATCCTGGCCTCATTTAG  67473756
+
+
+
+
+Range 10: 67465245 to 67465337
+
+Score:168 bits(186), Expect:4e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  910       GTTAATTTCATTCTTTTTGTAAATATTTTAAGAATCTTAATGAGAAAGCTCAAATCGCCA  969
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67465337  GTTAATTTCATTCTTTTTGTAAATATTTTAAGAATCTTAATGAGAAAGCTCAAATCGCCA  67465278
+
+Query  970       GAAGGAAGGGGAAATGATTTCAACCAATACAAG  1002
+                 |||||||||||||||||||||||||||||||||
+Sbjct  67465277  GAAGGAAGGGGAAATGATTTCAACCAATACAAG  67465245
+
+
+
+
+Range 11: 67464765 to 67464814
+
+Score:86.9 bits(95), Expect:4e-14, 
+Identities:49/50(98%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  1135      TTCCAGGGCTTCATTGTGGCTGTGCTGTACTGTTTTCTCAATGGCGAGGT  1184
+                 || |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67464814  TTACAGGGCTTCATTGTGGCTGTGCTGTACTGTTTTCTCAATGGCGAGGT  67464765
+
+
+
+
+Range 12: 67490856 to 67490900
+
+Score:82.4 bits(90), Expect:5e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1         ATGTGGAGCTTCCTGGTGATTCTTTTCTGGTTTTCAACTCTAATT  45
+                 |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67490900  ATGTGGAGCTTCCTGGTGATTCTTTTCTGGTTTTCAACTCTAATT  67490856
+
+
+
+
+>Chelonoidis abingdonii isolate Lonesome George unplaced genomic scaffold, CheloAbing_2.0 scaffold3495
+Sequence ID: NW_027427756.1 Length: 1668
+Range 1: 1178 to 1338
+
+Score:169 bits(187), Expect:4e-39, 
+Identities:146/167(87%),  Gaps:13/167(7%), Strand: Plus/Minus
+
+Query  625   GGTTGTAAAATCGTCATGATCTT-TTTCAGTNNATTGCTTCA-GGCTAACTACAGTTGGC  682
+             || |||||| ||||||||||||| |||||||  ||||| ||| |||||||||||||||||
+Sbjct  1338  GGGTGTAAACTCGTCATGATCTTCTTTCAGT--ATTGCATCATGGCTAACTACAGTTGGC  1281
+
+Query  683   TTCTTGTGGAAGGACTATATCTCCA-ACCCTT-TGGTATGTTTTCTTGTTTCTCGGAAAG  740
+             |||||||||| ||||| |||||||| |||||| |||| ||||| |||  |||||||||||
+Sbjct  1280  TTCTTGTGGAGGGACTGTATCTCCACACCCTTCTGGT-TGTTT-CTTTCTTCTCGGAAAG  1223
+
+Query  741   GAAGTTCTTTTGGTG--TCATCCGCCCTTGGGAT-GGGTACTGTTTG  784
+             ||||||||| |||||  |||| ||||| |||||| ||||||||||||
+Sbjct  1222  GAAGTTCTTCTGGTGGTTCAT-CGCCC-TGGGATGGGGTACTGTTTG  1178
+
+
+
+
+>Chelonoidis abingdonii isolate Lonesome George chromosome 2, CheloAbing_2.0
+Sequence ID: NC_133770.1 Length: 303627116
+Range 1: 11167849 to 11167958
+
+Score:78.8 bits(86), Expect:6e-12, 
+Identities:84/110(76%),  Gaps:1/110(0%), Strand: Plus/Plus
+
+Query  477       CTCATTT-AGAAGACTCCATTGTACGAGGAACTACATCCACATGCATCTGTTTACATCCT  535
+                 ||||||| |||| | |||| |||||| |||| |||||||||||||| ||||||   ||||
+Sbjct  11167849  CTCATTTCAGAAAATTCCACTGTACGCGGAATTACATCCACATGCACCTGTTTGTCTCCT  11167908
+
+Query  536       TCATTTTCCGAGCCTTGTCAAACTTAATCAAAGACGCCGTTTTGTTTTCT  585
+                 ||||  || |||||    |    || || ||||| || ||||||||| ||
+Sbjct  11167909  TCATCCTCAGAGCCACTGCTGTTTTCATTAAAGATGCTGTTTTGTTTGCT  11167958
+
+
+
+
+Range 2: 23922690 to 23922768
+
+Score:58.1 bits(63), Expect:2e-05, 
+Identities:60/79(76%),  Gaps:0/79(0%), Strand: Plus/Minus
+
+Query  177       ATGTGCTGGAATGTGGGATAACATGAGCTGCTGGCCTTCTTCGTCAATTGGACAGACTGT  236
+                 ||||| |||| | ||||||||||| |  |||||||   || |   ||||||| |||||||
+Sbjct  23922768  ATGTGTTGGAGTTTGGGATAACATTACTTGCTGGCACCCTGCTGAAATTGGAGAGACTGT  23922709
+
+Query  237       CAGTGCTCATTGTCCAGAA  255
+                 || ||  | ||||||| ||
+Sbjct  23922708  CACTGTCCCTTGTCCAAAA  23922690
+
+
+
+
+Range 3: 23857454 to 23857526
+
+Score:56.3 bits(61), Expect:6e-05, 
+Identities:56/73(77%),  Gaps:0/73(0%), Strand: Plus/Minus
+
+Query  1002      GAGACTTGCAAAATCTACACTCCTTCTCATCCCACTTTTTGGAATTCACTATATCATCTT  1061
+                 ||||||||||||||| ||| | || || || ||  | |||||| ||||||| ||  | ||
+Sbjct  23857526  GAGACTTGCAAAATCAACATTGCTGCTTATTCCGTTATTTGGAGTTCACTACATGGTGTT  23857467
+
+Query  1062      TGCTTTTTTCCCT  1074
+                 |||| | || |||
+Sbjct  23857466  TGCTGTATTTCCT  23857454
+
+
+
+
+Range 4: 6888174 to 6888220
+
+Score:54.5 bits(59), Expect:2e-04, 
+Identities:40/47(85%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  493      CATTGTACGAGGAACTACATCCACATGCATCTGTTTACATCCTTCAT  539
+                || || || |||||||||||||||||||| ||||||   ||||||||
+Sbjct  6888220  CACTGCACAAGGAACTACATCCACATGCACCTGTTTGTCTCCTTCAT  6888174
+
+
+
+
+Range 5: 10502925 to 10503012
+
+Score:47.3 bits(51), Expect:0.033, 
+Identities:63/88(72%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  484       AGAAGACTCCATTGTACGAGGAACTACATCCACATGCATCTGTTTACATCCTTCATTTTC  543
+                 |||| ||| || || ||  | || ||||||||||||||||| || |  || |||||  | 
+Sbjct  10503012  AGAAAACTGCACTGCACTCGAAATTACATCCACATGCATCTCTTCATGTCTTTCATCATG  10502953
+
+Query  544       CGAGCCTTGTCAAACTTAATCAAAGACG  571
+                  ||||| |  ||  ||| || || ||||
+Sbjct  10502952  AGAGCCATTGCAGTCTTCATAAAGGACG  10502925
+
+
+
+
+>Chelonoidis abingdonii isolate Lonesome George chromosome 21, CheloAbing_2.0
+Sequence ID: NC_133789.1 Length: 16314543
+Range 1: 15661194 to 15661247
+
+Score:62.6 bits(68), Expect:4e-07, 
+Identities:46/54(85%),  Gaps:0/54(0%), Strand: Plus/Minus
+
+Query  999       CAAGAGACTTGCAAAATCTACACTCCTTCTCATCCCACTTTTTGGAATTCACTA  1052
+                 || |||||| |||||||| ||||| ||||||||||| || |||||  |||||||
+Sbjct  15661247  CAGGAGACTGGCAAAATCCACACTGCTTCTCATCCCCCTCTTTGGGGTTCACTA  15661194
+
+
+
+
+Range 2: 8626421 to 8626480
+
+Score:46.4 bits(50), Expect:0.033, 
+Identities:46/60(77%),  Gaps:0/60(0%), Strand: Plus/Plus
+
+Query  490      CTCCATTGTACGAGGAACTACATCCACATGCATCTGTTTACATCCTTCATTTTCCGAGCC  549
+                || || || || || |||||||||||||| || || ||  | |||||||| | ||| |||
+Sbjct  8626421  CTGCACTGCACAAGAAACTACATCCACATTCACCTCTTCGCCTCCTTCATCTGCCGGGCC  8626480
+
+
+
+
+>Chelonoidis abingdonii isolate Lonesome George chromosome 6, CheloAbing_2.0
+Sequence ID: NC_133774.1 Length: 138478029
+Range 1: 43897887 to 43897914
+
+Score:47.3 bits(51), Expect:0.033, 
+Identities:27/28(96%),  Gaps:0/28(0%), Strand: Plus/Minus
+
+Query  813       CttttttttttCTTATTATTATTACAGG  840
+                 ||||||||||| ||||||||||||||||
+Sbjct  43897914  CTTTTTTTTTTATTATTATTATTACAGG  43897887
+
+
+
+
+
+
+
+		
+
+

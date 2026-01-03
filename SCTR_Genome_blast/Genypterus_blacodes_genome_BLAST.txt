@@ -1,0 +1,585 @@
+RID: NENJE0BD014	
+Job Title:XM_076152433.1 PREDICTED: Genypterus blacodes...				
+Program: BLASTN 
+Database: Genome (CSIRO-AGI_Gbla_v1) Genypterus blacodes CSIRO-AGI_Gbla_v1 [GCF_046128005.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_046128005.1-RS_2025_08)
+Query #1: XM_076152433.1 PREDICTED: Genypterus blacodes secretin receptor (sctr), mRNA Query ID: lcl|Query_848623 Length: 1365
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     340    2536  100%  2e-91 100.00 3073810    NW_027466868.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     86.0   380   25%   8e-15 82.93  3074795    NW_027466923.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     79.7   79.7  5%    1e-12 84.51  2509414    NW_027466921.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     76.1   76.1  6%    1e-11 81.48  3950487    NW_027466819.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     73.4   73.4  7%    5e-11 76.84  9930788    NW_027466852.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     73.4   242   15%   5e-11 80.00  3292635    NW_027466874.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     72.5   117   9%    2e-10 79.27  2540285    NW_027467132.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     70.7   70.7  4%    6e-10 87.50  7972494    NW_027466842.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     67.1   212   10%   7e-09 80.00  7992460    NW_027466867.1   
+Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania...       Genypterus b... pink cusk-eel   154954     50.9   50.9  3%    6e-04 87.50  8166722    NW_027466870.1   
+
+
+Alignments:
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000056l_1
+Sequence ID: NW_027466868.1 Length: 3073810
+Range 1: 670345 to 670532
+
+Score:340 bits(376), Expect:2e-91, 
+Identities:188/188(100%),  Gaps:0/188(0%), Strand: Plus/Minus
+
+Query  1178    AGGTGCAGAATGAGATCCAGAGGAGGTGGAGGCGCTGGCATCTGATTCACCACCTGCCCG  1237
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  670532  AGGTGCAGAATGAGATCCAGAGGAGGTGGAGGCGCTGGCATCTGATTCACCACCTGCCCG  670473
+
+Query  1238    GTCGCTCCCGGCAGCAACGCAGCTCCATGAGCCACAGCGGCTCTCCGCCCACTCAGGTCC  1297
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  670472  GTCGCTCCCGGCAGCAACGCAGCTCCATGAGCCACAGCGGCTCTCCGCCCACTCAGGTCC  670413
+
+Query  1298    TCCTGCTgccccgccccccgccgggcccgaccgccacccgaccccctgcccACACAGAGG  1357
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  670412  TCCTGCTGCCCCGCCCCCCGCCGGGCCCGACCGCCACCCGACCCCCTGCCCACACAGAGG  670353
+
+Query  1358    GGACCTGA  1365
+               ||||||||
+Sbjct  670352  GGACCTGA  670345
+
+
+
+
+Range 2: 671556 to 671712
+
+Score:284 bits(314), Expect:1e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  621     GGTGGCCTGTAAAGTGGTGCTGATGTTCTCTAACTACTCCATCCTGGCCAACTACAGCTG  680
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  671712  GGTGGCCTGTAAAGTGGTGCTGATGTTCTCTAACTACTCCATCCTGGCCAACTACAGCTG  671653
+
+Query  681     GCTGCTAGTGGAGGGTCACTTCCTCTTCACCTTGGTGAGCCGGTCCTTCTTCTCCCTGAG  740
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  671652  GCTGCTAGTGGAGGGTCACTTCCTCTTCACCTTGGTGAGCCGGTCCTTCTTCTCCCTGAG  671593
+
+Query  741     GAAACACCTGGCCTGGTACATCTTCCTCAGCTGGGGT  777
+               |||||||||||||||||||||||||||||||||||||
+Sbjct  671592  GAAACACCTGGCCTGGTACATCTTCCTCAGCTGGGGT  671556
+
+
+
+
+Range 3: 670765 to 670904
+
+Score:253 bits(280), Expect:3e-65, 
+Identities:140/140(100%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  999     GCGTTTGATCAAATCCACGTTTTTCCTGGTGGCGCTCTTCGGTCTGCACTACATCCTGTT  1058
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  670904  GCGTTTGATCAAATCCACGTTTTTCCTGGTGGCGCTCTTCGGTCTGCACTACATCCTGTT  670845
+
+Query  1059    TGTCTTCCTGCCTGTGGAGGTCAGCAGCTTGTTGTTTAAGATATGGACCTCTGCAGAGCT  1118
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  670844  TGTCTTCCTGCCTGTGGAGGTCAGCAGCTTGTTGTTTAAGATATGGACCTCTGCAGAGCT  670785
+
+Query  1119    GGCACTGTCCTCCGTACAGG  1138
+               ||||||||||||||||||||
+Sbjct  670784  GGCACTGTCCTCCGTACAGG  670765
+
+
+
+
+Range 4: 672429 to 672565
+
+Score:248 bits(274), Expect:1e-63, 
+Identities:137/137(100%),  Gaps:0/137(0%), Strand: Plus/Minus
+
+Query  487     AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  546
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  672565  AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  672506
+
+Query  547     AGGGCCGTCTTCATCTTCATCAGAGACTCACTGCTATTCATTAACGAAGAGCTCTATCAC  606
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  672505  AGGGCCGTCTTCATCTTCATCAGAGACTCACTGCTATTCATTAACGAAGAGCTCTATCAC  672446
+
+Query  607     TGCCACGCCCACCCGGT  623
+               |||||||||||||||||
+Sbjct  672445  TGCCACGCCCACCCGGT  672429
+
+
+
+
+Range 5: 673715 to 673854
+
+Score:244 bits(270), Expect:1e-62, 
+Identities:138/140(99%),  Gaps:0/140(0%), Strand: Plus/Minus
+
+Query  138     AACAGAAAATAAGACATTGTAATGTGTGTTTTTTGCAGACTGCATTGGAATGTGGGATAG  197
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  673854  AATAGAAAATAAGACATTGTAATGTGTGTTTTTTGCAGACTGCATTGGAATGTGGGATAG  673795
+
+Query  198     CCTGAACTGCTGGCCTGCCGCCTCTCTTGGGGAGATTGTCTCACAACCATGTCCTGAGTT  257
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  673794  CCTGAACTGCTGGCCTGCCGCCTCTCTTGGGGAGATTGTCTCACAACCATGTCCTGAGTT  673735
+
+Query  258     TTTCAGTTCAGAAGGTGAAG  277
+               ||||||||||||||||| ||
+Sbjct  673734  TTTCAGTTCAGAAGGTGGAG  673715
+
+
+
+
+Range 6: 672654 to 672765
+
+Score:203 bits(224), Expect:4e-50, 
+Identities:112/112(100%),  Gaps:0/112(0%), Strand: Plus/Minus
+
+Query  377     AGTCATCAGATACCCATCTGTATTTCACCTACGTGAAGACCATGTACACCATCGGATACA  436
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  672765  AGTCATCAGATACCCATCTGTATTTCACCTACGTGAAGACCATGTACACCATCGGATACA  672706
+
+Query  437     CGCTCTCGCTCATCTCGCTCACCTTCGCCATCACCATACTGTGCCTGTTTAG  488
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  672705  CGCTCTCGCTCATCTCGCTCACCTTCGCCATCACCATACTGTGCCTGTTTAG  672654
+
+
+
+
+Range 7: 673235 to 673343
+
+Score:197 bits(218), Expect:2e-48, 
+Identities:109/109(100%),  Gaps:0/109(0%), Strand: Plus/Minus
+
+Query  270     AGGTGAAGTGCATCGCAACTGCACAGCCGGCGGCTGGACAGAGGTGCTTGTGCCGCATGA  329
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  673343  AGGTGAAGTGCATCGCAACTGCACAGCCGGCGGCTGGACAGAGGTGCTTGTGCCGCATGA  673284
+
+Query  330     AGATGCATGTGGCTACACTTTTAACGAGACGCTCCACTTTCTCGGGGAG  378
+               |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  673283  AGATGCATGTGGCTACACTTTTAACGAGACGCTCCACTTTCTCGGGGAG  673235
+
+
+
+
+Range 8: 674289 to 674391
+
+Score:187 bits(206), Expect:3e-45, 
+Identities:103/103(100%),  Gaps:0/103(0%), Strand: Plus/Minus
+
+Query  40      CAGGCGAAATCTTTGTCAGATTGTCATCCTCTTTTCAATCTTGTGAAAGAGGAGGAAGAA  99
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  674391  CAGGCGAAATCTTTGTCAGATTGTCATCCTCTTTTCAATCTTGTGAAAGAGGAGGAAGAA  674332
+
+Query  100     TGCATGAAAGACCTTCTGCTTTTTAATATGTCCGAATCAACAG  142
+               |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  674331  TGCATGAAAGACCTTCTGCTTTTTAATATGTCCGAATCAACAG  674289
+
+
+
+
+Range 9: 671078 to 671170
+
+Score:168 bits(186), Expect:8e-40, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  907     ACAAACTTAGTCTTCTTCCTGGGCATTCTGAGGATTCTGGTGAGCAAACTGAGGATGCCT  966
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  671170  ACAAACTTAGTCTTCTTCCTGGGCATTCTGAGGATTCTGGTGAGCAAACTGAGGATGCCT  671111
+
+Query  967     GACGCACAGAGGAGCGAATTCACACAGTATAAG  999
+               |||||||||||||||||||||||||||||||||
+Sbjct  671110  GACGCACAGAGGAGCGAATTCACACAGTATAAG  671078
+
+
+
+
+Range 10: 671253 to 671323
+
+Score:129 bits(142), Expect:7e-28, 
+Identities:71/71(100%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  836     GCTGTTGGGAGACGAGGAGACACGAGTGGATCTGGTGGATCCTGCGAGTGCCGGTGCTGC  895
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  671323  GCTGTTGGGAGACGAGGAGACACGAGTGGATCTGGTGGATCCTGCGAGTGCCGGTGCTGC  671264
+
+Query  896     TCACCATCTGT  906
+               |||||||||||
+Sbjct  671263  TCACCATCTGT  671253
+
+
+
+
+Range 11: 671409 to 671470
+
+Score:113 bits(124), Expect:6e-23, 
+Identities:62/62(100%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  775     GGTTTGCCTTTGGTTCTTATTGTCTCCTGGGGATGTGCAAAGTATTTCTATGAGAATGAA  834
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  671470  GGTTTGCCTTTGGTTCTTATTGTCTCCTGGGGATGTGCAAAGTATTTCTATGAGAATGAA  671411
+
+Query  835     GG  836
+               ||
+Sbjct  671410  GG  671409
+
+
+
+
+Range 12: 670614 to 670660
+
+Score:86.0 bits(94), Expect:8e-15, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1136    AGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAATGGAGAGGTG  1182
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  670660  AGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAATGGAGAGGTG  670614
+
+
+
+
+Range 13: 674455 to 674500
+
+Score:79.7 bits(87), Expect:1e-12, 
+Identities:45/46(98%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1       ATGCATAAAGTTGGACTTGTTGGAGTTTTCCTGCTGCCCCAGGCGA  46
+               ||||||||||||||||||||||||||||||||||||||||||| ||
+Sbjct  674500  ATGCATAAAGTTGGACTTGTTGGAGTTTTCCTGCTGCCCCAGGTGA  674455
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000120l_1
+Sequence ID: NW_027466923.1 Length: 3074795
+Range 1: 1585 to 1666
+
+Score:86.0 bits(94), Expect:8e-15, 
+Identities:68/82(83%),  Gaps:0/82(0%), Strand: Plus/Plus
+
+Query  487   AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  546
+             || ||||| |||||||||||||||| |||||||||  | |||||||| ||||||||  ||
+Sbjct  1585  AGGAAGCTTCACTGCACCAGGAACTTCATTCACATGAATCTGTTTGTGTCCTTCATCTTG  1644
+
+Query  547   AGGGCCGTCTTCATCTTCATCA  568
+             || ||| |||   |||||||||
+Sbjct  1645  AGAGCCATCTCAGTCTTCATCA  1666
+
+
+
+
+Range 2: 16368 to 16485
+
+Score:75.2 bits(82), Expect:1e-11, 
+Identities:93/122(76%),  Gaps:8/122(6%), Strand: Plus/Minus
+
+Query  660    CATCCTGGCCAACTACAGCTGGCTGCTAGTGGAGGGTCACTTCCTCTTC--ACCTTGGTG  717
+              |||||||||||| |||  ||||||||| |||||||| || |   ||| |  ||| || ||
+Sbjct  16485  CATCCTGGCCAATTACTTCTGGCTGCTGGTGGAGGG-CA-TGTATCTGCAGACCCTGCTG  16428
+
+Query  718    AGCCGGTCCTTCTTCTCCCTGAGGAAACAC--CTGGCCTGGTACATCTTCCTCAGCTGGG  775
+                || | ||||| |||||| ||||||| ||  ||||  ||||||||| |  || ||||||
+Sbjct  16427  GCCCTGACCTTCGTCTCCCAGAGGAAATACTTCTGG--TGGTACATCCTGATCGGCTGGG  16370
+
+Query  776    GT  777
+              ||
+Sbjct  16369  GT  16368
+
+
+
+
+Range 3: 12547 to 12594
+
+Score:60.8 bits(66), Expect:3e-07, 
+Identities:42/48(88%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  1135   CAGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAATGGAGAGGTG  1182
+              |||||||||||||| ||  | || ||||| ||||||||||||||||||
+Sbjct  12594  CAGGGTTTTGTGGTGGCCCTGCTTTACTGTTTCATGAATGGAGAGGTG  12547
+
+
+
+
+Range 4: 17002 to 17099
+
+Score:60.8 bits(66), Expect:3e-07, 
+Identities:72/98(73%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  487    AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  546
+              || ||| |||||||||||||||| ||||| |||||| | |||||    |||||| |  ||
+Sbjct  17099  AGAAAGTTCCACTGCACCAGGAATTACATCCACATCAACCTGTTCTCATCCTTCGTTCTG  17040
+
+Query  547    AGGGCCGTCTTCATCTTCATCAGAGACTCACTGCTATT  584
+               | |||  |  | | ||||| | ||||||  |||| ||
+Sbjct  17039  CGAGCCAGCGCCGTTTTCATTAAAGACTCCGTGCTGTT  17002
+
+
+
+
+Range 5: 12826 to 12890
+
+Score:50.9 bits(55), Expect:6e-04, 
+Identities:50/65(77%),  Gaps:0/65(0%), Strand: Plus/Minus
+
+Query  1008   CAAATCCACGTTTTTCCTGGTGGCGCTCTTCGGTCTGCACTACATCCTGTTTGTCTTCCT  1067
+              |||||||||  | |||||  |  | || |||||  ||||||||| | |||| | ||||||
+Sbjct  12890  CAAATCCACCCTGTTCCTCATCCCTCTGTTCGGGATGCACTACACCGTGTTCGCCTTCCT  12831
+
+Query  1068   GCCTG  1072
+              |||||
+Sbjct  12830  GCCTG  12826
+
+
+
+
+Range 6: 1849289 to 1849345
+
+Score:46.4 bits(50), Expect:0.007, 
+Identities:46/59(78%),  Gaps:2/59(3%), Strand: Plus/Plus
+
+Query  1123     CTGTCCTCCGTACAGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAATGGAGAGGT  1181
+                || ||||| |  ||||||||||| || ||| |  | ||||| ||  |||||||||||||
+Sbjct  1849289  CTCTCCTCTG--CAGGGTTTTGTTGTCGCTGTGTTGTACTGTTTTCTGAATGGAGAGGT  1849345
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000118l_1
+Sequence ID: NW_027466921.1 Length: 2509414
+Range 1: 2304766 to 2304836
+
+Score:79.7 bits(87), Expect:1e-12, 
+Identities:60/71(85%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  493      CTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATGAGGGCC  552
+                || |||||||||||||||||||| ||||| || |||||||| ||||||||  || | |||
+Sbjct  2304836  CTTCACTGCACCAGGAACTACATCCACATGCACCTGTTTGTGTCCTTCATGTTGCGAGCC  2304777
+
+Query  553      GTCTTCATCTT  563
+                |||  ||||||
+Sbjct  2304776  GTCAGCATCTT  2304766
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000005l_1
+Sequence ID: NW_027466819.1 Length: 3950487
+Range 1: 3780329 to 3780409
+
+Score:76.1 bits(83), Expect:1e-11, 
+Identities:66/81(81%),  Gaps:1/81(1%), Strand: Plus/Plus
+
+Query  475      CTGTGCCTGTTT-AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGT  533
+                |||||  ||||  || |||||||||||||||||||| ||||| ||| || | || ||  |
+Sbjct  3780329  CTGTGTGTGTTCCAGGAAGCTCCACTGCACCAGGAATTACATCCACCTCAACCTCTTCTT  3780388
+
+Query  534      CTCCTTCATAATGAGGGCCGT  554
+                |||||||||  ||||||||||
+Sbjct  3780389  CTCCTTCATCCTGAGGGCCGT  3780409
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000039l_1
+Sequence ID: NW_027466852.1 Length: 9930788
+Range 1: 4307237 to 4307331
+
+Score:73.4 bits(80), Expect:5e-11, 
+Identities:73/95(77%),  Gaps:0/95(0%), Strand: Plus/Plus
+
+Query  487      AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  546
+                || ||||||||||| |  |||||| |||| |||||  | ||||||| |||||||||  ||
+Sbjct  4307237  AGGAAGCTCCACTGTATGAGGAACAACATCCACATGAACCTGTTTGCCTCCTTCATCCTG  4307296
+
+Query  547      AGGGCCGTCTTCATCTTCATCAGAGACTCACTGCT  581
+                || ||||| | |||| |  | | |||| | |||||
+Sbjct  4307297  AGAGCCGTGTCCATCCTGGTGAAAGACGCCCTGCT  4307331
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000062l_1
+Sequence ID: NW_027466874.1 Length: 3292635
+Range 1: 408929 to 409008
+
+Score:73.4 bits(80), Expect:5e-11, 
+Identities:64/80(80%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  494     TCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATGAGGGCCG  553
+               |||||||||||||||||||||| || ||| | |||||  ||||||||||  |||| ||| 
+Sbjct  408929  TCCACTGCACCAGGAACTACATCCATATCAACCTGTTCTTCTCCTTCATCCTGAGAGCCA  408988
+
+Query  554     TCTTCATCTTCATCAGAGAC  573
+                |    ||||||||| ||||
+Sbjct  408989  GCGCTGTCTTCATCAAAGAC  409008
+
+
+
+
+Range 2: 422654 to 422740
+
+Score:63.5 bits(69), Expect:9e-08, 
+Identities:66/87(76%),  Gaps:0/87(0%), Strand: Plus/Minus
+
+Query  487     AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  546
+               || || || ||||||||||||||||  || |||||  | || ||||| ||||||||  ||
+Sbjct  422740  AGGAAACTGCACTGCACCAGGAACTTTATCCACATGAACCTTTTTGTGTCCTTCATCTTG  422681
+
+Query  547     AGGGCCGTCTTCATCTTCATCAGAGAC  573
+               || ||  | |   ||||||||| ||||
+Sbjct  422680  AGAGCGATTTCTGTCTTCATCAAAGAC  422654
+
+
+
+
+Range 3: 410061 to 410130
+
+Score:55.4 bits(60), Expect:1e-05, 
+Identities:54/70(77%),  Gaps:0/70(0%), Strand: Plus/Plus
+
+Query  626     CCTGTAAAGTGGTGCTGATGTTCTCTAACTACTCCATCCTGGCCAACTACAGCTGGCTGC  685
+               |||||||||  ||  ||   ||||   | | || ||||||||||||||||  ||||||||
+Sbjct  410061  CCTGTAAAGCAGTCGTGGCTTTCTTCCAGTTCTGCATCCTGGCCAACTACTTCTGGCTGC  410120
+
+Query  686     TAGTGGAGGG  695
+               | ||||||||
+Sbjct  410121  TGGTGGAGGG  410130
+
+
+
+
+Range 4: 420620 to 420666
+
+Score:50.0 bits(54), Expect:6e-04, 
+Identities:39/47(83%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1135    CAGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAATGGAGAGGT  1181
+               ||||| |||||||| ||  | |||||||||||| | || ||||||||
+Sbjct  420666  CAGGGCTTTGTGGTCGCCGTACTCTACTGCTTCCTTAACGGAGAGGT  420620
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000348l_1
+Sequence ID: NW_027467132.1 Length: 2540285
+Range 1: 166564 to 166645
+
+Score:72.5 bits(79), Expect:2e-10, 
+Identities:65/82(79%),  Gaps:0/82(0%), Strand: Plus/Plus
+
+Query  487     AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  546
+               || |||||||||||||| || |||||||| ||||| || || ||||| || || ||  ||
+Sbjct  166564  AGGAAGCTCCACTGCACGAGAAACTACATCCACATGCATCTCTTTGTGTCGTTTATCCTG  166623
+
+Query  547     AGGGCCGTCTTCATCTTCATCA  568
+               | |||| ||  | |||||||||
+Sbjct  166624  AAGGCCATCGCCGTCTTCATCA  166645
+
+
+
+
+Range 2: 171490 to 171536
+
+Score:45.5 bits(49), Expect:0.024, 
+Identities:38/47(81%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  1136    AGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAATGGAGAGGTG  1182
+               |||| || ||||| ||  |||||||||||||| | || || ||||||
+Sbjct  171490  AGGGCTTCGTGGTGGCGGTCCTCTACTGCTTCCTCAACGGCGAGGTG  171536
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000029l_1
+Sequence ID: NW_027466842.1 Length: 7972494
+Range 1: 4805709 to 4805764
+
+Score:70.7 bits(77), Expect:6e-10, 
+Identities:49/56(88%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  496      CACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATGAGGGC  551
+                |||||||||||||||||||| ||||| || || ||||| ||||||||  |||||||
+Sbjct  4805764  CACTGCACCAGGAACTACATCCACATGCACCTCTTTGTGTCCTTCATGCTGAGGGC  4805709
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000055l_1
+Sequence ID: NW_027466867.1 Length: 7992460
+Range 1: 131343 to 131417
+
+Score:67.1 bits(73), Expect:7e-09, 
+Identities:60/75(80%),  Gaps:3/75(4%), Strand: Plus/Minus
+
+Query  480     CCTGTTTA---GTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTC  536
+               ||||||||   | ||||||||||| |||||||||| ||| |||||  | |||||||| ||
+Sbjct  131417  CCTGTTTACCAGGAAGCTCCACTGTACCAGGAACTTCATCCACATGAATCTGTTTGTGTC  131358
+
+Query  537     CTTCATAATGAGGGC  551
+                |||||  |||| ||
+Sbjct  131357  GTTCATCCTGAGAGC  131343
+
+
+
+
+Range 2: 971038 to 971105
+
+Score:51.8 bits(56), Expect:2e-04, 
+Identities:52/68(76%),  Gaps:0/68(0%), Strand: Plus/Plus
+
+Query  487     AGTAAGCTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATG  546
+               || || ||||||||||||||||| |||||||||    | || ||  | ||||||||  ||
+Sbjct  971038  AGGAAACTCCACTGCACCAGGAATTACATTCACGCAAACCTCTTCATGTCCTTCATCCTG  971097
+
+Query  547     AGGGCCGT  554
+                | |||||
+Sbjct  971098  CGAGCCGT  971105
+
+
+
+
+Range 3: 5372088 to 5372158
+
+Score:48.2 bits(52), Expect:0.002, 
+Identities:53/71(75%),  Gaps:0/71(0%), Strand: Plus/Minus
+
+Query  493      CTCCACTGCACCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCATAATGAGGGCC  552
+                |||||||||||  | || ||||| ||||| || || || | |||||||||  |  | || 
+Sbjct  5372158  CTCCACTGCACTCGCAATTACATCCACATTCACCTCTTCGCCTCCTTCATCTTTCGAGCA  5372099
+
+Query  553      GTCTTCATCTT  563
+                |||  ||||||
+Sbjct  5372098  GTCAGCATCTT  5372088
+
+
+
+
+Range 4: 130018 to 130064
+
+Score:45.5 bits(49), Expect:0.024, 
+Identities:38/47(81%),  Gaps:0/47(0%), Strand: Plus/Minus
+
+Query  1135    CAGGGTTTTGTGGTTGCTATCCTCTACTGCTTCATGAATGGAGAGGT  1181
+               ||||| |||||||| ||| | || ||||||||    |||||||||||
+Sbjct  130064  CAGGGCTTTGTGGTCGCTGTGCTGTACTGCTTTGCTAATGGAGAGGT  130018
+
+
+
+
+>Genypterus blacodes isolate CSIRO-AG114 ecotype Tasmania unplaced genomic scaffold, CSIRO-AGI_Gbla_v1 ptg000058l_1
+Sequence ID: NW_027466870.1 Length: 8166722
+Range 1: 4709639 to 4709678
+
+Score:50.9 bits(55), Expect:6e-04, 
+Identities:35/40(88%),  Gaps:0/40(0%), Strand: Plus/Plus
+
+Query  503      CCAGGAACTACATTCACATCCAGCTGTTTGTCTCCTTCAT  542
+                ||||||||||||||||||||||||| ||   ||| |||||
+Sbjct  4709639  CCAGGAACTACATTCACATCCAGCTCTTCACCTCGTTCAT  4709678
+
+
+
+
+
+
+
+		
+
+
