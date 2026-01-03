@@ -1,0 +1,1954 @@
+RID: N6R8M36S016	
+Job Title:ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA				
+Program: BLASTN 
+Database: SRA 
+Query #1: ATGCTCTCTAGGGCTCAGCAGCTGGAGAGAAACATTGGCTAAGGATGGTCAAAGCTGGGA Query ID: lcl|Query_4649625 Length: 120
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          169    169   82%   6e-39 98.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          168    168   81%   2e-38 97.98  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          166    166   80%   7e-38 97.96  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          165    165   82%   7e-38 97.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          163    163   81%   3e-37 96.97  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          162    162   78%   9e-37 97.92  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          162    162   78%   9e-37 97.92  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          160    160   78%   3e-36 97.89  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          160    160   78%   3e-36 97.89  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          160    160   78%   3e-36 97.89  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          159    159   82%   1e-35 95.00  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          159    159   77%   1e-35 97.87  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          155    155   75%   1e-34 97.83  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          155    155   75%   1e-34 97.83  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          155    155   75%   1e-34 97.83  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          153    153   74%   5e-34 97.80  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          153    153   74%   5e-34 97.80  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          153    153   74%   5e-34 97.80  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          153    153   74%   5e-34 97.80  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          151    151   73%   2e-33 97.78  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          151    151   73%   2e-33 97.78  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          151    151   73%   2e-33 97.78  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          150    150   73%   6e-33 97.75  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          150    150   73%   6e-33 97.75  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          149    149   74%   6e-33 96.70  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          148    148   72%   2e-32 97.73  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          148    148   72%   2e-32 97.73  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          147    147   73%   2e-32 96.67  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          143    143   76%   2e-31 94.62  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          142    142   69%   8e-31 97.65  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          141    141   68%   3e-30 97.62  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          137    137   67%   4e-29 97.56  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          133    133   65%   4e-28 97.50  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          133    133   69%   4e-28 95.29  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          133    133   65%   4e-28 97.50  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          132    132   64%   2e-27 97.47  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          132    132   64%   2e-27 97.47  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          128    128   63%   2e-26 97.40  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          126    126   62%   6e-26 97.37  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          123    123   62%   8e-25 96.05  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          123    123   60%   8e-25 97.30  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          117    117   58%   3e-23 97.18  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          117    117   58%   3e-23 97.18  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          115    115   57%   1e-22 97.14  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          113    113   56%   4e-22 97.10  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          110    110   54%   5e-21 97.01  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          110    110   54%   5e-21 97.01  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          108    108   53%   2e-20 96.97  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          106    106   53%   6e-20 96.92  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          106    106   53%   6e-20 96.92  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          104    104   48%   2e-19 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          104    104   48%   2e-19 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          104    104   48%   2e-19 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          104    104   48%   2e-19 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          103    103   51%   7e-19 96.83  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          102    102   47%   7e-19 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          101    101   50%   3e-18 96.77  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          101    101   50%   3e-18 96.77  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          100    100   46%   3e-18 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          98.7   98.7  45%   9e-18 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          97.8   97.8  48%   3e-17 96.67  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          96.9   96.9  44%   3e-17 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          96.0   96.0  48%   1e-16 96.61  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          95.1   95.1  43%   1e-16 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          91.5   91.5  42%   1e-15 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          89.7   89.7  41%   5e-15 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          89.7   89.7  41%   5e-15 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          87.8   87.8  40%   2e-14 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          87.8   87.8  40%   2e-14 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          87.8   87.8  40%   2e-14 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          87.8   87.8  40%   2e-14 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          86.0   86.0  39%   6e-14 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          82.4   82.4  38%   7e-13 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          80.6   80.6  37%   2e-12 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          80.6   80.6  37%   2e-12 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          80.6   80.6  37%   2e-12 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          78.8   78.8  36%   8e-12 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          75.2   75.2  34%   1e-10 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          73.4   73.4  33%   4e-10 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          73.4   73.4  33%   4e-10 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          73.4   73.4  33%   4e-10 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          73.4   73.4  33%   4e-10 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          71.6   71.6  33%   1e-09 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          71.6   71.6  33%   1e-09 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          69.8   69.8  32%   4e-09 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          69.8   69.8  32%   4e-09 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          68.0   68.0  31%   2e-08 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          68.0   68.0  31%   2e-08 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          68.0   68.0  31%   2e-08 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          67.1   67.1  33%   5e-08 97.44  100        SRA:SRR170724... 
+SRX13260973                                                                                       0          62.6   62.6  28%   6e-07 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          62.6   62.6  28%   6e-07 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          57.2   57.2  26%   3e-05 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          57.2   57.2  26%   3e-05 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          57.2   57.2  26%   3e-05 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          55.4   55.4  25%   1e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          55.4   55.4  25%   1e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          55.4   55.4  25%   1e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          55.4   55.4  25%   1e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          55.4   55.4  25%   1e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          53.6   53.6  24%   3e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          53.6   53.6  24%   3e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          53.6   53.6  24%   3e-04 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          51.8   51.8  23%   0.001 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          48.2   48.2  22%   0.014 100.00 100        SRA:SRR170724... 
+SRX13260973                                                                                       0          46.4   46.4  21%   0.050 100.00 100        SRA:SRR170724... 
+
+
+Alignments:
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.384394010.1 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Minus
+
+Query  21   AAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGAC  78
+            ||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||
+Sbjct  100  AAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGAC  41
+
+Query  79   CTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCA  118
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  40   CTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCA  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.362249655.2 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  21   AAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGAC  78
+            ||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||||
+Sbjct  1    AAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGAC  60
+
+Query  79   CTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCA  118
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.290531622.2 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  19   GAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTG  76
+            ||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||
+Sbjct  1    GAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTG  60
+
+Query  77   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATT  116
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.208660112.2 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  18   GGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGT  75
+            |||||||||||||||||||||||||||||||||||||||||||||||  |||||||||||
+Sbjct  1    GGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGT  60
+
+Query  76   GACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGAT  115
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGAT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.168719954.2 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  19   GAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTG  76
+            ||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||
+Sbjct  1    GAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTG  60
+
+Query  77   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATT  116
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.105172409.1 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  14   GGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGCC  71
+            ||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||
+Sbjct  1    GGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCC  60
+
+Query  72   CGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTG  111
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   CGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.75209054.2 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Minus
+
+Query  16   AGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCG  73
+            |||||||||||||||||||||||||||||||||||||||||||||||||  |||||||||
+Sbjct  100  AGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCG  41
+
+Query  74   GTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTG  113
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  40   GTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTG  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.22928027.1 Length: 100
+Range 1: 1 to 100
+
+Score:169 bits(187), Expect:6e-39, 
+Identities:98/100(98%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  19   GAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTG  76
+            ||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||||
+Sbjct  1    GAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTG  60
+
+Query  77   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATT  116
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.335885008.2 Length: 100
+Range 1: 2 to 100
+
+Score:168 bits(185), Expect:2e-38, 
+Identities:97/99(98%),  Gaps:2/99(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  2    AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  61
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCC  109
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  62   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.35756161.2 Length: 100
+Range 1: 1 to 98
+
+Score:166 bits(183), Expect:7e-38, 
+Identities:96/98(98%),  Gaps:2/98(2%), Strand: Plus/Plus
+
+Query  25   GATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCT  82
+            ||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||
+Sbjct  1    GATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCT  60
+
+Query  83   GGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  98
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.397059717.1 Length: 100
+Range 1: 1 to 100
+
+Score:165 bits(182), Expect:7e-38, 
+Identities:97/100(97%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  22   AGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACC  79
+            |||||||||||||||||||||||||||||||||||||||||||  |||||||||||||||
+Sbjct  1    AGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACC  60
+
+Query  80   TCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCAC  119
+            |||||||||||||||||||||||||||||| |||||||||
+Sbjct  61   TCTGGTGCGCGAGGGATGAAGGAAAGAGCCAGTGATTCAC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.50767601.2 Length: 100
+Range 1: 1 to 99
+
+Score:163 bits(180), Expect:3e-37, 
+Identities:96/99(97%),  Gaps:2/99(2%), Strand: Plus/Minus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||| ||||||||||||||||||||||||  |||||||
+Sbjct  99   AGGAGGGAAAGGGATGAAGTGAAAGGCGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  40
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCC  109
+            |||||||||||||||||||||||||||||||||||||||
+Sbjct  39   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCC  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.124814345.1 Length: 100
+Range 1: 5 to 100
+
+Score:162 bits(179), Expect:9e-37, 
+Identities:94/96(98%),  Gaps:2/96(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  5    AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  64
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGA  106
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  65   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.78589434.2 Length: 100
+Range 1: 5 to 100
+
+Score:162 bits(179), Expect:9e-37, 
+Identities:94/96(98%),  Gaps:2/96(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  5    AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  64
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGA  106
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  65   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.369942983.2 Length: 100
+Range 1: 6 to 100
+
+Score:160 bits(177), Expect:3e-36, 
+Identities:93/95(98%),  Gaps:2/95(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  6    AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  65
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAG  105
+            |||||||||||||||||||||||||||||||||||
+Sbjct  66   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.235740479.1 Length: 100
+Range 1: 1 to 95
+
+Score:160 bits(177), Expect:3e-36, 
+Identities:93/95(98%),  Gaps:2/95(2%), Strand: Plus/Plus
+
+Query  28   GAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGT  85
+            |||||||||||||||||||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  1    GAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGT  60
+
+Query  86   GCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||
+Sbjct  61   GCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  95
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.172347350.2 Length: 100
+Range 1: 6 to 100
+
+Score:160 bits(177), Expect:3e-36, 
+Identities:93/95(98%),  Gaps:2/95(2%), Strand: Plus/Minus
+
+Query  28   GAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGT  85
+            |||||||||||||||||||||||||||||||||||||  |||||||||||||||||||||
+Sbjct  100  GAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGT  41
+
+Query  86   GCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||
+Sbjct  40   GCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  6
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.202774651.1 Length: 100
+Range 1: 1 to 100
+
+Score:159 bits(175), Expect:1e-35, 
+Identities:95/100(95%),  Gaps:2/100(2%), Strand: Plus/Plus
+
+Query  18   GGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGT  75
+            ||| ||| ||||||| |||||||||||||||||||||||||||||||  |||||||||||
+Sbjct  1    GGANAGGNATGAAGTNAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGT  60
+
+Query  76   GACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGAT  115
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61   GACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGAT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.70938853.1 Length: 100
+Range 1: 7 to 100
+
+Score:159 bits(175), Expect:1e-35, 
+Identities:92/94(98%),  Gaps:2/94(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  7    AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  66
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAA  104
+            ||||||||||||||||||||||||||||||||||
+Sbjct  67   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.317648828.1 Length: 100
+Range 1: 9 to 100
+
+Score:155 bits(171), Expect:1e-34, 
+Identities:90/92(98%),  Gaps:2/92(2%), Strand: Plus/Minus
+
+Query  31   GTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCG  88
+            ||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||
+Sbjct  100  GTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCG  41
+
+Query  89   CGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||
+Sbjct  40   CGAGGGATGAAGGAAAGAGCCTGTGATTCACT  9
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.113586986.2 Length: 100
+Range 1: 1 to 92
+
+Score:155 bits(171), Expect:1e-34, 
+Identities:90/92(98%),  Gaps:2/92(2%), Strand: Plus/Minus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  92   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  33
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGA  102
+            ||||||||||||||||||||||||||||||||
+Sbjct  32   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGA  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.22646424.1 Length: 100
+Range 1: 1 to 92
+
+Score:155 bits(171), Expect:1e-34, 
+Identities:90/92(98%),  Gaps:2/92(2%), Strand: Plus/Plus
+
+Query  31   GTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCG  88
+            ||||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||
+Sbjct  1    GTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCG  60
+
+Query  89   CGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||
+Sbjct  61   CGAGGGATGAAGGAAAGAGCCTGTGATTCACT  92
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.381925942.1 Length: 100
+Range 1: 10 to 100
+
+Score:153 bits(169), Expect:5e-34, 
+Identities:89/91(98%),  Gaps:2/91(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  10   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  69
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  101
+            |||||||||||||||||||||||||||||||
+Sbjct  70   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.313871666.2 Length: 100
+Range 1: 1 to 91
+
+Score:153 bits(169), Expect:5e-34, 
+Identities:89/91(98%),  Gaps:2/91(2%), Strand: Plus/Plus
+
+Query  32   TGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGC  89
+            |||||||||||||||||||||||||||||||||  |||||||||||||||||||||||||
+Sbjct  1    TGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGC  60
+
+Query  90   GAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||
+Sbjct  61   GAGGGATGAAGGAAAGAGCCTGTGATTCACT  91
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.133261411.1 Length: 100
+Range 1: 1 to 91
+
+Score:153 bits(169), Expect:5e-34, 
+Identities:89/91(98%),  Gaps:2/91(2%), Strand: Plus/Minus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  91   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  32
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  101
+            |||||||||||||||||||||||||||||||
+Sbjct  31   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.129167502.2 Length: 100
+Range 1: 10 to 100
+
+Score:153 bits(169), Expect:5e-34, 
+Identities:89/91(98%),  Gaps:2/91(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+            |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  10   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  69
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  101
+            |||||||||||||||||||||||||||||||
+Sbjct  70   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.286281513.2 Length: 100
+Range 1: 1 to 90
+
+Score:151 bits(167), Expect:2e-33, 
+Identities:88/90(98%),  Gaps:2/90(2%), Strand: Plus/Plus
+
+Query  33   GAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCG  90
+            ||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||
+Sbjct  1    GAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCG  60
+
+Query  91   AGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||
+Sbjct  61   AGGGATGAAGGAAAGAGCCTGTGATTCACT  90
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.126683721.1 Length: 100
+Range 1: 1 to 90
+
+Score:151 bits(167), Expect:2e-33, 
+Identities:88/90(98%),  Gaps:2/90(2%), Strand: Plus/Plus
+
+Query  33   GAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCG  90
+            ||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||
+Sbjct  1    GAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCG  60
+
+Query  91   AGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||
+Sbjct  61   AGGGATGAAGGAAAGAGCCTGTGATTCACT  90
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.57474074.2 Length: 100
+Range 1: 1 to 90
+
+Score:151 bits(167), Expect:2e-33, 
+Identities:88/90(98%),  Gaps:2/90(2%), Strand: Plus/Plus
+
+Query  33   GAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCG  90
+            ||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||
+Sbjct  1    GAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCG  60
+
+Query  91   AGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||
+Sbjct  61   AGGGATGAAGGAAAGAGCCTGTGATTCACT  90
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.194429099.1 Length: 100
+Range 1: 12 to 100
+
+Score:150 bits(165), Expect:6e-33, 
+Identities:87/89(98%),  Gaps:2/89(2%), Strand: Plus/Minus
+
+Query  34   AAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGA  91
+            |||||||||||||||||||||||||||||||  |||||||||||||||||||||||||||
+Sbjct  100  AAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGA  41
+
+Query  92   GGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||
+Sbjct  40   GGGATGAAGGAAAGAGCCTGTGATTCACT  12
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.174127185.1 Length: 100
+Range 1: 1 to 89
+
+Score:150 bits(165), Expect:6e-33, 
+Identities:87/89(98%),  Gaps:2/89(2%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  89  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  30
+
+Query  71  CCGGTGACCTCTGGTGCGCGAGGGATGAA  99
+           |||||||||||||||||||||||||||||
+Sbjct  29  CCGGTGACCTCTGGTGCGCGAGGGATGAA  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.42329618.1 Length: 100
+Range 1: 10 to 100
+
+Score:149 bits(164), Expect:6e-33, 
+Identities:88/91(97%),  Gaps:2/91(2%), Strand: Plus/Plus
+
+Query  13   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGC  70
+            ||||||||||||||||||||||||||||||||| ||||||||||||||||||  ||||||
+Sbjct  10   AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGTGCCACGCTGGAGAGCATACNGACAGC  69
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  101
+            |||||||||||||||||||||||||||||||
+Sbjct  70   CCGGTGACCTCTGGTGCGCGAGGGATGAAGG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.153748427.1 Length: 100
+Range 1: 1 to 88
+
+Score:148 bits(163), Expect:2e-32, 
+Identities:86/88(98%),  Gaps:2/88(2%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  88  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  29
+
+Query  71  CCGGTGACCTCTGGTGCGCGAGGGATGA  98
+           ||||||||||||||||||||||||||||
+Sbjct  28  CCGGTGACCTCTGGTGCGCGAGGGATGA  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.135664176.1 Length: 100
+Range 1: 1 to 88
+
+Score:148 bits(163), Expect:2e-32, 
+Identities:86/88(98%),  Gaps:2/88(2%), Strand: Plus/Plus
+
+Query  35   AAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAG  92
+            ||||||||||||||||||||||||||||||  ||||||||||||||||||||||||||||
+Sbjct  1    AAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAG  60
+
+Query  93   GGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||
+Sbjct  61   GGATGAAGGAAAGAGCCTGTGATTCACT  88
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.80824592.2 Length: 100
+Range 1: 1 to 90
+
+Score:147 bits(162), Expect:2e-32, 
+Identities:87/90(97%),  Gaps:2/90(2%), Strand: Plus/Plus
+
+Query  33   GAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCG  90
+            ||||||||||||||||||||||||||||||||  ||||||||||||||||||||||||| 
+Sbjct  1    GAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCA  60
+
+Query  91   AGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||
+Sbjct  61   AGGGATGAAGGAAAGAGCCTGTGATTCACT  90
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.240920407.2 Length: 100
+Range 1: 1 to 93
+
+Score:143 bits(158), Expect:2e-31, 
+Identities:88/93(95%),  Gaps:2/93(2%), Strand: Plus/Plus
+
+Query  30   AGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGC  87
+            ||||||||||||||||||||||||||||| |||||  |||||||||||||||||||||||
+Sbjct  1    AGTGAAAGGAGCTAAGAGCCACGCTGGAGGGCATACAGACAGCCCGGTGACCTCTGGTGC  60
+
+Query  88   GCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||| |||||| |||||||
+Sbjct  61   GCGAGGGATGAAGGAAAGGGCCTGTAATTCACT  93
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.26824312.2 Length: 100
+Range 1: 16 to 100
+
+Score:142 bits(157), Expect:8e-31, 
+Identities:83/85(98%),  Gaps:2/85(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  16  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  75
+
+Query  71  CCGGTGACCTCTGGTGCGCGAGGGA  95
+           |||||||||||||||||||||||||
+Sbjct  76  CCGGTGACCTCTGGTGCGCGAGGGA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.377955955.1 Length: 100
+Range 1: 17 to 100
+
+Score:141 bits(155), Expect:3e-30, 
+Identities:82/84(98%),  Gaps:2/84(2%), Strand: Plus/Minus
+
+Query  39   AGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGAT  96
+            ||||||||||||||||||||||||||  ||||||||||||||||||||||||||||||||
+Sbjct  100  AGCTAAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGAT  41
+
+Query  97   GAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||
+Sbjct  40   GAAGGAAAGAGCCTGTGATTCACT  17
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.195850337.1 Length: 100
+Range 1: 19 to 100
+
+Score:137 bits(151), Expect:4e-29, 
+Identities:80/82(98%),  Gaps:2/82(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  19  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  78
+
+Query  71  CCGGTGACCTCTGGTGCGCGAG  92
+           ||||||||||||||||||||||
+Sbjct  79  CCGGTGACCTCTGGTGCGCGAG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.290813812.2 Length: 100
+Range 1: 1 to 80
+
+Score:133 bits(147), Expect:4e-28, 
+Identities:78/80(98%),  Gaps:2/80(2%), Strand: Plus/Plus
+
+Query  43   AAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAG  100
+            ||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||
+Sbjct  1    AAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAG  60
+
+Query  101  GAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||
+Sbjct  61   GAAAGAGCCTGTGATTCACT  80
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.126464192.2 Length: 100
+Range 1: 16 to 100
+
+Score:133 bits(147), Expect:4e-28, 
+Identities:81/85(95%),  Gaps:2/85(2%), Strand: Plus/Minus
+
+Query  38   GAGCTAAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGA  95
+            |||||||||||||| ||||||||||||  ||||||||||||||| |||||||||||||||
+Sbjct  100  GAGCTAAGAGCCACACTGGAGAGCATACAGACAGCCCGGTGACCGCTGGTGCGCGAGGGA  41
+
+Query  96   TGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||
+Sbjct  40   TGAAGGAAAGAGCCTGTGATTCACT  16
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.57777281.2 Length: 100
+Range 1: 21 to 100
+
+Score:133 bits(147), Expect:4e-28, 
+Identities:78/80(98%),  Gaps:2/80(2%), Strand: Plus/Minus
+
+Query  43   AAGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAG  100
+            ||||||||||||||||||||||  ||||||||||||||||||||||||||||||||||||
+Sbjct  100  AAGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAG  41
+
+Query  101  GAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||
+Sbjct  40   GAAAGAGCCTGTGATTCACT  21
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.221473111.1 Length: 100
+Range 1: 22 to 100
+
+Score:132 bits(145), Expect:2e-27, 
+Identities:77/79(97%),  Gaps:2/79(2%), Strand: Plus/Minus
+
+Query  44   AGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGG  101
+            |||||||||||||||||||||  |||||||||||||||||||||||||||||||||||||
+Sbjct  100  AGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGG  41
+
+Query  102  AAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||
+Sbjct  40   AAAGAGCCTGTGATTCACT  22
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.7661307.2 Length: 100
+Range 1: 1 to 79
+
+Score:132 bits(145), Expect:2e-27, 
+Identities:77/79(97%),  Gaps:2/79(2%), Strand: Plus/Plus
+
+Query  44   AGAGCCACGCTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGG  101
+            |||||||||||||||||||||  |||||||||||||||||||||||||||||||||||||
+Sbjct  1    AGAGCCACGCTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGG  60
+
+Query  102  AAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||
+Sbjct  61   AAAGAGCCTGTGATTCACT  79
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.234851287.2 Length: 100
+Range 1: 24 to 100
+
+Score:128 bits(141), Expect:2e-26, 
+Identities:75/77(97%),  Gaps:2/77(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  24  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  83
+
+Query  71  CCGGTGACCTCTGGTGC  87
+           |||||||||||||||||
+Sbjct  84  CCGGTGACCTCTGGTGC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.41284781.1 Length: 100
+Range 1: 25 to 100
+
+Score:126 bits(139), Expect:6e-26, 
+Identities:74/76(97%),  Gaps:2/76(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  25  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  84
+
+Query  71  CCGGTGACCTCTGGTG  86
+           ||||||||||||||||
+Sbjct  85  CCGGTGACCTCTGGTG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.300455789.2 Length: 100
+Range 1: 25 to 100
+
+Score:123 bits(135), Expect:8e-25, 
+Identities:73/76(96%),  Gaps:2/76(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           ||||||||||||||||||||||||||||||||||||||| |||||||||||  |||||||
+Sbjct  25  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACNCTGGAGAGCATACAGACAGC  84
+
+Query  71  CCGGTGACCTCTGGTG  86
+           ||||||||||||||||
+Sbjct  85  CCGGTGACCTCTGGTG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.248774959.2 Length: 100
+Range 1: 27 to 100
+
+Score:123 bits(135), Expect:8e-25, 
+Identities:72/74(97%),  Gaps:2/74(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  27  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  86
+
+Query  71  CCGGTGACCTCTGG  84
+           ||||||||||||||
+Sbjct  87  CCGGTGACCTCTGG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.264745503.1 Length: 100
+Range 1: 30 to 100
+
+Score:117 bits(129), Expect:3e-23, 
+Identities:69/71(97%),  Gaps:2/71(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  30  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  89
+
+Query  71  CCGGTGACCTC  81
+           |||||||||||
+Sbjct  90  CCGGTGACCTC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.120785842.2 Length: 100
+Range 1: 30 to 100
+
+Score:117 bits(129), Expect:3e-23, 
+Identities:69/71(97%),  Gaps:2/71(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  30  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  89
+
+Query  71  CCGGTGACCTC  81
+           |||||||||||
+Sbjct  90  CCGGTGACCTC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.209705358.2 Length: 100
+Range 1: 31 to 100
+
+Score:115 bits(127), Expect:1e-22, 
+Identities:68/70(97%),  Gaps:2/70(2%), Strand: Plus/Minus
+
+Query  53   CTGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCT  110
+            ||||||||||||  ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  CTGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCT  41
+
+Query  111  GTGATTCACT  120
+            ||||||||||
+Sbjct  40   GTGATTCACT  31
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.275970050.1 Length: 100
+Range 1: 1 to 69
+
+Score:113 bits(125), Expect:4e-22, 
+Identities:67/69(97%),  Gaps:2/69(2%), Strand: Plus/Plus
+
+Query  54   TGGAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTG  111
+            |||||||||||  |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    TGGAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTG  60
+
+Query  112  TGATTCACT  120
+            |||||||||
+Sbjct  61   TGATTCACT  69
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.372342378.2 Length: 100
+Range 1: 1 to 67
+
+Score:110 bits(121), Expect:5e-21, 
+Identities:65/67(97%),  Gaps:2/67(2%), Strand: Plus/Plus
+
+Query  56   GAGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTG  113
+            |||||||||  |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GAGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTG  60
+
+Query  114  ATTCACT  120
+            |||||||
+Sbjct  61   ATTCACT  67
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.214807661.2 Length: 100
+Range 1: 34 to 100
+
+Score:110 bits(121), Expect:5e-21, 
+Identities:65/67(97%),  Gaps:2/67(2%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  34  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  93
+
+Query  71  CCGGTGA  77
+           |||||||
+Sbjct  94  CCGGTGA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.268978030.2 Length: 100
+Range 1: 1 to 66
+
+Score:108 bits(119), Expect:2e-20, 
+Identities:64/66(97%),  Gaps:2/66(3%), Strand: Plus/Plus
+
+Query  57   AGAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGA  114
+            ||||||||  ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    AGAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGA  60
+
+Query  115  TTCACT  120
+            ||||||
+Sbjct  61   TTCACT  66
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.292457192.1 Length: 100
+Range 1: 36 to 100
+
+Score:106 bits(117), Expect:6e-20, 
+Identities:63/65(97%),  Gaps:2/65(3%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  36  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  95
+
+Query  71  CCGGT  75
+           |||||
+Sbjct  96  CCGGT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.198173265.1 Length: 100
+Range 1: 36 to 100
+
+Score:106 bits(117), Expect:6e-20, 
+Identities:63/65(97%),  Gaps:2/65(3%), Strand: Plus/Minus
+
+Query  58   GAGCATA--GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGAT  115
+            |||||||  |||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  GAGCATACAGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGAT  41
+
+Query  116  TCACT  120
+            |||||
+Sbjct  40   TCACT  36
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.328608390.2 Length: 100
+Range 1: 3 to 59
+
+Score:104 bits(114), Expect:2e-19, 
+Identities:57/57(100%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  64   AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3    AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  59
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.214807661.1 Length: 100
+Range 1: 41 to 97
+
+Score:104 bits(114), Expect:2e-19, 
+Identities:57/57(100%),  Gaps:0/57(0%), Strand: Plus/Minus
+
+Query  64   AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97   AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  41
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.200147962.2 Length: 100
+Range 1: 2 to 58
+
+Score:104 bits(114), Expect:2e-19, 
+Identities:57/57(100%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  64   AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2    AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  58
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.175826884.2 Length: 100
+Range 1: 2 to 58
+
+Score:104 bits(114), Expect:2e-19, 
+Identities:57/57(100%),  Gaps:0/57(0%), Strand: Plus/Plus
+
+Query  64   AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2    AGACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  58
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.67636612.2 Length: 100
+Range 1: 1 to 63
+
+Score:103 bits(113), Expect:7e-19, 
+Identities:61/63(97%),  Gaps:2/63(3%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  63  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  4
+
+Query  71  CCG  73
+           |||
+Sbjct  3   CCG  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.180133488.1 Length: 100
+Range 1: 45 to 100
+
+Score:102 bits(112), Expect:7e-19, 
+Identities:56/56(100%),  Gaps:0/56(0%), Strand: Plus/Minus
+
+Query  65   GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  GACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  45
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.225692527.1 Length: 100
+Range 1: 1 to 62
+
+Score:101 bits(111), Expect:3e-18, 
+Identities:60/62(97%),  Gaps:2/62(3%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  62  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  3
+
+Query  71  CC  72
+           ||
+Sbjct  2   CC  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.215044822.1 Length: 100
+Range 1: 1 to 62
+
+Score:101 bits(111), Expect:3e-18, 
+Identities:60/62(97%),  Gaps:2/62(3%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  62  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  3
+
+Query  71  CC  72
+           ||
+Sbjct  2   CC  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.264745503.2 Length: 100
+Range 1: 46 to 100
+
+Score:100 bits(110), Expect:3e-18, 
+Identities:55/55(100%),  Gaps:0/55(0%), Strand: Plus/Minus
+
+Query  66   ACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  ACAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  46
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.229636161.1 Length: 100
+Range 1: 1 to 54
+
+Score:98.7 bits(108), Expect:9e-18, 
+Identities:54/54(100%),  Gaps:0/54(0%), Strand: Plus/Plus
+
+Query  67   CAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CAGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  54
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.386264679.2 Length: 100
+Range 1: 41 to 100
+
+Score:97.8 bits(107), Expect:3e-17, 
+Identities:58/60(97%),  Gaps:2/60(3%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAGC  70
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  |||||||
+Sbjct  41  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAGC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.26824312.1 Length: 100
+Range 1: 48 to 100
+
+Score:96.9 bits(106), Expect:3e-17, 
+Identities:53/53(100%),  Gaps:0/53(0%), Strand: Plus/Minus
+
+Query  68   AGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  AGCCCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  48
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.183437678.2 Length: 100
+Range 1: 1 to 59
+
+Score:96.0 bits(105), Expect:1e-16, 
+Identities:57/59(97%),  Gaps:2/59(3%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCAT--AGACAG  69
+           |||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||
+Sbjct  59  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATACAGACAG  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.278501548.1 Length: 100
+Range 1: 47 to 98
+
+Score:95.1 bits(104), Expect:1e-16, 
+Identities:52/52(100%),  Gaps:0/52(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA  64
+           ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  47  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGCATA  98
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.100856926.2 Length: 100
+Range 1: 51 to 100
+
+Score:91.5 bits(100), Expect:1e-15, 
+Identities:50/50(100%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  71   CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  CCGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  51
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.395490127.2 Length: 100
+Range 1: 1 to 49
+
+Score:89.7 bits(98), Expect:5e-15, 
+Identities:49/49(100%),  Gaps:0/49(0%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGC  61
+           |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  49  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGAGC  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.390574200.2 Length: 100
+Range 1: 1 to 49
+
+Score:89.7 bits(98), Expect:5e-15, 
+Identities:49/49(100%),  Gaps:0/49(0%), Strand: Plus/Plus
+
+Query  72   CGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CGGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  49
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.168282316.2 Length: 100
+Range 1: 1 to 48
+
+Score:87.8 bits(96), Expect:2e-14, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  73   GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  48
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.157374674.2 Length: 100
+Range 1: 1 to 48
+
+Score:87.8 bits(96), Expect:2e-14, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  73   GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  48
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.120514469.2 Length: 100
+Range 1: 1 to 48
+
+Score:87.8 bits(96), Expect:2e-14, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  73   GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  48
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.52493238.2 Length: 100
+Range 1: 53 to 100
+
+Score:87.8 bits(96), Expect:2e-14, 
+Identities:48/48(100%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  73   GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  GGTGACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  53
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.221473111.2 Length: 100
+Range 1: 54 to 100
+
+Score:86.0 bits(94), Expect:6e-14, 
+Identities:47/47(100%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  59
+           |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  54  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGGAGA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.398991166.2 Length: 100
+Range 1: 1 to 45
+
+Score:82.4 bits(90), Expect:7e-13, 
+Identities:45/45(100%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  76   GACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    GACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  45
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.273639844.2 Length: 100
+Range 1: 1 to 44
+
+Score:80.6 bits(88), Expect:2e-12, 
+Identities:44/44(100%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGG  56
+           ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACGCTGG  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.186842392.2 Length: 100
+Range 1: 1 to 44
+
+Score:80.6 bits(88), Expect:2e-12, 
+Identities:44/44(100%),  Gaps:0/44(0%), Strand: Plus/Plus
+
+Query  77   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  44
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.86106129.2 Length: 100
+Range 1: 57 to 100
+
+Score:80.6 bits(88), Expect:2e-12, 
+Identities:44/44(100%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  77   ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  ACCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  57
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.98681176.2 Length: 100
+Range 1: 58 to 100
+
+Score:78.8 bits(86), Expect:8e-12, 
+Identities:43/43(100%),  Gaps:0/43(0%), Strand: Plus/Minus
+
+Query  78   CCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  CCTCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  58
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.328608390.1 Length: 100
+Range 1: 60 to 100
+
+Score:75.2 bits(82), Expect:1e-10, 
+Identities:41/41(100%),  Gaps:0/41(0%), Strand: Plus/Minus
+
+Query  80   TCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  TCTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  60
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.324421113.2 Length: 100
+Range 1: 61 to 100
+
+Score:73.4 bits(80), Expect:4e-10, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACG  52
+           ||||||||||||||||||||||||||||||||||||||||
+Sbjct  61  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCACG  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.229550396.1 Length: 100
+Range 1: 1 to 40
+
+Score:73.4 bits(80), Expect:4e-10, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Plus
+
+Query  81   CTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1    CTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  40
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.211462629.1 Length: 100
+Range 1: 61 to 100
+
+Score:73.4 bits(80), Expect:4e-10, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Minus
+
+Query  81   CTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  CTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  61
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.168719954.1 Length: 100
+Range 1: 61 to 100
+
+Score:73.4 bits(80), Expect:4e-10, 
+Identities:40/40(100%),  Gaps:0/40(0%), Strand: Plus/Minus
+
+Query  81   CTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  100  CTGGTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  61
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.195268814.1 Length: 100
+Range 1: 1 to 39
+
+Score:71.6 bits(78), Expect:1e-09, 
+Identities:39/39(100%),  Gaps:0/39(0%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCAC  51
+           |||||||||||||||||||||||||||||||||||||||
+Sbjct  39  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCAC  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.76569164.1 Length: 100
+Range 1: 1 to 39
+
+Score:71.6 bits(78), Expect:1e-09, 
+Identities:39/39(100%),  Gaps:0/39(0%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCAC  51
+           |||||||||||||||||||||||||||||||||||||||
+Sbjct  39  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCAC  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.221277506.1 Length: 100
+Range 1: 63 to 100
+
+Score:69.8 bits(76), Expect:4e-09, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCA  50
+           ||||||||||||||||||||||||||||||||||||||
+Sbjct  63  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.211462629.2 Length: 100
+Range 1: 63 to 100
+
+Score:69.8 bits(76), Expect:4e-09, 
+Identities:38/38(100%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCA  50
+           ||||||||||||||||||||||||||||||||||||||
+Sbjct  63  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCA  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.293232366.2 Length: 100
+Range 1: 1 to 37
+
+Score:68.0 bits(74), Expect:2e-08, 
+Identities:37/37(100%),  Gaps:0/37(0%), Strand: Plus/Plus
+
+Query  84   GTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||
+Sbjct  1    GTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  37
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.289262343.2 Length: 100
+Range 1: 64 to 100
+
+Score:68.0 bits(74), Expect:2e-08, 
+Identities:37/37(100%),  Gaps:0/37(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCC  49
+           |||||||||||||||||||||||||||||||||||||
+Sbjct  64  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.159217170.1 Length: 100
+Range 1: 1 to 37
+
+Score:68.0 bits(74), Expect:2e-08, 
+Identities:37/37(100%),  Gaps:0/37(0%), Strand: Plus/Plus
+
+Query  84   GTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||||||||
+Sbjct  1    GTGCGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  37
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.126464192.1 Length: 100
+Range 1: 62 to 100
+
+Score:67.1 bits(73), Expect:5e-08, 
+Identities:38/39(97%),  Gaps:0/39(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCTAAGAGCCAC  51
+           ||||||||||||||||||| |||||||||||||||||||
+Sbjct  62  AGGAGGGAAAGGGATGAAGAGAAAGGAGCTAAGAGCCAC  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.304544480.1 Length: 100
+Range 1: 67 to 100
+
+Score:62.6 bits(68), Expect:6e-07, 
+Identities:34/34(100%),  Gaps:0/34(0%), Strand: Plus/Minus
+
+Query  87   CGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||
+Sbjct  100  CGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  67
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.240920407.1 Length: 100
+Range 1: 67 to 100
+
+Score:62.6 bits(68), Expect:6e-07, 
+Identities:34/34(100%),  Gaps:0/34(0%), Strand: Plus/Minus
+
+Query  87   CGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||||||
+Sbjct  100  CGCGAGGGATGAAGGAAAGAGCCTGTGATTCACT  67
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.278501548.2 Length: 100
+Range 1: 70 to 100
+
+Score:57.2 bits(62), Expect:3e-05, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Minus
+
+Query  90   GAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||
+Sbjct  100  GAGGGATGAAGGAAAGAGCCTGTGATTCACT  70
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.246701656.2 Length: 100
+Range 1: 1 to 31
+
+Score:57.2 bits(62), Expect:3e-05, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  90   GAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||
+Sbjct  1    GAGGGATGAAGGAAAGAGCCTGTGATTCACT  31
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.14953981.1 Length: 100
+Range 1: 1 to 31
+
+Score:57.2 bits(62), Expect:3e-05, 
+Identities:31/31(100%),  Gaps:0/31(0%), Strand: Plus/Plus
+
+Query  90   GAGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||||
+Sbjct  1    GAGGGATGAAGGAAAGAGCCTGTGATTCACT  31
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.289320851.2 Length: 100
+Range 1: 71 to 100
+
+Score:55.4 bits(60), Expect:1e-04, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  91   AGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||
+Sbjct  100  AGGGATGAAGGAAAGAGCCTGTGATTCACT  71
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.250288617.1 Length: 100
+Range 1: 1 to 30
+
+Score:55.4 bits(60), Expect:1e-04, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  91   AGGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||||
+Sbjct  1    AGGGATGAAGGAAAGAGCCTGTGATTCACT  30
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.105594548.2 Length: 100
+Range 1: 1 to 30
+
+Score:55.4 bits(60), Expect:1e-04, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCT  42
+           ||||||||||||||||||||||||||||||
+Sbjct  30  AGGAGGGAAAGGGATGAAGTGAAAGGAGCT  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.85426144.2 Length: 100
+Range 1: 71 to 100
+
+Score:55.4 bits(60), Expect:1e-04, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCT  42
+           ||||||||||||||||||||||||||||||
+Sbjct  71  AGGAGGGAAAGGGATGAAGTGAAAGGAGCT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.85426143.2 Length: 100
+Range 1: 71 to 100
+
+Score:55.4 bits(60), Expect:1e-04, 
+Identities:30/30(100%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGCT  42
+           ||||||||||||||||||||||||||||||
+Sbjct  71  AGGAGGGAAAGGGATGAAGTGAAAGGAGCT  100
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.288231682.2 Length: 100
+Range 1: 1 to 29
+
+Score:53.6 bits(58), Expect:3e-04, 
+Identities:29/29(100%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  13  AGGAGGGAAAGGGATGAAGTGAAAGGAGC  41
+           |||||||||||||||||||||||||||||
+Sbjct  29  AGGAGGGAAAGGGATGAAGTGAAAGGAGC  1
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.101176925.1 Length: 100
+Range 1: 1 to 29
+
+Score:53.6 bits(58), Expect:3e-04, 
+Identities:29/29(100%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  92   GGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||
+Sbjct  1    GGGATGAAGGAAAGAGCCTGTGATTCACT  29
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.41284781.2 Length: 100
+Range 1: 72 to 100
+
+Score:53.6 bits(58), Expect:3e-04, 
+Identities:29/29(100%),  Gaps:0/29(0%), Strand: Plus/Minus
+
+Query  92   GGGATGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||||||
+Sbjct  100  GGGATGAAGGAAAGAGCCTGTGATTCACT  72
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.104347482.1 Length: 100
+Range 1: 1 to 28
+
+Score:51.8 bits(56), Expect:0.001, 
+Identities:28/28(100%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  93   GGATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||||
+Sbjct  1    GGATGAAGGAAAGAGCCTGTGATTCACT  28
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.169363149.1 Length: 100
+Range 1: 1 to 26
+
+Score:48.2 bits(52), Expect:0.014, 
+Identities:26/26(100%),  Gaps:0/26(0%), Strand: Plus/Plus
+
+Query  95   ATGAAGGAAAGAGCCTGTGATTCACT  120
+            ||||||||||||||||||||||||||
+Sbjct  1    ATGAAGGAAAGAGCCTGTGATTCACT  26
+
+
+
+
+>SRX13260973
+Sequence ID: SRA:SRR17072428.104736812.2 Length: 100
+Range 1: 1 to 25
+
+Score:46.4 bits(50), Expect:0.050, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  96   TGAAGGAAAGAGCCTGTGATTCACT  120
+            |||||||||||||||||||||||||
+Sbjct  1    TGAAGGAAAGAGCCTGTGATTCACT  25
+
+
+
+
+
+
+
+		
+
+
