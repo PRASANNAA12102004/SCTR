@@ -1,0 +1,626 @@
+RID: NBUU4RGV014	
+Job Title:XM_069680797.1 PREDICTED: Semicossyphus pulcher...				
+Program: BLASTN 
+Database: Genome (fSemPul1.0.p) Semicossyphus pulcher fSemPul1.0.p [GCF_022749685.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_022749685.1-RS_2024_11)
+Query #1: XM_069680797.1 PREDICTED: Semicossyphus pulcher secretin receptor (sctr), mRNA Query ID: lcl|Query_2744791 Length: 1350
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     302    2515  100%  9e-80 100.00 732031     NW_027211717.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     112    347   38%   3e-22 79.07  16386055   NW_027211698.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     69.8   249   11%   1e-09 75.70  33537147   NW_027211748.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     66.2   363   20%   1e-08 75.24  34840487   NW_027211715.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     60.8   117   7%    5e-07 79.41  29828419   NW_027211670.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     55.4   110   11%   2e-05 73.74  27168457   NW_027211691.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     53.6   102   6%    8e-05 84.31  32091781   NW_027211626.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     49.1   49.1  4%    0.003 79.31  31948211   NW_027211648.1   
+Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genom... Semicossyphu... NA              241346     46.4   92.7  4%    0.012 81.13  2267851    NW_027211705.1   
+
+
+Alignments:
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_41
+Sequence ID: NW_027211717.1 Length: 732031
+Range 1: 402361 to 402527
+
+Score:302 bits(334), Expect:9e-80, 
+Identities:167/167(100%),  Gaps:0/167(0%), Strand: Plus/Minus
+
+Query  1184    AGGTGCAGAATGAGCTCCACAGGAGGTGGAGGAGGTGGAGACAGAAGCAGAACCTGCAGG  1243
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  402527  AGGTGCAGAATGAGCTCCACAGGAGGTGGAGGAGGTGGAGACAGAAGCAGAACCTGCAGG  402468
+
+Query  1244    TGGAGACGAGGAGGCCCCGTAGCTCCATGAGCCAGAGTGGAGGGGTCCCCACTAATCTCT  1303
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  402467  TGGAGACGAGGAGGCCCCGTAGCTCCATGAGCCAGAGTGGAGGGGTCCCCACTAATCTCT  402408
+
+Query  1304    CTCTGCTCCTTAAAAGCCCCACCTCGCCTGAGTCCAGCCTGGTGTAA  1350
+               |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  402407  CTCTGCTCCTTAAAAGCCCCACCTCGCCTGAGTCCAGCCTGGTGTAA  402361
+
+
+
+
+Range 2: 403274 to 403433
+
+Score:289 bits(320), Expect:6e-76, 
+Identities:160/160(100%),  Gaps:0/160(0%), Strand: Plus/Minus
+
+Query  985     AGGAAGCTGGCCAAGTCGTCCTTCCTGCTGGTGTCTCTGTTCGGCTTACACTACATCCTG  1044
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  403433  AGGAAGCTGGCCAAGTCGTCCTTCCTGCTGGTGTCTCTGTTCGGCTTACACTACATCCTG  403374
+
+Query  1045    TTCGCTTTCGTCCCTCATGAAGTCAACGACAGGACACATGAAGTCTGGACCTTCATCGAG  1104
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  403373  TTCGCTTTCGTCCCTCATGAAGTCAACGACAGGACACATGAAGTCTGGACCTTCATCGAG  403314
+
+Query  1105    CTGGCGCTGGCCTCCACTCAGTACAGCTGACTGTGGAGGG  1144
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  403313  CTGGCGCTGGCCTCCACTCAGTACAGCTGACTGTGGAGGG  403274
+
+
+
+
+Range 3: 404201 to 404357
+
+Score:284 bits(314), Expect:3e-74, 
+Identities:157/157(100%),  Gaps:0/157(0%), Strand: Plus/Minus
+
+Query  609     GGTGGGCTGTAAAGTTGCCACAGCTCTGTCCAACTACAGCATCATGGCGAACTACAGCTG  668
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  404357  GGTGGGCTGTAAAGTTGCCACAGCTCTGTCCAACTACAGCATCATGGCGAACTACAGCTG  404298
+
+Query  669     GTTGCTGGCTGAGGGTCACTTCCTGTTCAGTCTGGTCAGCGTGTCTCTGTTCTGCAGGAG  728
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  404297  GTTGCTGGCTGAGGGTCACTTCCTGTTCAGTCTGGTCAGCGTGTCTCTGTTCTGCAGGAG  404238
+
+Query  729     GAGACGCCTGTGCTGGTACATCGTGCTCGGCTGGGGT  765
+               |||||||||||||||||||||||||||||||||||||
+Sbjct  404237  GAGACGCCTGTGCTGGTACATCGTGCTCGGCTGGGGT  404201
+
+
+
+
+Range 4: 404870 to 405007
+
+Score:250 bits(276), Expect:5e-64, 
+Identities:138/138(100%),  Gaps:0/138(0%), Strand: Plus/Minus
+
+Query  474     CAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATCCT  533
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  405007  CAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATCCT  404948
+
+Query  534     CCGAGCGTCGCTCATCTTCATCAGGGACGTTGTTCTGTTCTCAACTGGAGATCATTTCCA  593
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  404947  CCGAGCGTCGCTCATCTTCATCAGGGACGTTGTTCTGTTCTCAACTGGAGATCATTTCCA  404888
+
+Query  594     CTGTGGCGTCTACCCGGT  611
+               ||||||||||||||||||
+Sbjct  404887  CTGTGGCGTCTACCCGGT  404870
+
+
+
+
+Range 5: 413201 to 413316
+
+Score:205 bits(227), Expect:2e-50, 
+Identities:115/116(99%),  Gaps:0/116(0%), Strand: Plus/Minus
+
+Query  55      CACACTGAAGCTGTTCCACCTGAATGTGACCCCAACTTCATGTTACTGCAGGATGAAGCT  114
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  413316  CAGACTGAAGCTGTTCCACCTGAATGTGACCCCAACTTCATGTTACTGCAGGATGAAGCT  413257
+
+Query  115     TCCTGTTTGGTGCTGCTCAGAAACAACACAAGCTTGTCCGGCTCAGGGAGACACGG  170
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  413256  TCCTGTTTGGTGCTGCTCAGAAACAACACAAGCTTGTCCGGCTCAGGGAGACACGG  413201
+
+
+
+
+Range 6: 406492 to 406604
+
+Score:205 bits(226), Expect:2e-50, 
+Identities:113/113(100%),  Gaps:0/113(0%), Strand: Plus/Minus
+
+Query  365     AGGTGTTCCGGTCGCAGAGTTACTTCCTGTCTGTGAGGATCGTGTACTCTGGTGGTTATG  424
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  406604  AGGTGTTCCGGTCGCAGAGTTACTTCCTGTCTGTGAGGATCGTGTACTCTGGTGGTTATG  406545
+
+Query  425     CCGTGTCACTCGTCTCCCTCACTGTCGCTGTCAGCATCCTGTGTGTGTTCAGG  477
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  406544  CCGTGTCACTCGTCTCCCTCACTGTCGCTGTCAGCATCCTGTGTGTGTTCAGG  406492
+
+
+
+
+Range 7: 410202 to 410310
+
+Score:193 bits(213), Expect:1e-46, 
+Identities:108/109(99%),  Gaps:0/109(0%), Strand: Plus/Minus
+
+Query  260     CTACAGGACGCGTGTTCAGAAACTGCACACAGGACGGATGGACGGATTCTTTCCCCCCTC  319
+               || |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  410310  CTGCAGGACGCGTGTTCAGAAACTGCACACAGGACGGATGGACGGATTCTTTCCCCCCTC  410251
+
+Query  320     ATGATGAAGCCTGCGAGTACGGAGTCAACCACAGCGTACCTGCAGAGGT  368
+               |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  410250  ATGATGAAGCCTGCGAGTACGGAGTCAACCACAGCGTACCTGCAGAGGT  410202
+
+
+
+
+Range 8: 410932 to 411029
+
+Score:178 bits(196), Expect:3e-42, 
+Identities:98/98(100%),  Gaps:0/98(0%), Strand: Plus/Minus
+
+Query  169     GGGTGCAGGGGCCTGTGGGATCAGGTCAACTGTTGGCCTCATGCGGCAGTCGGAGAGGTC  228
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  411029  GGGTGCAGGGGCCTGTGGGATCAGGTCAACTGTTGGCCTCATGCGGCAGTCGGAGAGGTC  410970
+
+Query  229     GTGTCTCAGCCGTGTCCCAGGTTTCTGCACACTACAGG  266
+               ||||||||||||||||||||||||||||||||||||||
+Sbjct  410969  GTGTCTCAGCCGTGTCCCAGGTTTCTGCACACTACAGG  410932
+
+
+
+
+Range 9: 403670 to 403762
+
+Score:168 bits(186), Expect:1e-39, 
+Identities:93/93(100%),  Gaps:0/93(0%), Strand: Plus/Minus
+
+Query  895     GTGAACCTGTCCTTCTTCCTGTGCATCATAAGAATCCTGGTGGCTAAGCTCCGTACACAG  954
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  403762  GTGAACCTGTCCTTCTTCCTGTGCATCATAAGAATCCTGGTGGCTAAGCTCCGTACACAG  403703
+
+Query  955     GACATGCCGGGCGGCGAGTTCAACCACTACAGG  987
+               |||||||||||||||||||||||||||||||||
+Sbjct  403702  GACATGCCGGGCGGCGAGTTCAACCACTACAGG  403670
+
+
+
+
+Range 10: 403853 to 403926
+
+Score:134 bits(148), Expect:3e-29, 
+Identities:74/74(100%),  Gaps:0/74(0%), Strand: Plus/Minus
+
+Query  824     GCTGCTGGGAGACGAGGAGGATCAGGTGGATCTGGTGGATCCTCAGAGCTCCGGTTGTCG  883
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  403926  GCTGCTGGGAGACGAGGAGGATCAGGTGGATCTGGTGGATCCTCAGAGCTCCGGTTGTCG  403867
+
+Query  884     TCTTCATTACAGTG  897
+               ||||||||||||||
+Sbjct  403866  TCTTCATTACAGTG  403853
+
+
+
+
+Range 11: 404041 to 404114
+
+Score:113 bits(125), Expect:9e-23, 
+Identities:70/74(95%),  Gaps:2/74(2%), Strand: Plus/Minus
+
+Query  763     GGTTCTCCGATGATCATTCTGATGGGCTGGAGCTTAGCGAGGTACCTGCATGAAGATGAA  822
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  404114  GGTTCTCCGATGATCATTCTGATGGGCTGGAGCTTAGCGAGGTACCTGCATGAAGATGAA  404055
+
+Query  823     GGCT--GCTGGGAG  834
+               || |  | ||||||
+Sbjct  404054  GGGTAGGATGGGAG  404041
+
+
+
+
+Range 12: 414573 to 414629
+
+Score:104 bits(114), Expect:5e-20, 
+Identities:57/57(100%),  Gaps:0/57(0%), Strand: Plus/Minus
+
+Query  1       ATGTGGACACCAGGAGGAATAGCAGCTCTTACTCTTCTCCTGCAGTGCCGTCCTCAC  57
+               |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  414629  ATGTGGACACCAGGAGGAATAGCAGCTCTTACTCTTCTCCTGCAGTGCCGTCCTCAC  414573
+
+
+
+
+Range 13: 403119 to 403164
+
+Score:84.2 bits(92), Expect:5e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1143    GGGCTTTGTTGTGGCTGTTCTGTACTGCTTCCTGAACGGAGAGGTG  1188
+               ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  403164  GGGCTTTGTTGTGGCTGTTCTGTACTGCTTCCTGAACGGAGAGGTG  403119
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_24
+Sequence ID: NW_027211698.1 Length: 16386055
+Range 1: 6813183 to 6813311
+
+Score:112 bits(123), Expect:3e-22, 
+Identities:102/129(79%),  Gaps:0/129(0%), Strand: Plus/Plus
+
+Query  637      TCCAACTACAGCATCATGGCGAACTACAGCTGGTTGCTGGCTGAGGGTCACTTCCTGTTC  696
+                |||||||||  |||| ||||||||||||||||| ||||||| |||||||||||||| |||
+Sbjct  6813183  TCCAACTACTCCATCCTGGCGAACTACAGCTGGCTGCTGGCGGAGGGTCACTTCCTCTTC  6813242
+
+Query  697      AGTCTGGTCAGCGTGTCTCTGTTCTGCAGGAGGAGACGCCTGTGCTGGTACATCGTGCTC  756
+                |  ||||| |||   ||  | |||| |  || || || ||||  |||||||||||  || 
+Sbjct  6813243  ACCCTGGTAAGCCGCTCCTTCTTCTCCCTGAAGAAACACCTGGCCTGGTACATCGCTCTG  6813302
+
+Query  757      GGCTGGGGT  765
+                 ||||||||
+Sbjct  6813303  AGCTGGGGT  6813311
+
+
+
+
+Range 2: 6812863 to 6813002
+
+Score:77.0 bits(84), Expect:7e-12, 
+Identities:103/141(73%),  Gaps:2/141(1%), Strand: Plus/Plus
+
+Query  472      TTCAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATC  531
+                ||||| | ||| || |||||| | |||| | | ||||||||| | ||  | || ||||||
+Sbjct  6812863  TTCAGAAAGCTGCATTGCACAAGGAACTATATTCACATCCAGATGTTTGTGTCTTTCATC  6812922
+
+Query  532      CTCCGAGC-GTCGCTCATCTTCATCAGGGACGTTGTTCTGTTCTCAACTGGAGATCATTT  590
+                ||  |||| |||  |||||||||||||||||  | | || ||  | |  | ||| |  | 
+Sbjct  6812923  CTGAGAGCCGTCT-TCATCTTCATCAGGGACTCTCTGCTATTTACTAACGAAGAGCTCTA  6812981
+
+Query  591      CCACTGTGGCGTCTACCCGGT  611
+                |||||||| |  |||||||||
+Sbjct  6812982  CCACTGTGACTACTACCCGGT  6813002
+
+
+
+
+Range 3: 6815034 to 6815133
+
+Score:59.0 bits(64), Expect:2e-06, 
+Identities:75/101(74%),  Gaps:2/101(1%), Strand: Plus/Plus
+
+Query  1184     AGGTGCAGAATGAGCTCCACAGGAGGTGGAGGAGGTGGAGACAGAAGCAGAACCT-GCAG  1242
+                |||||||| ||||| | || |||||||||||||| ||||| | ||  ||| ||||  || 
+Sbjct  6815034  AGGTGCAGCATGAGTTTCAGAGGAGGTGGAGGAGATGGAGGCTGACTCAGCACCTCCCAA  6815093
+
+Query  1243     GTGGAGACGAGGAGGCCCCGTAGCTCCATGAGCCAGAGTGG  1283
+                || | |   ||   || || | ||||||| ||||| |||||
+Sbjct  6815094  GTCG-GCGCAGACAGCACCATGGCTCCATCAGCCACAGTGG  6815133
+
+
+
+
+Range 4: 6814686 to 6814827
+
+Score:54.5 bits(59), Expect:8e-05, 
+Identities:97/142(68%),  Gaps:0/142(0%), Strand: Plus/Plus
+
+Query  984      CAGGAAGCTGGCCAAGTCGTCCTTCCTGCTGGTGTCTCTGTTCGGCTTACACTACATCCT  1043
+                ||||| ||||   || ||  | ||  | |||||| |||| |||||  | || ||||||||
+Sbjct  6814686  CAGGAGGCTGATAAAATCCACATTTTTTCTGGTGGCTCTCTTCGGTCTGCATTACATCCT  6814745
+
+Query  1044     GTTCGCTTTCGTCCCTCATGAAGTCAACGACAGGACACATGAAGTCTGGACCTTCATCGA  1103
+                ||| | |||| | |||  |||||| | |  |  |     | |  | ||||||||   |||
+Sbjct  6814746  GTTTGTTTTCTTACCTGTTGAAGTAAGCAGCTCGGTGTTTCAGATATGGACCTTTGCCGA  6814805
+
+Query  1104     GCTGGCGCTGGCCTCCACTCAG  1125
+                |||||| ||| | ||||| |||
+Sbjct  6814806  GCTGGCTCTGTCATCCACACAG  6814827
+
+
+
+
+Range 5: 16219508 to 16219557
+
+Score:44.6 bits(48), Expect:0.040, 
+Identities:41/50(82%),  Gaps:3/50(6%), Strand: Plus/Plus
+
+Query  1211      GGAGGAGGTGGAGACAGAAGCAGAACCT--GCAGGTGGAGAC-GAGGAGG  1257
+                 |||||||| |||||||||||  ||| ||  | ||| |||||| |||||||
+Sbjct  16219508  GGAGGAGGAGGAGACAGAAGAGGAATCTGAGGAGGAGGAGACAGAGGAGG  16219557
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_7
+Sequence ID: NW_027211748.1 Length: 33537147
+Range 1: 15963501 to 15963606
+
+Score:69.8 bits(76), Expect:1e-09, 
+Identities:81/107(76%),  Gaps:2/107(1%), Strand: Plus/Minus
+
+Query  466       TGTGTGTTCAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCC  525
+                 ||| | | ||||| ||| |||||||| || |||||  |||||||  | || ||  | |||
+Sbjct  15963606  TGTCTCTGCAGGAAGCTTCACTGCACCCGGAACTTCATCCACATGAACCTGTTTGTGTCC  15963547
+
+Query  526       TTCATCCTCCGAG-CGTCGCTCATCTTCATCAGGGACGTTGTTCTGT  571
+                 ||||||||  ||| | || | | ||||||||| ||||| ||| ||||
+Sbjct  15963546  TTCATCCTGAGAGCCATCTC-CGTCTTCATCAAGGACGGTGTGCTGT  15963501
+
+
+
+
+Range 2: 26515203 to 26515272
+
+Score:64.4 bits(70), Expect:4e-08, 
+Identities:56/70(80%),  Gaps:0/70(0%), Strand: Plus/Minus
+
+Query  470       TGTTCAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCA  529
+                 || |||||| ||||||||||||  | ||||   ||||| || | |||||| |||||||||
+Sbjct  26515272  TGCTCAGGAAGCTCCACTGCACCAGGAACTACATCCACCTCAACCTCTTCTTCTCCTTCA  26515213
+
+Query  530       TCCTCCGAGC  539
+                 ||||  ||||
+Sbjct  26515212  TCCTGAGAGC  26515203
+
+
+
+
+Range 3: 22236931 to 22236975
+
+Score:59.9 bits(65), Expect:2e-06, 
+Identities:40/45(89%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1143      GGGCTTTGTTGTGGCTGTTCTGTACTGCTTCCTGAACGGAGAGGT  1187
+                 ||| |||||||| || ||| |||||||||| ||||||||||||||
+Sbjct  22236975  GGGTTTTGTTGTTGCAGTTTTGTACTGCTTTCTGAACGGAGAGGT  22236931
+
+
+
+
+Range 4: 15955904 to 15955948
+
+Score:55.4 bits(60), Expect:2e-05, 
+Identities:39/45(87%),  Gaps:0/45(0%), Strand: Plus/Minus
+
+Query  1143      GGGCTTTGTTGTGGCTGTTCTGTACTGCTTCCTGAACGGAGAGGT  1187
+                 ||| |||||||||||||| || ||||| ||||| || ||||||||
+Sbjct  15955948  GGGTTTTGTTGTGGCTGTCCTCTACTGTTTCCTCAATGGAGAGGT  15955904
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_4
+Sequence ID: NW_027211715.1 Length: 34840487
+Range 1: 16221529 to 16221632
+
+Score:66.2 bits(72), Expect:1e-08, 
+Identities:79/105(75%),  Gaps:2/105(1%), Strand: Plus/Minus
+
+Query  474       CAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATCCT  533
+                 ||||||||| |  ||  |  |||||||  | ||||||||||||||| || ||||||||||
+Sbjct  16221632  CAGGAGGCTGCGTTGTGCCAGAAACTTCATTCACATCCAGCTCTTCATCACCTTCATCCT  16221573
+
+Query  534       CCGAGC-GTCGCTCATCTTCATCAGGGACGTTGTTCTGTTCTCAA  577
+                    ||| || || | | ||||| | ||| | |  |||||||||||
+Sbjct  16221572  GAAAGCTGTGGC-CGTGTTCATAAAGGATGCTACTCTGTTCTCAA  16221529
+
+
+
+
+Range 2: 32949622 to 32949727
+
+Score:56.3 bits(61), Expect:2e-05, 
+Identities:78/107(73%),  Gaps:2/107(1%), Strand: Plus/Minus
+
+Query  470       TGTTCAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCA  529
+                 ||| ||||| | | ||||||||  | || |   |||||||| | || ||| |||||||||
+Sbjct  32949727  TGTACAGGAAGTTTCACTGCACGAGGAATTACATCCACATCAACCTGTTCTTCTCCTTCA  32949668
+
+Query  530       TCCTCCGAGCG-TCGCTCATCTTCATCAGGGACGTTGTTCTGTTCTC  575
+                 ||||  |||||  ||| | ||||||| |  || |  ||| |||| ||
+Sbjct  32949667  TCCTGAGAGCGAGCGC-CGTCTTCATTAAAGATGGCGTTTTGTTTTC  32949622
+
+
+
+
+Range 3: 32935603 to 32935647
+
+Score:50.9 bits(55), Expect:0.001, 
+Identities:38/45(84%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1143      GGGCTTTGTTGTGGCTGTTCTGTACTGCTTCCTGAACGGAGAGGT  1187
+                 ||| || || ||||| || || |||||||||||||| ||||||||
+Sbjct  32935603  GGGTTTCGTGGTGGCCGTCCTCTACTGCTTCCTGAATGGAGAGGT  32935647
+
+
+
+
+Range 4: 32946489 to 32946537
+
+Score:49.1 bits(53), Expect:0.003, 
+Identities:40/49(82%),  Gaps:0/49(0%), Strand: Plus/Minus
+
+Query  1140      GAGGGGCTTTGTTGTGGCTGTTCTGTACTGCTTCCTGAACGGAGAGGTG  1188
+                 || ||| || ||||||||  | || ||||| ||||||||||| ||||||
+Sbjct  32946537  GAAGGGATTCGTTGTGGCCCTGCTCTACTGTTTCCTGAACGGTGAGGTG  32946489
+
+
+
+
+Range 5: 32952435 to 32952508
+
+Score:48.2 bits(52), Expect:0.003, 
+Identities:57/75(76%),  Gaps:2/75(2%), Strand: Plus/Minus
+
+Query  264       AGGACGCGTGTTCAGAAACTGCACACAGGACGGATGGACGGA-TTCTTTCCCCCCTCATG  322
+                 ||||  ||| | ||| ||||||||  ||||||||||| | ||  |||  ||| ||| | |
+Sbjct  32952508  AGGATACGTCTACAGGAACTGCACTGAGGACGGATGGTCCGAGCTCTACCCCTCCT-ACG  32952450
+
+Query  323       ATGAAGCCTGCGAGT  337
+                 | || ||||||||||
+Sbjct  32952449  AGGACGCCTGCGAGT  32952435
+
+
+
+
+Range 6: 11937378 to 11937417
+
+Score:46.4 bits(50), Expect:0.012, 
+Identities:34/40(85%),  Gaps:0/40(0%), Strand: Plus/Plus
+
+Query  1197      GCTCCACAGGAGGTGGAGGAGGTGGAGACAGAAGCAGAAC  1236
+                 |||||||| |  | ||||| |||||||||||||| |||||
+Sbjct  11937378  GCTCCACAAGGAGAGGAGGTGGTGGAGACAGAAGAAGAAC  11937417
+
+
+
+
+Range 7: 32931877 to 32931974
+
+Score:46.4 bits(50), Expect:0.012, 
+Identities:71/99(72%),  Gaps:2/99(2%), Strand: Plus/Plus
+
+Query  474       CAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATCCT  533
+                 ||||| ||| ||||| ||  | |||||  |||||||  | || ||  | |||||||||||
+Sbjct  32931877  CAGGAAGCTGCACTGTACCAGGAACTTCATCCACATGAACCTATTTGTGTCCTTCATCCT  32931936
+
+Query  534       CCGAGC-GTCGCTCATCTTCATCAGGGACGTTGTTCTGT  571
+                   ||||  |  ||  |||||||||  ||||  || ||||
+Sbjct  32931937  GAGAGCTATTTCT-GTCTTCATCAAAGACGGCGTGCTGT  32931974
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_16
+Sequence ID: NW_027211670.1 Length: 29828419
+Range 1: 13570858 to 13570925
+
+Score:60.8 bits(66), Expect:5e-07, 
+Identities:54/68(79%),  Gaps:0/68(0%), Strand: Plus/Plus
+
+Query  472       TTCAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATC  531
+                 |||||  | |||||||||||||| || |   |||||||||| ||||||  ||||||||||
+Sbjct  13570858  TTCAGACGTCTCCACTGCACACGCAATTACATCCACATCCACCTCTTCACCTCCTTCATC  13570917
+
+Query  532       CTCCGAGC  539
+                    |||||
+Sbjct  13570918  TGTCGAGC  13570925
+
+
+
+
+Range 2: 24330459 to 24330557
+
+Score:57.2 bits(62), Expect:6e-06, 
+Identities:74/100(74%),  Gaps:2/100(2%), Strand: Plus/Minus
+
+Query  474       CAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATCCT  533
+                 ||||| ||| | |||||| || ||||   ||||| |  | || |||||| ||||||||||
+Sbjct  24330557  CAGGAAGCTGCTCTGCACGCGTAACTACATCCACCTGAACCTGTTCCTCACCTTCATCCT  24330498
+
+Query  534       C-CGAGCGTCGCTCATCTTCATCAGGGACGTTGTTCTGTT  572
+                 |  ||| ||||||  | |||||||  |||   ||| ||||
+Sbjct  24330497  CAGGAGTGTCGCT-GTGTTCATCAAAGACTCCGTTTTGTT  24330459
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_18
+Sequence ID: NW_027211691.1 Length: 27168457
+Range 1: 15754904 to 15755001
+
+Score:55.4 bits(60), Expect:2e-05, 
+Identities:73/99(74%),  Gaps:2/99(2%), Strand: Plus/Plus
+
+Query  474       CAGGAGGCTCCACTGCACACGAAACTTTGTCCACATCCAGCTCTTCCTCTCCTTCATCCT  533
+                 ||||| ||||||||||||  | ||||   ||||||| || || ||| | || ||||||||
+Sbjct  15754904  CAGGAAGCTCCACTGCACGAGGAACTACATCCACATGCATCTGTTCGTGTCATTCATCCT  15754963
+
+Query  534       -CCGAGCGTCGCTCATCTTCATCAGGGACGTTGTTCTGT  571
+                    |  | |||||  | ||| ||| ||| ||||| ||||
+Sbjct  15754964  GAAGGCCATCGCT-GTGTTCGTCAAGGATGTTGTCCTGT  15755001
+
+
+
+
+Range 2: 15767433 to 15767477
+
+Score:55.4 bits(60), Expect:2e-05, 
+Identities:39/45(87%),  Gaps:0/45(0%), Strand: Plus/Plus
+
+Query  1143      GGGCTTTGTTGTGGCTGTTCTGTACTGCTTCCTGAACGGAGAGGT  1187
+                 ||||||||| || || || || ||||||||||| |||||||||||
+Sbjct  15767433  GGGCTTTGTGGTTGCCGTCCTTTACTGCTTCCTCAACGGAGAGGT  15767477
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_12
+Sequence ID: NW_027211626.1 Length: 32091781
+Range 1: 468196 to 468245
+
+Score:53.6 bits(58), Expect:8e-05, 
+Identities:43/51(84%),  Gaps:1/51(1%), Strand: Plus/Plus
+
+Query  59      CTGAAGCTGTTCCACCTGAATGTGACCCCAACTTCATGTTACTGCAGGATG  109
+               ||||| || ||||  ||||||||||| | |||| ||| |||||||||||||
+Sbjct  468196  CTGAATCTATTCCTTCTGAATGTGACTCAAACTGCAT-TTACTGCAGGATG  468245
+
+
+
+
+Range 2: 20839136 to 20839164
+
+Score:49.1 bits(53), Expect:0.003, 
+Identities:28/29(97%),  Gaps:0/29(0%), Strand: Plus/Plus
+
+Query  682       GGTCACTTCCTGTTCAGTCTGGTCAGCGT  710
+                 ||||||||||||||||||||| |||||||
+Sbjct  20839136  GGTCACTTCCTGTTCAGTCTGTTCAGCGT  20839164
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_14
+Sequence ID: NW_027211648.1 Length: 31948211
+Range 1: 6042072 to 6042124
+
+Score:49.1 bits(53), Expect:0.003, 
+Identities:46/58(79%),  Gaps:7/58(12%), Strand: Plus/Minus
+
+Query  670      TTGCTGGCTGAGGGTCACTTCCTGTTCAGTCTGGTCAGCGTGTCTCTGT--TCTGCAG  725
+                |||||||||| ||||||||      ||||||||||||  ||| ||||||  |||||||
+Sbjct  6042124  TTGCTGGCTGTGGGTCACTG-----TCAGTCTGGTCAAAGTGCCTCTGTGCTCTGCAG  6042072
+
+
+
+
+>Semicossyphus pulcher isolate SPU_LCO1_2020_fin unplaced genomic scaffold, fSemPul1.0.p SCAF_30
+Sequence ID: NW_027211705.1 Length: 2267851
+Range 1: 2110083 to 2110131
+
+Score:46.4 bits(50), Expect:0.012, 
+Identities:43/53(81%),  Gaps:4/53(7%), Strand: Plus/Plus
+
+Query  1204     AGGAGGTGGAGGAGGTGGAGACAGAAGCAGAACCTGCAGGTGGAGACGAGGAG  1256
+                ||||||||||||||| ||||| || || ||||   | ||||||||  ||||||
+Sbjct  2110083  AGGAGGTGGAGGAGGAGGAGA-AGGAGAAGAA---GGAGGTGGAGGGGAGGAG  2110131
+
+
+
+
+Range 2: 2262660 to 2262708
+
+Score:46.4 bits(50), Expect:0.012, 
+Identities:43/53(81%),  Gaps:4/53(7%), Strand: Plus/Plus
+
+Query  1204     AGGAGGTGGAGGAGGTGGAGACAGAAGCAGAACCTGCAGGTGGAGACGAGGAG  1256
+                ||||||||||||||| ||||| || || ||||   | ||||||||  ||||||
+Sbjct  2262660  AGGAGGTGGAGGAGGAGGAGA-AGGAGAAGAA---GGAGGTGGAGGGGAGGAG  2262708
+
+
+
+
+
+
+
+		
+
+

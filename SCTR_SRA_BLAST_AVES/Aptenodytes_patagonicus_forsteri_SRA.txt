@@ -1,0 +1,72 @@
+RID: NH4SNZMW016	
+Job Title:XM_076343034.1:1-1533 PREDICTED: Aptenodytes...				
+Program: BLASTN 
+Database: SRA 
+Query #1: XM_076343034.1:1-1533 PREDICTED: Aptenodytes patagonicus secretin receptor (SCTR), mRNA Query ID: lcl|Query_7781747 Length: 1533
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+NB501072:259:H3YFVBGXG:3:22503:21501:9486                                                         0          108    108   4%    1e-21 98.39  62         SRA:ERR117774... 
+NB501072:259:H3YFVBGXG:3:12608:19788:6903                                                         0          108    108   4%    1e-21 98.39  62         SRA:ERR117774... 
+NB501072:259:H3YFVBGXG:2:23302:23772:5597                                                         0          91.5   91.5  3%    8e-17 100.00 62         SRA:ERR117774... 
+
+
+Alignments:
+
+>NB501072:259:H3YFVBGXG:3:22503:21501:9486
+Sequence ID: SRA:ERR11777498.3864236.1 Length: 62
+Range 1: 1 to 62
+
+Score:108 bits(119), Expect:1e-21, 
+Identities:61/62(98%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  1090  TTCATTCTTTTTGTCAAAATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCTGAAGGA  1149
+             ||||||||||||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  62    TTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCTGAAGGA  3
+
+Query  1150  CA  1151
+             ||
+Sbjct  2     CA  1
+
+
+
+
+>NB501072:259:H3YFVBGXG:3:12608:19788:6903
+Sequence ID: SRA:ERR11777498.3264303.1 Length: 62
+Range 1: 1 to 62
+
+Score:108 bits(119), Expect:1e-21, 
+Identities:61/62(98%),  Gaps:0/62(0%), Strand: Plus/Minus
+
+Query  1086  TAATTTCATTCTTTTTGTCAAAATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCTGA  1145
+             ||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  62    TAATTTCATTCTTTTTGTCAACATTTTAAGAATCTTGATGAGGAAGCTCAGCTCACCTGA  3
+
+Query  1146  AG  1147
+             ||
+Sbjct  2     AG  1
+
+
+
+
+>NB501072:259:H3YFVBGXG:2:23302:23772:5597
+Sequence ID: SRA:ERR11777498.2753911.1 Length: 62
+Range 1: 13 to 62
+
+Score:91.5 bits(100), Expect:8e-17, 
+Identities:50/50(100%),  Gaps:0/50(0%), Strand: Plus/Minus
+
+Query  1127  GGAAGCTCAGCTCACCTGAAGGACAGAGCAGTGATTTCAACCAATACAAG  1176
+             ||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  62    GGAAGCTCAGCTCACCTGAAGGACAGAGCAGTGATTTCAACCAATACAAG  13
+
+
+
+
+
+
+
+		
+
+

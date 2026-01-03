@@ -1,0 +1,230 @@
+RID: NHHV6S10016	
+Job Title:XM_048310223.1:481-1863 PREDICTED: Corvus...				
+Program: BLASTN 
+Database: SRA 
+Query #1: XM_048310223.1:481-1863 PREDICTED: Corvus hawaiiensis secretin receptor (SCTR), mRNA Query ID: lcl|Query_1669845 Length: 1383
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+SN782:834:HVK7LBCXX:2:1116:19295:92469                                                            0          192    192   8%    1e-46 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:2111:1664:26164                                                             0          145    145   6%    1e-32 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:1116:19295:92469                                                            0          145    145   6%    1e-32 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:2215:4338:51432                                                             0          127    127   5%    3e-27 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:1208:4389:62155                                                             0          96.9   96.9  4%    6e-18 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:1208:4389:62155                                                             0          95.1   95.1  4%    2e-17 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:2101:8543:90505                                                             0          84.2   84.2  3%    4e-14 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:2215:4338:51432                                                             0          77.0   77.0  3%    5e-12 100.00 151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:2209:13369:41489                                                            0          47.3   47.3  3%    0.009 86.84  151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:2204:6124:62916                                                             0          47.3   47.3  3%    0.009 86.84  151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:1113:3096:42213                                                             0          47.3   47.3  3%    0.009 86.84  151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:2101:8543:90505                                                             0          44.6   44.6  3%    0.032 85.37  151        SRA:SRR247094... 
+SN782:834:HVK7LBCXX:2:1102:20827:20157                                                            0          44.6   44.6  2%    0.032 100.00 151        SRA:SRR247094... 
+
+
+Alignments:
+
+>SN782:834:HVK7LBCXX:2:1116:19295:92469
+Sequence ID: SRA:SRR24709405.348559.1 Length: 151
+Range 1: 35 to 140
+
+Score:192 bits(212), Expect:1e-46, 
+Identities:106/106(100%),  Gaps:0/106(0%), Strand: Plus/Minus
+
+Query  312  AGGTTTTGTGTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCATACCCGAGACCTGA  371
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140  AGGTTTTGTGTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCATACCCGAGACCTGA  81
+
+Query  372  CATTGCTTGTGGCTACAATGTCAATGACACAACCAACGAGGCCAGA  417
+            ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  80   CATTGCTTGTGGCTACAATGTCAATGACACAACCAACGAGGCCAGA  35
+
+
+
+
+>SN782:834:HVK7LBCXX:2:2111:1664:26164
+Sequence ID: SRA:SRR24709405.1072452.1 Length: 151
+Range 1: 1 to 80
+
+Score:145 bits(160), Expect:1e-32, 
+Identities:80/80(100%),  Gaps:0/80(0%), Strand: Plus/Minus
+
+Query  75   GATCAAATCTGTTCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  134
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  80   GATCAAATCTGTTCCACCTGTCTGTGACCTCCTGAGTGTCCTGAAAAGGGAGGAAGAAAA  21
+
+Query  135  GTGTTTGGAGACTCTTTCCC  154
+            ||||||||||||||||||||
+Sbjct  20   GTGTTTGGAGACTCTTTCCC  1
+
+
+
+
+>SN782:834:HVK7LBCXX:2:1116:19295:92469
+Sequence ID: SRA:SRR24709405.348559.2 Length: 151
+Range 1: 72 to 151
+
+Score:145 bits(160), Expect:1e-32, 
+Identities:80/80(100%),  Gaps:0/80(0%), Strand: Plus/Plus
+
+Query  312  AGGTTTTGTGTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCATACCCGAGACCTGA  371
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  72   AGGTTTTGTGTACCGAAACTGTACAAGCGAGGGCTGGTCAGACCCATACCCGAGACCTGA  131
+
+Query  372  CATTGCTTGTGGCTACAATG  391
+            ||||||||||||||||||||
+Sbjct  132  CATTGCTTGTGGCTACAATG  151
+
+
+
+
+>SN782:834:HVK7LBCXX:2:2215:4338:51432
+Sequence ID: SRA:SRR24709405.1550651.2 Length: 151
+Range 1: 1 to 70
+
+Score:127 bits(140), Expect:3e-27, 
+Identities:70/70(100%),  Gaps:0/70(0%), Strand: Plus/Minus
+
+Query  648  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  707
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  70   GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCATCATGTCTAACTACAGCTG  11
+
+Query  708  GCTCCTCGTG  717
+            ||||||||||
+Sbjct  10   GCTCCTCGTG  1
+
+
+
+
+>SN782:834:HVK7LBCXX:2:1208:4389:62155
+Sequence ID: SRA:SRR24709405.541142.1 Length: 151
+Range 1: 60 to 112
+
+Score:96.9 bits(106), Expect:6e-18, 
+Identities:53/53(100%),  Gaps:0/53(0%), Strand: Plus/Plus
+
+Query  418  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTC  470
+            |||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  60   CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCTC  112
+
+
+
+
+>SN782:834:HVK7LBCXX:2:1208:4389:62155
+Sequence ID: SRA:SRR24709405.541142.2 Length: 151
+Range 1: 1 to 52
+
+Score:95.1 bits(104), Expect:2e-17, 
+Identities:52/52(100%),  Gaps:0/52(0%), Strand: Plus/Minus
+
+Query  418  CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCT  469
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  52   CGTTCCTATTTCATGACCCTGAAGACCATGTACACCATCGGATACTGCACCT  1
+
+
+
+
+>SN782:834:HVK7LBCXX:2:2101:8543:90505
+Sequence ID: SRA:SRR24709405.854412.2 Length: 151
+Range 1: 106 to 151
+
+Score:84.2 bits(92), Expect:4e-14, 
+Identities:46/46(100%),  Gaps:0/46(0%), Strand: Plus/Minus
+
+Query  1163  AGGGCTTTGTTGTGGCTGTACTTTATTGTTTCCTTAATGGTGAGGT  1208
+             ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  151   AGGGCTTTGTTGTGGCTGTACTTTATTGTTTCCTTAATGGTGAGGT  106
+
+
+
+
+>SN782:834:HVK7LBCXX:2:2215:4338:51432
+Sequence ID: SRA:SRR24709405.1550651.1 Length: 151
+Range 1: 110 to 151
+
+Score:77.0 bits(84), Expect:5e-12, 
+Identities:42/42(100%),  Gaps:0/42(0%), Strand: Plus/Plus
+
+Query  648  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCAT  689
+            ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  110  GGCTGGCTGTAAGCTCACCATGGTCTTCTTTCAGTATTGCAT  151
+
+
+
+
+>SN782:834:HVK7LBCXX:2:2209:13369:41489
+Sequence ID: SRA:SRR24709405.1438402.2 Length: 151
+Range 1: 113 to 150
+
+Score:47.3 bits(51), Expect:0.009, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  532  AGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  569
+            |||||||||||||||||| | |||||| | || |||||
+Sbjct  150  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  113
+
+
+
+
+>SN782:834:HVK7LBCXX:2:2204:6124:62916
+Sequence ID: SRA:SRR24709405.1313836.2 Length: 151
+Range 1: 113 to 150
+
+Score:47.3 bits(51), Expect:0.009, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  532  AGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  569
+            |||||||||||||||||| | |||||| | || |||||
+Sbjct  150  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  113
+
+
+
+
+>SN782:834:HVK7LBCXX:2:1113:3096:42213
+Sequence ID: SRA:SRR24709405.359983.2 Length: 151
+Range 1: 113 to 150
+
+Score:47.3 bits(51), Expect:0.009, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  532  AGGAACTACATCCACATGCATCTCTTCACATCGTTCAT  569
+            |||||||||||||||||| | |||||| | || |||||
+Sbjct  150  AGGAACTACATCCACATGAACCTCTTCGCCTCCTTCAT  113
+
+
+
+
+>SN782:834:HVK7LBCXX:2:2101:8543:90505
+Sequence ID: SRA:SRR24709405.854412.1 Length: 151
+Range 1: 112 to 151
+
+Score:44.6 bits(48), Expect:0.032, 
+Identities:35/41(85%),  Gaps:1/41(2%), Strand: Plus/Plus
+
+Query  1145  TGGCTCTTGGATCATTCCAGGGCTTTGTTGTGGCTGTACTT  1185
+             ||| ||||  ||| ||  |||||||||||||||||||||||
+Sbjct  112   TGGTTCTTTTATCTTTT-AGGGCTTTGTTGTGGCTGTACTT  151
+
+
+
+
+>SN782:834:HVK7LBCXX:2:1102:20827:20157
+Sequence ID: SRA:SRR24709405.4425.1 Length: 151
+Range 1: 1 to 24
+
+Score:44.6 bits(48), Expect:0.032, 
+Identities:24/24(100%),  Gaps:0/24(0%), Strand: Plus/Minus
+
+Query  1   ATGAGGGATGAAGAAAACAGACTG  24
+           ||||||||||||||||||||||||
+Sbjct  24  ATGAGGGATGAAGAAAACAGACTG  1
+
+
+
+
+
+
+
+		
+
+
